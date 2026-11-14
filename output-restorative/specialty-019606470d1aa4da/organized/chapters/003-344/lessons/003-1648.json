@@ -1,0 +1,2205 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1648/lesson.json",
+  "id": "1648",
+  "title": "درس سوم: سیستم‌های ماتریکس — سرکومفرنشیال یا سکشنال؟",
+  "specialtyKey": "019606470d1aa4da",
+  "chapter": {
+    "id": "344",
+    "title": "ماتریس، وج و بازسازی تماس",
+    "position": 3
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:99a8560f99aa891f48ea51188ba4c0fb2452d058f732b490b04fbc585bf48a8a",
+      "sourceId": "theory:99a8560f99aa891f48ea51188ba4c0fb2452d058f732b490b04fbc585bf48a8a",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "b681c74e0a7413d34b2aa32d8d28f2bc8120e7c17cb1eb0aad787ed261b4af78",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ماتریکس اصلاً برای چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو بیمار داری: یک MO روی پرمولر دومی که هر دو دندان مجاورش سالم‌اند، و یک DO روی پرمولر دوم دیگری که مولر اول پشتش کشیده شده است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای اولی رینگ سکشنال انتخاب خوبی است؛ برای دومی چه؟ رینگ جایی برای نشستن ندارد، چون در سمت دیستال دندانی نیست که امبرژر بسازد. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیستم ماتریکس را باید برای هر دندان انتخاب کرد، نه از روی عادت."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ولی اول: ماتریکس چه کاری می‌کند؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "برای کندانس آمالگام، تراش باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جعبه‌مانند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشد، یعنی دیواره‌ها و کف محدودکننده داشته باشد. تراش کلاس I اکلوزال این شکل را خودش دارد. ولی وقتی تراش از یک سطح به سطح دیگر گسترش پیدا می‌کند، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بدون ماتریکس، نیروی کندانس به‌جای فشردن ماده آن را از تراش بیرون می‌راند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پنج کار ماتریکس:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "محصور کردن ماده"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تا بتوان نیروی کافی کندانس را وارد کرد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "امکان بازسازی تماس"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " با دندان مجاور."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "جلوگیری از بیرون‌زدگی ماده و اورهنگ"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در مارجین‌های پنهان، مثل مارجین جینجیوال پروگزیمال که در حین کار دیده نمی‌شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ساختن کانتور طبیعی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " برای سطح پروگزیمال ترمیم."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ساختن سطح صاف و قابل‌قبول"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در ناحیه‌ی تماس، یعنی جایی که بعد از کار نه می‌توان کارو کرد و نه برنیش."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قاعده‌ی انتخاب:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ساده‌ترین و سریع‌ترین روشی را انتخاب کن که کار را به‌خوبی انجام دهد. گاهی، مثلاً در ترمیم اکلوزولینگوال مولر بالا، تیغه‌ی یک ابزار دستی که روی سطح لینگوال نگه داشته شود کافی است. ولی برای ترمیم‌های چندسطحی کلاس II "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تقریباً همیشه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به یک سیستم ماتریکس نیاز داری."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:55698d8ac1b37ead5177579d1ac3b3e195d34d27fc1d6fbd7205a893116bbbc6",
+      "sourceId": "theory:55698d8ac1b37ead5177579d1ac3b3e195d34d27fc1d6fbd7205a893116bbbc6",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "ba7fafb4027d7292e63f730a2947ab2016a0be49010df3f983a9a24bd9677d8f",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "توفلمایر، ماتریکس شفاف، و سکشنال با رینگ"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "۱) توفلمایر، پرکاربردترین سیستم"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نگهدارنده‌ی (retainer) توفلمایر چهار جزء دارد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (سر نگهدارنده، با یک سمت باز و دو شیار)، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسلاید"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (قطعه‌ی لغزنده با شیار مورب)، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسپیندل چرخان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (فاصله‌ی اسلاید تا هد و در نتیجه اندازه‌ی حلقه‌ی باند را تنظیم می‌کند) و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیچ تنظیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (باند را در اسلاید قفل و آزاد می‌کند)."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه نکته‌ی جهت‌گیری که اگر اشتباه شوند، کار خراب می‌شود:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هنگام نصب باند، سمت باز هد رو به "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بالا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است؛ ولی وقتی باند دور دندان قرار می‌گیرد، سمت باز هد باید رو به "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "جینجیوال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " باشد، نه رو به اکلوزال."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حلقه‌ی باند شکل "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قیف"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دارد: دهانه‌ی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پهن‌تر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " رو به "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اکلوزال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو سر گرد باند باید هم‌تراز باشند و دست‌کم "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ تا ۲ میلی‌متر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از شیار کناری اسلاید بیرون بزنند؛ این مقدار برای "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پرمولرها بیشتر از مولرها"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حلقه‌ی باند به سه شکل می‌تواند از نگهدارنده بیرون بیاید:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مستقیم، به چپ یا به راست. حالت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مستقیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای ترمیم‌های نزدیک به جلوی دهان است؛ حالت چپ و راست اجازه می‌دهد نگهدارنده در نواحی عقب‌تر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موازی با قوس دندانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قرار بگیرد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باندها:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سه ضخامت دارند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۰۰۱۰، ۰٫۰۰۱۵ و ۰٫۰۰۲۰ اینچ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". باند ضخیم‌تر سفت‌تر است و حین کندانس کمتر تغییرشکل می‌دهد؛ باند نازک‌تر به ساختن تماس تنگ کمک می‌کند. با هر سه ضخامت می‌توان نتیجه‌ی عالی گرفت و انتخاب بیشتر سلیقه‌ای است. پرکاربردترین شکل، باند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شماره‌ی ۱ (یونیورسال)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شماره‌ی ۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دو زائده‌ی جینجیوالی برای مارجین‌های بسیار عمیق دارد و برای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مولر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مناسب است (معمولاً یکی از دو زائده را با قیچی می‌برند). "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شماره‌ی ۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " همان زائده‌ها را دارد ولی کوچک‌تر است و معمولاً برای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرمولر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به کار می‌رود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هنگام گذاشتن:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اگر باند از تماس سالم سمت مقابل رد نشد، تیغه‌ی یک ابزار پلاستیک‌فیلینگ را در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "امبرژر جینجیوال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بگذار، آن را به سمت اکلوزال ببر تا به تماس برسد و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خیلی کم بچرخان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ هم‌زمان باند را از تماس رد کن. باند را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محکم ولی نه بیش از حد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ببند، چون "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماتریکس خیلی سفت دندان را تغییرشکل می‌دهد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". هر باند فقط "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک بار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مصرف می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هنگام برداشتن (آمالگام):"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بعد از کاروی اولیه‌ی سطح اکلوزال، اول اسلاید و بعد پیچ تنظیم را شل کن و نگهدارنده را به سمت اکلوزال بیرون بیاور. می‌توانی یک کندانسور را روی مارجینال ریج نگه داری تا هنگام خروج باند نشکند. باند را با حرکتی عمدتاً رو به فاسیال یا لینگوال، و هم‌زمان رو به اکلوزال، از تماس خارج کن. اگر باند پیش‌کانتورشده است، آن را طوری بچرخان که لبه‌ی عقبی‌اش مارجینال ریج را نشکند یا تغییرشکل ندهد."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "۲) ماتریکس شفاف"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ماتریکس شفاف معمولاً با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وج پلاستیکی شفاف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به کار می‌رود و اجازه می‌دهد لایه‌های کامپوزیت از سمت پروگزیمال و جینجیوال هم کیور شوند. ولی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از نازک‌ترین ماتریکس‌های فلزی ضخیم‌تر است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و چون سفتی کافی ندارد، رد کردنش از تماس‌های تنگ دشوار است. علاوه بر این، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وج پلاستیکی شفاف چون سفت و صاف است، در ایجاد جدایش مختصر دندان‌ها از وج چوبی کم‌اثرتر است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". به همین دلایل بیشتر دندانپزشکان ماتریکس فلزی و وج چوبی را ترجیح می‌دهند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در مقابل، ماتریکس فلزی که دور سطوح فاسیال و لینگوال را می‌گیرد، اجازه می‌دهد لایه‌ها در ابتدا فقط از اکلوزال کیور شوند؛ پس بعد از برداشتن ماتریکس، کامپوزیت پروگزیمال را از فاسیال و لینگوال هم دوباره کیور کن."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "۳) سکشنال با رینگ"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترتیب کار:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اول ماتریکس سکشنال و وج چوبی، بعد رینگ. رینگ را با فورسپس کلمپ رابردم طوری می‌گذارند که نوک‌های عمودی‌اش در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "امبرژرهای فاسیال و لینگوال کنار باکس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بنشینند. رینگ دو کار را هم‌زمان انجام می‌دهد: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو سر ماتریکس را محکم به دندان می‌چسباند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی جداکننده‌ی پیوسته‌ای"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بین دندان‌ها وارد می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک اشتباه رایج و جدی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ماتریکس این سیستم‌ها معمولاً از فلز نرم و بدون حافظه‌ی شکل ("
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "dead-soft"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") ساخته می‌شود. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برنیش سنگین روی آن شیار می‌اندازد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، شیار روی ترمیم منتقل می‌شود و نتیجه، تماسی زبر و نامنظم است که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نخ بیمار را ریش‌ریش یا پاره می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". پس این ماتریکس را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط سبک برنیش کن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مزیت‌های سیستم رینگ:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " جدایش دندان‌ها برای ساختن تماس خوب؛ کانتور پروگزیمال بهتر از ماتریکس‌های سنتی؛ گذاشتن ساده‌تر ماتریکس در ترمیم‌هایی که فقط یک سطح پروگزیمال دارند، در مقایسه با باند سرکومفرنشیال؛ و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تماس تنگ‌تر و ماندگارتر در کامپوزیت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نسبت به ماتریکس معمولی توفلمایر."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک هشدار:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " رینگ جدایش را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تدریجی و پیش‌رونده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ایجاد می‌کند. اگر مدت طولانی سر جایش بماند، جدایش بیش از حد و در نتیجه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تماسی بیش از حد تنگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ایجاد می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:30130",
+      "sourceId": "30130",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "fe87e96686ee824966029d3c30e86c7d43e89abf2e90dc3a64352499381a64f5",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "قرار است یک ترمیم اکلوزولینگوال روی مولر بالا بگذاری. با توجه به قاعده‌ی «ساده‌ترین و سریع‌ترین روشی که کار را به‌خوبی انجام دهد»، منطقی‌ترین انتخاب کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قرار است یک ترمیم اکلوزولینگوال روی مولر بالا بگذاری. با توجه به قاعده‌ی «ساده‌ترین و سریع‌ترین روشی که کار را به‌خوبی انجام دهد»، منطقی‌ترین انتخاب کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید یک ماتریکس اختصاصی اسپات‌ولدشده ساخته شود، چون ترمیم‌های سطح لینگوال با هیچ سیستم آماده‌ای انجام‌پذیر نیستند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در هر شرایطی باید سیستم کامل توفلمایر با نگهدارنده و باند به کار رود، چون هر ترمیم چندسطحی بدون استثنا به ماتریکس سرکومفرنشیال نیاز دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تیغه‌ی یک ابزار دستی که روی سطح لینگوال نگه داشته شود می‌تواند کافی باشد و به سیستم کامل ماتریکس نیازی نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید از ماتریکس سکشنال همراه رینگ استفاده شود، چون رینگ در هر موقعیتی بهترین جدایش و کانتور را فراهم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5e847a0b3aa9b2db83daffcc0ce3ceae5daaec438e6d8dd7672378be6e410757",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "باید یک ماتریکس اختصاصی اسپات‌ولدشده ساخته شود، چون ترمیم‌های سطح لینگوال با هیچ سیستم آماده‌ای انجام‌پذیر نیستند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید یک ماتریکس اختصاصی اسپات‌ولدشده ساخته شود، چون ترمیم‌های سطح لینگوال با هیچ سیستم آماده‌ای انجام‌پذیر نیستند"
+            }
+          ]
+        },
+        {
+          "id": "cd995109f28a14e8c25a1994658c275e44462f76ea10085ec7ca4c4b946f4c22",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "در هر شرایطی باید سیستم کامل توفلمایر با نگهدارنده و باند به کار رود، چون هر ترمیم چندسطحی بدون استثنا به ماتریکس سرکومفرنشیال نیاز دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در هر شرایطی باید سیستم کامل توفلمایر با نگهدارنده و باند به کار رود، چون هر ترمیم چندسطحی بدون استثنا به ماتریکس سرکومفرنشیال نیاز دارد"
+            }
+          ]
+        },
+        {
+          "id": "468246c75691813ae0063dfed639b6aeac9c7d23782b266505d012a783730f2a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تیغه‌ی یک ابزار دستی که روی سطح لینگوال نگه داشته شود می‌تواند کافی باشد و به سیستم کامل ماتریکس نیازی نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تیغه‌ی یک ابزار دستی که روی سطح لینگوال نگه داشته شود می‌تواند کافی باشد و به سیستم کامل ماتریکس نیازی نیست"
+            }
+          ]
+        },
+        {
+          "id": "c2199bf9226b142434fc91f75d37292b52fc130ab249b73a93cce3bed71028ae",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "باید از ماتریکس سکشنال همراه رینگ استفاده شود، چون رینگ در هر موقعیتی بهترین جدایش و کانتور را فراهم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید از ماتریکس سکشنال همراه رینگ استفاده شود، چون رینگ در هر موقعیتی بهترین جدایش و کانتور را فراهم می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "468246c75691813ae0063dfed639b6aeac9c7d23782b266505d012a783730f2a"
+        ],
+        "explanation": "ماتریکس یک کارکرد است، نه یک محصول خاص. هر چیزی که ماده را در آن موقعیت محصور کند، کار ماتریکس را انجام می‌دهد.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ماتریکس یک کارکرد است، نه یک محصول خاص."
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " هر چیزی که ماده را در آن موقعیت محصور کند، کار ماتریکس را انجام می‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-14T15:56:44.563Z"
+      }
+    },
+    {
+      "id": "question:30133",
+      "sourceId": "30133",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "7dfe27cf1b07794268d879d2544c3e58450c1e213583573a11b3b2e8652c0d3a",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دانشجویی می‌گوید: «وج پلاستیکی شفاف از وج چوبی بهتر است، چون هم نور را هدایت می‌کند و هم جدایش بیشتری می‌دهد.» کدام بخش این جمله نادرست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دانشجویی می‌گوید: «وج پلاستیکی شفاف از وج چوبی بهتر است، چون هم نور را هدایت می‌کند و هم جدایش بیشتری می‌دهد.» کدام بخش این جمله نادرست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بخش دوم؛ چون وج پلاستیکی جدایش بیش از حد ایجاد می‌کند و همین به تماسی بیش از اندازه تنگ و فشرده شدن پاپی بین‌دندانی می‌انجامد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بخش اول؛ وج شفاف در عمل هیچ نوری را به ناحیه‌ی جینجیوال منتقل نمی‌کند و نقش نوری آن فقط ادعای تبلیغاتی سازنده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو بخش درست‌اند و این وج در همه‌ی موقعیت‌ها جایگزین بهتری برای وج چوبی به شمار می‌رود، چون هم نور را هدایت می‌کند و هم سفت‌تر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بخش دوم؛ وج پلاستیکی شفاف چون سفت و صاف است، در ایجاد جدایش مختصرِ لازم برای تماس کافی از وج چوبی کم‌اثرتر است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "36b0ffa675a2e8467e082001519276a6169d171a2eac3e67138d7a6ce8db0065",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بخش دوم؛ چون وج پلاستیکی جدایش بیش از حد ایجاد می‌کند و همین به تماسی بیش از اندازه تنگ و فشرده شدن پاپی بین‌دندانی می‌انجامد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بخش دوم؛ چون وج پلاستیکی جدایش بیش از حد ایجاد می‌کند و همین به تماسی بیش از اندازه تنگ و فشرده شدن پاپی بین‌دندانی می‌انجامد"
+            }
+          ]
+        },
+        {
+          "id": "a1a19ab96ce1d93a61ec340b0cbc975a1744056c7a2b4daa85287f5f593baea0",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بخش اول؛ وج شفاف در عمل هیچ نوری را به ناحیه‌ی جینجیوال منتقل نمی‌کند و نقش نوری آن فقط ادعای تبلیغاتی سازنده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بخش اول؛ وج شفاف در عمل هیچ نوری را به ناحیه‌ی جینجیوال منتقل نمی‌کند و نقش نوری آن فقط ادعای تبلیغاتی سازنده است"
+            }
+          ]
+        },
+        {
+          "id": "9f1271c7f6c936e6bdb9a188896b14059925ca3ebffb5e4b81f045ba254d6288",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هر دو بخش درست‌اند و این وج در همه‌ی موقعیت‌ها جایگزین بهتری برای وج چوبی به شمار می‌رود، چون هم نور را هدایت می‌کند و هم سفت‌تر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو بخش درست‌اند و این وج در همه‌ی موقعیت‌ها جایگزین بهتری برای وج چوبی به شمار می‌رود، چون هم نور را هدایت می‌کند و هم سفت‌تر است"
+            }
+          ]
+        },
+        {
+          "id": "0a18041227df3a13c1a2b63438058ffc9895cb6cbfe9f0728802c8ca16642b7d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بخش دوم؛ وج پلاستیکی شفاف چون سفت و صاف است، در ایجاد جدایش مختصرِ لازم برای تماس کافی از وج چوبی کم‌اثرتر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بخش دوم؛ وج پلاستیکی شفاف چون سفت و صاف است، در ایجاد جدایش مختصرِ لازم برای تماس کافی از وج چوبی کم‌اثرتر است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "0a18041227df3a13c1a2b63438058ffc9895cb6cbfe9f0728802c8ca16642b7d"
+        ],
+        "explanation": "سفتی و صافی این وج باعث می‌شود راحت از جایش بلغزد و جدایش کافی ندهد. در درس بعد دو راه برای جبران این مشکل می‌بینی.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "سفتی و صافی این وج باعث می‌شود راحت از جایش بلغزد و جدایش کافی ندهد."
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " در درس بعد دو راه برای جبران این مشکل می‌بینی."
+          }
+        ],
+        "observedAt": "2026-11-14T15:57:11.176Z"
+      }
+    },
+    {
+      "id": "question:30136",
+      "sourceId": "30136",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "c0ff75359dbc3f041ddfb682136caf3c4e30fe6464d7ece93612d9372fc83ad0",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مولری داری که در سمت مزیال مارجین جینجیوال بسیار عمیقی دارد. کدام انتخاب باند و اصلاح آن منطقی است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مولری داری که در سمت مزیال مارجین جینجیوال بسیار عمیقی دارد. کدام انتخاب باند و اصلاح آن منطقی است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باند شماره‌ی ۲ که دو زائده‌ی جینجیوالی برای مارجین‌های عمیق دارد؛ و چون فقط یک ناحیه‌ی عمیق وجود دارد، یکی از دو زائده با قیچی بریده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باند شماره‌ی ۱ یونیورسال بدون هیچ اصلاحی، چون این باند در همه‌ی موقعیت‌ها، حتی مارجین‌های بسیار عمیق جینجیوال در مولرها، کاملاً کافی است و به زائده نیازی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باند شماره‌ی ۳ که کوچک‌تر است، چون باند کوچک‌تر بهتر می‌تواند به مارجین‌های عمیق جینجیوال برسد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر باندی با ضخامت ۰٫۰۰۲۰ اینچ، چون در مارجین‌های عمیق فقط ضخامت باند اهمیت دارد و شکل آن بی‌تأثیر است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9bf353d66194c51a205e709a5a7caa440eee642ca4a5a3f063f074af22623646",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "باند شماره‌ی ۲ که دو زائده‌ی جینجیوالی برای مارجین‌های عمیق دارد؛ و چون فقط یک ناحیه‌ی عمیق وجود دارد، یکی از دو زائده با قیچی بریده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باند شماره‌ی ۲ که دو زائده‌ی جینجیوالی برای مارجین‌های عمیق دارد؛ و چون فقط یک ناحیه‌ی عمیق وجود دارد، یکی از دو زائده با قیچی بریده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "d111924cbac2c0d6e1eb81201a09b8af46a915c9791c28b1c5a1fd3d13e5cda0",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "باند شماره‌ی ۱ یونیورسال بدون هیچ اصلاحی، چون این باند در همه‌ی موقعیت‌ها، حتی مارجین‌های بسیار عمیق جینجیوال در مولرها، کاملاً کافی است و به زائده نیازی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باند شماره‌ی ۱ یونیورسال بدون هیچ اصلاحی، چون این باند در همه‌ی موقعیت‌ها، حتی مارجین‌های بسیار عمیق جینجیوال در مولرها، کاملاً کافی است و به زائده نیازی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "46cf7fb6b1e1827ed4651a367ac9d8246962d912bf0d9bcdf2c5c3253a1fe508",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "باند شماره‌ی ۳ که کوچک‌تر است، چون باند کوچک‌تر بهتر می‌تواند به مارجین‌های عمیق جینجیوال برسد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باند شماره‌ی ۳ که کوچک‌تر است، چون باند کوچک‌تر بهتر می‌تواند به مارجین‌های عمیق جینجیوال برسد"
+            }
+          ]
+        },
+        {
+          "id": "ea666cea93b832a379c1cef848718384ae6c2725f3606808b06b7f2ed2c556e1",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هر باندی با ضخامت ۰٫۰۰۲۰ اینچ، چون در مارجین‌های عمیق فقط ضخامت باند اهمیت دارد و شکل آن بی‌تأثیر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر باندی با ضخامت ۰٫۰۰۲۰ اینچ، چون در مارجین‌های عمیق فقط ضخامت باند اهمیت دارد و شکل آن بی‌تأثیر است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9bf353d66194c51a205e709a5a7caa440eee642ca4a5a3f063f074af22623646"
+        ],
+        "explanation": "شماره‌ی ۲ برای مولر است و شماره‌ی ۳ همان زائده‌ها را در اندازه‌ی کوچک‌تر برای پرمولر دارد. در هر حال، باند را متناسب با دندان و عمق مارجین انتخاب کن.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "شماره‌ی ۲ برای مولر است و شماره‌ی ۳ همان زائده‌ها را در اندازه‌ی کوچک‌تر برای پرمولر دارد."
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " در هر حال، باند را متناسب با دندان و عمق مارجین انتخاب کن."
+          }
+        ],
+        "observedAt": "2026-11-14T15:56:55.812Z"
+      }
+    },
+    {
+      "id": "question:30139",
+      "sourceId": "30139",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "f4d8703fa3ea58bac9ed5def372c2c54c03311a0999c46d6391fd2c09188732f",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری می‌گوید: «رینگ را از اول کار می‌گذارم و تا آخرین لحظه نگه می‌دارم؛ هرچه بیشتر بماند، تماس بهتری می‌سازد.» چه چیزی را نادیده گرفته است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری می‌گوید: «رینگ را از اول کار می‌گذارم و تا آخرین لحظه نگه می‌دارم؛ هرچه بیشتر بماند، تماس بهتری می‌سازد.» چه چیزی را نادیده گرفته است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رینگ پس از مدتی شل می‌شود و جدایش را از دست می‌دهد، پس ماندن طولانی آن به تماس باز می‌انجامد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چیزی را نادیده نگرفته است، چون نیروی رینگ ثابت می‌ماند و گذشت زمان بر میزان جدایش هیچ اثری ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رینگ جدایش را به‌صورت پیش‌رونده ایجاد می‌کند؛ ماندن طولانی آن به جدایش بیش از حد و در نتیجه تماسی بیش از اندازه تنگ می‌انجامد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماندن طولانی رینگ باعث می‌شود ماتریکس dead-soft زیر فشار پیوسته‌ی نوک‌ها خودبه‌خود شیاردار و زبر شود، حتی اگر اصلاً برنیش نشده باشد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9b9186ca45f53fc3f4b567463e6bfb173d208b35ceedcf26dc65cfc3acf60046",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "رینگ پس از مدتی شل می‌شود و جدایش را از دست می‌دهد، پس ماندن طولانی آن به تماس باز می‌انجامد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رینگ پس از مدتی شل می‌شود و جدایش را از دست می‌دهد، پس ماندن طولانی آن به تماس باز می‌انجامد"
+            }
+          ]
+        },
+        {
+          "id": "6cf7f4cb9eed645eeba1eb0dbe4dbbe8640e5495e426e6bffc16c67c62493839",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چیزی را نادیده نگرفته است، چون نیروی رینگ ثابت می‌ماند و گذشت زمان بر میزان جدایش هیچ اثری ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چیزی را نادیده نگرفته است، چون نیروی رینگ ثابت می‌ماند و گذشت زمان بر میزان جدایش هیچ اثری ندارد"
+            }
+          ]
+        },
+        {
+          "id": "21d86c5bba1abbc258b7abb980ed6fe82fc711a6d7fcd0448b95e6f40d67addb",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "رینگ جدایش را به‌صورت پیش‌رونده ایجاد می‌کند؛ ماندن طولانی آن به جدایش بیش از حد و در نتیجه تماسی بیش از اندازه تنگ می‌انجامد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رینگ جدایش را به‌صورت پیش‌رونده ایجاد می‌کند؛ ماندن طولانی آن به جدایش بیش از حد و در نتیجه تماسی بیش از اندازه تنگ می‌انجامد"
+            }
+          ]
+        },
+        {
+          "id": "eff044505ead66193d09e394e9a3b97248ff56ec1c71aa4ed5f6c96027203518",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ماندن طولانی رینگ باعث می‌شود ماتریکس dead-soft زیر فشار پیوسته‌ی نوک‌ها خودبه‌خود شیاردار و زبر شود، حتی اگر اصلاً برنیش نشده باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماندن طولانی رینگ باعث می‌شود ماتریکس dead-soft زیر فشار پیوسته‌ی نوک‌ها خودبه‌خود شیاردار و زبر شود، حتی اگر اصلاً برنیش نشده باشد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "21d86c5bba1abbc258b7abb980ed6fe82fc711a6d7fcd0448b95e6f40d67addb"
+        ],
+        "explanation": "اثر رینگ ثابت نیست و با گذشت زمان بیشتر می‌شود. تماس بیش از حد تنگ هم یک عیب است، نه موفقیت.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "اثر رینگ ثابت نیست و با گذشت زمان بیشتر می‌شود."
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " تماس بیش از حد تنگ هم یک عیب است، نه موفقیت."
+          }
+        ],
+        "observedAt": "2026-11-14T15:57:15.178Z"
+      }
+    },
+    {
+      "id": "question:30142",
+      "sourceId": "30142",
+      "sourceProgress": "width: 66.6667%;",
+      "contentKey": "c38cdef85c22c90371e6c7325e07e41c472752a24162e041489c0652b711c397",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "آمالگام را کندانس و کارو کرده‌ای و می‌خواهی ماتریکس توفلمایر را بدون شکستن مارجینال ریج تازه‌کاروشده بیرون بیاوری. کدام مجموعه اقدام درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آمالگام را کندانس و کارو کرده‌ای و می‌خواهی ماتریکس توفلمایر را بدون شکستن مارجینال ریج تازه‌کاروشده بیرون بیاوری. کدام مجموعه اقدام درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماتریکس را تا سخت شدن کامل آمالگام دست‌نخورده نگه دار و فقط پس از آن بیرون بیاور، چون آمالگام سخت‌شده دیگر نمی‌شکند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باند را با یک حرکت سریع و مستقیم به سمت اکلوزال بکش، چون سرعت زیاد مدت تماس باند با مارجینال ریج را کم می‌کند و خطر شکستن را از بین می‌برد و به حمایت کندانسور هم نیازی نمی‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اول پیچ تنظیم و بعد اسلاید را شل کن و نگهدارنده را به سمت جینجیوال بکش تا فشاری به مارجینال ریج وارد نشود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کندانسور را برای حمایت روی مارجینال ریج نگه دار، باند را عمدتاً رو به فاسیال یا لینگوال از تماس خارج کن، و اگر باند کانتوردار است آن را طوری بچرخان که لبه‌اش ریج را نشکند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "611377bc344441d8bf6b796c7229d481f982d2065b1f176549fcc25b6f129619",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ماتریکس را تا سخت شدن کامل آمالگام دست‌نخورده نگه دار و فقط پس از آن بیرون بیاور، چون آمالگام سخت‌شده دیگر نمی‌شکند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماتریکس را تا سخت شدن کامل آمالگام دست‌نخورده نگه دار و فقط پس از آن بیرون بیاور، چون آمالگام سخت‌شده دیگر نمی‌شکند"
+            }
+          ]
+        },
+        {
+          "id": "2626e151213f2d09ece36c9afe19897dabb6da65d5ae8db63aaf5e6a469a81a7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "باند را با یک حرکت سریع و مستقیم به سمت اکلوزال بکش، چون سرعت زیاد مدت تماس باند با مارجینال ریج را کم می‌کند و خطر شکستن را از بین می‌برد و به حمایت کندانسور هم نیازی نمی‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باند را با یک حرکت سریع و مستقیم به سمت اکلوزال بکش، چون سرعت زیاد مدت تماس باند با مارجینال ریج را کم می‌کند و خطر شکستن را از بین می‌برد و به حمایت کندانسور هم نیازی نمی‌ماند"
+            }
+          ]
+        },
+        {
+          "id": "47534bb1dd880bd096170f07d2bdb19fe2d4a7569e1fc1675ad771a57dfb5692",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اول پیچ تنظیم و بعد اسلاید را شل کن و نگهدارنده را به سمت جینجیوال بکش تا فشاری به مارجینال ریج وارد نشود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اول پیچ تنظیم و بعد اسلاید را شل کن و نگهدارنده را به سمت جینجیوال بکش تا فشاری به مارجینال ریج وارد نشود"
+            }
+          ]
+        },
+        {
+          "id": "1060844467455e9ec4aafb992fb506f4ce88c966cb3d26fc2c7b05b3cc191085",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کندانسور را برای حمایت روی مارجینال ریج نگه دار، باند را عمدتاً رو به فاسیال یا لینگوال از تماس خارج کن، و اگر باند کانتوردار است آن را طوری بچرخان که لبه‌اش ریج را نشکند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کندانسور را برای حمایت روی مارجینال ریج نگه دار، باند را عمدتاً رو به فاسیال یا لینگوال از تماس خارج کن، و اگر باند کانتوردار است آن را طوری بچرخان که لبه‌اش ریج را نشکند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1060844467455e9ec4aafb992fb506f4ce88c966cb3d26fc2c7b05b3cc191085"
+        ],
+        "explanation": "هر سه اقدام یک هدف دارند: نگذارند لبه‌ی باند هنگام خروج مارجینال ریج را بشکند.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هر سه اقدام یک هدف دارند: نگذارند لبه‌ی باند هنگام خروج مارجینال ریج را بشکند."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-14T15:57:07.297Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:99a8560f99aa891f48ea51188ba4c0fb2452d058f732b490b04fbc585bf48a8a",
+      "at": "2026-11-14T15:56:30.100Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:55698d8ac1b37ead5177579d1ac3b3e195d34d27fc1d6fbd7205a893116bbbc6",
+      "at": "2026-11-14T15:56:31.724Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:30130",
+      "at": "2026-11-14T15:56:33.320Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:30133",
+      "at": "2026-11-14T15:56:46.175Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:30136",
+      "at": "2026-11-14T15:56:51.756Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:30139",
+      "at": "2026-11-14T15:56:57.419Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:30142",
+      "at": "2026-11-14T15:57:03.120Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:30133",
+      "at": "2026-11-14T15:57:08.905Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:30139",
+      "at": "2026-11-14T15:57:12.746Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

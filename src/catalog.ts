@@ -6,6 +6,7 @@ import { hash, now } from './core.js';
 import { readJson, writeJson } from './storage.js';
 import type { Catalog, Config, Lesson } from './types.js';
 import type { Engine } from './engine.js';
+import { auditSpecialty } from './audit-export.js';
 export async function catalog(page:Page,config:Config):Promise<Catalog> {
   await page.locator(config.selectors.catalog as string).waitFor({state:'visible',timeout:config.timeoutMs});
   let last='',since=0;const deadline=Date.now()+config.timeoutMs;
@@ -59,5 +60,6 @@ export async function crawlSpecialty(page:Page,config:Config,root:string,first:C
   const counts:Record<string,number>=Object.fromEntries(['captured','validated','incomplete','needs-review','pending','locked'].map(s=>[s,rows.filter(l=>l.status===s).length]));
   if(current.declaredChapterCount!==null&&current.declaredChapterCount!==current.chapterCount)counts['catalog-incomplete']=1;
   await writeJson(path.join(root,'coverage.json'),{schemaVersion:3,specialtyName:current.specialtyName,chapterCount:current.chapterCount,totalLessons:rows.length,runId,processedThisRun:processed,capturedThisRun:rows.filter(r=>r.runId===runId&&['captured','validated'].includes(r.status)).length,allCapturedThisRun:!!runId&&rows.length>0&&rows.every(r=>r.runId===runId&&['captured','validated'].includes(r.status)),counts,declaredChapterCount:current.declaredChapterCount,catalogCountsMatch:current.declaredChapterCount===null||current.declaredChapterCount===current.chapterCount,allSourceFinished:(current.declaredChapterCount===null||current.declaredChapterCount===current.chapterCount)&&rows.length>0&&rows.every(r=>['captured','validated'].includes(r.status)),allCountsVerified:!counts['catalog-incomplete']&&rows.length>0&&rows.every(r=>r.status==='validated'),lessons:rows});
+  await auditSpecialty(root,true);
   return {current,counts};
 }

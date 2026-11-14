@@ -47,10 +47,14 @@ export function validateLesson(lesson:Lesson) {
   for (const step of lesson.steps) {
     if(step.kind==='question'&&!step.sourceQuestionId&&!step.sourceStepId)issues.push(`QUESTION_ID_UNVERIFIED:${step.position}`);
     if (step.kind==='question' && !isVerifiedAnswer(step.answer)) issues.push(`ANSWER_UNVERIFIED:${step.position}`);
+    if(step.kind==='question'&&step.answer?.status==='observed-single-key') {
+      const matching=step.options.filter(o=>step.answer!.correctOptionHashes.includes(optionHash(o)));
+      if(step.questionType!=='single-choice'||step.answer.correctOptionHashes.length!==1||matching.length!==1||new Set(step.options.map(optionHash)).size!==step.options.length)issues.push(`ANSWER_OPTION_MAPPING_INVALID:${step.position}`);
+    }
     if(step.questionType==='letter-order'&&step.answer?.status==='observed-text') {
       try{if(!step.jumble)throw Error();letterPlan(step.answer.correctText!,step.jumble);}catch{issues.push(`LETTER_ANSWER_INVALID:${step.position}`);}
     }
-    for (const n of nodes([...step.content,...(step.answer?.content??[])])) {
+    for (const n of nodes([...step.content,...step.options.flatMap(o=>o.content),...(step.answer?.content??[])])) {
       if (n.attributes?.unsupportedMedia) issues.push(`UNSUPPORTED_MEDIA:${step.position}:${n.attributes.unsupportedMedia}`);
       if (n.tag==='img' && (!n.assetPath || n.assetError)) issues.push(`IMAGE_UNRESOLVED:${step.position}`);
     }

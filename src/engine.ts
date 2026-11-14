@@ -11,9 +11,25 @@ import { chooseWithOllama } from './ai.js';
 import { bundledAnswers } from './answer-cache.js';
 import { Hearts, emptyHearts } from './hearts.js';
 import { letterPlan, normalizeWord } from './letters.js';
-export type EngineOptions = { root:string;runId:string;specialtyKey:string;specialtyName:string;force?:boolean;answerMode:'first'|'manual'|'ai';aiModel?:string;hearts?:Hearts;manual: (message:string)=>Promise<void> };
+import { StudyMemory, contentText } from './study-memory.js';
+import { appendFile, mkdir } from 'node:fs/promises';
+export type EngineOptions = { root:string;runId:string;specialtyKey:string;specialtyName:string;force?:boolean;answerMode:'first'|'manual'|'ai';aiModel?:string;aiReview?:boolean;hearts?:Hearts;manual: (message:string)=>Promise<void> };
 export class Engine {
+  private memory?:Promise<StudyMemory>;
   constructor(private page:Page,private config:Config,private assets:Assets,private options:EngineOptions){}
+  private async answerWithContext(frame:Frame,lesson:Lesson):Promise<string> {
+    this.memory??=StudyMemory.load(this.options.root,this.config.baseUrl,this.options.specialtyKey);
+    const memory=await this.memory;memory.remember(lesson);
+    const primary=lesson.steps.filter(s=>s.kind==='theory').map(s=>contentText(s.content)).join('\n\n');
+    const budget=Math.max(0,Math.min(4500,15500-primary.length-frame.prompt.length-frame.options.reduce((n,o)=>n+o.text.length,0)));
+    const references=memory.context(frame,lesson,budget);
+    console.log(JSON.stringify({event:'AI_CONTEXT',lesson:lesson.id,question:frame.questionId,referenceChars:references.length}));
+    const model=this.options.aiModel??'qwen3-vl:2b-instruct';
+    const proposed=await chooseWithOllama(frame,lesson,this.options.root,model,references);
+    if(!this.options.aiReview)return proposed;
+    console.log(JSON.stringify({event:'AI_REVIEW',lesson:lesson.id,question:frame.questionId}));
+    return chooseWithOllama(frame,lesson,this.options.root,model,references,proposed);
+  }
   async dismissTips() {
     let count=0;
     for(let round=0;round<3;round++) {
@@ -59,7 +75,8 @@ export class Engine {
     const button=this.page.locator(this.config.selectors.action as string);
     if(!await button.isVisible()||!await button.isEnabled())throw new Error('ACTION_UNAVAILABLE');
     await delay(this.config.actionDelayMs);await button.click();
-    const deadline=Date.now()+this.config.timeoutMs;let tipRetry=false;
+    let deadline=Date.now()+this.config.timeoutMs;let tipRetry=false,continueRetry=false,lastNotice=Date.now();
+    for(;;) {
     while(Date.now()<deadline) {
       const tips=await this.dismissTips();
       const f=await this.frame();
@@ -69,9 +86,21 @@ export class Engine {
       // A newly displayed onboarding tip consumes the click. One retry is allowed
       // only after actually dismissing that tip, never on a slow answer response.
       if(tips&&!tipRetry){tipRetry=true;await delay(this.config.actionDelayMs);await button.click();}
+      if(Date.now()-lastNotice>=10000){lastNotice=Date.now();console.log(JSON.stringify({event:'NAVIGATION_WAITING',question:old.questionId,continueRetry}));}
       await delay(150);
     }
+    const fresh=await this.frame();
+    // Retry navigation only. Never click Check again or click on a new question.
+    if(!continueRetry&&old.kind==='question'&&old.feedback&&fresh.kind==='question'&&
+      canonical(fresh)===canonical(old)&&fresh.feedback===old.feedback&&fresh.progress===old.progress&&
+      fresh.actionEnabled&&fresh.action===old.action&&/^(ادامه|بعدی|weiter|next)$/iu.test(fresh.action.trim())&&
+      await button.isVisible()&&await button.isEnabled()) {
+      continueRetry=true;
+      console.warn(JSON.stringify({event:'CONTINUE_RETRY',question:old.questionId}));
+      await button.click();deadline=Date.now()+this.config.timeoutMs;continue;
+    }
     throw new Error('STEP_DID_NOT_CHANGE');
+    }
   }
   async loadLazyImages() {
     const images=this.page.locator(`${this.config.selectors.slide} img`);
@@ -95,10 +124,17 @@ export class Engine {
   async scrape(item:CatalogLesson):Promise<Lesson> {
     // A refill may return to home or invalidate the source attempt. Start the lesson
     // again with its newly saved verified answer bank; never blindly resubmit a POST.
-    for(let restart=0;;restart++) {
+    let refills=0,recoveries=0;
+    for(;;) {
       const result=await this.scrapeOnce(item);
-      if(result.error!=='HEARTS_REFILLED_RESTART'||restart>=20)return result;
-      console.log(JSON.stringify({event:'LESSON_RESTART_AFTER_REFILL',lesson:item.id}));
+      if(result.error==='HEARTS_REFILLED_RESTART'&&refills++<20) {
+        console.log(JSON.stringify({event:'LESSON_RESTART_AFTER_REFILL',lesson:item.id}));continue;
+      }
+      if(result.error==='STEP_DID_NOT_CHANGE'&&recoveries++<2) {
+        console.warn(JSON.stringify({event:'LESSON_RECOVERY',lesson:item.id,attempt:recoveries,reason:result.error}));
+        await delay(this.config.actionDelayMs);continue;
+      }
+      return result;
     }
   }
   private async scrapeOnce(item:CatalogLesson):Promise<Lesson> {
@@ -144,6 +180,7 @@ export class Engine {
         if(f.kind==='theory'){await this.advance(f);continue;}
         const count=(attempts.get(stepId)??0)+1;attempts.set(stepId,count);
         if(count>this.config.maxQuestionVisits)throw new Error('QUESTION_REPEAT_LIMIT');
+        let answerSource:string=this.options.answerMode;
         if(!f.feedback) {
           if(this.options.answerMode==='manual') {
             await this.options.manual(`درس ${id}: در مرورگر پاسخ را ثبت کن؛ پس از نمایش بازخورد Enter بزن. «ادامه» را نزن.`);
@@ -152,10 +189,11 @@ export class Engine {
             const old=isVerifiedAnswer(record.answer)?record:known.get(signature(record));
             if(f.questionType==='letter-order') {
               let word=old?.answer?.correctText;
+              if(word)answerSource='verified-bank';
               if(!word) {
                 if(this.options.answerMode!=='ai')throw new Error('AI_REQUIRED_FOR_LETTERS');
                 console.log(JSON.stringify({event:'AI_ANSWERING_LETTERS',lesson:id,question:f.questionId}));
-                word=await chooseWithOllama({...f,content:record.content},lesson,this.options.root,this.options.aiModel??'qwen3-vl:2b-instruct');
+                word=await this.answerWithContext({...f,content:record.content},lesson);
               }
               await this.fillLetters(f,word);
             } else {
@@ -163,9 +201,10 @@ export class Engine {
             const correctHashes=old?.answer?.correctOptionHashes??[];
             // Source answer evidence is matched by content, never by shuffled index/key.
             let selected=f.options.find(o=>correctHashes.includes(optionHash(o)));
+            if(selected)answerSource='verified-bank';
             if(!selected&&this.options.answerMode==='ai') {
               console.log(JSON.stringify({event:'AI_ANSWERING',lesson:id,question:f.questionId}));
-              const key=await chooseWithOllama({...f,content:record.content,options:f.options.map(o=>({...o,content:record!.options.find(saved=>optionHash(saved)===optionHash(o))?.content??o.content}))},lesson,this.options.root,this.options.aiModel??'qwen3-vl:4b');
+              const key=await this.answerWithContext({...f,content:record.content,options:f.options.map(o=>({...o,content:record!.options.find(saved=>optionHash(saved)===optionHash(o))?.content??o.content}))},lesson);
               selected=f.options.find(o=>o.key===key);
               if(!selected)throw new Error('AI_INVALID_OPTION');
               const fresh=await this.frame();
@@ -184,6 +223,13 @@ export class Engine {
         const evidence=feedbackEvidence(reviewed);await this.assets.collect(evidence.content);
         record.answer=mergeAnswer(record.answer,evidence);
         if(isVerifiedAnswer(record.answer)){known.set(signature(record),structuredClone(record));await saveBank();}
+        if(this.memory)(await this.memory).remember(lesson);
+        const selected=reviewed.options.filter(o=>o.selected);
+        const correct=reviewed.questionType==='letter-order'?(/\bok\b/.test(reviewed.feedbackClass)?true:/\bno\b/.test(reviewed.feedbackClass)?false:null):selected.length===1?(selected[0].correctMarked?true:selected[0].wrongMarked?false:null):null;
+        const attemptFile=path.join(this.options.root,'lessons',id,'answer-attempts.jsonl');
+        await mkdir(path.dirname(attemptFile),{recursive:true});
+        if(!f.feedback)await appendFile(attemptFile,JSON.stringify({at:now(),runId:this.options.runId,questionId:f.questionId,questionContentKey:canonical(f),source:answerSource,model:answerSource==='ai'?(this.options.aiModel??'qwen3-vl:2b-instruct'):undefined,reviewed:answerSource==='ai'&&!!this.options.aiReview,correct,sourceCorrectText:record.answer?.correctText??record.answer?.correctOptionTexts})+'\n','utf8');
+        console.log(JSON.stringify({event:'ANSWER_RESULT',lesson:id,question:f.questionId,source:answerSource,correct}));
         await checkpoint();
         if(!isVerifiedAnswer(record.answer)) {
           if(record.answer.status==='conflict')throw new Error('ANSWER_KEY_CONFLICT');

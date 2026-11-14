@@ -14,6 +14,7 @@ import { Hearts } from './hearts.js';
 import { finalize, hash, lessonUrl, safeCode } from './core.js';
 import { readJson, writeJson } from './storage.js';
 import type { CatalogLesson, Lesson } from './types.js';
+import { auditOutput, auditSpecialty } from './audit-export.js';
 const args=process.argv.slice(2),command=args[0];
 function arg(name:string,fallback=''){const i=args.indexOf(name);return i<0?fallback:args[i+1]||fallback;}
 const project=path.dirname(path.dirname(fileURLToPath(import.meta.url)));
@@ -30,7 +31,7 @@ async function validate(root:string) {
         const {existsSync}=await import('node:fs');
         const {nodes}=await import('./core.js');
         const specialtyRoot=path.dirname(path.dirname(path.dirname(file)));
-        for(const s of lesson.steps)for(const n of nodes([...s.content,...(s.answer?.content??[])]))if(n.assetPath&&!existsSync(path.join(specialtyRoot,n.assetPath)))lesson.validation!.issues.push('LOCAL_ASSET_FILE_MISSING');
+        for(const s of lesson.steps)for(const n of nodes([...s.content,...s.options.flatMap(o=>o.content),...(s.answer?.content??[])]))if(n.assetPath&&!existsSync(path.join(specialtyRoot,n.assetPath)))lesson.validation!.issues.push('LOCAL_ASSET_FILE_MISSING');
         if(lesson.validation!.issues.length&&lesson.completion)lesson.status='needs-review';
         report.push({file:path.relative(root,file),id:lesson.id,status:lesson.status,validation:lesson.validation});
       }
@@ -40,9 +41,14 @@ async function validate(root:string) {
   if(!report.length||report.some(r=>r.validation?.issues.length))process.exitCode=2;
 }
 async function main() {
-  if(!['login','crawl','validate'].includes(command)){console.log('Commands: login | crawl [--lesson URL] [--all-specialties] [--max-lessons N] [--answer-mode first|manual|ai --ai-model NAME] [--resume] [--auto-refill --max-gems N] | validate\nOptions: --auth FILE (or --cookies FILE) --output DIR --config FILE --profile DIR --channel chrome|msedge|chromium --executable PATH');return;}
+  if(!['login','crawl','validate','audit','export'].includes(command)){console.log('Commands: login | crawl [--lesson URL] [--all-specialties] [--max-lessons N] [--answer-mode first|manual|ai --ai-model NAME --ai-review] [--resume] [--auto-refill --max-gems N] | validate | audit | export\nOptions: --auth FILE (or --cookies FILE) --output DIR --config FILE --profile DIR --channel chrome|msedge|chromium --executable PATH');return;}
   const output=path.resolve(arg('--output',path.join(project,'output')));
   if(command==='validate'){await validate(output);return;}
+  if(command==='audit'||command==='export') {
+    const reports=await auditOutput(output,command==='export');
+    console.log(JSON.stringify(reports.map(r=>({specialty:r.specialtyName,...r.summary,allLessonsImportReady:r.allLessonsImportReady,catalogIssues:r.catalogIssues})),null,2));
+    return;
+  }
   const config=await loadConfig(path.resolve(arg('--config',path.join(project,'crawler.config.json'))));
   const runId=new Date().toISOString().replace(/[:.]/g,'-');
   const maxLessons=Number(arg('--max-lessons','100000'));
@@ -83,12 +89,13 @@ async function main() {
       if(seen.has(specialtyKey))break;seen.add(specialtyKey);
       const root=path.join(output,`specialty-${specialtyKey}`);
       const assets=new Assets(context,config,root);
-      const engine=new Engine(page,config,assets,{root,runId,specialtyName,specialtyKey,force,hearts,answerMode:answerMode as 'first'|'manual'|'ai',aiModel:arg('--ai-model','qwen3-vl:2b-instruct'),manual:async message=>{if(args.includes('--headless'))throw new Error('MANUAL_MODE_REQUIRES_VISIBLE_BROWSER');await terminal.question(message+'\n');}});
+      const engine=new Engine(page,config,assets,{root,runId,specialtyName,specialtyKey,force,hearts,answerMode:answerMode as 'first'|'manual'|'ai',aiModel:arg('--ai-model','qwen3-vl:2b-instruct'),aiReview:args.includes('--ai-review'),manual:async message=>{if(args.includes('--headless'))throw new Error('MANUAL_MODE_REQUIRES_VISIBLE_BROWSER');await terminal.question(message+'\n');}});
       if(arg('--lesson')) {
         const url=lessonUrl(arg('--lesson'),config.baseUrl),id=url.split('/').pop()!;
         const item=first?.lessons.find(l=>l.id===id)??{id,title:'',url,chapterId:'',chapterTitle:'',chapterPosition:0,position:0,accessReason:null} as CatalogLesson;
         if(!first?.lessons.some(l=>l.id===id)&&!arg('--specialty'))throw new Error('LESSON_NOT_IN_SELECTED_SPECIALTY');
         item.url=url;const result=await engine.scrape(item);console.log(JSON.stringify({event:'LESSON_RESULT',id,status:result.status,pages:result.theoryPageCount,questions:result.questionCount,error:result.error}));
+        if(first){await writeJson(path.join(root,'catalog.json'),{schemaVersion:3,...first});await auditSpecialty(root,true);}
         if(!['captured','validated'].includes(result.status))process.exitCode=2;return;
       }
       const result=await crawlSpecialty(page,config,root,first!,engine,maxLessons,force,runId);
