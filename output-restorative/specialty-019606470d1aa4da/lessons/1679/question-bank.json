@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "question:30540",
+      "position": 3,
+      "kind": "question",
+      "sourceQuestionId": "30540",
+      "sourceStepId": null,
+      "sourceProgress": "width: 28.5714%;",
+      "questionType": "single-choice",
+      "title": "درس ۴: خطاهای رایج در اجرای باند",
+      "prompt": "خشک کردن حفره تا زمانی که لبه‌های مینا ظاهر مات و گچی بگیرند، برای مینا ارزیابی درستی است ولی هم‌زمان می‌تواند شبکه‌ی کلاژن عاج را بخواباند.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خشک کردن حفره تا زمانی که لبه‌های مینا ظاهر مات و گچی بگیرند، برای مینا ارزیابی درستی است ولی هم‌زمان می‌تواند شبکه‌ی کلاژن عاج را بخواباند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "true"
+        ],
+        "correctOptionHashes": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "correctOptionTexts": [
+          "صحیح"
+        ],
+        "explanation": "درست — همان کاری که کفایت اچ مینا را ثابت می‌کند، می‌تواند به عاج آسیب بزند. به همین دلیل پس از آن، عاج باید دوباره مرطوب شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست — همان کاری که کفایت اچ مینا را ثابت می‌کند، می‌تواند "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "به عاج آسیب بزند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". به همین دلیل پس از آن، عاج باید دوباره مرطوب شود."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": true
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-14T16:05:24.852Z"
+      }
+    }
+  ]
+}

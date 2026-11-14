@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Dentigo Local Session Export",
+  "version": "1.0.0",
+  "description": "Export your own Dentigo session to a local file. No server, analytics or Google access.",
+  "permissions": ["cookies", "scripting"],
+  "host_permissions": ["https://app.dentigoapp.com/*"],
+  "action": { "default_popup": "popup.html" }
+}

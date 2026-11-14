@@ -1,0 +1,25 @@
+{
+  "name": "dentigo-crawler",
+  "version": "3.4.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ai:check": "node --import tsx scripts/check-ai.ts",
+    "login": "node --import tsx src/cli.ts login",
+    "crawl": "node --import tsx src/cli.ts crawl",
+    "validate": "node --import tsx src/cli.ts validate",
+    "test": "node --import tsx --test tests/crawler.test.ts tests/auth-state.test.ts tests/ai.test.ts tests/hearts.test.ts tests/answer-cache.test.ts tests/letters.test.ts",
+    "typecheck": "tsc --noEmit",
+    "test:browser": "node --import tsx --test tests/browser.test.ts",
+    "test:auth": "node --import tsx --test tests/auth-state.test.ts"
+  },
+  "dependencies": {
+    "playwright": "1.65.0",
+    "tsx": "4.23.15"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.2",
+    "typescript": "5.9.3",
+    "jsdom": "26.1.0"
+  }
+}

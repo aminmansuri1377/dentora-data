@@ -1,0 +1,42 @@
+{
+  "baseUrl": "https://app.dentigoapp.com",
+  "homePath": "/fa/home",
+  "browserChannel": "chrome",
+  "timeoutMs": 30000,
+  "settleMs": 350,
+  "actionDelayMs": 500,
+  "maxTransitions": 1000,
+  "maxQuestionVisits": 6,
+  "maxCatalogRounds": 1000,
+  "maxSpecialties": 60,
+  "downloadImages": true,
+  "maxImageBytes": 20971520,
+  "allowAssetHosts": [],
+  "expectedByLesson": {
+    "1636": {
+      "pages": 2,
+      "questions": 5
+    }
+  },
+  "selectors": {
+    "slide": "#slides-container .slide.active",
+    "theory": ".theory-body",
+    "prompt": ".question-text",
+    "options": ".options .option-wrapper",
+    "optionText": ".option-text",
+    "action": "#action-btn",
+    "feedback": "#feedback-msg",
+    "completion": "#completion-screen",
+    "completionHeading": "#completion-heading",
+    "progress": "#progress-bar-inner",
+    "catalog": "#home-path-panel",
+    "chapter": ".path-chapter-block",
+    "step": ".path-step[data-lesson-id]",
+    "specialtyTitle": ".learn-strip h2",
+    "nextSpecialty": "button[aria-label^='تخصص بعدی:']",
+    "tips": [
+      "#saveTipCard",
+      "#hlTip"
+    ]
+  }
+}
