@@ -54,6 +54,9 @@ async function main() {
   const maxLessons=Number(arg('--max-lessons','100000'));
   if(!Number.isInteger(maxLessons)||maxLessons<1)throw new Error('INVALID_MAX_LESSONS');
   const answerMode=arg('--answer-mode','ai');if(!['first','manual','ai'].includes(answerMode))throw new Error('INVALID_ANSWER_MODE');
+  const referenceChars=Number(arg('--ai-reference-chars','1200'));
+  if(!Number.isSafeInteger(referenceChars)||referenceChars<0||referenceChars>4500)throw new Error('INVALID_AI_REFERENCE_CHARS');
+  console.log(JSON.stringify({event:'AI_SETTINGS',model:arg('--ai-model','qwen3-vl:2b-instruct'),review:args.includes('--ai-review'),referenceChars}));
   const force=args.includes('--force')||!args.includes('--resume');
   const maxGems=Number(arg('--max-gems','0'));
   if(!Number.isSafeInteger(maxGems)||maxGems<0||(args.includes('--auto-refill')&&maxGems<60))throw new Error('HEARTS_EXPLICIT_BUDGET_REQUIRED');
@@ -89,7 +92,7 @@ async function main() {
       if(seen.has(specialtyKey))break;seen.add(specialtyKey);
       const root=path.join(output,`specialty-${specialtyKey}`);
       const assets=new Assets(context,config,root);
-      const engine=new Engine(page,config,assets,{root,runId,specialtyName,specialtyKey,force,hearts,answerMode:answerMode as 'first'|'manual'|'ai',aiModel:arg('--ai-model','qwen3-vl:2b-instruct'),aiReview:args.includes('--ai-review'),manual:async message=>{if(args.includes('--headless'))throw new Error('MANUAL_MODE_REQUIRES_VISIBLE_BROWSER');await terminal.question(message+'\n');}});
+      const engine=new Engine(page,config,assets,{root,runId,specialtyName,specialtyKey,force,hearts,answerMode:answerMode as 'first'|'manual'|'ai',aiModel:arg('--ai-model','qwen3-vl:2b-instruct'),aiReview:args.includes('--ai-review'),aiReferenceChars:referenceChars,manual:async message=>{if(args.includes('--headless'))throw new Error('MANUAL_MODE_REQUIRES_VISIBLE_BROWSER');await terminal.question(message+'\n');}});
       if(arg('--lesson')) {
         const url=lessonUrl(arg('--lesson'),config.baseUrl),id=url.split('/').pop()!;
         const item=first?.lessons.find(l=>l.id===id)??{id,title:'',url,chapterId:'',chapterTitle:'',chapterPosition:0,position:0,accessReason:null} as CatalogLesson;

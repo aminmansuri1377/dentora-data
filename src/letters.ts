@@ -3,6 +3,14 @@ import type { Jumble } from './types.js';
 export function normalizeWord(value:string):string {
   return value.normalize('NFC').replace(/ي|ى/g,'ی').replace(/ك/g,'ک').replace(/[\s\u200c\u200d\u0640\u064b-\u065f]/g,'');
 }
+/** Plausible whole words from supplied source text, filtered by exact tile counts. */
+export function letterCandidates(value:string,jumble:Jumble):string[] {
+  const found=new Set<string>();
+  for(const token of value.match(/[\p{L}\p{M}\u200c]+/gu)??[]) {
+    try{letterPlan(token,jumble);found.add(normalizeWord(token));}catch{/* Not a usable source word. */}
+  }
+  return [...found].sort().slice(0,20);
+}
 /** Match repeated letters to distinct tile identities; never reuse a tile. */
 export function letterPlan(answer:string,jumble:Jumble):string[] {
   const word=Array.from(normalizeWord(answer));

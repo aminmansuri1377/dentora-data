@@ -3,6 +3,7 @@ import path from 'node:path';
 import { isVerifiedAnswer } from './core.js';
 import { readJson } from './storage.js';
 import type { ContentNode, Frame, Lesson } from './types.js';
+import { letterCandidates } from './letters.js';
 
 export function contentText(content:ContentNode[]):string {
   return content.map(n=>n.tag==='text'?n.text??'':contentText(n.children??[])+'\n').join('');
@@ -46,15 +47,21 @@ export class StudyMemory {
     }
     this.lessons.set(lesson.id,documents);
   }
-  context(frame:Frame,lesson:Lesson,maxChars=4500):string {
+  context(frame:Frame,lesson:Lesson,maxChars=4500,maxReferences=5):string {
     const query=tokens(frame.prompt+' '+frame.options.map(o=>o.text).join(' '));
-    const documents=[...this.lessons.values()].flat().filter(d=>!(d.lessonId===lesson.id&&(d.kind==='theory'||d.questionId===frame.questionId)));
+    const documents=[...this.lessons.values()].flat().filter(d=>!(d.lessonId===lesson.id&&d.kind==='theory')&&!(d.questionId&&d.questionId===frame.questionId));
     const frequency=new Map<string,number>();
     for(const d of documents)for(const t of d.terms)frequency.set(t,(frequency.get(t)??0)+1);
     const ranked=documents.map(d=>({d,score:[...query].reduce((sum,t)=>sum+(d.terms.has(t)?Math.log(1+documents.length/(frequency.get(t)??1)):0),0)/Math.sqrt(Math.max(10,d.terms.size))*(d.chapterId===lesson.chapterId?1.5:1)})).filter(r=>r.score>0).sort((a,b)=>b.score-a.score||a.d.lessonId.localeCompare(b.d.lessonId));
     const chosen:unknown[]=[];const seen=new Set<string>();
+    if(frame.questionType==='letter-order'&&frame.jumble) {
+      // A compact source vocabulary is cheaper than sending every sibling lesson.
+      const words=letterCandidates(documents.filter(d=>d.chapterId===lesson.chapterId).map(d=>d.text).join('\n'),frame.jumble);
+      const hint={kind:'source-word-candidates',words};
+      if(words.length&&JSON.stringify([hint]).length<=maxChars)chosen.push(hint);
+    }
     for(const {d} of ranked) {
-      if(chosen.length===5)break;
+      if(chosen.length>=maxReferences)break;
       if(seen.has(d.text))continue;
       const value={lessonId:d.lessonId,chapterId:d.chapterId,questionId:d.questionId,kind:d.kind,excerpt:d.text};
       if(JSON.stringify([...chosen,value]).length>maxChars)continue;

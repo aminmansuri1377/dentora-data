@@ -1,0 +1,162 @@
+{
+  "model": "qwen3.5:4b-q4_K_M",
+  "at": "2026-11-14T19:39:11.358Z",
+  "requested": 12,
+  "sampleCount": 12,
+  "attempted": 12,
+  "complete": true,
+  "answerRecordsHeldOut": true,
+  "sampleIds": [
+    {
+      "lessonId": "1680",
+      "questionId": "30999",
+      "contentKey": "0523ac26af361e69ed026b53cd8795cbfc57fb353a6a2ef02eb6db20efeb5a79"
+    },
+    {
+      "lessonId": "1655",
+      "questionId": "30372",
+      "contentKey": "3dac46d3c508509697d0fa45a1c125e9ac42d75361c91b7bee9af96452fea88f"
+    },
+    {
+      "lessonId": "1680",
+      "questionId": "31002",
+      "contentKey": "122651ebe77277a02e017c8f0963431b931fa04e1a204a233435bace81779a02"
+    },
+    {
+      "lessonId": "1680",
+      "questionId": "30993",
+      "contentKey": "b7a4b23fc568eb93d376f1ffe868193f30632cc64954f3790a3eaf07b950655f"
+    },
+    {
+      "lessonId": "1650",
+      "questionId": "30421",
+      "contentKey": "1caec1968600fefc7a23edc2e849ad46d8a55b554f4b1b8b8f82d17015a3479b"
+    },
+    {
+      "lessonId": "1650",
+      "questionId": "30408",
+      "contentKey": "d0244f4efbbabd768f5b8b00f8bcb87c688a68d228469feb813721576a86cee1"
+    },
+    {
+      "lessonId": "1655",
+      "questionId": "30374",
+      "contentKey": "2124c61c7994e46f428567b980be3fb70b7260aa4a621f0cc510ff717373379f"
+    },
+    {
+      "lessonId": "1650",
+      "questionId": "30424",
+      "contentKey": "2e85381907b1092a5287d429fd44c78fcfe510b62d6fbcc7daf86eda18c850fa"
+    },
+    {
+      "lessonId": "1650",
+      "questionId": "30412",
+      "contentKey": "352a942f47c6c9b153c2f577ce09dc4751dd0302ceaa0a2131cd465428be7878"
+    },
+    {
+      "lessonId": "1679",
+      "questionId": "30545",
+      "contentKey": "354cf86edb8ee33fb4e35f1b7573ddd9154c71050866ea9363c7c171ab50029e"
+    },
+    {
+      "lessonId": "1680",
+      "questionId": "30989",
+      "contentKey": "6e637dfc1487ee010d16b64ccc875194be51ac4a54d0354ef058c6637b39a693"
+    },
+    {
+      "lessonId": "1680",
+      "questionId": "30980",
+      "contentKey": "6fc65c72b2dee3ec5a3ca2efdb9b7cd60a19ccfe9667918e3acb4b6c105381d8"
+    }
+  ],
+  "correct": 10,
+  "wrong": 2,
+  "failed": 0,
+  "accuracy": 0.8333333333333334,
+  "medianMs": 12884,
+  "results": [
+    {
+      "lessonId": "1680",
+      "questionId": "30999",
+      "type": "single-choice",
+      "correct": false,
+      "elapsedMs": 18911
+    },
+    {
+      "lessonId": "1655",
+      "questionId": "30372",
+      "type": "letter-order",
+      "correct": true,
+      "elapsedMs": 15993
+    },
+    {
+      "lessonId": "1680",
+      "questionId": "31002",
+      "type": "single-choice",
+      "correct": true,
+      "elapsedMs": 5226
+    },
+    {
+      "lessonId": "1680",
+      "questionId": "30993",
+      "type": "letter-order",
+      "correct": true,
+      "elapsedMs": 17204
+    },
+    {
+      "lessonId": "1650",
+      "questionId": "30421",
+      "type": "single-choice",
+      "correct": true,
+      "elapsedMs": 12884
+    },
+    {
+      "lessonId": "1650",
+      "questionId": "30408",
+      "type": "letter-order",
+      "correct": true,
+      "elapsedMs": 11173
+    },
+    {
+      "lessonId": "1655",
+      "questionId": "30374",
+      "type": "single-choice",
+      "correct": false,
+      "elapsedMs": 18679
+    },
+    {
+      "lessonId": "1650",
+      "questionId": "30424",
+      "type": "single-choice",
+      "correct": true,
+      "elapsedMs": 12703
+    },
+    {
+      "lessonId": "1650",
+      "questionId": "30412",
+      "type": "single-choice",
+      "correct": true,
+      "elapsedMs": 12598
+    },
+    {
+      "lessonId": "1679",
+      "questionId": "30545",
+      "type": "single-choice",
+      "correct": true,
+      "elapsedMs": 13752
+    },
+    {
+      "lessonId": "1680",
+      "questionId": "30989",
+      "type": "single-choice",
+      "correct": true,
+      "elapsedMs": 7094
+    },
+    {
+      "lessonId": "1680",
+      "questionId": "30980",
+      "type": "single-choice",
+      "correct": true,
+      "elapsedMs": 6473
+    }
+  ]
+}

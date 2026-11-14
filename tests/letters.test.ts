@@ -46,7 +46,7 @@ let stage='theory',selected=[],pool=['ع','ی','ا','ج'],wrong=false;
 const slides=document.querySelector('#slides-container'),action=document.querySelector('#action-btn'),feedback=document.querySelector('#feedback-msg');
 function render(){
 feedback.style.display='none';feedback.textContent='';action.disabled=false;action.textContent=stage==='theory'?'ادامه':'بررسی';
-if(stage==='theory'){slides.innerHTML='<div class="slide active"><div class="theory-body"><p>رابردم عاجی رنگ توصیه نمی‌شود.</p></div></div>';return;}
+if(stage==='theory'){slides.innerHTML='<div class="slide active"><div class="theory-body"><p>برای انتخاب رنگ رابردم به زمینه توجه کن.</p></div></div>';return;}
 selected=[];action.disabled=true;
 slides.innerHTML='<div class="slide active" data-question-id="30435"><div class="question-text">رابردم ............ رنگ توصیه نمی‌شود.</div><div class="jumble-hint">حروف را به ترتیب درست لمس کنید</div><input type="text" hidden><div id="jumble-slots">'+pool.map((_,i)=>'<div class="jumble-slot" data-slot-index="'+i+'"></div>').join('')+'</div><div id="jumble-correct-word" style="display:none"></div><div id="jumble-tiles">'+pool.map((x,i)=>'<div class="jumble-tile" data-tile-index="'+i+'" onclick="pick('+i+')">'+x+'</div>').join('')+'</div></div>';
 }

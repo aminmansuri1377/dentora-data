@@ -7,6 +7,15 @@ import path from 'node:path';
 import { tmpdir } from 'node:os';
 import type { Frame,Lesson } from '../src/types.js';
 
+test('letter hints retrieve exact words from sibling theory without sending the whole chapter',()=>{
+ const memory=new StudyMemory('https://app.dentigoapp.com','test');
+ const lesson={schemaVersion:3,id:'1',sourceUrl:'https://app.dentigoapp.com/fa/lesson/1',specialtyKey:'test',chapterId:'7',steps:[{kind:'theory',content:[{tag:'text',text:'پایش سیلانت مهم است.'}]}]} as unknown as Lesson;
+ memory.remember(lesson);
+ const frame={questionId:'99',questionType:'letter-order',prompt:'........',options:[],jumble:{tiles:['س','ی','ل','ا','ن','ت'].map((text,i)=>({key:String(i),text,position:i+1})),slotCount:6}} as unknown as Frame;
+ const references=JSON.parse(memory.context(frame,{...lesson,id:'2'},300,2));
+ assert.deepEqual(references[0].words,['سیلانت']);assert.equal(references[0].kind,'source-word-candidates');
+});
+
 test('retrieves related chapter theory and verified feedback, excludes guesses and other origins',()=>{
   const memory=new StudyMemory('https://app.dentigoapp.com','test');
   const lesson={schemaVersion:3,id:'1',sourceUrl:'https://app.dentigoapp.com/fa/lesson/1',specialtyKey:'test',chapterId:'7',steps:[

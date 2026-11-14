@@ -13,7 +13,7 @@ import { Hearts, emptyHearts } from './hearts.js';
 import { letterPlan, normalizeWord } from './letters.js';
 import { StudyMemory, contentText } from './study-memory.js';
 import { appendFile, mkdir } from 'node:fs/promises';
-export type EngineOptions = { root:string;runId:string;specialtyKey:string;specialtyName:string;force?:boolean;answerMode:'first'|'manual'|'ai';aiModel?:string;aiReview?:boolean;hearts?:Hearts;manual: (message:string)=>Promise<void> };
+export type EngineOptions = { root:string;runId:string;specialtyKey:string;specialtyName:string;force?:boolean;answerMode:'first'|'manual'|'ai';aiModel?:string;aiReview?:boolean;aiReferenceChars?:number;hearts?:Hearts;manual: (message:string)=>Promise<void> };
 export class Engine {
   private memory?:Promise<StudyMemory>;
   constructor(private page:Page,private config:Config,private assets:Assets,private options:EngineOptions){}
@@ -21,8 +21,8 @@ export class Engine {
     this.memory??=StudyMemory.load(this.options.root,this.config.baseUrl,this.options.specialtyKey);
     const memory=await this.memory;memory.remember(lesson);
     const primary=lesson.steps.filter(s=>s.kind==='theory').map(s=>contentText(s.content)).join('\n\n');
-    const budget=Math.max(0,Math.min(4500,15500-primary.length-frame.prompt.length-frame.options.reduce((n,o)=>n+o.text.length,0)));
-    const references=memory.context(frame,lesson,budget);
+    const budget=Math.max(0,Math.min(this.options.aiReferenceChars??1200,15500-primary.length-frame.prompt.length-frame.options.reduce((n,o)=>n+o.text.length,0)));
+    const references=memory.context(frame,lesson,budget,2);
     console.log(JSON.stringify({event:'AI_CONTEXT',lesson:lesson.id,question:frame.questionId,referenceChars:references.length}));
     const model=this.options.aiModel??'qwen3-vl:2b-instruct';
     const proposed=await chooseWithOllama(frame,lesson,this.options.root,model,references);
@@ -56,14 +56,14 @@ export class Engine {
     if(!(frame.kind==='question'&&frame.feedback&&frame.actionEnabled))await this.checkHearts();
     return frame;
   }
-  async stable(predicate:(f:Frame)=>boolean,error:string):Promise<Frame> {
+  async stable(predicate:(f:Frame)=>boolean,error:string,settleMs=this.config.settleMs):Promise<Frame> {
     const deadline=Date.now()+this.config.timeoutMs;let last='',since=0;
     while(Date.now()<deadline) {
       const f=await this.frame();
       if(predicate(f)) {
         const signature=hash({frame:canonical(f),feedback:f.feedback,action:f.action,enabled:f.actionEnabled,kind:f.kind});
         if(signature!==last){last=signature;since=Date.now();}
-        if(Date.now()-since>=this.config.settleMs)return f;
+        if(Date.now()-since>=settleMs)return f;
       }else{last='';since=0;}
       await delay(150);
     }
@@ -118,7 +118,8 @@ export class Engine {
       if(await tile.count()!==1||!await tile.isVisible())throw new Error('LETTERS_TILE_UNAVAILABLE');
       await tile.click();
       const expected=chars.slice(0,i+1).join('');
-      await this.stable(next=>canonical(next)===canonical(frame)&&normalizeWord(next.jumble?.slotTexts.join('')??'')===expected,'LETTERS_SELECTION_NOT_READY');
+      // Selection is local UI state. Verify every prefix, without a full page-settle delay per tile.
+      await this.stable(next=>canonical(next)===canonical(frame)&&normalizeWord(next.jumble?.slotTexts.join('')??'')===expected,'LETTERS_SELECTION_NOT_READY',0);
     }
   }
   async scrape(item:CatalogLesson):Promise<Lesson> {

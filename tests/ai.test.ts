@@ -7,6 +7,21 @@ import { chooseWithOllama, parseChoice } from '../src/ai.js';
 import { feedbackEvidence } from '../src/core.js';
 import type { Frame, Lesson } from '../src/types.js';
 
+test('source word candidates prevent arbitrary letter permutations and timings are recorded',async()=>{
+ const {readFile}=await import('node:fs/promises');
+ const root=await mkdtemp(path.join(tmpdir(),'dentigo-word-candidate-')),original=globalThis.fetch;
+ try {
+  const frame={questionType:'letter-order',questionId:'30993',prompt:'لایه‌ی مهارشده با ............',options:[],content:[],jumble:{tiles:['ن','ا','ژ','ی','ک','س'].map((text,i)=>({key:String(i),position:i+1,text})),slotCount:6,slotTexts:Array(6).fill(''),correctWord:'',correctSlots:false}} as unknown as Frame;
+  globalThis.fetch=(async(_url,init)=>{
+   const body=JSON.parse(String(init?.body));assert.deepEqual(body.format.properties.answerText.enum,['اکسیژن']);assert.equal(body.think,false);
+   return new Response(JSON.stringify({done:true,load_duration:1000000,prompt_eval_duration:2000000,eval_duration:3000000,message:{content:'{"answerText":"اکسیژن"}'}}));
+  }) as typeof fetch;
+  const answer=await chooseWithOllama(frame,{steps:[{kind:'theory',content:[{tag:'text',text:'لایه‌ی مهارشده با اکسیژن'}]}]} as unknown as Lesson,root,'qwen3.5:4b');
+  assert.equal(answer,'اکسیژن');
+  const metric=JSON.parse((await readFile(path.join(root,'ai-metrics.jsonl'),'utf8')).trim());assert.equal(metric.loadMs,1);assert.equal(metric.promptMs,2);assert.equal(metric.generationMs,3);
+ }finally{globalThis.fetch=original;await rm(root,{recursive:true,force:true});}
+});
+
 test('30292 uses distinct tile keys; repair changes request and stays within a small token budget',async()=>{
   const {readFile}=await import('node:fs/promises');
   const root=await mkdtemp(path.join(tmpdir(),'dentigo-letter-repair-'));
@@ -19,7 +34,7 @@ test('30292 uses distinct tile keys; repair changes request and stays within a s
   try {
     globalThis.fetch=(async(_url,init)=>{
       const body=JSON.parse(String(init?.body));calls++;
-      assert.equal(body.options.num_predict,256);
+      assert.equal(body.options.num_predict,128);
       assert.deepEqual(body.format.properties.tileKeys.items.enum,['0','1','2','3','4','5']);
       assert.equal(body.format.properties.tileKeys.minItems,6);
       const input=JSON.parse(body.messages[1].content);
@@ -93,7 +108,7 @@ test('truncated thinking-only output retries with larger budget and saves metada
       return new Response(JSON.stringify(calls===1?{done:true,done_reason:'length',eval_count:2048,message:{thinking:'private trace',content:''}}:{done:true,done_reason:'stop',message:{content:'{"optionKey":"b"}'}}));
     }) as typeof fetch;
     assert.equal(await chooseWithOllama(frame,{steps:[]} as unknown as Lesson,root,'qwen3-vl:4b'),'b');
-    assert.deepEqual(budgets,[2048,4096]);assert.equal(calls,2);
+    assert.deepEqual(budgets,[64,128]);assert.equal(calls,2);
     const diagnostic=await readFile(path.join(root,'ai-diagnostic.json'),'utf8');assert.ok(!diagnostic.includes('private trace'));
   } finally {globalThis.fetch=original;await rm(root,{recursive:true,force:true});}
 });
