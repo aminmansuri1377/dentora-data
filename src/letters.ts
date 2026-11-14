@@ -18,6 +18,15 @@ export function letterPlan(answer:string,jumble:Jumble):string[] {
 export function parseLetterAnswer(content:string,jumble:Jumble):string {
   let value:unknown;
   try{value=JSON.parse(content);}catch{throw new Error('AI_INVALID_JSON');}
+  const tileKeys=(value as {tileKeys?:unknown})?.tileKeys;
+  if(tileKeys!==undefined) {
+    if(!Array.isArray(tileKeys)||tileKeys.length!==jumble.slotCount||tileKeys.some(k=>typeof k!=='string')||new Set(tileKeys).size!==tileKeys.length)throw new Error('AI_LETTER_CONSTRAINT_VIOLATION');
+    const tiles=new Map(jumble.tiles.map(t=>[t.key,t.text]));
+    if(tileKeys.some(k=>!tiles.has(k)))throw new Error('AI_LETTER_CONSTRAINT_VIOLATION');
+    const answer=tileKeys.map(k=>tiles.get(k)).join('');
+    try{letterPlan(answer,jumble);}catch{throw new Error('AI_LETTER_CONSTRAINT_VIOLATION');}
+    return normalizeWord(answer);
+  }
   const word=(value as {answerText?:unknown})?.answerText;
   if(typeof word!=='string')throw new Error('AI_INVALID_LETTER_ANSWER');
   try{letterPlan(word,jumble);}catch{throw new Error('AI_LETTER_CONSTRAINT_VIOLATION');}

@@ -21,6 +21,10 @@ test('repeated letters use different tile identities and preserve logical Persia
  assert.throws(()=>letterPlan('حساسیتت',jumble),/LENGTH/);
  assert.throws(()=>letterPlan('حححححح',jumble),/POOL/);
  assert.equal(parseLetterAnswer('{"answerText":"حساسیت"}',jumble),'حساسیت');
+ assert.equal(parseLetterAnswer('{"tileKeys":["5","2","4","3","1","0"]}',jumble),'حساسیت');
+ assert.throws(()=>parseLetterAnswer('{"tileKeys":["5","2","4","2","1","0"]}',jumble),/CONSTRAINT/);
+ assert.throws(()=>parseLetterAnswer('{"tileKeys":["5","2","4","3","1","99"]}',jumble),/CONSTRAINT/);
+ assert.throws(()=>parseLetterAnswer('{"tileKeys":[5,2,4,3,1,0]}',jumble),/CONSTRAINT/);
  assert.throws(()=>parseLetterAnswer('{"answerText":"پاسخ حساسیت است"}',jumble));
 });
 test('letter feedback needs correct source slots or an explicit revealed word, never AI guess',()=>{
@@ -62,8 +66,8 @@ test('AI solves letters, wrong answer is corrected from source, shuffled repeat 
  const fp=new FixturePage(config.baseUrl,html,{finished:false}),page=fp as unknown as Page;
  let calls=0;
  globalThis.fetch=(async(_url,init)=>{
-  calls++;const request=JSON.parse(String(init?.body));assert.ok(request.format.properties.answerText);assert.equal(JSON.parse(request.messages[1].content).slotCount,4);
-  return new Response(JSON.stringify({done:true,message:{content:'{"answerText":"جاعی"}'}}));
+  calls++;const request=JSON.parse(String(init?.body));assert.ok(request.format.properties.tileKeys);assert.equal(JSON.parse(request.messages[1].content).slotCount,4);
+  return new Response(JSON.stringify({done:true,message:{content:'{"tileKeys":["3","2","0","1"]}'}}));
  }) as typeof fetch;
  try {
   const engine=new Engine(page,config,new Assets({} as BrowserContext,config,root),{root,runId:'letters',specialtyKey:'test',specialtyName:'Test',answerMode:'ai',force:true,manual:async()=>{throw Error('Unexpected manual');}});

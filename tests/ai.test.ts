@@ -7,6 +7,50 @@ import { chooseWithOllama, parseChoice } from '../src/ai.js';
 import { feedbackEvidence } from '../src/core.js';
 import type { Frame, Lesson } from '../src/types.js';
 
+test('30292 uses distinct tile keys; repair changes request and stays within a small token budget',async()=>{
+  const {readFile}=await import('node:fs/promises');
+  const root=await mkdtemp(path.join(tmpdir(),'dentigo-letter-repair-'));
+  const original=globalThis.fetch;let calls=0;
+  // Actual layout in the uploaded diagnostic: two separate س tiles.
+  const frame={kind:'question',questionType:'letter-order',questionId:'30292',
+    prompt:'وقتی آستانه‌ی تشخیصی را بالا ببری، ویژگی افزایش می‌یابد ولی ............ کاهش پیدا می‌کند و ضایعات کوچک از دست می‌روند.',
+    content:[],options:[],feedback:'',feedbackContent:[],feedbackClass:'',
+    jumble:{tiles:['ی','ح','س','س','ت','ا'].map((text,i)=>({key:String(i),position:i+1,text})),slotCount:6,slotTexts:['','','','','',''],correctSlots:false,correctWord:''}} as unknown as Frame;
+  try {
+    globalThis.fetch=(async(_url,init)=>{
+      const body=JSON.parse(String(init?.body));calls++;
+      assert.equal(body.options.num_predict,256);
+      assert.deepEqual(body.format.properties.tileKeys.items.enum,['0','1','2','3','4','5']);
+      assert.equal(body.format.properties.tileKeys.minItems,6);
+      const input=JSON.parse(body.messages[1].content);
+      assert.deepEqual(input.tiles.map((t:{letter:string})=>t.letter),['ی','ح','س','س','ت','ا']);
+      if(calls===2) {
+        assert.equal(body.messages.length,4);
+        assert.equal(JSON.parse(body.messages[3].content).repair,'AI_LETTER_CONSTRAINT_VIOLATION');
+      }
+      return new Response(JSON.stringify({done:true,message:{content:JSON.stringify({tileKeys:calls===1?['1','2','5','2','0','4']:['1','2','5','3','0','4']})}}));
+    }) as typeof fetch;
+    const answer=await chooseWithOllama(frame,{steps:[]} as unknown as Lesson,root,'qwen3-vl:2b-instruct');
+    assert.equal(answer,'حساسیت');assert.equal(calls,2);
+    // AI output is provisional, even when it satisfies every letter constraint.
+    assert.equal(feedbackEvidence(frame).status,'unverified');
+  } finally {globalThis.fetch=original;await rm(root,{recursive:true,force:true});}
+});
+
+test('two invalid letter answers stop safely and retain final-answer diagnostics',async()=>{
+  const {readFile}=await import('node:fs/promises');
+  const root=await mkdtemp(path.join(tmpdir(),'dentigo-letter-invalid-'));
+  const original=globalThis.fetch;let calls=0;
+  const frame={questionType:'letter-order',questionId:'bad',prompt:'Q',content:[],options:[],jumble:{tiles:[{key:'0',text:'آ'}],slotCount:1}} as unknown as Frame;
+  try {
+    globalThis.fetch=(async()=>{calls++;return new Response(JSON.stringify({done:true,message:{thinking:'private trace',content:'{"tileKeys":["99"]}'}}));}) as typeof fetch;
+    await assert.rejects(chooseWithOllama(frame,{steps:[]} as unknown as Lesson,root,'qwen3-vl:2b-instruct'),/CONSTRAINT/);
+    assert.equal(calls,2);
+    const diagnostic=await readFile(path.join(root,'ai-letter-diagnostic.json'),'utf8');
+    assert.ok(diagnostic.includes('99'));assert.ok(!diagnostic.includes('private trace'));
+  } finally {globalThis.fetch=original;await rm(root,{recursive:true,force:true});}
+});
+
 test('AI accepts only a key in current options, including false string',()=>{
   assert.equal(parseChoice('{"optionKey":"false"}',['true','false']),'false');
   assert.throws(()=>parseChoice('{"optionKey":false}',['true','false']));
