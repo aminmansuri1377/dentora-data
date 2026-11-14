@@ -5,7 +5,7 @@ import { tmpdir } from 'node:os';
 import path from 'node:path';
 import type { Page,BrowserContext } from 'playwright';
 import { FixturePage } from './fixture-page.js';
-import { letterPlan,normalizeWord,parseLetterAnswer } from '../src/letters.js';
+import { letterPlan,normalizeWord,parseLetterAnswer,wordTiles,sourceRevealedWord } from '../src/letters.js';
 import { feedbackEvidence,canonical } from '../src/core.js';
 import { readPage } from '../src/dom-reader.js';
 import { loadConfig } from '../src/config.js';
@@ -15,6 +15,23 @@ import { crawlSpecialty,catalog } from '../src/catalog.js';
 import type { Frame,Jumble } from '../src/types.js';
 
 const jumble:Jumble={tiles:['ت','ی','س','س','ا','ح'].map((text,i)=>({key:String(i),position:i+1,text})),slotCount:6,slotTexts:['','','','','',''],correctSlots:false,correctWord:''};
+test('30612 counts whole-word tiles, preserves spaces and accepts the actual model response',()=>{
+ const j:Jumble={tiles:['کلسیم','هیدروکساید'].map((text,i)=>({key:String(i),position:i+1,text})),slotCount:2,slotTexts:['',''],correctSlots:false,correctWord:''};
+ assert.equal(wordTiles(j),true);
+ assert.equal(parseLetterAnswer('{"tileKeys":["0","1"]}',j),'کلسیم هیدروکساید');
+ assert.deepEqual(letterPlan('کلسیم هیدروکساید',j),['0','1']);
+ assert.deepEqual(letterPlan('کلسیمهیدروکساید',j),['0','1']);
+ assert.equal(sourceRevealedWord('پاسخ درست: کلسیمهیدروکساید',j),'کلسیم هیدروکساید');
+ assert.throws(()=>parseLetterAnswer('{"tileKeys":["0","0"]}',j),/CONSTRAINT/);
+ assert.throws(()=>letterPlan('کلسیم اکسید',j),/POOL/);
+ const f={questionType:'letter-order',feedback:'درست',feedbackContent:[],feedbackClass:'feedback show ok',jumble:{...j,slotTexts:['کلسیم','هیدروکساید'],correctSlots:true}} as unknown as Frame;
+ assert.equal(feedbackEvidence(f).correctText,'کلسیم هیدروکساید');
+});
+test('repeated whole words require distinct tile keys and unknown words are rejected',()=>{
+ const j:Jumble={tiles:['اکسید','روی','اکسید'].map((text,i)=>({key:String(i),position:i+1,text})),slotCount:3,slotTexts:['','',''],correctSlots:false,correctWord:''};
+ assert.deepEqual(letterPlan('اکسید روی اکسید',j),['0','1','2']);
+ assert.throws(()=>letterPlan('اکسید روی روی',j),/POOL/);
+});
 test('repeated letters use different tile identities and preserve logical Persian order',()=>{
  assert.deepEqual(letterPlan('حساسیت',jumble),['5','2','4','3','1','0']);
  assert.equal(normalizeWord('عاجي'),'عاجی');
@@ -94,6 +111,22 @@ test('catalog stops on an incomplete lesson instead of silently moving on',async
   const engine={scrape:async()=>{calls++;return {status:'incomplete',error:'LETTERS_SELECTION_NOT_READY'};}} as unknown as Engine;
   await crawlSpecialty(page,config,root,first,engine,184,false);assert.equal(calls,1);
  }finally{await fp.close();await rm(root,{recursive:true,force:true});}
+});
+
+test('word-tile UI traverses all slots, learns source correction and replays shuffled words',async()=>{
+ const root=await mkdtemp(path.join(tmpdir(),'dentigo-word-tiles-')),original=globalThis.fetch;
+ const config=await loadConfig('crawler.config.json');Object.assign(config,{baseUrl:'http://127.0.0.1:12345',timeoutMs:4000,settleMs:5,actionDelayMs:1,expectedByLesson:{'1':{pages:1,questions:1}}});
+ const wordHtml=html.replace("pool=['ع','ی','ا','ج']","pool=['هیدروکساید','کلسیم']").replace("pool=['ی','ج','ع','ا']","pool=['کلسیم','هیدروکساید']").replaceAll('عاجی','کلسیمهیدروکساید').replaceAll('30435','30612');
+ const fp=new FixturePage(config.baseUrl,wordHtml,{finished:false}),page=fp as unknown as Page;let calls=0;
+ globalThis.fetch=(async(_url,init)=>{calls++;const request=JSON.parse(String(init?.body));assert.ok(request.messages[0].content.includes('whole-word'));return new Response(JSON.stringify({done:true,message:{content:'{"tileKeys":["0","1"]}'}}));}) as typeof fetch;
+ try {
+  const engine=new Engine(page,config,new Assets({} as BrowserContext,config,root),{root,runId:'words',specialtyKey:'test',specialtyName:'test',answerMode:'ai',force:true,manual:async()=>{throw Error('Unexpected manual');}});
+  const result=await engine.scrape({id:'1',title:'Words',url:config.baseUrl+'/fa/lesson/1',chapterId:'1',chapterTitle:'test',chapterPosition:1,position:1,accessReason:'free'});
+  assert.equal(result.status,'validated');assert.equal(result.visits.length,3);assert.equal(calls,1);
+  assert.equal(result.steps[1].answer?.correctText,'کلسیم هیدروکساید');
+  const bank=JSON.parse(await readFile(path.join(root,'lessons/1/question-bank.json'),'utf8'));
+  assert.equal(bank.questions[0].answer.correctText,'کلسیم هیدروکساید');
+ }finally{globalThis.fetch=original;await fp.close();await rm(root,{recursive:true,force:true});}
 });
 
 test('source feedback is readable before a hearts modal interrupts advancing',async()=>{

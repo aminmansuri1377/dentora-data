@@ -1,6 +1,6 @@
 import { createHash } from 'node:crypto';
 import type { Answer, ContentNode, Frame, Lesson } from './types.js';
-import { letterPlan, normalizeWord, sourceRevealedWord } from './letters.js';
+import { joinTiles, letterPlan, normalizeWord, sourceRevealedWord } from './letters.js';
 export const hash = (value:unknown) => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 export const now = () => new Date().toISOString();
 export const normalize = (text:string) => text.replace(/\s+/g,' ').trim();
@@ -15,10 +15,10 @@ export function canonical(frame:Frame) {
 export function questionKey(frame:Frame) { return frame.questionId ? `question:${frame.questionId}` : `question:${canonical(frame)}`; }
 export function feedbackEvidence(frame:Frame):Answer {
   if(frame.questionType==='letter-order'&&frame.jumble) {
-    const j=frame.jumble,submitted=j.slotTexts.join('');
+    const j=frame.jumble,submitted=joinTiles(j.slotTexts,j);
     let word=frame.feedback?sourceRevealedWord(j.correctWord,j):null;
-    if(!word&&frame.feedback&&/\bok\b/.test(frame.feedbackClass)&&j.correctSlots&&j.slotTexts.every(t=>normalizeWord(t).length===1)) {
-      try{letterPlan(submitted,j);word=normalizeWord(submitted);}catch{/* Keep unverified. */}
+    if(!word&&frame.feedback&&/\bok\b/.test(frame.feedbackClass)&&j.correctSlots&&j.slotTexts.length===j.slotCount&&j.slotTexts.every(t=>!!normalizeWord(t))) {
+      try{letterPlan(submitted,j);word=submitted;}catch{/* Keep unverified. */}
     }
     return {status:word?'observed-text':'unverified',correctText:word??undefined,textEvidence:{submittedText:submitted,sourceRevealedWord:j.correctWord,slotsMarkedCorrect:j.correctSlots,feedbackClass:frame.feedbackClass},correctOptionHashes:[],correctOptionKeys:[],correctOptionTexts:[],explanation:frame.feedback,content:frame.feedbackContent,options:[],observedAt:now()};
   }

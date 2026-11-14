@@ -3,6 +3,7 @@ import path from 'node:path';
 import { hash, isVerifiedAnswer, nodes, now, optionHash, sourceNodes, validateLesson } from './core.js';
 import { readJson, writeJson } from './storage.js';
 import type { Catalog, CatalogLesson, Lesson, Step } from './types.js';
+import { wordTiles } from './letters.js';
 
 export async function inspectLesson(lesson:Lesson,root:string):Promise<string[]> {
   const issues=[...validateLesson(lesson).issues];
@@ -21,7 +22,7 @@ export function exportStep(step:Step) {
   return {id:step.id,sourceId:step.sourceQuestionId??step.sourceStepId??step.id,sourceProgress:step.sourceProgress,contentKey:hash({kind:step.kind,type:step.questionType,prompt:step.prompt,content:step.kind==='theory'?sourceNodes(step.content):undefined,options:options.map(o=>o.id).sort(),slots:step.jumble?.slotCount,jumble:step.jumble?.tiles.map(t=>t.text).sort()}),position:step.position,kind:step.kind,type:step.questionType,
     prompt:step.prompt,sourceContent:step.content,options,
     answer:step.answer?{verification:step.answer.status,correctOptionIds,correctText:step.answer.correctText,explanation:step.answer.explanation,content:step.answer.content,observedAt:step.answer.observedAt}:null,
-    letterLayout:step.jumble?{slotCount:step.jumble.slotCount,tiles:step.jumble.tiles}:undefined};
+    letterLayout:step.jumble?{unit:wordTiles(step.jumble)?'word':'letter',slotCount:step.jumble.slotCount,tiles:step.jumble.tiles}:undefined};
 }
 type AuditRow={id:string;title:string;chapterId:string;chapterPosition:number;position:number;status:string;importReady:boolean;issues:string[];pages:number;questions:number;verifiedQuestions:number;bankQuestions:number;images:number;file:string|null};
 const chapterDirectory=(row:CatalogLesson)=>`chapters/${String(row.chapterPosition).padStart(3,'0')}-${row.chapterId}`;

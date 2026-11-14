@@ -109,7 +109,7 @@ export class Engine {
   }
   async fillLetters(frame:Frame,word:string) {
     if(!frame.jumble)throw new Error('LETTERS_LAYOUT_MISSING');
-    const plan=letterPlan(word,frame.jumble),chars=Array.from(normalizeWord(word));
+    const plan=letterPlan(word,frame.jumble),byKey=new Map(frame.jumble.tiles.map(t=>[t.key,t.text]));
     const fresh=await this.frame();
     if(fresh.kind!=='question'||canonical(fresh)!==canonical(frame)||fresh.feedback)throw new Error('QUESTION_CHANGED_DURING_AI');
     if(fresh.jumble?.slotTexts.some(t=>normalizeWord(t)))throw new Error('LETTERS_ALREADY_FILLED');
@@ -117,9 +117,9 @@ export class Engine {
       const tile=this.page.locator(`${this.config.selectors.slide} .jumble-tile[data-tile-index="${plan[i]}"]`);
       if(await tile.count()!==1||!await tile.isVisible())throw new Error('LETTERS_TILE_UNAVAILABLE');
       await tile.click();
-      const expected=chars.slice(0,i+1).join('');
+      const expected=normalizeWord(plan.slice(0,i+1).map(key=>byKey.get(key)!).join(''));
       // Selection is local UI state. Verify every prefix, without a full page-settle delay per tile.
-      await this.stable(next=>canonical(next)===canonical(frame)&&normalizeWord(next.jumble?.slotTexts.join('')??'')===expected,'LETTERS_SELECTION_NOT_READY',0);
+      await this.stable(next=>canonical(next)===canonical(frame)&&normalizeWord(next.jumble?.slotTexts.join('')??'')===expected&&next.jumble?.slotTexts.filter(t=>!!normalizeWord(t)).length===i+1,'LETTERS_SELECTION_NOT_READY',0);
     }
   }
   async scrape(item:CatalogLesson):Promise<Lesson> {
