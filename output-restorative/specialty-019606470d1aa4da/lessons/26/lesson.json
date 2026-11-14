@@ -11,8 +11,8 @@
   "lessonPosition": 1,
   "runId": "2026-11-14T21-57-03-592Z",
   "startedAt": "2026-11-14T23:00:18.844Z",
-  "updatedAt": "2026-11-14T23:01:29.866Z",
-  "status": "needs-review",
+  "updatedAt": "2026-11-14T23:22:05.907Z",
+  "status": "captured",
   "steps": [
     {
       "id": "theory:11cd84ee52f453daf34dc4531f9e8995a99a253245955d7cb3f6b8886b64cbee",
@@ -1371,7 +1371,10 @@
       "progress": "width: 85.7143%;"
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "SOURCE_QUESTION_ID_UNAVAILABLE_LOCAL_HASH:4",
+    "SOURCE_QUESTION_ID_UNAVAILABLE_LOCAL_HASH:5"
+  ],
   "theoryPageCount": 3,
   "questionCount": 4,
   "completion": {
@@ -1379,10 +1382,7 @@
     "at": "2026-11-14T23:01:29.866Z"
   },
   "validation": {
-    "issues": [
-      "QUESTION_ID_UNVERIFIED:4",
-      "QUESTION_ID_UNVERIFIED:5"
-    ],
+    "issues": [],
     "countsVerified": false,
     "sourceFinished": true
   }

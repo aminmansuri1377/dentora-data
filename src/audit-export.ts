@@ -19,7 +19,7 @@ export async function inspectLesson(lesson:Lesson,root:string):Promise<string[]>
 export function exportStep(step:Step) {
   const options=step.options.map(o=>({id:optionHash(o),sourceKey:o.key,position:o.position,text:o.text,content:o.content}));
   const correctOptionIds=step.answer?.correctOptionHashes??[];
-  return {id:step.id,sourceId:step.sourceQuestionId??step.sourceStepId??step.id,sourceProgress:step.sourceProgress,contentKey:hash({kind:step.kind,type:step.questionType,prompt:step.prompt,content:step.kind==='theory'?sourceNodes(step.content):undefined,options:options.map(o=>o.id).sort(),slots:step.jumble?.slotCount,jumble:step.jumble?.tiles.map(t=>t.text).sort()}),position:step.position,kind:step.kind,type:step.questionType,
+  return {id:step.id,sourceId:step.sourceQuestionId??step.sourceStepId??null,identityOrigin:step.sourceQuestionId?'source-question-id':step.sourceStepId?'source-step-id':step.kind==='question'?'content-hash':'local-step',sourceProgress:step.sourceProgress,contentKey:hash({kind:step.kind,type:step.questionType,prompt:step.prompt,content:step.kind==='theory'?sourceNodes(step.content):undefined,options:options.map(o=>o.id).sort(),slots:step.jumble?.slotCount,jumble:step.jumble?.tiles.map(t=>t.text).sort()}),position:step.position,kind:step.kind,type:step.questionType,
     prompt:step.prompt,sourceContent:step.content,options,
     answer:step.answer?{verification:step.answer.status,correctOptionIds,correctText:step.answer.correctText,explanation:step.answer.explanation,content:step.answer.content,observedAt:step.answer.observedAt}:null,
     letterLayout:step.jumble?{unit:wordTiles(step.jumble)?'word':'letter',slotCount:step.jumble.slotCount,tiles:step.jumble.tiles}:undefined};

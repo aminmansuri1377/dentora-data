@@ -13,6 +13,7 @@ import { Hearts, emptyHearts } from './hearts.js';
 import { letterPlan, normalizeWord } from './letters.js';
 import { StudyMemory, contentText } from './study-memory.js';
 import { appendFile, mkdir } from 'node:fs/promises';
+import { revalidateCompletedLesson } from './revalidate.js';
 export type EngineOptions = { root:string;runId:string;specialtyKey:string;specialtyName:string;force?:boolean;answerMode:'first'|'manual'|'ai';aiModel?:string;aiReview?:boolean;aiReferenceChars?:number;hearts?:Hearts;manual: (message:string)=>Promise<void> };
 export class Engine {
   private memory?:Promise<StudyMemory>;
@@ -141,7 +142,7 @@ export class Engine {
   private async scrapeOnce(item:CatalogLesson):Promise<Lesson> {
     const url=lessonUrl(item.url!,this.config.baseUrl),id=item.id;
     const file=path.join(this.options.root,'lessons',id,'lesson.json');
-    const previous=await readJson<Lesson>(file);
+    const previous=this.options.force?await readJson<Lesson>(file):await revalidateCompletedLesson(this.options.root,id,this.options.runId);
     if(previous&&previous.schemaVersion!==3)throw new Error('CHECKPOINT_VERSION_MISMATCH');
     if(previous&&['captured','validated'].includes(previous.status)&&!this.options.force)return previous;
     await archive(file,this.options.runId);

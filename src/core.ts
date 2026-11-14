@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import type { Answer, ContentNode, Frame, Lesson } from './types.js';
+import type { Answer, ContentNode, Frame, Lesson, Step } from './types.js';
 import { joinTiles, letterPlan, normalizeWord, sourceRevealedWord } from './letters.js';
 export const hash = (value:unknown) => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 export const now = () => new Date().toISOString();
@@ -13,6 +13,10 @@ export function canonical(frame:Frame) {
     : hash({content:sourceNodes(frame.content), step:frame.declaredStepId, progress:frame.progress});
 }
 export function questionKey(frame:Frame) { return frame.questionId ? `question:${frame.questionId}` : `question:${canonical(frame)}`; }
+export function validContentIdentity(step:Step):boolean {
+  // The old fallback hashes prompt/options, not arbitrary stem media. Keep those for review.
+  return step.kind==='question'&&!!step.prompt.trim()&&!nodes(step.content).some(n=>['img','svg','video','audio','canvas','iframe','object','embed'].includes(n.tag)||!!n.attributes?.unsupportedMedia)&&/^question:[a-f0-9]{64}$/.test(step.id)&&step.id===questionKey({...step,questionId:null} as unknown as Frame);
+}
 export function feedbackEvidence(frame:Frame):Answer {
   if(frame.questionType==='letter-order'&&frame.jumble) {
     const j=frame.jumble,submitted=joinTiles(j.slotTexts,j);
@@ -45,7 +49,7 @@ export function validateLesson(lesson:Lesson) {
   if (lesson.steps.some((s,i)=>s.position!==i+1)) issues.push('NONCONTIGUOUS_STEP_ORDER');
   if (new Set(lesson.steps.map(s=>s.id)).size!==lesson.steps.length) issues.push('DUPLICATE_STEP_IDS');
   for (const step of lesson.steps) {
-    if(step.kind==='question'&&!step.sourceQuestionId&&!step.sourceStepId)issues.push(`QUESTION_ID_UNVERIFIED:${step.position}`);
+    if(step.kind==='question'&&!step.sourceQuestionId&&!step.sourceStepId&&!validContentIdentity(step))issues.push(`QUESTION_ID_UNVERIFIED:${step.position}`);
     if (step.kind==='question' && !isVerifiedAnswer(step.answer)) issues.push(`ANSWER_UNVERIFIED:${step.position}`);
     if(step.kind==='question'&&step.answer?.status==='observed-single-key') {
       const matching=step.options.filter(o=>step.answer!.correctOptionHashes.includes(optionHash(o)));
@@ -66,6 +70,10 @@ export function finalize(lesson:Lesson) {
   lesson.theoryPageCount=lesson.steps.filter(s=>s.kind==='theory').length;
   lesson.questionCount=lesson.steps.filter(s=>s.kind==='question').length;
   lesson.validation=validateLesson(lesson);
+  for(const step of lesson.steps)if(!step.sourceQuestionId&&!step.sourceStepId&&validContentIdentity(step)) {
+    const warning=`SOURCE_QUESTION_ID_UNAVAILABLE_LOCAL_HASH:${step.position}`;
+    if(!lesson.warnings.includes(warning))lesson.warnings.push(warning);
+  }
   if (!lesson.completion) lesson.status='incomplete';
   else if (lesson.validation.issues.length) lesson.status='needs-review';
   else lesson.status=lesson.validation.countsVerified?'validated':'captured';

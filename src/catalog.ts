@@ -7,6 +7,7 @@ import { readJson, writeJson } from './storage.js';
 import type { Catalog, Config, Lesson } from './types.js';
 import type { Engine } from './engine.js';
 import { auditSpecialty } from './audit-export.js';
+import { revalidateCompletedLesson } from './revalidate.js';
 export async function catalog(page:Page,config:Config):Promise<Catalog> {
   await page.locator(config.selectors.catalog as string).waitFor({state:'visible',timeout:config.timeoutMs});
   let last='',since=0;const deadline=Date.now()+config.timeoutMs;
@@ -40,7 +41,7 @@ export async function crawlSpecialty(page:Page,config:Config,root:string,first:C
     await writeJson(file,{schemaVersion:3,capturedAt:now(),...current});
     let candidate=current.lessons.find(l=>!!l.url&&!attempted.has(l.id));
     while(candidate) {
-      const old=await readJson<Lesson>(path.join(root,'lessons',candidate.id,'lesson.json'));
+      const old=force?await readJson<Lesson>(path.join(root,'lessons',candidate.id,'lesson.json')):await revalidateCompletedLesson(root,candidate.id,runId??now().replace(/[:.]/g,'-'));
       if(!old||!['captured','validated'].includes(old.status)||force)break;
       attempted.add(candidate.id);candidate=current.lessons.find(l=>!!l.url&&!attempted.has(l.id));
     }
