@@ -1,0 +1,1981 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/57/lesson.json",
+  "id": "57",
+  "title": "درس دوم: ابزارشناسی: ابزارهای دستی و چرخشی",
+  "specialtyKey": "019606470d1aa4da",
+  "chapter": {
+    "id": "22",
+    "title": "آماده‌سازی حفره و اصول تراش دندان",
+    "position": 35
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:2237c08ebdd6b53286bbe7cec4027c77302728c1bccf4e5d5acac193cc996080",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "c34178034d4b51c9f054b8bea4cfb65d7f2736a2d42ec093b897b47beba111cf",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فلسفه ابزارهای دستی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اگرچه ابزارهای چرخشی (توربین) سرعتِ کار را بالا می‌برند، اما نهایی‌سازیِ دقیقِ حفره همچنان نیازمندِ ظرافتِ ابزارهای دستی است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاربردهای کلیدی بالینی :"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "برداشت مینای بدون پشتیبان:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "چیزل (Chisel)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " و "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هچت (Hachet)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " ابزارهای اختصاصی برای خرد کردن و برداشتن مینای ضعیف در دیواره‌ها ایده آل هستند. تفاوت در جهت برش آن‌ها نسبت به دسته است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نهایی‌سازی دیواره‌ها و زوایا:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هو (Hoe)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " برای صاف کردن کف حفره و هچت برای تیز کردن زوایای خطی و نقطه‌ای (Line & Point Angles) جهت گیر آمالگام استفاده می‌شوند."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پخ‌زدن مارژین جینجیوال:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "جینجیوال مارژین تریمر (GMT)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " ابزاری اختصاصی برای ایجاد بیول (پخ) در مارژینِ لثه‌ای حفرات کلاس II است تا از شکستگی منشورهای مینایی جلوگیری شود."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "برداشت پوسیدگی نرم:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اکسکاواتور قاشقی (Spoon Excavator)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " برای \"قاشق کردن\" و برداشتن عاجِ عفونیِ نرم از کف حفره به صورت دستی، بدون خطر اکسپوز پالپ، استفاده می‌شود."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/tCuGOUO7Lnd07kjZxHJlHTYz5jYxPnVFNdtHKqJI.webp",
+                  "alt": "ابزار های دستی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/7fcc5505ef73ed16bb35ad54dea1d785552ec3bd9e207cb47b57b0eb2df82299.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:4095287f2507b243b2661b62fbf9841f8ac5b11e40ebdff240058dd9ad05e62b",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "12531f24d97b515bdd7326e248f33d2914a6837191abee6b097f1e5be6de091a",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ابزارهای چرخشی قلبِ عملیاتیِ دندانپزشکی ترمیمی هستند که بر اساس سرعت و گشتاور (Torque) به دو دسته اصلی تقسیم می‌شوند :"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {
+                "start": "1"
+              },
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هندپیس با سرعت بالا (High-Speed / Turbine):"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "ul",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "سرعت:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " فوق‌العاده بالا ($~400,000$ دور در دقیقه / RPM) و گشتاور پایین."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "کاربرد:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " عمدتاً برای تراشِ اولیه و سریعِ "
+                                },
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "مینای سخت"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " و حذفِ ترمیم‌های قدیمی (تصویر ۳۶)."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "نکته کلیدی:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " به دلیل سرعت بالا، اصطکاک و حرارتِ شدید تولید می‌کند (التهاب پالپ)؛ بنابراین استفاده از "
+                                },
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "اسپریِ آبِ مداوم و کافی"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " حیاتی است."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هندپیس با سرعت پایین (Low-Speed / Contra-angle):"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "ul",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "سرعت:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " پایین ($~40,000$ دور در دقیقه / RPM) و گشتاور بالا."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "کاربرد:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " برای حذفِ "
+                                },
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "عاجِ پوسیده‌‌یِ نرم"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " (عاج عفونی) توسط فرزهای بزرگ، پرداختِ ترمیم‌ها و نهایی‌سازیِ حفره."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "نکته کلیدی:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " گشتاورِ بالا اجازه می‌دهد فرز بدونِ متوقف شدن در عاجِ نرم نفوذ کند و کنترل بالایی به دندانپزشک می‌دهد."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/tsMTMiLiDj2UxQpUwYEs2WFK7gNVuK2PtE14kLNq.webp",
+                  "alt": "",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/1ea210c1137d7db5c1a62e1c03b8999e00f13c0efd8d1126f9a9392eb0127b46.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:decb3b1bc2fd58278269f5f9842d6bbc548a1ce8132c3a257a480d22d9186a9f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "1f9076f82a5ca6b8a318c5ff506f756d44fba968c83e5f2f012d489a5858f550",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "انتخابِ نوعِ فرز بر اساس بافتی که قرار است تراشیده شود، شرطِ اصلیِ کارایی و ایمنی است :"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {
+                "start": "1"
+              },
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فرزهای الماسه (Diamond Burs):"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "ul",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "ساختار:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " ذراتِ الماسِ صنعتی (تولید مصنوعی) که روی یک داربستِ فلزی چسبانده شده‌اند ."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "مکانیسم:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " این فرزها با "
+                                },
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "سایش (Abrasion)"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " بافت را می‌تراشند."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "کاربرد:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " ایده آل برای تراشِ "
+                                },
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "مینای سخت"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " دندان. به دلیل اصطکاک بالا، حرارت زیادی تولید می‌کنند و نیاز به آب فراوان دارند."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فرزهای کارباید (Carbide Burs):"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "ul",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "ساختار:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " از جنس تنگستن کارباید سخت ساخته شده و دارای "
+                                },
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "پره‌های برنده (Cutting Flutes)"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " هستند."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "مکانیسم:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " این فرزها با "
+                                },
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "برش (Cutting)"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " بافت را می‌برند (تراشِ تمیزتر و حرارتِ کمتر)."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "li",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "p",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "کاربرد:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " ایده آل برای تراشِ "
+                                },
+                                {
+                                  "tag": "strong",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "text",
+                                      "text": "عاج"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "text",
+                                  "text": " دندان. همچنین برای برداشتن آمالگام قدیمی یا پرداختِ ترمیم‌ها استفاده می‌شوند."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/02x159LeyWUGEuV1M2LTzCBAkUnC92OfaSuUe7YZ.webp",
+                  "alt": "",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/df718f1da4e05ff590f413ce74edb74ee9d2ffc1f10577110912945f079710e7.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:557",
+      "sourceId": "557",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "c68a1d528e63d78bc80f2743e30985eb2bc6e315bce360ed00925294b186e8ee",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "هنگام آماده‌سازی حفره آمالگام، تیز کردن زوایای خطی و نقطه‌ای (Line & Point Angles) برای تامین فرم گیر مکانیکی، عمدتاً توسط کدام ابزار دستی انجام می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هنگام آماده‌سازی حفره آمالگام، تیز کردن زوایای خطی و نقطه‌ای (Line & Point Angles) برای تامین فرم گیر مکانیکی، عمدتاً توسط کدام ابزار دستی انجام می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چیزل (Chisel)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هچت (Hachet) یا هو (Hoe)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جینجیوال مارژین تریمر (GMT)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اکسکاواتور قاشقی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d6b0dc2a986bdf529caa2ed2545c9402f6141d92e21c5cb99486fedac06b5ab6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چیزل (Chisel)",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چیزل (Chisel)"
+            }
+          ]
+        },
+        {
+          "id": "3fd63547d8c57e3e76791f13007088e0f02648a04ee88f576cbbf09eba7f5648",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هچت (Hachet) یا هو (Hoe)",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هچت (Hachet) یا هو (Hoe)"
+            }
+          ]
+        },
+        {
+          "id": "99d798f37b9ecf997feec80f42759b6c6001af749ba25f88891a165246d09f30",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "جینجیوال مارژین تریمر (GMT)",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جینجیوال مارژین تریمر (GMT)"
+            }
+          ]
+        },
+        {
+          "id": "6f14a04fba7bad98d7e793af75ed6b9c848cd0c9c6318cfe16480af7d9c43199",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اکسکاواتور قاشقی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اکسکاواتور قاشقی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3fd63547d8c57e3e76791f13007088e0f02648a04ee88f576cbbf09eba7f5648"
+        ],
+        "explanation": "عالی بود. هچت و هو برای صاف کردن دیواره‌ها و تیز کردن زوایای داخلی حفره ایده آل هستند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "عالی بود. هچت و هو برای صاف کردن دیواره‌ها و تیز کردن زوایای داخلی حفره ایده آل هستند."
+          }
+        ],
+        "observedAt": "2026-11-15T00:00:15.352Z"
+      }
+    },
+    {
+      "id": "question:558",
+      "sourceId": "558",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "8a7a1f60304edd9c90da3313e42a22ef9b8f0468c37564b98f4b3cc716f9860e",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا استفاده از توربین دندانپزشکی (High-Speed) بدون اسپریِ آب کافی، باعث آسیب شدید به پالپ دندان می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا استفاده از توربین دندانپزشکی (High-Speed) بدون اسپریِ آب کافی، باعث آسیب شدید به پالپ دندان می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون توربین باکتری‌ها را قوی‌تر می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون سرعت بالا ($~400,000$ RPM) حرارتِ اصطکاکیِ شدیدی تولید کرده که باعث التهاب یا نکروز پالپ می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون توربین مینا را می‌سوزاند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون توربین گشتاور بالایی دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ba6f07193b3c294795495a75ad20bf4d977dafb61331696dffd000bf531200ae",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون توربین باکتری‌ها را قوی‌تر می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون توربین باکتری‌ها را قوی‌تر می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "3b0e01ee45babd77f9baef11758229c73eeb05521bbcc681d6ccd7b34bdb33ce",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون سرعت بالا ($~400,000$ RPM) حرارتِ اصطکاکیِ شدیدی تولید کرده که باعث التهاب یا نکروز پالپ می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون سرعت بالا ($~400,000$ RPM) حرارتِ اصطکاکیِ شدیدی تولید کرده که باعث التهاب یا نکروز پالپ می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "634da55daa9b3e54267cf84c3152fd1c824513a843e80ccf0f83fb8c869f906b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون توربین مینا را می‌سوزاند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون توربین مینا را می‌سوزاند"
+            }
+          ]
+        },
+        {
+          "id": "38bf25573cc28da2ea86d3b1d5994b9720a78e641f1aa6678cbd127fa11a4a76",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون توربین گشتاور بالایی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون توربین گشتاور بالایی دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3b0e01ee45babd77f9baef11758229c73eeb05521bbcc681d6ccd7b34bdb33ce"
+        ],
+        "explanation": "پاسخ صحیح است. تراش با سرعت بالا بدون خنک‌کننده آب باعث جهش حرارت و آسیب به پالپ می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پاسخ صحیح است. تراش با سرعت بالا بدون خنک‌کننده آب باعث جهش حرارت و آسیب به پالپ می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-15T00:00:22.664Z"
+      }
+    },
+    {
+      "id": "question:561",
+      "sourceId": "561",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "6e396c74899b4c08c79d6147ef5e92875923c72f27fc21c5f98034adfe631368",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "فرزهای الماسه دندانپزشکی، بافت سخت دندان (مانند مینا) را با چه مکانیسمی می‌تراشند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "فرزهای الماسه دندانپزشکی، بافت سخت دندان (مانند مینا) را با چه مکانیسمی می‌تراشند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برش (Cutting) با پره‌های تیز"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سایش (Abrasion) از طریق ذراتِ پودرِ الماسِ سخت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ذوب کردن مینا"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لرزش میکروسکوپی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ceb94b15a666ae551adfe0b10fa1801cd4c8c6737826508ecaf24ed81416ea76",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "برش (Cutting) با پره‌های تیز",
+          "content": [
+            {
+              "tag": "text",
+              "text": "برش (Cutting) با پره‌های تیز"
+            }
+          ]
+        },
+        {
+          "id": "9b83c2c1ff2604000a031fcb192161052edf06b4f713c740216bcfebd701716b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سایش (Abrasion) از طریق ذراتِ پودرِ الماسِ سخت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سایش (Abrasion) از طریق ذراتِ پودرِ الماسِ سخت"
+            }
+          ]
+        },
+        {
+          "id": "21af0261df9624eebfab83a197c6760dc66e0f0c98a12b346704eef3d01bc921",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ذوب کردن مینا",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ذوب کردن مینا"
+            }
+          ]
+        },
+        {
+          "id": "198fd7e310d0138874e41a710cef4d52ea26ed31a22bf98fab5e6da10de4a492",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "لرزش میکروسکوپی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "لرزش میکروسکوپی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9b83c2c1ff2604000a031fcb192161052edf06b4f713c740216bcfebd701716b"
+        ],
+        "explanation": "پاسخ صحیح است. فرزهای الماسه با سایش سطح (Abrasion) کار می‌کنند و برای مینای سخت عالی هستند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پاسخ صحیح است. فرزهای الماسه با سایش سطح (Abrasion) کار می‌کنند و برای مینای سخت عالی هستند."
+          }
+        ],
+        "observedAt": "2026-11-15T00:00:29.106Z"
+      }
+    },
+    {
+      "id": "question:566",
+      "sourceId": "566",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "844caaf3e1e77cec415c4524128cfeb527c4fcfc6afb4e45ad5c8213c9542d53",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "فرزهای کارباید Cross-cut (با بریدگی‌های عرضی روی پره‌ها) چه ویژگی خاصی هنگام تراش با هندپیس‌های سرعت پایین (Low-Speed) نشان می‌دهند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "فرزهای کارباید Cross-cut (با بریدگی‌های عرضی روی پره‌ها) چه ویژگی خاصی هنگام تراش با هندپیس‌های سرعت پایین (Low-Speed) نشان می‌دهند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تراش بسیار نرم و صقلی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش قدرت تراش و گشتاور (Torque) در سرعت پایین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش سرعت تراش"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکستن فوری منشورهای مینا"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7e1930946d4499e7e6fdca8ef5c09ed37ab8683867e0a3afd8e434caa434bc49",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تراش بسیار نرم و صقلی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تراش بسیار نرم و صقلی"
+            }
+          ]
+        },
+        {
+          "id": "6a8c84f23aa70f68e492d541d20c45cffebeeca32d4c37ecd6cd8f913e98e908",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "افزایش قدرت تراش و گشتاور (Torque) در سرعت پایین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش قدرت تراش و گشتاور (Torque) در سرعت پایین"
+            }
+          ]
+        },
+        {
+          "id": "55ab6a5ad31bbf5129be81d2bae19f3c8bf2a2dbcc2cd8690a9764a32635febe",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کاهش سرعت تراش",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش سرعت تراش"
+            }
+          ]
+        },
+        {
+          "id": "2daef9fc1fd8ec981b2ee1e64f7a43f0e755723814aaaf78a0029def665d329d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "شکستن فوری منشورهای مینا",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شکستن فوری منشورهای مینا"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6a8c84f23aa70f68e492d541d20c45cffebeeca32d4c37ecd6cd8f913e98e908"
+        ],
+        "explanation": "عالی بود. Cross-cutها در سرعت پایین گشتاور را بالا می‌برند و برای برداشتن عاج عفونی یا ترمیم‌های قدیمی مناسب‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "عالی بود. Cross-cutها در سرعت پایین گشتاور را بالا می‌برند و برای برداشتن عاج عفونی یا ترمیم‌های قدیمی مناسب‌اند."
+          }
+        ],
+        "observedAt": "2026-11-15T00:00:35.854Z"
+      }
+    },
+    {
+      "id": "question:567",
+      "sourceId": "567",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "591c86bfdd0b1f6736201e14ecbd9841b4637afce81bc0251a4e753cff1f4541",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "فرز با شکل گرد (Round Bur)، چه در نوع الماسه و چه کارباید، برای کدام مرحله از آماده‌سازی حفره ایده آل است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "فرز با شکل گرد (Round Bur)، چه در نوع الماسه و چه کارباید، برای کدام مرحله از آماده‌سازی حفره ایده آل است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صاف کردن دیواره‌ها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایجاد همگرایی دیواره‌ها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برداشت پوسیدگی عاجی و ایجاد دسترسی اولیه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پخ‌زدن مارژین مینایی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "004b1dd290a084705497c97bc1c9215adf98f64818ed1b6bb45d90eb616347fc",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "صاف کردن دیواره‌ها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صاف کردن دیواره‌ها"
+            }
+          ]
+        },
+        {
+          "id": "37c21a605746b8b243cdeecb0d7211c131ca4aaca311c788b4366a711a3fff79",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ایجاد همگرایی دیواره‌ها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایجاد همگرایی دیواره‌ها"
+            }
+          ]
+        },
+        {
+          "id": "c400025b5a501991413c491e3ae9d132a361449ae8ce1f7f00550ee136cbe63a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "برداشت پوسیدگی عاجی و ایجاد دسترسی اولیه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "برداشت پوسیدگی عاجی و ایجاد دسترسی اولیه"
+            }
+          ]
+        },
+        {
+          "id": "1aadfb0c0c6709287ea68b2e6b653554fa92ab881450b5290e3cf4ad90a61142",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "پخ‌زدن مارژین مینایی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پخ‌زدن مارژین مینایی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c400025b5a501991413c491e3ae9d132a361449ae8ce1f7f00550ee136cbe63a"
+        ],
+        "explanation": "پاسخ صحیح است. فرز Round بهترین ابزار برای برداشتن پوسیدگی‌های حفره‌دار و دسترسی اولیه به حفره است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پاسخ صحیح است. فرز Round بهترین ابزار برای برداشتن پوسیدگی‌های حفره‌دار و دسترسی اولیه به حفره است."
+          }
+        ],
+        "observedAt": "2026-11-15T00:00:46.042Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:2237c08ebdd6b53286bbe7cec4027c77302728c1bccf4e5d5acac193cc996080",
+      "at": "2026-11-14T23:59:39.818Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:4095287f2507b243b2661b62fbf9841f8ac5b11e40ebdff240058dd9ad05e62b",
+      "at": "2026-11-14T23:59:41.946Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:decb3b1bc2fd58278269f5f9842d6bbc548a1ce8132c3a257a480d22d9186a9f",
+      "at": "2026-11-14T23:59:44.078Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:557",
+      "at": "2026-11-14T23:59:45.689Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:558",
+      "at": "2026-11-15T00:00:16.906Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:561",
+      "at": "2026-11-15T00:00:24.189Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:566",
+      "at": "2026-11-15T00:00:30.644Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:567",
+      "at": "2026-11-15T00:00:37.406Z",
+      "progress": "width: 87.5%;"
+    },
+    {
+      "stepId": "question:567",
+      "at": "2026-11-15T00:00:43.888Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

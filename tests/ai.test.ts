@@ -77,7 +77,7 @@ test('local request includes lesson and mapped images; only source feedback veri
   const root=await mkdtemp(path.join(tmpdir(),'dentigo-ai-'));
   const original=globalThis.fetch;
   try {
-    await mkdir(path.join(root,'assets'));await writeFile(path.join(root,'assets','test.png'),Buffer.from('image'));
+    await mkdir(path.join(root,'assets'));await writeFile(path.join(root,'assets','test.png'),Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+aX1cAAAAASUVORK5CYII=','base64'));
     const opts=[{key:'wrong',position:1,text:'W',content:[],selected:false,correctMarked:false,wrongMarked:false},{key:'right',position:2,text:'R',content:[{tag:'img',assetPath:'assets/test.png',alt:'case'}],selected:false,correctMarked:false,wrongMarked:false}];
     const f={kind:'question',questionId:'1',questionType:'single-choice',prompt:'P',content:[],options:opts,feedback:'',feedbackContent:[]} as unknown as Frame;
     const l={steps:[{kind:'theory',content:[{tag:'text',text:'lesson evidence'}]}]} as unknown as Lesson;

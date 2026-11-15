@@ -1,6 +1,6 @@
 {
   "name": "dentigo-crawler",
-  "version": "3.4.5",
+  "version": "3.4.6",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,21 +8,23 @@
     "login": "node --import tsx src/cli.ts login",
     "crawl": "node --import tsx src/cli.ts crawl",
     "validate": "node --import tsx src/cli.ts validate",
-    "test": "node --import tsx --test tests/crawler.test.ts tests/auth-state.test.ts tests/ai.test.ts tests/hearts.test.ts tests/answer-cache.test.ts tests/letters.test.ts tests/recovery.test.ts tests/study-memory.test.ts tests/export.test.ts tests/benchmark.test.ts tests/identity.test.ts",
+    "test": "node --import tsx --test tests/crawler.test.ts tests/auth-state.test.ts tests/ai.test.ts tests/hearts.test.ts tests/answer-cache.test.ts tests/letters.test.ts tests/recovery.test.ts tests/study-memory.test.ts tests/export.test.ts tests/benchmark.test.ts tests/identity.test.ts tests/ai-image.test.ts",
     "typecheck": "tsc --noEmit",
     "test:browser": "node --import tsx --test tests/browser.test.ts",
     "test:auth": "node --import tsx --test tests/auth-state.test.ts",
     "audit": "node --import tsx src/cli.ts audit",
     "export": "node --import tsx src/cli.ts export",
-    "ai:benchmark": "node --import tsx scripts/benchmark-ai.ts"
+    "ai:benchmark": "node --import tsx scripts/benchmark-ai.ts",
+    "ai:check:lesson": "node --import tsx scripts/check-ai-lesson.ts"
   },
   "dependencies": {
     "playwright": "1.65.0",
+    "sharp": "0.34.5",
     "tsx": "4.23.15"
   },
   "devDependencies": {
     "@types/node": "24.19.2",
-    "typescript": "5.9.3",
-    "jsdom": "26.1.0"
+    "jsdom": "26.1.0",
+    "typescript": "5.9.3"
   }
 }

@@ -19,7 +19,7 @@ async function setup(failImage=false,answerMode:'first'|'manual'|'ai'='first',fo
  const state={finished:false};const base='http://127.0.0.1:12345';
  const config=await loadConfig('crawler.config.json');Object.assign(config,{baseUrl:base,timeoutMs:5000,settleMs:25,actionDelayMs:1,maxTransitions:80,expectedByLesson:{'1':{pages:10,questions:5}}});
  const fixturePage=new FixturePage(base,fixture,state),page=fixturePage as unknown as Page;
- const context={request:{get:async()=>({ok:()=>!failImage,headers:()=>({'content-type':'image/png'}),body:async()=>Buffer.from('PNG_FIXTURE'),dispose:async()=>{}})}} as unknown as BrowserContext;
+ const context={request:{get:async()=>({ok:()=>!failImage,headers:()=>({'content-type':'image/png'}),body:async()=>Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+aX1cAAAAASUVORK5CYII=','base64'),dispose:async()=>{}})}} as unknown as BrowserContext;
  const root=await mkdtemp(path.join(tmpdir(),'dentigo-test-'));
  const engine=new Engine(page,config,new Assets(context,config,root),{root,runId:'test-one',specialtyKey:'test',specialtyName:'آزمایش',force,answerMode,manual:async()=>{throw Error('Unexpected manual prompt');}});
  const item={id:'1',title:'درس اول',url:base+'/fa/lesson/1',chapterId:'7',chapterTitle:'آزمایش',chapterPosition:1,position:1,accessReason:'free'};

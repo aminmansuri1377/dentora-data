@@ -14,7 +14,7 @@ import { letterPlan, normalizeWord } from './letters.js';
 import { StudyMemory, contentText } from './study-memory.js';
 import { appendFile, mkdir } from 'node:fs/promises';
 import { revalidateCompletedLesson } from './revalidate.js';
-export type EngineOptions = { root:string;runId:string;specialtyKey:string;specialtyName:string;force?:boolean;answerMode:'first'|'manual'|'ai';aiModel?:string;aiReview?:boolean;aiReferenceChars?:number;hearts?:Hearts;manual: (message:string)=>Promise<void> };
+export type EngineOptions = { root:string;runId:string;specialtyKey:string;specialtyName:string;force?:boolean;answerMode:'first'|'manual'|'ai';aiModel?:string;aiReview?:boolean;aiReferenceChars?:number;aiImageMaxEdge?:number;hearts?:Hearts;manual: (message:string)=>Promise<void> };
 export class Engine {
   private memory?:Promise<StudyMemory>;
   constructor(private page:Page,private config:Config,private assets:Assets,private options:EngineOptions){}
@@ -26,10 +26,11 @@ export class Engine {
     const references=memory.context(frame,lesson,budget,2);
     console.log(JSON.stringify({event:'AI_CONTEXT',lesson:lesson.id,question:frame.questionId,referenceChars:references.length}));
     const model=this.options.aiModel??'qwen3-vl:2b-instruct';
-    const proposed=await chooseWithOllama(frame,lesson,this.options.root,model,references);
+    const ask=(candidate?:string)=>chooseWithOllama(frame,lesson,this.options.root,model,references,candidate,this.options.root,{imageMaxEdge:this.options.aiImageMaxEdge??1280});
+    const proposed=await ask();
     if(!this.options.aiReview)return proposed;
     console.log(JSON.stringify({event:'AI_REVIEW',lesson:lesson.id,question:frame.questionId}));
-    return chooseWithOllama(frame,lesson,this.options.root,model,references,proposed);
+    return ask(proposed);
   }
   async dismissTips() {
     let count=0;
