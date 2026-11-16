@@ -1,0 +1,1471 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/722/lesson.json",
+  "id": "722",
+  "title": "درس چهارم: طبقه‌بندی و تصمیم درمانی",
+  "specialtyKey": "acb216b542adab35",
+  "chapter": {
+    "id": "159",
+    "title": "بخش ۵: درمان پالپ دندان شیری، تشخیص وضعیت پالپ",
+    "position": 14
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:effc809663ddc02b5432a1b490c4c8ee29a560cec2e481e3e96a4bf751f489a0",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "0e18a991b930dbcff90987e88f5218dca95434915e5fc1d7dced9c8a9545368f",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پنج وضعیت، پنج مسیر"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱. پالپ سالم یا التهاب برگشت‌پذیر، بدون اکسپوژر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ← ترمیم، در صورت لزوم با پالپ‌کپ غیرمستقیم."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲. اکسپوژر کوچک و مکانیکی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در دندان بی‌علامت ← پالپ‌کپ مستقیم قابل بحث است."
+                },
+                {
+                  "tag": "br",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "text",
+                  "text": "ولی توجه: اکسپوژر ناشی از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پوسیدگی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در دندان شیری کاندید پالپ‌کپ مستقیم نیست — نتایجش ضعیف است و خطر تحلیل داخلی دارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳. اکسپوژر پوسیدگی‌ای با پالپ سالم یا التهاب برگشت‌پذیر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ← "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پالپوتومی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ به شرطی که پس از برداشتن پالپ تاجی، خون‌ریزی با فشار ملایم پنبه ظرف چند دقیقه بند بیاید."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۴. التهاب برگشت‌ناپذیر یا نکروز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (درد خودبه‌خودی یا شبانه، خون‌ریزی کنترل‌نشدنی پس از برداشتن پالپ تاجی، درگیری پالپ ریشه‌ای)، در دندان قابل ترمیم و بدون تحلیل پیشرفته ← "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پالپکتومی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵. تخریب گسترده، تحلیل داخلی یا خارجی پیشرفته، یا نزدیکی به افتادن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ← "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:0e25cb4e9182dcc6c2c60f80585b91406259df2c61b5837aec1ec4c78b5252c0",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "058eb30e7b4de216232e6d957ee1e9cbcb303d93fd53d6477e34dc3e7e02cc4a",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چه چیزی مسیر را عوض می‌کند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پس از تعیین وضعیت پالپ، چهار عامل می‌توانند تصمیم را جابه‌جا کنند:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "قابل ترمیم بودن دندان"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — اگر پس از درمان پالپ نتوان دندان را بازسازی کرد، درمان پالپ بی‌معناست."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "میزان تحلیل ریشه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — تحلیل گسترده، پالپکتومی را بی‌فایده و کشیدن را منطقی می‌کند."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "خطر برای جوانه‌ی دندان دائمی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — عفونت پایدار می‌تواند به مینای دندان جانشین آسیب بزند."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "وضعیت سیستمیک کودک"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — در برخی شرایط پزشکی، حفظ دندان عفونی پرخطرتر از کشیدن آن است."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قاعده‌ی کلی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تشخیص وضعیت پالپ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نقطه‌ی شروع"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، نه پایان تصمیم."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:7518",
+      "sourceId": "7518",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "3265af8159d7596cce1b7a4cb3d0fc15d45cbcd896bc2791b2829bbfe6e775b2",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مولر شیری بی‌علامت با پوسیدگی عمیق؛ حین برداشتن پوسیدگی پالپ اکسپوز می‌شود و پالپوتومی شروع می‌شود. پس از برداشتن پالپ تاجی، خون‌ریزی از دهانه‌ی کانال‌ها با چند دقیقه فشار ملایم پنبه بند نمی‌آید. این یافته‌ی حین کار چه چیزی را نشان می‌دهد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مولر شیری بی‌علامت با پوسیدگی عمیق؛ حین برداشتن پوسیدگی پالپ اکسپوز می‌شود و پالپوتومی شروع می‌شود. پس از برداشتن پالپ تاجی، خون‌ریزی از دهانه‌ی کانال‌ها با چند دقیقه فشار ملایم پنبه بند نمی‌آید. این یافته‌ی حین کار چه چیزی را نشان می‌دهد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خون‌ریزی فراوان نشانه‌ی پالپ زنده و پرخون است، پس می‌توان پالپوتومی را طبق برنامه تمام کرد و ترمیم گذاشت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خون‌ریزی طولانی طبیعی است و ربطی به وضعیت پالپ ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "التهاب احتمالاً به پالپ ریشه‌ای رسیده؛ پالپوتومی کافی نیست و باید سراغ پالپکتومی یا کشیدن رفت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید فوراً دندان کشیده شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b64297b84f238676eab597bff6e555df5638648b74ac74251d16f60a67ae242c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "خون‌ریزی فراوان نشانه‌ی پالپ زنده و پرخون است، پس می‌توان پالپوتومی را طبق برنامه تمام کرد و ترمیم گذاشت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خون‌ریزی فراوان نشانه‌ی پالپ زنده و پرخون است، پس می‌توان پالپوتومی را طبق برنامه تمام کرد و ترمیم گذاشت"
+            }
+          ]
+        },
+        {
+          "id": "8d3dcfb41f669656e6b5fc36ffbb2695a2d171f2d84790651a96e717a553f464",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "خون‌ریزی طولانی طبیعی است و ربطی به وضعیت پالپ ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خون‌ریزی طولانی طبیعی است و ربطی به وضعیت پالپ ندارد"
+            }
+          ]
+        },
+        {
+          "id": "fb8ca68056306ec2485acbd20d90f8414a95f91c0041078cc6bf79fb5433ac96",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "التهاب احتمالاً به پالپ ریشه‌ای رسیده؛ پالپوتومی کافی نیست و باید سراغ پالپکتومی یا کشیدن رفت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "التهاب احتمالاً به پالپ ریشه‌ای رسیده؛ پالپوتومی کافی نیست و باید سراغ پالپکتومی یا کشیدن رفت"
+            }
+          ]
+        },
+        {
+          "id": "9d6d13531a85bb4ce9d89eadc991d3d351d6b3286cf6047456e3e000caa28bba",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "باید فوراً دندان کشیده شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید فوراً دندان کشیده شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "fb8ca68056306ec2485acbd20d90f8414a95f91c0041078cc6bf79fb5433ac96"
+        ],
+        "explanation": "رفتار خون‌ریزی پس از برداشتن پالپ تاجی یک ابزار تشخیصی است: وقتی با فشار ملایم ظرف چند دقیقه بند نیاید، یعنی پالپ ریشه‌ای هم ملتهب است. تشخیص در دندانپزشکی کودکان گاهی وسط درمان کامل می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "رفتار خون‌ریزی پس از برداشتن پالپ تاجی یک ابزار تشخیصی است: وقتی با فشار ملایم ظرف چند دقیقه بند نیاید، یعنی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پالپ ریشه‌ای هم ملتهب است"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". تشخیص در دندانپزشکی کودکان گاهی وسط درمان کامل می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-16T21:02:09.667Z"
+      }
+    },
+    {
+      "id": "question:7519",
+      "sourceId": "7519",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "32c102a63ed37db33ecf2936b6164d3e525e6cfec2ff99fa24144b319f1d1f7e",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا پالپ‌کپ مستقیم در دندان شیری برای اکسپوژر ناشی از\nپوسیدگی\nتوصیه نمی‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا پالپ‌کپ مستقیم در دندان شیری برای اکسپوژر ناشی از "
+            },
+            {
+              "tag": "strong",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پوسیدگی"
+                }
+              ]
+            },
+            {
+              "tag": "text",
+              "text": " توصیه نمی‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون پالپ‌کپ مستقیم فقط برای دندان‌های قدامی کاربرد دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون مواد پالپ‌کپ در دندان شیری اثری ندارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون پالپ دندان شیری کوچک است و ماده‌ی پالپ‌کپ روی محل اکسپوژر جای کافی برای نشستن و سیل‌کردن ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پالپ در معرض باکتری بوده و التهاب از قبل شروع شده؛ نتایج ضعیف است و خطر تحلیل داخلی وجود دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "1a5692495659f4b3be73aad9c2e8f803fa29f780c34d999d7023bc2668a0fe73",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون پالپ‌کپ مستقیم فقط برای دندان‌های قدامی کاربرد دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون پالپ‌کپ مستقیم فقط برای دندان‌های قدامی کاربرد دارد"
+            }
+          ]
+        },
+        {
+          "id": "584d54f97172a55fe6b47838c1b26833ddcdb602673cedecaada536927974672",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون مواد پالپ‌کپ در دندان شیری اثری ندارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون مواد پالپ‌کپ در دندان شیری اثری ندارند"
+            }
+          ]
+        },
+        {
+          "id": "de35d8de1cf4ba983c0647625b57791f69f056e275cb8f075461840fd3aeac0c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون پالپ دندان شیری کوچک است و ماده‌ی پالپ‌کپ روی محل اکسپوژر جای کافی برای نشستن و سیل‌کردن ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون پالپ دندان شیری کوچک است و ماده‌ی پالپ‌کپ روی محل اکسپوژر جای کافی برای نشستن و سیل‌کردن ندارد"
+            }
+          ]
+        },
+        {
+          "id": "08018c75c2a7d98bf7ca4c21b2f3e73b55926d92d3416341959e06dd8cf3cb79",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "پالپ در معرض باکتری بوده و التهاب از قبل شروع شده؛ نتایج ضعیف است و خطر تحلیل داخلی وجود دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پالپ در معرض باکتری بوده و التهاب از قبل شروع شده؛ نتایج ضعیف است و خطر تحلیل داخلی وجود دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "08018c75c2a7d98bf7ca4c21b2f3e73b55926d92d3416341959e06dd8cf3cb79"
+        ],
+        "explanation": "تمایز کلیدی منشأ اکسپوژر است: اکسپوژر مکانیکی در دندان بی‌علامت یعنی پالپ تا لحظه‌ی قبل سالم بوده؛ اکسپوژر پوسیدگی‌ای یعنی باکتری از مدت‌ها قبل آنجا بوده.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تمایز کلیدی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "منشأ اکسپوژر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است: اکسپوژر مکانیکی در دندان بی‌علامت یعنی پالپ تا لحظه‌ی قبل سالم بوده؛ اکسپوژر پوسیدگی‌ای یعنی باکتری از مدت‌ها قبل آنجا بوده."
+          }
+        ],
+        "observedAt": "2026-11-16T21:02:15.542Z"
+      }
+    },
+    {
+      "id": "question:7522",
+      "sourceId": "7522",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "956a361f68a505ca2f3a7b4dcb75b83acf362bc74d563e13261d07543d6877e6",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا «قابل ترمیم بودن دندان» باید\nپیش از\nتصمیم به درمان پالپ بررسی شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا «قابل ترمیم بودن دندان» باید "
+            },
+            {
+              "tag": "strong",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پیش از"
+                }
+              ]
+            },
+            {
+              "tag": "text",
+              "text": " تصمیم به درمان پالپ بررسی شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون درمان پالپ استحکام دندان را افزایش می‌دهد و تاج ضعیف را برای ترمیم آماده می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اگر پس از درمان پالپ نتوان دندان را بازسازی کرد، کل درمان بی‌فایده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون قابل ترمیم بودن تاج، وضعیت پالپ زیر آن را هم تعیین می‌کند و تشخیص را قطعی می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون بیمه‌ها بدون ترمیم نهایی تاج، هزینه‌ی درمان پالپ دندان شیری را پوشش نمی‌دهند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e741db6056a238f6eb25df1233b84017e7610d8128522f6eb0fac589fe567ad7",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون درمان پالپ استحکام دندان را افزایش می‌دهد و تاج ضعیف را برای ترمیم آماده می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون درمان پالپ استحکام دندان را افزایش می‌دهد و تاج ضعیف را برای ترمیم آماده می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "638d2846eb771921ef45497e0028f672458cd2718163e2038d40fc95d47944f7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اگر پس از درمان پالپ نتوان دندان را بازسازی کرد، کل درمان بی‌فایده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اگر پس از درمان پالپ نتوان دندان را بازسازی کرد، کل درمان بی‌فایده است"
+            }
+          ]
+        },
+        {
+          "id": "218bae5ad057061c24d50dbf8b6238341c249523f2f0fbb31492b2996d72f57d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون قابل ترمیم بودن تاج، وضعیت پالپ زیر آن را هم تعیین می‌کند و تشخیص را قطعی می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون قابل ترمیم بودن تاج، وضعیت پالپ زیر آن را هم تعیین می‌کند و تشخیص را قطعی می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "00525e51733ff1408d8ff72a1c7cc83f5d27dc5bdd63c1440b0b366d8ff17ad8",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون بیمه‌ها بدون ترمیم نهایی تاج، هزینه‌ی درمان پالپ دندان شیری را پوشش نمی‌دهند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون بیمه‌ها بدون ترمیم نهایی تاج، هزینه‌ی درمان پالپ دندان شیری را پوشش نمی‌دهند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "638d2846eb771921ef45497e0028f672458cd2718163e2038d40fc95d47944f7"
+        ],
+        "explanation": "درمان پالپ هدف نیست، وسیله است — وسیله‌ای برای نگه داشتن یک دندان کارآمد. اگر دندان قابل بازسازی نباشد، وسیله به هدف بی‌ربطی خدمت می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درمان پالپ "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هدف نیست، وسیله است"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " — وسیله‌ای برای نگه داشتن یک دندان کارآمد. اگر دندان قابل بازسازی نباشد، وسیله به هدف بی‌ربطی خدمت می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T21:02:21.062Z"
+      }
+    },
+    {
+      "id": "question:7526",
+      "sourceId": "7526",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "9f269f07eeb9da678f296e67ea515614074bd90ce46dc213be34e3428999fd1d",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در\nتصمیم درمان پالپ\n، کدام گزینه تطبیق درستِ «عامل ← اثرش بر تصمیم» را نشان می‌دهد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در "
+            },
+            {
+              "tag": "strong",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تصمیم درمان پالپ"
+                }
+              ]
+            },
+            {
+              "tag": "text",
+              "text": "، کدام گزینه تطبیق درستِ «عامل ← اثرش بر تصمیم» را نشان می‌دهد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وضعیت سیستمیک پرخطر کودک ← ممکن است نگه داشتن دندان عفونی را پرخطرتر از کشیدن کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وضعیت سیستمیک پرخطر ← همیشه به نفع حفظ دندان است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قابل ترمیم نبودن دندان ← تغییری در تصمیم درمان پالپ ایجاد نمی‌کند، چون ترمیم مرحله‌ی بعدی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تحلیل گسترده‌ی ریشه ← اندیکاسیون قوی برای پالپکتومی، چون کانال کوتاه‌تر زودتر پاک‌سازی می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "63311fdaddad6cf6bc7dc42727cf2ac99e85eb10068b2a136f5680c8cf9efa1e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "وضعیت سیستمیک پرخطر کودک ← ممکن است نگه داشتن دندان عفونی را پرخطرتر از کشیدن کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وضعیت سیستمیک پرخطر کودک ← ممکن است نگه داشتن دندان عفونی را پرخطرتر از کشیدن کند"
+            }
+          ]
+        },
+        {
+          "id": "fb865819e1e3736d27775dd960158c322935992b8fd15268dc3d01fcd1a33e07",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "وضعیت سیستمیک پرخطر ← همیشه به نفع حفظ دندان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وضعیت سیستمیک پرخطر ← همیشه به نفع حفظ دندان است"
+            }
+          ]
+        },
+        {
+          "id": "66e6e017b50910acda6d614e9592c317d4a0c7493bfbd037fcd6fcb517e224f1",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "قابل ترمیم نبودن دندان ← تغییری در تصمیم درمان پالپ ایجاد نمی‌کند، چون ترمیم مرحله‌ی بعدی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "قابل ترمیم نبودن دندان ← تغییری در تصمیم درمان پالپ ایجاد نمی‌کند، چون ترمیم مرحله‌ی بعدی است"
+            }
+          ]
+        },
+        {
+          "id": "aeccf02715bf0b74701951b438e9657ef2a72b8f9ce6710151fbba30503649cb",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تحلیل گسترده‌ی ریشه ← اندیکاسیون قوی برای پالپکتومی، چون کانال کوتاه‌تر زودتر پاک‌سازی می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تحلیل گسترده‌ی ریشه ← اندیکاسیون قوی برای پالپکتومی، چون کانال کوتاه‌تر زودتر پاک‌سازی می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "63311fdaddad6cf6bc7dc42727cf2ac99e85eb10068b2a136f5680c8cf9efa1e"
+        ],
+        "explanation": "در برخی شرایط پزشکی، یک کانون عفونی باقی‌مانده خطر سیستمیک می‌سازد؛ آنجا معادله از «حفظ دندان» به «حذف کانون» می‌چرخد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در برخی شرایط پزشکی، "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "یک کانون عفونی باقی‌مانده"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " خطر سیستمیک می‌سازد؛ آنجا معادله از «حفظ دندان» به «حذف کانون» می‌چرخد."
+          }
+        ],
+        "observedAt": "2026-11-16T21:02:35.523Z"
+      }
+    },
+    {
+      "id": "question:7529",
+      "sourceId": "7529",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "44f8fe2cae9b81b3ffceebc88b575a175ccb9d26dd2841c14d5907544ec99e0a",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "تعیین دقیق وضعیت پالپ، درمان را به‌طور قطعی مشخص می‌کند و بررسی بیشتری لازم نیست.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تعیین دقیق وضعیت پالپ، درمان را به‌طور قطعی مشخص می‌کند و بررسی بیشتری لازم نیست."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "وضعیت پالپ محدوده‌ی گزینه‌ها را مشخص می‌کند، ولی چهار عامل دیگر — قابل ترمیم بودن، تحلیل ریشه، خطر برای جوانه‌ی دائمی و وضعیت سیستمیک — می‌توانند انتخاب نهایی را جابه‌جا کنند؛ حتی تا حد کشیدن دندانی با پالپ قابل درمان.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "وضعیت پالپ محدوده‌ی گزینه‌ها را مشخص می‌کند، ولی چهار عامل دیگر — قابل ترمیم بودن، تحلیل ریشه، خطر برای جوانه‌ی دائمی و وضعیت سیستمیک — می‌توانند انتخاب نهایی را جابه‌جا کنند؛ حتی تا حد "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کشیدن دندانی با پالپ قابل درمان"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-16T21:02:38.810Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:effc809663ddc02b5432a1b490c4c8ee29a560cec2e481e3e96a4bf751f489a0",
+      "at": "2026-11-16T21:01:59.381Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:0e25cb4e9182dcc6c2c60f80585b91406259df2c61b5837aec1ec4c78b5252c0",
+      "at": "2026-11-16T21:02:00.987Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:7518",
+      "at": "2026-11-16T21:02:02.590Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:7519",
+      "at": "2026-11-16T21:02:11.285Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:7522",
+      "at": "2026-11-16T21:02:17.157Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:7526",
+      "at": "2026-11-16T21:02:22.691Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:7529",
+      "at": "2026-11-16T21:02:28.638Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:7526",
+      "at": "2026-11-16T21:02:33.795Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:7529",
+      "at": "2026-11-16T21:02:37.103Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
