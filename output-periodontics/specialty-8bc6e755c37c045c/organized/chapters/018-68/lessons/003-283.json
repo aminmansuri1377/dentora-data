@@ -1,0 +1,2378 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/283/lesson.json",
+  "id": "283",
+  "title": "درس سوم: درمان تعدیل پاسخ میزبان (داکسی‌سایکلین دوز پایین)",
+  "specialtyKey": "8bc6e755c37c045c",
+  "chapter": {
+    "id": "68",
+    "title": "داروها و ارزیابی مجدد",
+    "position": 18
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:1029164a09938f97899d2fc46b331dd06ad0af06b00ee9da214777b2f5a0f752",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "d5b0c8c4495490883f64267844df3b4c1b728e70f0ba36fdfd8e3cc7e7252404",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h2",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🛡️ تعدیل پاسخ میزبان؛ تغییر هدف درمان"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تمام درمان‌هایی که تا اینجا خواندی — دبریدمان، آنتی‌بیوتیک، دارورسانی موضعی — یک هدف مشترک دارند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش بار میکروبی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 اما یک واقعیت بنیادی را به یاد بیاور: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تخریب بافت در پریودنتیت را خودِ میزبان انجام می‌دهد، نه مستقیماً باکتری."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آنزیم‌های تخریب‌کننده — به‌ویژه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماتریکس متالوپروتئینازها (MMP)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — از سلول‌های خود میزبان ترشح می‌شوند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پس یک راه دیگر هم وجود دارد:"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌جای اینکه فقط محرک را کم کنیم، می‌توانیم پاسخ بیش‌ازحد میزبان را هم تعدیل کنیم."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🧬 ماتریکس متالوپروتئینازها"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خانواده‌ای از آنزیم‌ها که ماتریکس خارج سلولی را تجزیه می‌کنند."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کلاژناز"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " (MMP-8 و MMP-13) اصلی‌ترین مقصر تخریب کلاژن پریودنشیوم است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "منبع اصلی آن‌ها در پریودنتیت: "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نوتروفیل‌ها"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " و فیبروبلاست‌ها."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در سلامت، فعالیت آن‌ها با مهارکننده‌های طبیعی (TIMP) متعادل است؛ در بیماری، این تعادل بر هم می‌خورد."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:eb4e2942970b499bf064f7548b0a299951733edf8b941f1ea7bac89d5d344cf5",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "a2b507d1213cfb468f3204ff4fe3121e5c567ae23bf266afe19ee52083f26c59",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💊 داکسی‌سایکلین با دوز زیرضدمیکروبی (SDD)"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ویژگی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "جزئیات"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "دوز"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۲۰ میلی‌گرم، دو بار در روز"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "مقایسه با دوز آنتی‌بیوتیکی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "دوز ضدمیکروبی داکسی‌سایکلین ۱۰۰ میلی‌گرم است — یعنی SDD حدود "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "یک‌دهم"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " آن"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سازوکار"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مهار "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "کلاژناز و سایر MMPها"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "اثر ضدباکتریایی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ندارد"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " — غلظت خون زیر MIC باقی می‌ماند"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "مقاومت میکروبی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 ایجاد "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "نمی‌کند"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " — چون فشار انتخابی روی باکتری وارد نمی‌شود"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "مدت مصرف"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "معمولاً "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۳ تا ۹ ماه"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " به‌عنوان کمکی به SRP"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مهم‌ترین نکته این درس:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اثر ضدکلاژنازی داکسی‌سایکلین "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مستقل از"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اثر ضدباکتریایی آن است. به همین دلیل می‌توان دوزی داد که کلاژناز را مهار کند اما بر باکتری‌ها هیچ فشاری وارد نکند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیامد بسیار مهم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " چون فشار انتخابی وجود ندارد، مصرف طولانی‌مدت SDD به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقاومت میکروبی نمی‌انجامد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — و همین است که مصرف چندماهه آن را ایمن می‌کند. این نکته را با آنتی‌بیوتیک‌درمانی خلط نکن."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📊 شواهد"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "افزوده شدن SDD به SRP، بهبود افزوده "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "متوسط اما آماری معنادار"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " در CAL و کاهش عمق پاکت نشان داده است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بیشترین سود در نواحی با "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پاکت‌های عمیق‌تر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " دیده می‌شود."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عوارض جانبی در این دوز، "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کم"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " و مشابه دارونما گزارش شده است."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:9a6d970d69f2a5d2d593afb2baa2b87c9630aa384d46c44959974e4350aa59f2",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "12759c7421b624a06be455464e7f41d705729b0e90e21303a485f9a4c34961d7",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔬 سایر رویکردهای تعدیل میزبان"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "دسته"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "وضعیت"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "NSAIDها"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (مهار پروستاگلاندین‌ها)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اثر نشان داده‌اند اما "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "عوارض گوارشی، کلیوی و خون‌ریزی"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " در مصرف طولانی، کاربردشان را محدود کرده است"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "بیس‌فسفونات‌ها"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (مهار تحلیل استخوان)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "در حد پژوهشی؛ 🔴 خطر "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "استئونکروز فک"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " آن‌ها را از کاربرد روتین پریودنتال خارج می‌کند"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "واسطه‌های فروکش التهاب"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (رزولوین‌ها، لیپوکسین‌ها)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حوزه پژوهشی نویدبخش؛ هنوز کاربرد بالینی روتین ندارد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "پروبیوتیک‌ها"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "شواهد در حال شکل‌گیری؛ نقش کمکی محتمل"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 در حال حاضر، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "SDD تنها درمان تعدیل میزبان با تأیید رسمی برای پریودنتیت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ احتیاط‌های داکسی‌سایکلین"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ممنوع در بارداری و شیردهی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ممنوع در کودکان زیر ۸ سال"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — تغییر رنگ دائمی دندان‌های در حال تشکیل."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "حساسیت به نور خورشید (فوتوسنسیتیویتی)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تداخل با آنتی‌اسیدها و مکمل‌های حاوی کلسیم، آهن و منیزیم — جذب را کاهش می‌دهند."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🧭 جایگاه در طرح درمان"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "SDD "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمکی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است — نه جایگزین دبریدمان و نه جایگزین کنترل پلاک. جایگاه معقول آن: بیمار با پریودنتیت که پس از فاز اول، نواحی مقاوم دارد و به‌ویژه اگر عوامل خطر او (سیگار، دیابت) پاسخ میزبان را تشدید می‌کنند."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 اشتباه‌های رایج"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۱:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " دوز SDD "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۲۰ میلی‌گرم دو بار در روز"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " است، نه دوز آنتی‌بیوتیکی ۱۰۰ میلی‌گرم."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۲:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " SDD اثر ضدباکتریایی "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ندارد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " و مقاومت میکروبی "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ایجاد نمی‌کند"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۳:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " هدف آن "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مهار کلاژناز و MMPها"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "ست، نه کشتن باکتری."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:4014",
+      "sourceId": "4014",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "ad6979d0cef11fefef3c371f6ebe63bbf88a8e6ad73d69f3fcd924e528e37269",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ایده بنیادی درمان تعدیل پاسخ میزبان چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ایده بنیادی درمان تعدیل پاسخ میزبان چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش شدت پاسخ ایمنی میزبان تا سیستم دفاعی باکتری‌ها را سریع‌تر از میان بردارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشتن باکتری‌های زیرلثه‌ای با دوز بسیار بالای آنتی‌بیوتیک سیستمیک در دوره‌ی کوتاه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعدیل پاسخ بیش‌ازحد میزبان، چون تخریب بافت را خود میزبان انجام می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جایگزینی کامل دبریدمان مکانیکی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0a24b1a3bcebf018b03b08da4f91e6b12e9553e5a144b276ab8028489f9746e9",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "افزایش شدت پاسخ ایمنی میزبان تا سیستم دفاعی باکتری‌ها را سریع‌تر از میان بردارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش شدت پاسخ ایمنی میزبان تا سیستم دفاعی باکتری‌ها را سریع‌تر از میان بردارد"
+            }
+          ]
+        },
+        {
+          "id": "3158d3fb9dde22647f1daf16f35e578787130ec4157540cec5cd7baa42c3b48a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کشتن باکتری‌های زیرلثه‌ای با دوز بسیار بالای آنتی‌بیوتیک سیستمیک در دوره‌ی کوتاه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشتن باکتری‌های زیرلثه‌ای با دوز بسیار بالای آنتی‌بیوتیک سیستمیک در دوره‌ی کوتاه"
+            }
+          ]
+        },
+        {
+          "id": "361f2dbf6efbe2b25b14fd557186d02d7430654e9445705138935d63ab76785d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تعدیل پاسخ بیش‌ازحد میزبان، چون تخریب بافت را خود میزبان انجام می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تعدیل پاسخ بیش‌ازحد میزبان، چون تخریب بافت را خود میزبان انجام می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "bc12f20f1c71e87da57694da97150acc97a619f0f53445743e31f2e30cc040e4",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "جایگزینی کامل دبریدمان مکانیکی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جایگزینی کامل دبریدمان مکانیکی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "361f2dbf6efbe2b25b14fd557186d02d7430654e9445705138935d63ab76785d"
+        ],
+        "explanation": "دقیقاً همین. آنزیم‌های تخریب‌کننده مانند MMPها از سلول‌های خود میزبان ترشح می‌شوند، نه از باکتری.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً همین. آنزیم‌های تخریب‌کننده مانند MMPها از سلول‌های خود میزبان ترشح می‌شوند، نه از باکتری."
+          }
+        ],
+        "observedAt": "2026-11-16T15:52:13.253Z"
+      }
+    },
+    {
+      "id": "question:4019",
+      "sourceId": "4019",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "e698b9cff4afd321dcd8fa89fa3cd75b03dba9024149be98176a286787ca261a",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا مصرف طولانی‌مدت SDD به مقاومت میکروبی نمی‌انجامد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا مصرف طولانی‌مدت SDD به مقاومت میکروبی نمی‌انجامد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون مدت مصرف آن کوتاه است و باکتری‌ها فرصت سازگاری با دارو پیدا نمی‌کنند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون همراه با آنتی‌بیوتیک دیگری مصرف می‌شود که جلوی انتخاب سویه‌های مقاوم را می‌گیرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون غلظت خون زیر MIC می‌ماند و فشار انتخابی بر باکتری‌ها وارد نمی‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون داکسی‌سایکلین اصلاً آنتی‌بیوتیک نیست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "cec46cef60a25673c9352ff6a230af221fd2501505946833cabb194aa6570c8e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون مدت مصرف آن کوتاه است و باکتری‌ها فرصت سازگاری با دارو پیدا نمی‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون مدت مصرف آن کوتاه است و باکتری‌ها فرصت سازگاری با دارو پیدا نمی‌کنند"
+            }
+          ]
+        },
+        {
+          "id": "1c91e40bb3004195b558aed57559e9719062893edfc3567ec4159f599cf1aafd",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون همراه با آنتی‌بیوتیک دیگری مصرف می‌شود که جلوی انتخاب سویه‌های مقاوم را می‌گیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون همراه با آنتی‌بیوتیک دیگری مصرف می‌شود که جلوی انتخاب سویه‌های مقاوم را می‌گیرد"
+            }
+          ]
+        },
+        {
+          "id": "bd27b3fc9a3673cc43bbc2b5965ed3936401295569e9026a2219cde8d4b94928",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون غلظت خون زیر MIC می‌ماند و فشار انتخابی بر باکتری‌ها وارد نمی‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون غلظت خون زیر MIC می‌ماند و فشار انتخابی بر باکتری‌ها وارد نمی‌شود"
+            }
+          ]
+        },
+        {
+          "id": "4b881d0ed42b3e8b9ff4a986d1dfe2dd0f3169648c9b253ce2553e231a371eae",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون داکسی‌سایکلین اصلاً آنتی‌بیوتیک نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون داکسی‌سایکلین اصلاً آنتی‌بیوتیک نیست"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "bd27b3fc9a3673cc43bbc2b5965ed3936401295569e9026a2219cde8d4b94928"
+        ],
+        "explanation": "خوب دیدی. مقاومت زمانی ایجاد می‌شود که فشار انتخابی وجود داشته باشد؛ در این دوز چنین فشاری نیست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خوب دیدی. مقاومت زمانی ایجاد می‌شود که فشار انتخابی وجود داشته باشد؛ در این دوز چنین فشاری نیست."
+          }
+        ],
+        "observedAt": "2026-11-16T15:52:18.582Z"
+      }
+    },
+    {
+      "id": "question:4022",
+      "sourceId": "4022",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "903fecf3c21027af34756a19d12c3b2c10775a2188a718df4ce32e6069d675ab",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در حال حاضر کدام درمان تعدیل میزبان تأیید رسمی برای پریودنتیت دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در حال حاضر کدام درمان تعدیل میزبان تأیید رسمی برای پریودنتیت دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیس‌فسفونات‌های خوراکی مانند آلندرونات"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رزولوین‌ها و دیگر میانجی‌های پایان‌دهنده‌ی التهاب"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "NSAIDها در مصرف طولانی‌مدت و پیوسته به‌عنوان درمان کمکی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داکسی‌سایکلین با دوز زیرضدمیکروبی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "1f9c2ffd8029e9f2ff2b4c2c9f47b34b7b7f93fe11d8ad0fcf6a3b7f4cf112d5",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بیس‌فسفونات‌های خوراکی مانند آلندرونات",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیس‌فسفونات‌های خوراکی مانند آلندرونات"
+            }
+          ]
+        },
+        {
+          "id": "531afe7dcd0a0a79705486053b5e0906b78c59da0590cb38e3b8ca8d4e2d2474",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "رزولوین‌ها و دیگر میانجی‌های پایان‌دهنده‌ی التهاب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رزولوین‌ها و دیگر میانجی‌های پایان‌دهنده‌ی التهاب"
+            }
+          ]
+        },
+        {
+          "id": "1101adbf916eeebd50af5916adb0a397aaab183fe315838bf207f70bfb863a76",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "NSAIDها در مصرف طولانی‌مدت و پیوسته به‌عنوان درمان کمکی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "NSAIDها در مصرف طولانی‌مدت و پیوسته به‌عنوان درمان کمکی"
+            }
+          ]
+        },
+        {
+          "id": "373d8316575825c3287445fb1676b8369103cb8545df50920aa49ad0b96ae710",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "داکسی‌سایکلین با دوز زیرضدمیکروبی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "داکسی‌سایکلین با دوز زیرضدمیکروبی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "373d8316575825c3287445fb1676b8369103cb8545df50920aa49ad0b96ae710"
+        ],
+        "explanation": "آفرین. سایر رویکردها یا در حد پژوهشی‌اند یا عوارضشان کاربرد روتین را محدود کرده است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. سایر رویکردها یا در حد پژوهشی‌اند یا عوارضشان کاربرد روتین را محدود کرده است."
+          }
+        ],
+        "observedAt": "2026-11-16T15:52:24.423Z"
+      }
+    },
+    {
+      "id": "question:4023",
+      "sourceId": "4023",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "8b947c8a8d0ea2fa3c8b37519f0a52c601e634afd81709d0adaf2f0554bc3505",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا بیس‌فسفونات‌ها با وجود اثر بر تحلیل استخوان، کاربرد روتین در پریودنتیت ندارند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا بیس‌فسفونات‌ها با وجود اثر بر تحلیل استخوان، کاربرد روتین در پریودنتیت ندارند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون هیچ اثری بر استخوان ندارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌دلیل خطر استئونکروز فک"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون بسیار گران‌اند و بیمه پوشش نمی‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون فقط به شکل تزریقی وریدی موجودند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b306133954da5e0295ecea9419fdba377c3f573f6e4be2720a46738fe47f76c0",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون هیچ اثری بر استخوان ندارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون هیچ اثری بر استخوان ندارند"
+            }
+          ]
+        },
+        {
+          "id": "e82cb9629daeaeb43277602e6bddb929f7359c0ec42070b9e75af9e3ba7aaf56",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "به‌دلیل خطر استئونکروز فک",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به‌دلیل خطر استئونکروز فک"
+            }
+          ]
+        },
+        {
+          "id": "9b289f2383753efe370ea2593711ae89a5ac86469af4796fdba9ed93dbbb314f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون بسیار گران‌اند و بیمه پوشش نمی‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون بسیار گران‌اند و بیمه پوشش نمی‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "dba48ad49ed18cbb1b3756ea0e333b15484f9dfa68126a20baa6cca4f46cb568",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون فقط به شکل تزریقی وریدی موجودند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون فقط به شکل تزریقی وریدی موجودند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e82cb9629daeaeb43277602e6bddb929f7359c0ec42070b9e75af9e3ba7aaf56"
+        ],
+        "explanation": "نکته را گرفتی. خطر استئونکروز فک، این دسته را از کاربرد روتین پریودنتال خارج کرده و در حد پژوهشی نگه داشته است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نکته را گرفتی. خطر استئونکروز فک، این دسته را از کاربرد روتین پریودنتال خارج کرده و در حد پژوهشی نگه داشته است."
+          }
+        ],
+        "observedAt": "2026-11-16T15:52:29.655Z"
+      }
+    },
+    {
+      "id": "question:4026",
+      "sourceId": "4026",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "87c9f30358a14fec03fa8c7bed2c072f0545db0797823e58aa267ff4b5215421",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "داکسی‌سایکلین در کدام گروه ممنوع است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "داکسی‌سایکلین در کدام گروه ممنوع است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیماران دیابتی با قند خون کنترل‌نشده و پریودنتیت شدید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیماران سیگاری با مصرف روزانه‌ی بالا"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیماران مسن بالای ۶۵ سال با کاهش عملکرد کلیه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زنان باردار و کودکان زیر ۸ سال"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "1ee78478336626fd91a291565299619871cbe8bc3c2b36c38cce99bace6ecb0b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بیماران دیابتی با قند خون کنترل‌نشده و پریودنتیت شدید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیماران دیابتی با قند خون کنترل‌نشده و پریودنتیت شدید"
+            }
+          ]
+        },
+        {
+          "id": "c7869afdd300a12fa8cc63dbc661ca8dbe00441f89f731ad61b1fc1e4084f257",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بیماران سیگاری با مصرف روزانه‌ی بالا",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیماران سیگاری با مصرف روزانه‌ی بالا"
+            }
+          ]
+        },
+        {
+          "id": "67cc569ca17476dc4ffa1c005f8c2288fc58c16caa479f63bb42b15c1eb74f49",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "بیماران مسن بالای ۶۵ سال با کاهش عملکرد کلیه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیماران مسن بالای ۶۵ سال با کاهش عملکرد کلیه"
+            }
+          ]
+        },
+        {
+          "id": "5202e64f9edba9a50451924da732054ca22b6ae649b85979bb814b6b190a7d64",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "زنان باردار و کودکان زیر ۸ سال",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زنان باردار و کودکان زیر ۸ سال"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5202e64f9edba9a50451924da732054ca22b6ae649b85979bb814b6b190a7d64"
+        ],
+        "explanation": "آفرین! تتراسایکلین‌ها در دندان‌های در حال تشکیل، تغییر رنگ دائمی ایجاد می‌کنند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین! تتراسایکلین‌ها در دندان‌های در حال تشکیل، تغییر رنگ دائمی ایجاد می‌کنند."
+          }
+        ],
+        "observedAt": "2026-11-16T15:52:34.651Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:1029164a09938f97899d2fc46b331dd06ad0af06b00ee9da214777b2f5a0f752",
+      "at": "2026-11-16T15:51:59.821Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:eb4e2942970b499bf064f7548b0a299951733edf8b941f1ea7bac89d5d344cf5",
+      "at": "2026-11-16T15:52:01.442Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:9a6d970d69f2a5d2d593afb2baa2b87c9630aa384d46c44959974e4350aa59f2",
+      "at": "2026-11-16T15:52:03.058Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:4014",
+      "at": "2026-11-16T15:52:04.645Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:4019",
+      "at": "2026-11-16T15:52:14.861Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:4022",
+      "at": "2026-11-16T15:52:20.169Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:4023",
+      "at": "2026-11-16T15:52:25.986Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:4026",
+      "at": "2026-11-16T15:52:31.276Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

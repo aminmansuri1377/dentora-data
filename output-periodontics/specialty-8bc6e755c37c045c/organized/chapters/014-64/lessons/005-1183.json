@@ -1,0 +1,2154 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1183/lesson.json",
+  "id": "1183",
+  "title": "درس پنجم: تظاهرات پریودنتال HIV و بیمار با نقص ایمنی",
+  "specialtyKey": "8bc6e755c37c045c",
+  "chapter": {
+    "id": "64",
+    "title": "شرایط حاد پریودنتال",
+    "position": 14
+  },
+  "position": 5,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:e6a61659098a1020c7a1b7f3ea9034944ba5a73525f641ad1776cad34edc60cf",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "00cd74d0a7c098aca593e2112d4ea34786b2581dc4b117b4bc5b8077c620e001",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h2",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🦠 چرا این ضایعات مهم‌اند"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ضایعات دهانی گاهی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نخستین نشانه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " عفونت HIV تشخیص‌داده‌نشده‌اند. دندان‌پزشک می‌تواند اولین کسی باشد که به آن مشکوک می‌شود — و همین، این درس را از یک بحث نظری به یک مسئولیت بالینی تبدیل می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/HZMhIcNhdaB0OlPllo2jBDviDXgpWumqytSq9Qbo.webp",
+                  "alt": "اریتم خطی لثه؛ نوار قرمز پیوسته در امتداد حاشیه لثه ثنایاهای فک پایین بدون تناسب با مقدار پلاک",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/cf1f0edd0fa2bb913502e0d158a983d33d5c0eb39810a0108c86cb261a581e43.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل ۱۲۱ — اریتم خطی لثه (LGE): نوار قرمز پیوسته در امتداد مارجین که با مقدار پلاک متناسب نیست و به جرم‌گیری معمول پاسخ کامل نمی‌دهد، Newman & Carranza, "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "Clinical Periodontology"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ", 14th ed., Fig. 27.9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🗂️ سه ضایعه پریودنتال مرتبط با HIV"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ضایعه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نشانه کلیدی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "اریتم خطی لثه"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (LGE)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نوار قرمز درخشان ۲ تا ۳ میلی‌متری در امتداد مارجین لثه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ژنژیویت نکروزان"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (NG)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نکروز پاپیلا و درد، بدون از دست رفتن چسبندگی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "پریودنتیت نکروزان"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (NP)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نکروز همراه با از دست رفتن سریع چسبندگی و استخوان"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔴 اریتم خطی لثه؛ نشانه‌ای که فریب می‌دهد"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نواری قرمز و درخشان که "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دقیقاً در امتداد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " لبه لثه کشیده شده است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "🔑 "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ویژگی تشخیصی:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " شدت قرمزی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "با مقدار پلاک تناسب ندارد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "به جرم‌گیری و بهبود بهداشت پاسخ نمی‌دهد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — برخلاف ژنژیویت معمول."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ممکن است فراتر از مارجین و روی مخاط آلوئولار هم دیده شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نقش "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "Candida"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در ایجاد آن مطرح است؛ به همین دلیل گاهی به درمان ضدقارچ پاسخ می‌دهد."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 هر ژنژیویتی که به درمان استاندارد پاسخ ندهد، باید تو را به فکر یک زمینه سیستمیک بیندازد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:3a0cf9789f7b9355d5f390fd0bfc80fcdf454b92dc46a198f3e0f116a3ea5be9",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "1028082455bc7577b04c0e39c8f9d9ac12ed93c8c86a2f8f0075de96ce062e86",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚡ پریودنتیت نکروزان؛ اورژانس واقعی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "شدیدترین شکل درگیری پریودنتال در نقص ایمنی. سرعت تخریب آن با هیچ فرم دیگری قابل مقایسه نیست."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/wlffawSRr0IjNgrNFA31IB45fYu4ypMisWFgeLue.webp",
+                  "alt": "پریودنتیت نکروزان با نکروز پاپیلاها و برهنه شدن سطح ریشه در نماهای باکال و لینگوال",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/83e0f25fb7459bc04a7fca6bd57f20ad8680420581da84c0de53a32c44ca0736.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل ۱۱۳ — پریودنتیت نکروزان: نکروز پاپیلای بین‌دندانی، برهنه شدن ریشه و از دست رفتن سریع چسبندگی، Newman & Carranza, 14th ed., Fig. 30.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ویژگی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پریودنتیت نکروزان در HIV"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سرعت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 از دست رفتن چسبندگی و استخوان ظرف "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "هفته‌ها"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": "، نه سال‌ها"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "درد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "عمیق، شدید و «درد استخوان» — برخلاف پریودنتیت معمول که بی‌سروصداست"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ظاهر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نکروز، برهنه شدن استخوان و گاه جدا شدن قطعه‌ی استخوان (سکستر)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ارتباط با CD4"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "با شمارش CD4 پایین و بار ویروسی بالا همراه است"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر جدی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پریودنتیت نکروزان می‌تواند به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استوماتیت نکروزان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیشرفت کند که فراتر از اتصال موکوژنژیوال (MGJ) گسترش می‌یابد و به نکروز وسیع بافت و استخوان می‌انجامد."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🚑 اداره پریودنتیت نکروزان"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دبریدمان ملایم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و برداشتن بافت نکروتیک؛ در فاز حاد تهاجمی نباش."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شست‌وشو با محلول "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پویدون آیوداین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " یا سرم؛ کنترل درد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دهان‌شویه‌ی کلرهگزیدین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در دوره حاد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مترونیدازول"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " داروی انتخابی است — چون طیف آن بی‌هوازی‌هاست و برخلاف آنتی‌بیوتیک‌های وسیع‌الطیف، خطر رشد بیش از حد کاندیدا را کمتر می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پوشش ضدقارچ در صورت لزوم، و ارجاع برای ارزیابی وضعیت سیستمیک."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "⚠️ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اشتباه رایج ۱:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در فاز حاد نکروزان، جرم‌گیری کامل و تهاجمی ممنوع است؛ ابتدا التهاب و درد را کنترل کن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "⚠️ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اشتباه رایج ۲:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " آنتی‌بیوتیک وسیع‌الطیف در این بیماران می‌تواند کاندیدیازیس را شعله‌ور کند؛ مترونیدازول ترجیح دارد."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:2bd01e79e7a4dc4bcea8656e7f23996907c2f6446cd967c24c4ceeb7f91eb9f9",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "781f296ac79c647c826b636092159862cbb24ab203758b3e710ff9293b0382a8",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🩺 مدیریت کلی بیمار با نقص ایمنی"
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📊 دو عددی که باید بپرسی"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "شاخص"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "معنی بالینی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "شمارش CD4"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "زیر ۲۰۰ سلول در میکرولیتر: نقص ایمنی شدید و خطر عفونت فرصت‌طلب"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "بار ویروسی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "غیرقابل‌شناسایی: کنترل خوب و خطر انتقال بسیار پایین"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "شمارش نوتروفیل"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "زیر ۵۰۰: احتیاط جدی در هر عمل تهاجمی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "شمارش پلاکت"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "زیر ۶۰ هزار: خطر خون‌ریزی در جراحی"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "✅ اصول درمانی"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "🔑 بیمار HIV مثبت با کنترل خوب، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "محدودیت درمانی خاصی ندارد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "؛ درمان پریودنتال از جمله جراحی برای او قابل انجام است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصمیم بر پایه "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "وضعیت ایمنی و شمارش سلولی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " گرفته می‌شود، نه بر پایه برچسب تشخیص."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "احتیاط‌های استاندارد کنترل عفونت برای "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "همه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بیماران یکسان است؛ رفتار متفاوت با بیمار HIV مثبت نه لازم است و نه اخلاقی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هماهنگی با پزشک معالج پیش از جراحی‌های وسیع."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاصله جلسات نگهدارنده کوتاه‌تر — معمولاً هر سه ماه."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔀 سایر بیماران با نقص ایمنی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "همین چارچوب برای بیماران تحت شیمی‌درمانی، پیوند عضو و مصرف طولانی کورتیکواستروئید هم به کار می‌رود: قبل از هر مداخله، شمارش سلولی را بپرس و با پزشک هماهنگ کن."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/Hu1t3XcewOviKMZzeI19675Q6Ed58jasE0SwTKTB.webp",
+                  "alt": "پریودنتیت نکروزان در بیمار مبتلا به ایدز پیش از درمان و پس از درمان در نماهای فاسیال و لینگوال",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/c646ccfbd301d6cc06932edfda0581efccb43a626d614e974140e09adb8acf33.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل ۱۲۲ — پریودنتیت نکروزان در بیمار مبتلا به نقص ایمنی: (A و B) پیش از درمان، (C و D) پس از دبریدمان، شست‌وشوی ضدمیکروبی و کنترل پلاک. حتی در بیمار با نقص ایمنی، پاسخ به درمان صحیح چشمگیر است، Newman & Carranza, 14th ed., Fig. 27.11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "⚠️ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اشتباه رایج ۳:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " HIV مثبت بودن به‌تنهایی کنترااندیکاسیون جراحی پریودنتال نیست."
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "⚠️ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اشتباه رایج ۴:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اریتم خطی لثه به جرم‌گیری پاسخ نمی‌دهد؛ همین ویژگی آن را از ژنژیویت پلاکی جدا می‌کند."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:18904",
+      "sourceId": "18904",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "704ef9f0c16ad8ae6cf985d334e9b263ebb07e83e60aea83e6b64fa3f1c34bde",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا اریتم خطی لثه گاهی به درمان ضدقارچ پاسخ می‌دهد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا اریتم خطی لثه گاهی به درمان ضدقارچ پاسخ می‌دهد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون نقش کاندیدا در ایجاد این ضایعه مطرح شده است و درمان ضدقارچ آن را مهار می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون داروهای ضدقارچ اثر ضدالتهابی قوی و مستقیمی بر بافت لثه دارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون این ضایعه در واقع نوعی واکنش آلرژیک به مواد ترمیمی دهان است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون داروهای ضدقارچ جریان خون مخاط لثه را به‌طور چشمگیری کاهش می‌دهند و التهاب را می‌خوابانند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e787f4e02b0d831a0a8bac920c090be59e1a1d14ea8fe96d1adf44e19140866e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون نقش کاندیدا در ایجاد این ضایعه مطرح شده است و درمان ضدقارچ آن را مهار می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون نقش کاندیدا در ایجاد این ضایعه مطرح شده است و درمان ضدقارچ آن را مهار می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "d7c754cba2deaf2bb1dea7b4fda7d0b5744900691ff81b7956325ec8d02ad196",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون داروهای ضدقارچ اثر ضدالتهابی قوی و مستقیمی بر بافت لثه دارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون داروهای ضدقارچ اثر ضدالتهابی قوی و مستقیمی بر بافت لثه دارند"
+            }
+          ]
+        },
+        {
+          "id": "ebd26a7c9dd8e61a4745ac62b2d85a30294f1e1d2e2a9923a245e8df3adaf876",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون این ضایعه در واقع نوعی واکنش آلرژیک به مواد ترمیمی دهان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون این ضایعه در واقع نوعی واکنش آلرژیک به مواد ترمیمی دهان است"
+            }
+          ]
+        },
+        {
+          "id": "5a55dfe1af2ed17cc11d5549645884ae7a5ed21f782f34977de14d255289ee8d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون داروهای ضدقارچ جریان خون مخاط لثه را به‌طور چشمگیری کاهش می‌دهند و التهاب را می‌خوابانند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون داروهای ضدقارچ جریان خون مخاط لثه را به‌طور چشمگیری کاهش می‌دهند و التهاب را می‌خوابانند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e787f4e02b0d831a0a8bac920c090be59e1a1d14ea8fe96d1adf44e19140866e"
+        ],
+        "explanation": "خوب دیدی. ارتباط LGE با کاندیدا، پاسخ گاه‌به‌گاه آن به ضدقارچ را توضیح می‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خوب دیدی. ارتباط LGE با کاندیدا، پاسخ گاه‌به‌گاه آن به ضدقارچ را توضیح می‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-16T15:32:51.208Z"
+      }
+    },
+    {
+      "id": "question:18906",
+      "sourceId": "18906",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "e44600eaae10cf2a7585a4c642bc5e64a8be4f13e9857a71d5f4e7be91949efe",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در فاز حاد پریودنتیت نکروزان، انجام جرم‌گیری کامل و تهاجمی در همان جلسه نخست، درمان انتخابی است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در فاز حاد پریودنتیت نکروزان، انجام جرم‌گیری کامل و تهاجمی در همان جلسه نخست، درمان انتخابی است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست تشخیص دادی؛ جمله نادرست است. در فاز حاد، دبریدمان ملایم و کنترل درد مقدم است؛ درمان قطعی بعداً انجام می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی؛ جمله نادرست است. در فاز حاد، دبریدمان ملایم و کنترل درد مقدم است؛ درمان قطعی بعداً انجام می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-16T15:32:57.843Z"
+      }
+    },
+    {
+      "id": "question:18910",
+      "sourceId": "18910",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "46ee6bb0f45832fecc7e476d6e781d864681c40483798e867d94e8209e66b3b4",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا ضایعات دهانی در HIV اهمیت تشخیصی ویژه‌ای دارند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا ضایعات دهانی در HIV اهمیت تشخیصی ویژه‌ای دارند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون فقط پس از شروع درمان ضدرتروویروسی و به‌عنوان عارضه‌ی جانبی داروها ظاهر می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون همیشه بی‌علامت‌اند و تنها با آزمایش خون و شمارش سلول‌های CD4 قابل کشف خواهند بود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون گاهی نخستین نشانه عفونت تشخیص‌داده‌نشده‌اند و دندان‌پزشک اولین کاشف است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون بروز آن‌ها نشان می‌دهد بیمار به‌طور کامل بهبود یافته و نیاز به پیگیری ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "6950c87c73d0d823ee8a6677d55af13c62065a5be9c33c5d3b730087acfb8fe6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون فقط پس از شروع درمان ضدرتروویروسی و به‌عنوان عارضه‌ی جانبی داروها ظاهر می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون فقط پس از شروع درمان ضدرتروویروسی و به‌عنوان عارضه‌ی جانبی داروها ظاهر می‌شوند"
+            }
+          ]
+        },
+        {
+          "id": "ac1f427f2f035c0a89b3822c914db50b2262a12f1e3606eda202c55410a8c722",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون همیشه بی‌علامت‌اند و تنها با آزمایش خون و شمارش سلول‌های CD4 قابل کشف خواهند بود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون همیشه بی‌علامت‌اند و تنها با آزمایش خون و شمارش سلول‌های CD4 قابل کشف خواهند بود"
+            }
+          ]
+        },
+        {
+          "id": "d4029e605b66b02f782d4f900c3971ab57fa647a1b61c3392d1e63dfd14d3576",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون گاهی نخستین نشانه عفونت تشخیص‌داده‌نشده‌اند و دندان‌پزشک اولین کاشف است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون گاهی نخستین نشانه عفونت تشخیص‌داده‌نشده‌اند و دندان‌پزشک اولین کاشف است"
+            }
+          ]
+        },
+        {
+          "id": "44ecce63e465686bbf0d6714aabe9d68774a11d2b6ec7347d5593d105b49db46",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون بروز آن‌ها نشان می‌دهد بیمار به‌طور کامل بهبود یافته و نیاز به پیگیری ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون بروز آن‌ها نشان می‌دهد بیمار به‌طور کامل بهبود یافته و نیاز به پیگیری ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d4029e605b66b02f782d4f900c3971ab57fa647a1b61c3392d1e63dfd14d3576"
+        ],
+        "explanation": "همین‌طور است. ضایعات دهانی می‌توانند نخستین سرنخ عفونت تشخیص‌داده‌نشده باشند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین‌طور است. ضایعات دهانی می‌توانند نخستین سرنخ عفونت تشخیص‌داده‌نشده باشند."
+          }
+        ],
+        "observedAt": "2026-11-16T15:33:04.066Z"
+      }
+    },
+    {
+      "id": "question:18912",
+      "sourceId": "18912",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "3a489b1b9f1d7d716d48eb3c1fab5af2ab3bba848c846b0d8f2f78855ad0b39a",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "HIV مثبت بودن به‌تنهایی کنترااندیکاسیون جراحی پریودنتال است و این بیماران نباید تحت جراحی قرار گیرند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "HIV مثبت بودن به‌تنهایی کنترااندیکاسیون جراحی پریودنتال است و این بیماران نباید تحت جراحی قرار گیرند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "خوب دیدی؛ جمله نادرست است. بیمار با کنترل خوب می‌تواند درمان کامل از جمله جراحی دریافت کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خوب دیدی؛ جمله نادرست است. بیمار با کنترل خوب می‌تواند درمان کامل از جمله جراحی دریافت کند."
+          }
+        ],
+        "observedAt": "2026-11-16T15:33:09.798Z"
+      }
+    },
+    {
+      "id": "question:18916",
+      "sourceId": "18916",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "66489f2a6a26420625182b398cf58ff8324a87a81d3b16b26722f7fbd8249c2f",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیماری با ژنژیویت شدید که به دو دوره جرم‌گیری و آموزش بهداشت پاسخ نداده مراجعه کرده است. گام بعدی منطقی چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری با ژنژیویت شدید که به دو دوره جرم‌گیری و آموزش بهداشت پاسخ نداده مراجعه کرده است. گام بعدی منطقی چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکرار جرم‌گیری با فشار بیشتر و تجویز دهان‌شویه‌ی کلرهگزیدین طولانی‌مدت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بررسی احتمال زمینه سیستمیک و در صورت لزوم ارجاع برای ارزیابی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن دندان‌های درگیر چون ضایعه به درمان معمول پاسخ نداده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شروع فوری آنتی‌بیوتیک وسیع‌الطیف بدون هیچ بررسی بیشتر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a703db688db74bad229185a16be612344b3470ec0488eebf347cf5eff09c015c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تکرار جرم‌گیری با فشار بیشتر و تجویز دهان‌شویه‌ی کلرهگزیدین طولانی‌مدت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تکرار جرم‌گیری با فشار بیشتر و تجویز دهان‌شویه‌ی کلرهگزیدین طولانی‌مدت"
+            }
+          ]
+        },
+        {
+          "id": "148772c829948fb7bef2faba01d2c836e7df03c561a9127a37b06df2f52ec0d4",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بررسی احتمال زمینه سیستمیک و در صورت لزوم ارجاع برای ارزیابی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بررسی احتمال زمینه سیستمیک و در صورت لزوم ارجاع برای ارزیابی"
+            }
+          ]
+        },
+        {
+          "id": "832fc7d96b257ba4739feb7b0af29905aba41be84283ace40f0f44e046f66b6c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کشیدن دندان‌های درگیر چون ضایعه به درمان معمول پاسخ نداده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن دندان‌های درگیر چون ضایعه به درمان معمول پاسخ نداده است"
+            }
+          ]
+        },
+        {
+          "id": "92e3d60f57ad205b6f2836af1289f99e40369308332be5bdd125458340861eb4",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "شروع فوری آنتی‌بیوتیک وسیع‌الطیف بدون هیچ بررسی بیشتر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شروع فوری آنتی‌بیوتیک وسیع‌الطیف بدون هیچ بررسی بیشتر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "148772c829948fb7bef2faba01d2c836e7df03c561a9127a37b06df2f52ec0d4"
+        ],
+        "explanation": "همین است. مقاومت به درمان استاندارد، نشانه‌ای برای جست‌وجوی زمینه‌ی سیستمیک است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. مقاومت به درمان استاندارد، نشانه‌ای برای جست‌وجوی زمینه‌ی سیستمیک است."
+          }
+        ],
+        "observedAt": "2026-11-16T15:33:16.660Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:e6a61659098a1020c7a1b7f3ea9034944ba5a73525f641ad1776cad34edc60cf",
+      "at": "2026-11-16T15:32:11.283Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:3a0cf9789f7b9355d5f390fd0bfc80fcdf454b92dc46a198f3e0f116a3ea5be9",
+      "at": "2026-11-16T15:32:13.340Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:2bd01e79e7a4dc4bcea8656e7f23996907c2f6446cd967c24c4ceeb7f91eb9f9",
+      "at": "2026-11-16T15:32:15.465Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:18904",
+      "at": "2026-11-16T15:32:17.090Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:18906",
+      "at": "2026-11-16T15:32:52.802Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:18910",
+      "at": "2026-11-16T15:32:59.469Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:18912",
+      "at": "2026-11-16T15:33:05.640Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:18916",
+      "at": "2026-11-16T15:33:11.413Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

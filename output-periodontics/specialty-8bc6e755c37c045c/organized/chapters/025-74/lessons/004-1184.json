@@ -1,0 +1,2280 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1184/lesson.json",
+  "id": "1184",
+  "title": "درس چهارم: فاز نگهدارنده اطراف ایمپلنت",
+  "specialtyKey": "8bc6e755c37c045c",
+  "chapter": {
+    "id": "74",
+    "title": "بیماری‌های اطراف ایمپلنت",
+    "position": 25
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:c048ae88bbd62507438aff7e025fb89434f474e2d854fa577cf938bbea30494f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "1ad902e8888bbc56fcc767eee635ec12769e6c6670635eb0484062a84c63f521",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h2",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔁 چرا ایمپلنت بیشتر از دندان به پایش نیاز دارد"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یک واقعیت که اغلب دست‌کم گرفته می‌شود: بیمار ایمپلنتی که وارد برنامه پایش منظم نشود، خطر پری‌ایمپلنتیت‌اش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چند برابر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌شود. ایمپلنت «کاشته و تمام» نیست."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚖️ چهار تفاوت که پایش را دشوارتر می‌کند"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ویژگی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "دندان"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ایمپلنت"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "آرایش الیاف"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "عمود بر سطح، از سمان به استخوان"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 موازی سطح؛ بدون اتصال واقعی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "خون‌رسانی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سه منبع، شامل PDL"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 کمتر؛ PDL وجود ندارد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سد در برابر گسترش عفونت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "قوی‌تر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 ضعیف‌تر؛ ضایعه سریع‌تر پیش می‌رود"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سطح در معرض"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "صاف"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 زبر و رزوه‌دار؛ پناهگاه بیوفیلم"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 640 250",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "g",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "rect",
+                              "attributes": {
+                                "fill": "#2E9E6B",
+                                "stroke": "#2E9E6B",
+                                "stroke-width": "1.6",
+                                "x": "350",
+                                "y": "18",
+                                "width": "276",
+                                "height": "166"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M470 62 C486 62 492 70 491 80 L484 176 H456 L449 80 C448 70 454 62 470 62 Z",
+                                "fill": "currentColor",
+                                "stroke": "currentColor",
+                                "stroke-width": "1.6"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M382 156 H448 M492 156 H558",
+                                "stroke": "#C8A26B",
+                                "stroke-width": "10"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "g",
+                              "attributes": {
+                                "stroke": "#2E9E6B",
+                                "stroke-width": "2.2"
+                              },
+                              "children": [
+                                {
+                                  "tag": "path",
+                                  "attributes": {
+                                    "d": "M448 96 L410 104 M448 112 L410 120 M448 128 L410 136"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "path",
+                                  "attributes": {
+                                    "d": "M492 96 L530 104 M492 112 L530 120 M492 128 L530 136"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "attributes": {
+                                "fill": "currentColor",
+                                "x": "612",
+                                "y": "44"
+                              },
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "دندان"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "attributes": {
+                                "fill": "currentColor",
+                                "x": "612",
+                                "y": "206"
+                              },
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "الیاف عمود بر سطح؛ اتصال واقعی و سیل قوی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "g",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "rect",
+                              "attributes": {
+                                "fill": "#D9534F",
+                                "stroke": "#D9534F",
+                                "stroke-width": "1.6",
+                                "x": "14",
+                                "y": "18",
+                                "width": "276",
+                                "height": "166"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "rect",
+                              "attributes": {
+                                "fill": "currentColor",
+                                "stroke": "currentColor",
+                                "stroke-width": "1.6",
+                                "x": "138",
+                                "y": "62",
+                                "width": "28",
+                                "height": "114"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "g",
+                              "attributes": {
+                                "stroke": "currentColor",
+                                "stroke-width": "1.2"
+                              },
+                              "children": [
+                                {
+                                  "tag": "path",
+                                  "attributes": {
+                                    "d": "M138 84 H166 M138 100 H166 M138 116 H166 M138 132 H166 M138 148 H166"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M46 156 H138 M166 156 H258",
+                                "stroke": "#C8A26B",
+                                "stroke-width": "10"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "g",
+                              "attributes": {
+                                "stroke": "#D9534F",
+                                "stroke-width": "2.2"
+                              },
+                              "children": [
+                                {
+                                  "tag": "path",
+                                  "attributes": {
+                                    "d": "M130 92 V140 M122 92 V140"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "path",
+                                  "attributes": {
+                                    "d": "M174 92 V140 M182 92 V140"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "attributes": {
+                                "fill": "currentColor",
+                                "x": "276",
+                                "y": "44"
+                              },
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ایمپلنت"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "attributes": {
+                                "fill": "currentColor",
+                                "x": "276",
+                                "y": "206"
+                              },
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "الیاف موازی سطح؛ بدون اتصال و سیل ضعیف"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "626",
+                            "y": "236"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "به همین دلیل ضایعه اطراف ایمپلنت سریع‌تر پیش می‌رود و دیرتر علامت می‌دهد"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل ۱۱۹ — آرایش الیاف در دو طرف: عمود بر سطح ریشه در برابر موازی سطح ایمپلنت. همین تفاوت ساختاری، تفاوت سرعت پیشرفت بیماری را توضیح می‌دهد، ترسیم دنتیگو بر پایه‌ی Lindhe, 7th ed. و Newman & Carranza, 14th ed."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 نتیجه مستقیم این تفاوت‌ها: ضایعه اطراف ایمپلنت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سریع‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیش می‌رود و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دیرتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " علامت می‌دهد. پس تشخیص زودهنگام تنها راه است — و تشخیص زودهنگام یعنی پایش منظم."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📸 داده خط پایه؛ بدون آن کور هستی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در جلسه تحویل پروتز، این دو را ثبت کن:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رادیوگرافی پری‌اپیکال با تکنیک موازی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — مرجع مقایسه همه تصاویر آینده."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عمق پروب اولیه در شش نقطه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — چون «عمق طبیعی» برای هر ایمپلنت متفاوت است و به ضخامت بافت نرم بستگی دارد."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ بدون خط پایه، تشخیص پری‌ایمپلنتیت به آستانه‌های مطلق و کم‌دقت‌تری وابسته می‌شود: عمق ۶ میلی‌متر یا بیشتر به‌علاوه سطح استخوان ۳ میلی‌متر یا بیشتر آپیکالی‌تر."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:e5dc9d9c842bd7ca1e18e25d2b8bc06a383063c1ec9db9c43b7e1ff8ec0726df",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "aa156901cb92dcc6a62c3f4adc8c00afbc3485c04835dc92bdf5a1e7251e51b6",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🧰 جلسه پایش در عمل"
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "۱. ارزیابی"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پروبینگ ملایم:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " با نیروی حدود ۰٫۲۵ نیوتن — همان نیروی دندان طبیعی. پروبینگ اطراف ایمپلنت سالم بی‌خطر است و اتصال آسیب‌دیده ظرف چند روز ترمیم می‌شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خون‌ریزی هنگام پروب:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " حساس‌ترین نشانه زودرس. نبود آن ارزش پیش‌بینی منفی بالایی دارد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ترشح چرک:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " نشانه جدی و اغلب همراه با پری‌ایمپلنتیت فعال."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رادیوگرافی:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در صورت وجود علامت بالینی، یا به‌صورت دوره‌ای بر پایه ریسک."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بررسی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "لقی پروتز"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، شل شدن پیچ، و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سمان اضافی باقی‌مانده"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "۲. پاک‌سازی حرفه‌ای"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ابزار"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "وضعیت"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کورت تیتانیومی یا پلاستیکی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 مناسب"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ایرپالیشر با پودر گلایسین"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 مؤثر و کم‌خراش"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نوک اولتراسونیک با روکش پلاستیکی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 قابل قبول"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کورت فولادی معمولی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 سطح تیتانیوم را خراش می‌دهد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پودر بی‌کربنات با فشار بالا روی سطح در معرض"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 خراشنده"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قاعده:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هر ابزاری که از تیتانیوم سخت‌تر باشد، سطح را خراش می‌دهد و همان خراش، پناهگاه تازه‌ای برای بیوفیلم می‌سازد."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/BHfEMMEqk0iXwqhcDJHvIe3BijUE5rL6KxCJpEig.webp",
+                  "alt": "کورت‌های میکرو مینی تیتانیومی مخصوص ایمپلنت با دسته‌های رنگی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/11ed8994b1a009d2c378cf97c56b2f08bb5ee56361dc0e6a33b5c8c72d2de0b2.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل ۱۱۴ — کورت‌های تیتانیومی ویژهٔ ایمپلنت؛ نرم‌تر از تیتانیوم بدنه و بدون خراش انداختن به سطح، Newman & Carranza, 14th ed., Fig. 51.37"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "۳. آموزش بیمار"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "برس بین‌دندانی با روکش پلاستیکی، نخ‌های ویژه ایمپلنت و در پروتزهای پیچیده، واترجت. کنترل پلاک بیمار همچنان تعیین‌کننده‌ترین عامل است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:02942c34632c128ceb381f60e74d35b9b083b339d758fadf558b0e0e0adb2fab",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "9a7b374658ab2b601f59f956ba21bab7bdfb80fc49cfd98bb071b79bf7460a9b",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🗓️ فاصله پایش و بازگشت به مسیر"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پروفایل بیمار"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فاصله پیشنهادی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بدون سابقه پریودنتیت، بهداشت خوب، غیرسیگاری"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هر ۶ ماه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سابقه پریودنتیت درمان‌شده و پایدار"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هر ۳ تا ۴ ماه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سیگاری، دیابت کنترل‌نشده، یا بهداشت ضعیف"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هر ۳ ماه یا کوتاه‌تر"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سابقه پری‌ایمپلنتیت درمان‌شده"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هر ۳ ماه، بدون استثنا"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 همان اصل فاز نگهدارنده: فاصله را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ریسک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تعیین می‌کند، نه یک قاعده ثابت."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🚦 در جلسه پایش چه چیزی تصمیم را عوض می‌کند"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خون‌ریزی بدون تحلیل استخوان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ← موکوزیت. دبریدمان و بازآموزی بهداشت؛ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در همین مرحله برگشت‌پذیر است"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و فرصت طلایی همین‌جاست."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خون‌ریزی همراه با تحلیل پیشرونده استخوان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ← پری‌ایمپلنتیت. وارد پروتکل درمانی شو و فاصله را کوتاه کن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سمان اضافی زیر لثه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ← بردار؛ یکی از علل شایع و کاملاً قابل پیشگیری است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "⚠️ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اشتباه رایج ۱:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پروبینگ اطراف ایمپلنت ممنوع نیست؛ با نیروی ملایم بی‌خطر است و کنار گذاشتن آن یعنی از دست دادن حساس‌ترین ابزار تشخیص زودرس."
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "⚠️ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اشتباه رایج ۲:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " «عمق طبیعی» ثابتی برای ایمپلنت وجود ندارد؛ آنچه اهمیت دارد "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تغییر نسبت به خط پایه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "⚠️ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اشتباه رایج ۳:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بیمار با سابقه پریودنتیت، حتی اگر امروز پایدار باشد، همچنان پرخطر محسوب می‌شود."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیام این درس:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " موفقیت بلندمدت ایمپلنت در روز جراحی تعیین نمی‌شود؛ در جلسات پایش سال‌های بعد تعیین می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:18917",
+      "sourceId": "18917",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "e3102be0392736bf81208087cc3cd7fb043dd8b6e1a1104e7fd7ee5791aa3a43",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا ضایعه التهابی اطراف ایمپلنت سریع‌تر از دندان طبیعی پیشرفت می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا ضایعه التهابی اطراف ایمپلنت سریع‌تر از دندان طبیعی پیشرفت می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون الیاف موازی سطح‌اند، خون‌رسانی کمتر است و سد در برابر گسترش عفونت ضعیف‌تر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون سطح تیتانیوم به‌طور ذاتی باکتری‌های بیماری‌زاتری را نسبت به مینا جذب می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون بزاق به ناحیه اطراف ایمپلنت دسترسی ندارد و اثر شست‌وشوی طبیعی از بین می‌رود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون ایمپلنت‌ها همیشه در نواحی با تراکم استخوانی بسیار پایین کاشته می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3ba42f4a5b75490336ec4f38cb5ada55463a1bece552f89a89201bd2319786cf",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون الیاف موازی سطح‌اند، خون‌رسانی کمتر است و سد در برابر گسترش عفونت ضعیف‌تر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون الیاف موازی سطح‌اند، خون‌رسانی کمتر است و سد در برابر گسترش عفونت ضعیف‌تر"
+            }
+          ]
+        },
+        {
+          "id": "6425f332a0e96ff2022ac832195f7de279ac0190f5148dc3fa536a5891248a16",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون سطح تیتانیوم به‌طور ذاتی باکتری‌های بیماری‌زاتری را نسبت به مینا جذب می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون سطح تیتانیوم به‌طور ذاتی باکتری‌های بیماری‌زاتری را نسبت به مینا جذب می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "0905cfce6f5afdc5fbb675b3558afb7bde22bb54aaa0c2caf4dbcb4540b45bbd",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون بزاق به ناحیه اطراف ایمپلنت دسترسی ندارد و اثر شست‌وشوی طبیعی از بین می‌رود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون بزاق به ناحیه اطراف ایمپلنت دسترسی ندارد و اثر شست‌وشوی طبیعی از بین می‌رود"
+            }
+          ]
+        },
+        {
+          "id": "c56e6d440ac7605495c01242c8d068d9224644ee58aead602d28e5cb8766f2ad",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون ایمپلنت‌ها همیشه در نواحی با تراکم استخوانی بسیار پایین کاشته می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون ایمپلنت‌ها همیشه در نواحی با تراکم استخوانی بسیار پایین کاشته می‌شوند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3ba42f4a5b75490336ec4f38cb5ada55463a1bece552f89a89201bd2319786cf"
+        ],
+        "explanation": "درست! آرایش موازی الیاف، خون‌رسانی کمتر و سیل ضعیف‌تر، سه دلیل ساختاری این تفاوت‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست! آرایش موازی الیاف، خون‌رسانی کمتر و سیل ضعیف‌تر، سه دلیل ساختاری این تفاوت‌اند."
+          }
+        ],
+        "observedAt": "2026-11-16T16:30:08.340Z"
+      }
+    },
+    {
+      "id": "question:18921",
+      "sourceId": "18921",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "ab1061183707201e4724100d8ead7224f88e7f15ff3d656970ac1304334c1a55",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "یک عمق پروب مشخص و ثابت به‌عنوان «عمق طبیعی» برای همه ایمپلنت‌ها وجود دارد و هر عددی بالاتر از آن بیماری محسوب می‌شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "یک عمق پروب مشخص و ثابت به‌عنوان «عمق طبیعی» برای همه ایمپلنت‌ها وجود دارد و هر عددی بالاتر از آن بیماری محسوب می‌شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست انتخاب کردی. این جمله نادرست است؛ عمق اولیه به ضخامت بافت نرم بستگی دارد و برای هر ایمپلنت متفاوت است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست انتخاب کردی. این جمله نادرست است؛ عمق اولیه به ضخامت بافت نرم بستگی دارد و برای هر ایمپلنت متفاوت است."
+          }
+        ],
+        "observedAt": "2026-11-16T16:30:13.777Z"
+      }
+    },
+    {
+      "id": "question:18924",
+      "sourceId": "18924",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "19848506ad79198c1e57cfcd60a69e1cc8b59701f053ee9e5e66f72857ce4e09",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ایرپالیشر با پودر گلایسین گزینه مؤثر و کم‌خراشی برای پاک‌سازی سطح اطراف ایمپلنت است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ایرپالیشر با پودر گلایسین گزینه مؤثر و کم‌خراشی برای پاک‌سازی سطح اطراف ایمپلنت است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "بله. این جمله صحیح است؛ گلایسین ذرات ریزتر و ملایم‌تری دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بله. این جمله صحیح است؛ گلایسین ذرات ریزتر و ملایم‌تری دارد."
+          }
+        ],
+        "observedAt": "2026-11-16T16:30:19.979Z"
+      }
+    },
+    {
+      "id": "question:18928",
+      "sourceId": "18928",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "4469bfe0a09f477951e8c2746fd19c26725a378682e9d0407ad11c8e848b29c4",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در جلسه پایش، خون‌ریزی هنگام پروب وجود دارد اما رادیوگرافی هیچ تحلیل استخوانی نشان نمی‌دهد. تشخیص و برخورد چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در جلسه پایش، خون‌ریزی هنگام پروب وجود دارد اما رادیوگرافی هیچ تحلیل استخوانی نشان نمی‌دهد. تشخیص و برخورد چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پری‌ایمپلنتیت؛ ارجاع فوری برای جراحی بازسازی‌کننده ناحیه درگیر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موکوزیت؛ دبریدمان و بازآموزی بهداشت، چون در این مرحله برگشت‌پذیر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سلامت اطراف ایمپلنت؛ هیچ اقدامی لازم نیست و پایش با همان فاصله‌ی قبلی ادامه می‌یابد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکست ادغام؛ برنامه‌ریزی برای خارج کردن ایمپلنت در نزدیک‌ترین فرصت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "445d34bfc185ea95d36b462a78a0713f80204eb9dc66e7b0d3d08c2173a02ca7",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "پری‌ایمپلنتیت؛ ارجاع فوری برای جراحی بازسازی‌کننده ناحیه درگیر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پری‌ایمپلنتیت؛ ارجاع فوری برای جراحی بازسازی‌کننده ناحیه درگیر"
+            }
+          ]
+        },
+        {
+          "id": "8923b1bf47d8c02cdfd132f2629bfbebb389ded59b213dacd1bb696cd899f731",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "موکوزیت؛ دبریدمان و بازآموزی بهداشت، چون در این مرحله برگشت‌پذیر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "موکوزیت؛ دبریدمان و بازآموزی بهداشت، چون در این مرحله برگشت‌پذیر است"
+            }
+          ]
+        },
+        {
+          "id": "3ec650f677282116b450545493ef9d9bd00133ba2b21897fea3759b4e6c53628",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "سلامت اطراف ایمپلنت؛ هیچ اقدامی لازم نیست و پایش با همان فاصله‌ی قبلی ادامه می‌یابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سلامت اطراف ایمپلنت؛ هیچ اقدامی لازم نیست و پایش با همان فاصله‌ی قبلی ادامه می‌یابد"
+            }
+          ]
+        },
+        {
+          "id": "bad56efea153aa249f4324dc771a4e7e29a432f39f3a72c1ce70faeb00d0c8db",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "شکست ادغام؛ برنامه‌ریزی برای خارج کردن ایمپلنت در نزدیک‌ترین فرصت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شکست ادغام؛ برنامه‌ریزی برای خارج کردن ایمپلنت در نزدیک‌ترین فرصت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8923b1bf47d8c02cdfd132f2629bfbebb389ded59b213dacd1bb696cd899f731"
+        ],
+        "explanation": "درست است! این تعریف موکوزیت است و دقیقاً همان مرحله‌ای که مداخله بیشترین سود را دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است! این تعریف موکوزیت است و دقیقاً همان مرحله‌ای که مداخله بیشترین سود را دارد."
+          }
+        ],
+        "observedAt": "2026-11-16T16:30:25.649Z"
+      }
+    },
+    {
+      "id": "question:18930",
+      "sourceId": "18930",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "33ef3f2c6abc37fd4b01d9bee23395aca959538bac7aa223b9c66afd7802d258",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کنترل پلاک روزانه توسط بیمار، حتی با وجود جلسات پایش حرفه‌ای منظم، همچنان تعیین‌کننده‌ترین عامل در سلامت بافت اطراف ایمپلنت است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کنترل پلاک روزانه توسط بیمار، حتی با وجود جلسات پایش حرفه‌ای منظم، همچنان تعیین‌کننده‌ترین عامل در سلامت بافت اطراف ایمپلنت است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "دقیقاً همین. این جمله صحیح است؛ چند جلسه در سال جای بهداشت روزانه را نمی‌گیرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً همین. این جمله صحیح است؛ چند جلسه در سال جای بهداشت روزانه را نمی‌گیرد."
+          }
+        ],
+        "observedAt": "2026-11-16T16:30:30.835Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:c048ae88bbd62507438aff7e025fb89434f474e2d854fa577cf938bbea30494f",
+      "at": "2026-11-16T16:29:46.026Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:e5dc9d9c842bd7ca1e18e25d2b8bc06a383063c1ec9db9c43b7e1ff8ec0726df",
+      "at": "2026-11-16T16:29:48.249Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:02942c34632c128ceb381f60e74d35b9b083b339d758fadf558b0e0e0adb2fab",
+      "at": "2026-11-16T16:29:49.878Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:18917",
+      "at": "2026-11-16T16:29:51.480Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:18921",
+      "at": "2026-11-16T16:30:09.914Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:18924",
+      "at": "2026-11-16T16:30:15.379Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:18928",
+      "at": "2026-11-16T16:30:21.596Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:18930",
+      "at": "2026-11-16T16:30:27.233Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

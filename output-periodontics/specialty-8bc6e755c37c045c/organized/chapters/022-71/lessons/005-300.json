@@ -1,0 +1,2735 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/300/lesson.json",
+  "id": "300",
+  "title": "درس پنجم: بیولوژیک‌ها؛ EMD، PRF و فاکتورهای رشد",
+  "specialtyKey": "8bc6e755c37c045c",
+  "chapter": {
+    "id": "71",
+    "title": "جراحی استخوانی و بازساختی",
+    "position": 22
+  },
+  "position": 5,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:f046fba75b36862adfaf20d85f49e051c863caa3ca4c70f0e1bd496b14eb6965",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "8f34871d537bfe0a603e22edd2f692dbcf1e62ef2468b7035e34aa4bb63b39ed",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h2",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🧬 بیولوژیک‌ها؛ افزودن سیگنال به معادله"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تا اینجا دو ابزار داشتیم: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماده پیوندی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (داربست و فضا) و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ممبران"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (مسدودسازی). بیولوژیک‌ها یک عنصر سوم اضافه می‌کنند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیگنال زیستی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که رفتار سلول‌ها را هدایت می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🥚 مشتق ماتریکس مینا (EMD)"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ویژگی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "جزئیات"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "منشأ"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ماتریکس مینای "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "جوانه دندانی خوک"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " در حال تشکیل"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ترکیب اصلی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "عمدتاً "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "آملوژنین"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": "ها"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "منطق زیستی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔑 آملوژنین‌ها در "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "تکامل طبیعی"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " دندان، تشکیل سمان و چسبندگی را هدایت می‌کنند؛ EMD همان سیگنال تکاملی را "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "بازآفرینی"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " می‌کند"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "اثر"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تحریک تشکیل "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سمان آکلولار"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " و به دنبال آن لیگامان و استخوان"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "شکل"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ژل چسبنده که روی سطح ریشه آماده‌شده قرار می‌گیرد"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زیبایی مفهومی EMD:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " این ماده تلاش نمی‌کند بافت را «بسازد»؛ تلاش می‌کند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شرایط رشدی دوران تکامل دندان را بازآفرینی کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تا سلول‌های میزبان همان کاری را بکنند که یک بار در دوران رویش انجام داده بودند."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚙️ نکته فنی حیاتی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "EMD به سطح ریشه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تمیز و بدون آلودگی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نیاز دارد. آماده‌سازی سطح با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ژل EDTA"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیش از کاربرد آن، لایه اسمیر را برمی‌دارد و کلاژن ماتریکس را در معرض قرار می‌دهد تا EMD بتواند بچسبد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ EMD خودش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حفظ فضا نمی‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — ژل است، نه داربست سخت. در نقص‌های بدون دیواره حمایتی، باید با ماده پیوندی ترکیب شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:2f65393fd9bf50a2a697a3316c425584c5bb8b8f168c4a8e238b820f0d4d9d03",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "b31e142d3cb01e2a077f1212959a64481e5a1f204b6a6463140e8437c3d08219",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🩸 غلظت‌های پلاکتی؛ از خون خود بیمار"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نسل"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نام"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ویژگی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "اول"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "PRP"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (پلاسمای غنی از پلاکت)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نیازمند "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ضدانعقاد"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " و فعال‌سازی؛ آزادسازی سریع فاکتورهای رشد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "دوم"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "PRF"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (فیبرین غنی از پلاکت)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "بدون"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " ضدانعقاد و بدون افزودنی؛ لخته فیبرینی سه‌بعدی با آزادسازی "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "تدریجی"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " فاکتورها"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مزیت اصلی PRF بر PRP:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ساختار فیبرینی آن یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داربست زیستی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است که فاکتورهای رشد را به‌تدریج و در طول روزها آزاد می‌کند — نه یک‌باره. افزون بر این، بدون افزودنی تهیه می‌شود که آماده‌سازی را ساده‌تر و مقبول‌تر می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "فاکتورهای رشد موجود"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "PDGF"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — تحریک تکثیر سلولی و رگ‌زایی."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "TGF-β"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — تحریک تشکیل ماتریکس."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "VEGF"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — رگ‌زایی."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "IGF"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — تمایز سلولی."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🧪 فاکتورهای رشد نوترکیب"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ماده"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کاربرد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "rhPDGF-BB"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " همراه با بتا-تری‌کلسیم فسفات"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تأییدشده برای نقص‌های پریودنتال؛ ترکیب سیگنال با داربست"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "rhBMP-2"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "عمدتاً در بازسازی استخوان و ایمپلنتولوژی، نه نقص پریودنتال"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 نکته مفهومی: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "rhPDGF-BB نمونه کاملی از فلسفه امروزی است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیگنال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (فاکتور رشد) به‌همراه یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داربست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (بتا-TCP). هیچ‌کدام به‌تنهایی کافی نیستند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:a8b9ee4b5549d7c5644a5375f737b092b574607c4e26cfc48ad310eeb52bbda8",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "aaea2800ed62ce16fe4baeeb905196a8c2820560d5746de796725301c674782e",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📊 شواهد؛ چه انتظاری واقع‌بینانه است؟"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ماده"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "وضعیت شواهد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "EMD"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 شواهد "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "قوی"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " در نقص‌های داخل‌استخوانی؛ نتایج قابل مقایسه با GTR"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "rhPDGF-BB + بتا-TCP"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 شواهد خوب در نقص‌های داخل‌استخوانی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "PRF"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟡 شواهد در حال شکل‌گیری و امیدبخش؛ به‌عنوان "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "مکمل"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " ارزش دارد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "PRP"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟡 شواهد ناهمگون‌تر؛ کاربردش کاهش یافته"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واقعیتی که باید بپذیری:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هیچ بیولوژیکی، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتخاب نامناسب کیس را نجات نمی‌دهد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در نقص یک‌دیواره پهن، در بیمار سیگاری، یا با کنترل پلاک ضعیف، هیچ ماده گران‌قیمتی نتیجه قابل قبولی نمی‌دهد."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🧩 چارچوب مفهومی نهایی بازسازی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هر درمان بازسازی، ترکیبی از سه عنصر است:"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "عنصر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نقش"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ابزار"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سلول"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سازنده بافت جدید"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "PDL میزبان، اتوگرافت، دکورتیکاسیون"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "داربست"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حفظ فضا و بستر مهاجرت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ماده پیوندی، ممبران، فیبرین PRF"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سیگنال"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هدایت رفتار سلول‌ها"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "EMD، فاکتورهای رشد، BMP در DFDBA"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این چارچوب سه‌عنصری، کل مبحث بازسازی را سازمان می‌دهد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هر ماده‌ای که در آینده معرفی شود، در یکی از این سه خانه جای می‌گیرد. و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ عنصری به‌تنهایی کافی نیست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — به همین دلیل ترکیب‌ها رایج‌ترند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ و عنصر چهارمی هم هست که در هیچ جدولی نمی‌گنجد: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محیط بدون التهاب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". بدون کنترل پلاک و بدون بسته ماندن زخم، هر سه عنصر بی‌اثر می‌شوند."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 اشتباه‌های رایج"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۱:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " EMD از "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "آملوژنین"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " است و منطق آن بازآفرینی سیگنال "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تکاملی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۲:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "PRF"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " بدون ضدانعقاد و با آزادسازی "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تدریجی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "؛ PRP نیازمند ضدانعقاد و آزادسازی سریع."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۳:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " هیچ بیولوژیکی "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "انتخاب نامناسب کیس را نجات نمی‌دهد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:4410",
+      "sourceId": "4410",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "aa060a7e60e9d02a1635ee93e5fa0f8b16366c4b9309543a3c497db99061a79e",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "منطق زیستی مشتق ماتریکس مینا (EMD) چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "منطق زیستی مشتق ماتریکس مینا (EMD) چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشتن باکتری‌های ناحیه نقص"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسدود کردن اپیتلیوم مانند ممبران"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پر کردن مکانیکی فضای نقص با یک ژل چسبنده که به‌عنوان داربست فیزیکی عمل می‌کند و مانع فروریختن بافت نرم به داخل نقص می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بازآفرینی سیگنال تکاملی آملوژنین که در رویش طبیعی دندان، تشکیل سمان و چسبندگی را هدایت می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3cc0837d03b41d6ea115e455ac5f91d75df2cc0a32f9979c4b334138e78bfffe",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کشتن باکتری‌های ناحیه نقص",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشتن باکتری‌های ناحیه نقص"
+            }
+          ]
+        },
+        {
+          "id": "7ec418b3f2812f1c99e24da8b8ec09bb6d7167c166a391c341526529bbea8fa5",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مسدود کردن اپیتلیوم مانند ممبران",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مسدود کردن اپیتلیوم مانند ممبران"
+            }
+          ]
+        },
+        {
+          "id": "d6479a7fed21ca6cfcd9ce0b061498993f688bc31ffd1c61986a9768d43b176a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "پر کردن مکانیکی فضای نقص با یک ژل چسبنده که به‌عنوان داربست فیزیکی عمل می‌کند و مانع فروریختن بافت نرم به داخل نقص می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پر کردن مکانیکی فضای نقص با یک ژل چسبنده که به‌عنوان داربست فیزیکی عمل می‌کند و مانع فروریختن بافت نرم به داخل نقص می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "a3375d609d238e65abf3e3fb0bd339e356108110d42d14474a5a4a976a139cb9",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بازآفرینی سیگنال تکاملی آملوژنین که در رویش طبیعی دندان، تشکیل سمان و چسبندگی را هدایت می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بازآفرینی سیگنال تکاملی آملوژنین که در رویش طبیعی دندان، تشکیل سمان و چسبندگی را هدایت می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a3375d609d238e65abf3e3fb0bd339e356108110d42d14474a5a4a976a139cb9"
+        ],
+        "explanation": "آفرین بر دقتت. EMD تلاش نمی‌کند بافت را بسازد؛ شرایط رشدی دوران تکامل دندان را بازآفرینی می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین بر دقتت. EMD تلاش نمی‌کند بافت را بسازد؛ شرایط رشدی دوران تکامل دندان را بازآفرینی می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T16:12:54.862Z"
+      }
+    },
+    {
+      "id": "question:4415",
+      "sourceId": "4415",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "6dc11395820f7f5b0e34004c8ad5b38aa24caf04a09d37fb9658d07ec6c1b98f",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "EMD از چه منبعی تهیه می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "EMD از چه منبعی تهیه می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مینای دندان بالغ انسان پس از کشیدن و آسیاب کردن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاملاً مصنوعی و از پپتیدهای آزمایشگاهی ساخته می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماتریکس استخوان گاوی دمینرالیزه و فریز-خشک‌شده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماتریکس مینای جوانه دندانی خوک در حال تشکیل"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "55b883cc24ae48cc068f5e0d9b37f31abb6d9419457518f782f9968b8f398851",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مینای دندان بالغ انسان پس از کشیدن و آسیاب کردن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مینای دندان بالغ انسان پس از کشیدن و آسیاب کردن"
+            }
+          ]
+        },
+        {
+          "id": "6924b190f6bf9019d3aeabb00713d78502d95249cdab986d336cd4c3308d660b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کاملاً مصنوعی و از پپتیدهای آزمایشگاهی ساخته می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاملاً مصنوعی و از پپتیدهای آزمایشگاهی ساخته می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "7bec9528d770ccd71afaed8626c6e555e5e44f45e2b10f3a9a48a552dc6fdaac",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ماتریکس استخوان گاوی دمینرالیزه و فریز-خشک‌شده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماتریکس استخوان گاوی دمینرالیزه و فریز-خشک‌شده"
+            }
+          ]
+        },
+        {
+          "id": "64c56c03ace6c90f5d4d360a2dd2eb85b1eac30e81696adb1c8bd74ab63fd9f1",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ماتریکس مینای جوانه دندانی خوک در حال تشکیل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماتریکس مینای جوانه دندانی خوک در حال تشکیل"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "64c56c03ace6c90f5d4d360a2dd2eb85b1eac30e81696adb1c8bd74ab63fd9f1"
+        ],
+        "explanation": "بله، دقیقاً. جوانه دندانی در حال تشکیل، همان مرحله‌ای است که این سیگنال‌ها در آن فعال‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بله، دقیقاً. جوانه دندانی در حال تشکیل، همان مرحله‌ای است که این سیگنال‌ها در آن فعال‌اند."
+          }
+        ],
+        "observedAt": "2026-11-16T16:13:00.680Z"
+      }
+    },
+    {
+      "id": "question:4416",
+      "sourceId": "4416",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "995f65e0e58e5d70983f933299b32b57b2408958aaf5aba1480019becccaca66",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مزیت اصلی PRF بر PRP چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مزیت اصلی PRF بر PRP چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "PRF ارزان‌تر است و به‌دلیل نیاز به ضدانعقاد و فعال‌ساز شیمیایی، غلظت بالاتری از پلاکت و فاکتور رشد را در یک نوبت واحد آزاد می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "PRF بدون ضدانعقاد تهیه می‌شود و ساختار فیبرینی آن فاکتورهای رشد را به‌تدریج و در طول روزها آزاد می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "PRF فاکتورهای رشد بیشتری دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "PRF اثر ضدباکتریایی دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "64804bb83d67f164274f9e5c5635edfebac43bcc325e3ece70f83485f98f6ede",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "PRF ارزان‌تر است و به‌دلیل نیاز به ضدانعقاد و فعال‌ساز شیمیایی، غلظت بالاتری از پلاکت و فاکتور رشد را در یک نوبت واحد آزاد می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "PRF ارزان‌تر است و به‌دلیل نیاز به ضدانعقاد و فعال‌ساز شیمیایی، غلظت بالاتری از پلاکت و فاکتور رشد را در یک نوبت واحد آزاد می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "f5980c304597ba16e6d068b71322d1fef6b34dd12a95e3cb35638a45e6f1ca2a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "PRF بدون ضدانعقاد تهیه می‌شود و ساختار فیبرینی آن فاکتورهای رشد را به‌تدریج و در طول روزها آزاد می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "PRF بدون ضدانعقاد تهیه می‌شود و ساختار فیبرینی آن فاکتورهای رشد را به‌تدریج و در طول روزها آزاد می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "e496d8cf0ecc6f2fb9560efa1a55bef252a1b4de16435583e3e7a501a018b35a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "PRF فاکتورهای رشد بیشتری دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "PRF فاکتورهای رشد بیشتری دارد"
+            }
+          ]
+        },
+        {
+          "id": "7c0454a028289bcc46d104e49296314771c891c51f1e75f3bcf45576442a5160",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "PRF اثر ضدباکتریایی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "PRF اثر ضدباکتریایی دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f5980c304597ba16e6d068b71322d1fef6b34dd12a95e3cb35638a45e6f1ca2a"
+        ],
+        "explanation": "خوب جواب دادی. ساختار فیبرینی PRF یک داربست زیستی است، نه فقط یک محلول غنی از فاکتور.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خوب جواب دادی. ساختار فیبرینی PRF یک داربست زیستی است، نه فقط یک محلول غنی از فاکتور."
+          }
+        ],
+        "observedAt": "2026-11-16T16:13:06.114Z"
+      }
+    },
+    {
+      "id": "question:4420",
+      "sourceId": "4420",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "452aeb163f593eb5aa1939345c87dfff69e89ee2bbcc57c566d89a764a3a3a61",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "rhBMP-2 عمدتاً در بازسازی نقص‌های پریودنتال کاربرد دارد، نه در ایمپلنتولوژی.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "rhBMP-2 عمدتاً در بازسازی نقص‌های پریودنتال کاربرد دارد، نه در ایمپلنتولوژی."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست فهمیدی. کاربرد اصلی rhBMP-2 در بازسازی استخوان و ایمپلنتولوژی است؛ در نقص پریودنتال، خطر انکیلوز و تحلیل ریشه آن را محدود کرده است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست فهمیدی. کاربرد اصلی rhBMP-2 در "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بازسازی استخوان و ایمپلنتولوژی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است؛ در نقص پریودنتال، خطر انکیلوز و تحلیل ریشه آن را محدود کرده است."
+          }
+        ],
+        "observedAt": "2026-11-16T16:13:20.596Z"
+      }
+    },
+    {
+      "id": "question:4422",
+      "sourceId": "4422",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 77.7778%;",
+      "contentKey": "039c6f8e7f59f76b41bc2dbb91f9fea5b96955677d998565a1799ccbb421f3a4",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مهم‌ترین محدودیت مشترک تمام بیولوژیک‌ها چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مهم‌ترین محدودیت مشترک تمام بیولوژیک‌ها چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه آن‌ها عوارض شدید دارند و بیشتر بیماران را دچار واکنش ایمنی می‌کنند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ‌کدام انتخاب نامناسب کیس را نجات نمی‌دهند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ‌کدام شواهد علمی ندارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه آن‌ها فقط در فک پایین کار می‌کنند و در فک بالا بی‌اثرند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "986c074805659010d7442b62f80b57e3791a42a8fbf1739b024cd97828018e0c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "همه آن‌ها عوارض شدید دارند و بیشتر بیماران را دچار واکنش ایمنی می‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه آن‌ها عوارض شدید دارند و بیشتر بیماران را دچار واکنش ایمنی می‌کنند"
+            }
+          ]
+        },
+        {
+          "id": "ea094dc7d15a8b3a4119136450ebeebc0b191501d39f8b947bf46bc79aa16c3d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هیچ‌کدام انتخاب نامناسب کیس را نجات نمی‌دهند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ‌کدام انتخاب نامناسب کیس را نجات نمی‌دهند"
+            }
+          ]
+        },
+        {
+          "id": "dc028859239edf37f48a94ea7edfdaa5f062de6a1d334e939bb2d010d2ae4c69",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هیچ‌کدام شواهد علمی ندارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ‌کدام شواهد علمی ندارند"
+            }
+          ]
+        },
+        {
+          "id": "e812935ed409b8e2501ce90a7f78ce9ba6f993bba71ce447922929886b2af339",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همه آن‌ها فقط در فک پایین کار می‌کنند و در فک بالا بی‌اثرند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه آن‌ها فقط در فک پایین کار می‌کنند و در فک بالا بی‌اثرند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ea094dc7d15a8b3a4119136450ebeebc0b191501d39f8b947bf46bc79aa16c3d"
+        ],
+        "explanation": "خوب استدلال کردی. در نقص یک‌دیواره پهن، بیمار سیگاری، یا با کنترل پلاک ضعیف، هیچ ماده گران‌قیمتی نتیجه قابل قبولی نمی‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خوب استدلال کردی. در نقص یک‌دیواره پهن، بیمار سیگاری، یا با کنترل پلاک ضعیف، هیچ ماده گران‌قیمتی نتیجه قابل قبولی نمی‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-16T16:13:17.071Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:f046fba75b36862adfaf20d85f49e051c863caa3ca4c70f0e1bd496b14eb6965",
+      "at": "2026-11-16T16:12:40.233Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:2f65393fd9bf50a2a697a3316c425584c5bb8b8f168c4a8e238b820f0d4d9d03",
+      "at": "2026-11-16T16:12:41.844Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:a8b9ee4b5549d7c5644a5375f737b092b574607c4e26cfc48ad310eeb52bbda8",
+      "at": "2026-11-16T16:12:43.434Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:4410",
+      "at": "2026-11-16T16:12:45.029Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:4415",
+      "at": "2026-11-16T16:12:56.484Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:4416",
+      "at": "2026-11-16T16:13:02.275Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:4420",
+      "at": "2026-11-16T16:13:07.737Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:4422",
+      "at": "2026-11-16T16:13:12.657Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:4420",
+      "at": "2026-11-16T16:13:18.676Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

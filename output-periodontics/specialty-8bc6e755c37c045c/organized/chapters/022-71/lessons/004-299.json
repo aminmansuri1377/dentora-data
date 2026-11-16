@@ -1,0 +1,2564 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/299/lesson.json",
+  "id": "299",
+  "title": "درس چهارم: بازسازی هدایت‌شده بافت (GTR)؛ ممبران و بیولوژی",
+  "specialtyKey": "8bc6e755c37c045c",
+  "chapter": {
+    "id": "71",
+    "title": "جراحی استخوانی و بازساختی",
+    "position": 22
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:468cb37dc8c805c079fd083d113bd4b56bcde11132db3d4c6b3e504d25bab78e",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "e6f1f232bc524cbce04eb3ab63142539c13ff724500f212d130467b4904cf84f",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h2",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🚧 بازسازی هدایت‌شده بافت؛ مدیریت یک مسابقه"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "به یاد بیاور: پس از جراحی، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چهار نوع سلول"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای اشغال سطح ریشه رقابت می‌کنند — و تنها سلول‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لیگامان پریودنتال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌توانند چسبندگی جدید بسازند، اما "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کندترین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "اند."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/OfY9DD5RA74KNB6bK85VLaKHf4MNh0cqYcn2jLFu.webp",
+                  "alt": "چهار مرحله بازسازی هدایت‌شده بافت: نقص داخل‌استخوانی، قرارگیری ممبران، بخیه و نتیجه",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/76e8d5167b41d2455c1c3ba376c648de3cb18d9f1079d7351129405d84733619.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل ۵۳ — بازسازی هدایت‌شده بافت (GTR) روی نقص داخل‌استخوانی: (a) سنجش عمق نقص، (b) ممبران در جای خود، (c) بسته شدن کامل زخم روی ممبران، (d) نتیجهٔ بالینی، Lindhe, "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "Clinical Periodontology and Implant Dentistry"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ", 7th ed., Fig. 38-39"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایده GTR در یک جمله:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با قرار دادن یک ممبران، رقبای سریع — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اپیتلیوم و بافت همبند لثه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — را از فضای نقص "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسدود کن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، تا سلول‌های کند PDL و استخوان فرصت رسیدن پیدا کنند."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🧬 چهار شرط زیست‌شناختی موفقیت GTR"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": []
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "شرط"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "چرا"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۱"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حذف اپیتلیوم"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (Exclusion)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مهم‌ترین کارکرد ممبران"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۲"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حفظ فضا"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (Space maintenance)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اگر ممبران فرو بریزد، فضایی برای بازسازی نمی‌ماند"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۳"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "پایداری لخته"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (Clot stabilization)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "لخته، داربست اولیه مهاجرت سلولی است"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۴"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "بسته ماندن زخم"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (Primary closure)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "برهنه شدن ممبران = آلودگی = شکست"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ هر چهار شرط "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لازم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "اند؛ شکست هر یک، کل نتیجه را از بین می‌برد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:81ed7712bba5627edeedbff5c3ece0f3d63b6d20289c0f2d56d7efe82468b1e5",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "16f5260d2e5dbd6c479d7f6c64fb9fd38ccf698ddd4fbdc638ffd797c5227708",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🗂️ دو خانواده ممبران"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": []
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "غیرقابل جذب"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "قابل جذب"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "نمونه‌ها"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ePTFE، ePTFE تقویت‌شده با تیتانیوم"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کلاژن، پلی‌لاکتیک اسید، پلی‌گلیکولیک اسید"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حفظ فضا"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "عالی"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " — به‌ویژه نوع تقویت‌شده با تیتانیوم"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 ضعیف‌تر — ممکن است فرو بریزد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "جراحی دوم"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "لازم است"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " برای برداشتن"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 لازم نیست"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "خطر برهنه شدن"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 بیشتر و پیامد جدی‌تر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کمتر"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سازگاری بافتی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "خوب"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 عالی؛ کلاژن هموستاز هم می‌دهد"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "معامله اصلی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ممبران غیرقابل جذب فضا را بهتر نگه می‌دارد اما به جراحی دوم نیاز دارد و برهنه شدنش پرخطرتر است. ممبران قابل جذب راحت‌تر است اما ممکن است فضا را حفظ نکند — به‌ویژه در نقص‌های بدون دیواره حمایتی."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/qImGwFWWsDzLhao2kBXL6PwmTTgsyS7TnY5CGZE0.webp",
+                  "alt": "رادیوگرافی پیش و پس از بازسازی هدایت‌شده بافت؛ پر شدن نقص داخل‌استخوانی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/ee1e6fb61970e6ba7b4f48c7052422807182434913f1a8b80f5ee6a2cab771ba.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل ۵۴ — رادیوگرافی پیش (a) و پس (b) از GTR؛ پر شدن نقص داخل‌استخوانی مزیال دندان — به یاد داشته باش اثبات قطعی بازسازی فقط بافت‌شناسی است، Lindhe, 7th ed., Fig. 38-39"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 راه‌حل رایج امروزی: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترکیب ممبران قابل جذب با ماده پیوندی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — ماده پیوندی نقش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نگهدارنده فضا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را ایفا می‌کند و ممبران فقط وظیفه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسدودسازی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را بر عهده می‌گیرد. این ترکیب، ضعف اصلی ممبران قابل جذب را جبران می‌کند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:cb744ead1c4ea4aea2daa06a0e3c8d80fd5f8003e4dbd0ab79a5066fdfe807fd",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "52397ff56b68aa7ad517d686f8f8305d7b1bade74620b3d1f4afdede54269a4d",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ شایع‌ترین عارضه: برهنه شدن ممبران"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔴 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برهنه شدن ممبران، شایع‌ترین عارضه و مهم‌ترین علت شکست GTR است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا این‌قدر مهم است؟"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ممبران برهنه، بلافاصله با "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بیوفیلم"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " کلونیزه می‌شود."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "باکتری‌ها به فضای نقص نفوذ می‌کنند و بازسازی را از بین می‌برند."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در ممبران "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "غیرقابل جذب"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "، پیامد جدی‌تر است چون ماده باقی می‌ماند و مخزن دائمی آلودگی می‌شود."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🛡️ چگونه پیشگیری کنیم؟"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تکنیک حفظ پاپیلا"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " برای پوشش کامل ناحیه بین‌دندانی."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فلپ بدون کشش"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — کشش، لبه‌ها را از هم باز می‌کند."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ممبران نباید تا "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "لبه فلپ"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " امتداد یابد؛ باید "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کاملاً زیر بافت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " بماند."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بخیه دقیق"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " و ترجیحاً تک‌رشته‌ای — بدون اثر فتیله‌ای."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کلرهگزیدین"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " و پرهیز از مسواک زدن ناحیه."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "✅ انتخاب کیس؛ همان قواعد آشنا"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مطلوب"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نامطلوب"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 نقص "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سه‌دیواره عمیق و باریک"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 نقص یک‌دیواره یا پهن"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 فورکیشن "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "درجه II فک پایین"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 فورکیشن درجه III"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 کنترل پلاک عالی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 کنترل پلاک ضعیف"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 غیرسیگاری"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 سیگاری"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 بافت نرم ضخیم برای پوشش"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 بافت نازک — خطر برهنه شدن"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بهترین اندیکاسیون فورکیشن برای GTR: درجه II در مولر فک پایین."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فورکیشن درجه III (سرتاسری) نتیجه قابل پیش‌بینی نمی‌دهد چون فضای محصوری برای حفظ لخته وجود ندارد."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 اشتباه‌های رایج"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۱:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " کارکرد اصلی ممبران، "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مسدود کردن اپیتلیوم"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۲:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "برهنه شدن ممبران"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "، شایع‌ترین علت شکست است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۳:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " بهترین اندیکاسیون فورکیشن، "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "درجه II فک پایین"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " است — نه درجه III."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:4397",
+      "sourceId": "4397",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "99fc6d34b8a78a03112c58a4036e9d5efad352097fc5256f6ce4c45a55bf3cda",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا حفظ فضا یکی از شروط موفقیت GTR است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا حفظ فضا یکی از شروط موفقیت GTR است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برای زیبایی بیشتر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برای کاهش درد بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون اگر ممبران فرو بریزد، فضایی برای رسیدن سلول‌های PDL و تشکیل بافت جدید باقی نمی‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برای کاهش هزینه درمان، چون ممبران‌های ارزان‌تر فضای بیشتری اشغال می‌کنند و نیاز به ماده پیوندی گران‌قیمت را حذف می‌کنند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "39124ca76518dad12c1b11e142739de7cc9e299ba8daae9304b1125354e2beef",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "برای زیبایی بیشتر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "برای زیبایی بیشتر"
+            }
+          ]
+        },
+        {
+          "id": "f4a4f249177187f43994bddbd6f783acd956c41c143208a6989984dab55ac3b9",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "برای کاهش درد بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "برای کاهش درد بیمار"
+            }
+          ]
+        },
+        {
+          "id": "78843ebeb21de8edd8aa91d8f6b518b026e9c1f81b1a36382ce4915f6e280c15",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون اگر ممبران فرو بریزد، فضایی برای رسیدن سلول‌های PDL و تشکیل بافت جدید باقی نمی‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون اگر ممبران فرو بریزد، فضایی برای رسیدن سلول‌های PDL و تشکیل بافت جدید باقی نمی‌ماند"
+            }
+          ]
+        },
+        {
+          "id": "1aafec9fb94efd3f44835c25f5e42cb104f6ee2d7ca0a4ebb1c42465655a1846",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "برای کاهش هزینه درمان، چون ممبران‌های ارزان‌تر فضای بیشتری اشغال می‌کنند و نیاز به ماده پیوندی گران‌قیمت را حذف می‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "برای کاهش هزینه درمان، چون ممبران‌های ارزان‌تر فضای بیشتری اشغال می‌کنند و نیاز به ماده پیوندی گران‌قیمت را حذف می‌کنند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "78843ebeb21de8edd8aa91d8f6b518b026e9c1f81b1a36382ce4915f6e280c15"
+        ],
+        "explanation": "خوب استدلال کردی. به همین دلیل در نقص‌های بدون دیواره حمایتی، ماده پیوندی به‌عنوان نگهدارنده فضا افزوده می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خوب استدلال کردی. به همین دلیل در نقص‌های بدون دیواره حمایتی، ماده پیوندی به‌عنوان نگهدارنده فضا افزوده می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-16T16:12:10.776Z"
+      }
+    },
+    {
+      "id": "question:4400",
+      "sourceId": "4400",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "00e76ab1306c881bf6600267b072418e8e360764e33eee3803c6346a15530e0e",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام ماده جزو ممبران‌های قابل جذب است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام ماده جزو ممبران‌های قابل جذب است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ePTFE"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ePTFE تقویت‌شده با تیتانیوم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلاژن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ورقه تیتانیومی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e8fbd28a403c36e4b663df2cc1d47100f7c840d6fff50be1cf740f3f1f4bb016",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ePTFE",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ePTFE"
+            }
+          ]
+        },
+        {
+          "id": "9f741cb92d55538525ba4af97010eb66a86b51b7ea7718c7cabf1ccef3aebd8e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ePTFE تقویت‌شده با تیتانیوم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ePTFE تقویت‌شده با تیتانیوم"
+            }
+          ]
+        },
+        {
+          "id": "a514a0419a60d28f82be06418e371a04631501b6f0a6783bb73129b066331905",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کلاژن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلاژن"
+            }
+          ]
+        },
+        {
+          "id": "b56a23225e5d88357a4147b04ae0886f754b404e5034c14a1238f930bfacf04d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ورقه تیتانیومی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ورقه تیتانیومی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a514a0419a60d28f82be06418e371a04631501b6f0a6783bb73129b066331905"
+        ],
+        "explanation": "آفرین، دقیق بود. ممبران کلاژنی افزون بر جذب‌شوندگی، سازگاری بافتی عالی و اثر هموستاتیک هم دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین، دقیق بود. ممبران کلاژنی افزون بر جذب‌شوندگی، سازگاری بافتی عالی و اثر هموستاتیک هم دارد."
+          }
+        ],
+        "observedAt": "2026-11-16T16:12:16.264Z"
+      }
+    },
+    {
+      "id": "question:4402",
+      "sourceId": "4402",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "3dbdbe21af7775c49d816b260495608d0d65f00fc4f030f7b20c5b8176cb1390",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برهنه شدن ممبران غیرقابل جذب پیامد خفیف‌تری از ممبران قابل جذب دارد، چون ماده مقاوم‌تر است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برهنه شدن ممبران غیرقابل جذب پیامد خفیف‌تری از ممبران قابل جذب دارد، چون ماده مقاوم‌تر است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "آفرین! پیامد آن جدی‌تر است: ممبران غیرقابل جذب باقی می‌ماند و پس از برهنه شدن به مخزن دائمی آلودگی تبدیل می‌شود تا وقتی برداشته شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین! پیامد آن "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "جدی‌تر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است: ممبران غیرقابل جذب باقی می‌ماند و پس از برهنه شدن به مخزن دائمی آلودگی تبدیل می‌شود تا وقتی برداشته شود."
+          }
+        ],
+        "observedAt": "2026-11-16T16:12:21.883Z"
+      }
+    },
+    {
+      "id": "question:4406",
+      "sourceId": "4406",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "fee5c71316bdaff147e44b3f082fc791d1f02145bcb92d98ea107d200e94d28b",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار سیگاری با کنترل پلاک ضعیف، نقص یک‌دیواره پهن و بافت نرم نازک دارد و درخواست GTR کرده است. اقدام درست چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار سیگاری با کنترل پلاک ضعیف، نقص یک‌دیواره پهن و بافت نرم نازک دارد و درخواست GTR کرده است. اقدام درست چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انجام فوری GTR با ممبران غیرقابل جذب"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توضیح اینکه شرایط برای GTR نامناسب است، اصلاح کنترل پلاک و مشاوره ترک سیگار، و در نظر گرفتن رویکرد رزکتیو"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انجام GTR با دو ممبران همزمان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن فوری دندان و جایگزینی با ایمپلنت، چون نقص یک‌دیواره پهن در بیمار سیگاری هیچ پیش‌آگهی قابل قبولی ندارد و درمان آن اتلاف زمان است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0c29020dc203865080b80bbfbcdf969ed2dec6b4a5ada2ee6b004817b76acadd",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "انجام فوری GTR با ممبران غیرقابل جذب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انجام فوری GTR با ممبران غیرقابل جذب"
+            }
+          ]
+        },
+        {
+          "id": "c3e6b89979044aed0868049d6c318b60ab089d4c363dec963f0c27b1bfb4e9ba",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "توضیح اینکه شرایط برای GTR نامناسب است، اصلاح کنترل پلاک و مشاوره ترک سیگار، و در نظر گرفتن رویکرد رزکتیو",
+          "content": [
+            {
+              "tag": "text",
+              "text": "توضیح اینکه شرایط برای GTR نامناسب است، اصلاح کنترل پلاک و مشاوره ترک سیگار، و در نظر گرفتن رویکرد رزکتیو"
+            }
+          ]
+        },
+        {
+          "id": "d086df95eacf91bd0b3b86a30507bfa6e11868cbace635d2c25acad85323bc70",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "انجام GTR با دو ممبران همزمان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انجام GTR با دو ممبران همزمان"
+            }
+          ]
+        },
+        {
+          "id": "d8782ab80a73b45b5b6040e6b487d53c410fc917026140dbe47617dcfba5f02b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کشیدن فوری دندان و جایگزینی با ایمپلنت، چون نقص یک‌دیواره پهن در بیمار سیگاری هیچ پیش‌آگهی قابل قبولی ندارد و درمان آن اتلاف زمان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن فوری دندان و جایگزینی با ایمپلنت، چون نقص یک‌دیواره پهن در بیمار سیگاری هیچ پیش‌آگهی قابل قبولی ندارد و درمان آن اتلاف زمان است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c3e6b89979044aed0868049d6c318b60ab089d4c363dec963f0c27b1bfb4e9ba"
+        ],
+        "explanation": "خوب دیدی. چهار عامل خطر همزمان — سیگار، کنترل پلاک ضعیف، مورفولوژی نامناسب نقص، و بافت نازک — احتمال شکست را بسیار بالا می‌برند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خوب دیدی. چهار عامل خطر همزمان — سیگار، کنترل پلاک ضعیف، مورفولوژی نامناسب نقص، و بافت نازک — احتمال شکست را بسیار بالا می‌برند."
+          }
+        ],
+        "observedAt": "2026-11-16T16:12:28.578Z"
+      }
+    },
+    {
+      "id": "question:4407",
+      "sourceId": "4407",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "b7765a60d6e5a5a43949ca310aca9b065964b7611405433a35e8317615bc3415",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا نقص سه‌دیواره عمیق و باریک بهترین کاندید GTR است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا نقص سه‌دیواره عمیق و باریک بهترین کاندید GTR است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون دسترسی جراحی به آن آسان‌تر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون ممبران در آن دیده نمی‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون دیواره‌ها هم فضا را حفظ می‌کنند، هم لخته را محصور، و هم منبع سلولی فراهم می‌کنند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون در ناحیه قدامی قرار دارد و دسترسی جراحی و دید مستقیم در این ناحیه به‌مراتب بهتر از نواحی خلفی است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "49b92f8bc1fc82b893a271e0ace27f26d28e7680327afca9f4fd81df625a5e0d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون دسترسی جراحی به آن آسان‌تر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون دسترسی جراحی به آن آسان‌تر است"
+            }
+          ]
+        },
+        {
+          "id": "aa1b343ae903ab2439619fcd0530486d19f2d50543a37c176648a93ab51c9905",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون ممبران در آن دیده نمی‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون ممبران در آن دیده نمی‌شود"
+            }
+          ]
+        },
+        {
+          "id": "6940464b36a4af479bb7c8d5b1de8182e6f4c8eb25978a933f1ab2b3db1bcf60",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون دیواره‌ها هم فضا را حفظ می‌کنند، هم لخته را محصور، و هم منبع سلولی فراهم می‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون دیواره‌ها هم فضا را حفظ می‌کنند، هم لخته را محصور، و هم منبع سلولی فراهم می‌کنند"
+            }
+          ]
+        },
+        {
+          "id": "ab33f336e00c07fe169a9ad4ff77e18e049163cb3fd03465786c2af8f2ac9c5c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون در ناحیه قدامی قرار دارد و دسترسی جراحی و دید مستقیم در این ناحیه به‌مراتب بهتر از نواحی خلفی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون در ناحیه قدامی قرار دارد و دسترسی جراحی و دید مستقیم در این ناحیه به‌مراتب بهتر از نواحی خلفی است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6940464b36a4af479bb7c8d5b1de8182e6f4c8eb25978a933f1ab2b3db1bcf60"
+        ],
+        "explanation": "همین است. سه شرط از چهار شرط موفقیت را خودِ مورفولوژی نقص فراهم می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. سه شرط از چهار شرط موفقیت را خودِ مورفولوژی نقص فراهم می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T16:12:34.268Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:468cb37dc8c805c079fd083d113bd4b56bcde11132db3d4c6b3e504d25bab78e",
+      "at": "2026-11-16T16:11:41.958Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:81ed7712bba5627edeedbff5c3ece0f3d63b6d20289c0f2d56d7efe82468b1e5",
+      "at": "2026-11-16T16:11:44.035Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:cb744ead1c4ea4aea2daa06a0e3c8d80fd5f8003e4dbd0ab79a5066fdfe807fd",
+      "at": "2026-11-16T16:11:45.685Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:4397",
+      "at": "2026-11-16T16:11:47.311Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:4400",
+      "at": "2026-11-16T16:12:12.373Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:4402",
+      "at": "2026-11-16T16:12:17.885Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:4406",
+      "at": "2026-11-16T16:12:23.482Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:4407",
+      "at": "2026-11-16T16:12:30.158Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

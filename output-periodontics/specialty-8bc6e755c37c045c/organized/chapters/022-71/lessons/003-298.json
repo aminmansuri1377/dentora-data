@@ -1,0 +1,2971 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/298/lesson.json",
+  "id": "298",
+  "title": "درس سوم: پیوند استخوان و جایگزین‌ها",
+  "specialtyKey": "8bc6e755c37c045c",
+  "chapter": {
+    "id": "71",
+    "title": "جراحی استخوانی و بازساختی",
+    "position": 22
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:2773bbc71826c42e4e30b3f9383c4afb4e884ee4ec30cf3a0a6839eaef2689cd",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "0f038fb259a31c1775d476f5643001c8729d8439a674a62de3a73d5d556e61b9",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h2",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🦴 پیوند استخوان؛ اول سه مکانیسم را بفهم"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هر ماده پیوندی با یک یا چند سازوکار کار می‌کند. شناخت این سه، انتخاب ماده را منطقی می‌کند:"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سازوکار"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "معنا"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "قدرت"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "استئوژنز"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (Osteogenesis)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ماده پیوندی خودش "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سلول‌های زنده استخوان‌ساز"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " دارد و مستقیماً استخوان می‌سازد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "قوی‌ترین"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "استئواینداکشن"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (Osteoinduction)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ماده، سلول‌های بنیادی میزبان را "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "تحریک می‌کند"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " تا به سلول استخوان‌ساز تمایز یابند (از راه BMPها)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟡 متوسط"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "استئوکانداکشن"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (Osteoconduction)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ماده فقط یک "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "داربست"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " است که استخوان میزبان روی آن رشد می‌کند"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ضعیف‌ترین"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مهم‌ترین نکته:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " استئوژنز نیازمند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سلول‌های زنده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است — و فقط پیوند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اتوژن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (از خود بیمار) سلول زنده دارد. هر ماده‌ای که پردازش، استریل یا فریز-خشک شده باشد، سلول زنده ندارد و نمی‌تواند استئوژنیک باشد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:7e175ef3e77d19a0ee230307229312ab16f33edc3233ab3812ab15f6c328cd82",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "ed5880018d69c737823ea40d57514ea5d369e3c9627008d3738d01c12d2c5c0a",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🗂️ چهار دسته بر پایه منشأ"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "دسته"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "منشأ"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سازوکار"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نمونه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "اتوگرافت"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "خود بیمار"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هر سه: استئوژنز + اینداکشن + کانداکشن"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "استخوان داخل‌دهانی (توبروزیته، ناحیه بی‌دندان، چانه)، تراشه استخوان"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "آلوگرافت"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "انسان دیگر (بانک استخوان)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اینداکشن + کانداکشن ("
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "DFDBA"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": ") یا فقط کانداکشن ("
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "FDBA"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": ")"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "FDBA، DFDBA"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "زنوگرافت"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "گونه دیگر (گاو، اسب، خوک)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فقط "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "کانداکشن"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "استخوان معدنی گاوی (Bio-Oss)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "آلوپلاست"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ماده "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "مصنوعی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فقط "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "کانداکشن"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هیدروکسی‌آپاتیت، بتا-تری‌کلسیم فسفات، شیشه زیست‌فعال"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚖️ DFDBA در برابر FDBA؛ تفاوت یک حرف، تفاوت یک سازوکار"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": []
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "FDBA (فریز-خشک)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "DFDBA (فریز-خشک "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "دمینرالیزه"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": ")"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "مینرال"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "دارد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "برداشته شده"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "BMPها"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پوشیده در مینرال، آزاد نمی‌شوند"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "در دسترس قرار می‌گیرند"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سازوکار"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "عمدتاً "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "کانداکتیو"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ایندکتیو"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " + کانداکتیو"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سرعت جذب"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کندتر — حفظ فضای بهتر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سریع‌تر"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دمینرالیزاسیون، پروتئین‌های مورفوژنیک استخوان (BMP) را از حبس مینرال آزاد می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — و همین، DFDBA را از یک داربست ساده به ماده‌ای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "القاکننده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تبدیل می‌کند. این پرتکرارترین تفاوت آزمونی این مبحث است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ اما استاندارد طلایی همچنان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اتوگرافت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، چون تنها ماده‌ای است که هر سه سازوکار را دارد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:65cfb56748d70728f4d73ddbb270ca9b5039e51773455ed0b34be64f97960011",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "ce716739f7308d46738a90b7df5521cd3ca1d4b57550241180d7ff9c521d4d0d",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "✅ انتخاب کیس؛ کجا پیوند جواب می‌دهد"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "عامل"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مطلوب"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نامطلوب"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "تعداد دیواره"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 سه‌دیواره"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 یک‌دیواره"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "زاویه نقص"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 باریک (۲۵ درجه یا کمتر)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 پهن"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "عمق نقص"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 عمیق"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کم‌عمق"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "کنترل پلاک"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 عالی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 ضعیف — "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "منع"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سیگار"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "غیرسیگاری"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🔴 نتیجه به‌طور معناداری بدتر"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔬 نکته حیاتی درباره «پر شدن» نقص"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پر شدن رادیوگرافیک نقص، لزوماً به‌معنای بازسازی واقعی نیست."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ماده پیوندی خودش در رادیوگرافی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رادیواوپک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دیده می‌شود. تصویری که «پر شده» به‌نظر می‌رسد، می‌تواند صرفاً حضور ماده باشد — نه استخوان جدید با سمان و لیگامان جدید."
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اصطلاح"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "معنا"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "پر شدن نقص"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (Defect fill)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فضای نقص با چیزی پر شده — ممکن است خود ماده باشد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "بازسازی"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (Regeneration)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "🟢 تشکیل "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سمان جدید، لیگامان جدید و استخوان جدید"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " — اثبات آن فقط بافت‌شناسی است"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ترمیم"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (Repair)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بهبود با اپیتلیوم اتصالی بلند"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🩹 اصول عملی حین عمل"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "دبریدمان کامل"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " نقص و برداشتن تمام بافت گرانوله — پیش‌نیاز مطلق."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "آماده‌سازی سطح ریشه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سوراخ کردن (decortication)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " دیواره استخوانی برای دسترسی سلول‌ها و عروق مغز استخوان به فضای نقص."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قرار دادن ماده "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بدون فشرده کردن بیش از حد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " — فشردگی زیاد، رگ‌زایی را مختل می‌کند."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پوشش کامل"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " با فلپ و ترجیحاً تکنیک حفظ پاپیلا."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 اشتباه‌های رایج"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۱:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " فقط "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اتوگرافت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " استئوژنیک است — چون تنها ماده با سلول زنده."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۲:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "DFDBA ایندکتیو"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " است، "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "FDBA کانداکتیو"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "؛ تفاوت در دمینرالیزاسیون و آزاد شدن BMP."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۳:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پر شدن رادیوگرافیک ≠ بازسازی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:4380",
+      "sourceId": "4380",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "8838bc47bf1e3c3d8b09e903d9d76ee289ddf3ca2ca8757a43503f499422335f",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "استئوژنز در پیوند استخوان به چه معناست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "استئوژنز در پیوند استخوان به چه معناست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماده فقط داربستی است که استخوان میزبان از کناره‌ها روی آن رشد می‌کند و جایش را می‌گیرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماده سلول‌های بنیادی میزبان را تحریک می‌کند تا در محل نقص به استئوبلاست تمایز یابند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماده پیوندی خودش سلول‌های زنده استخوان‌ساز دارد و مستقیماً استخوان می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماده باعث تحلیل استخوان می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "bfbb115a14a82546eb95d90ea7f6dd208bdfecf5a6e59af225a29fc568778735",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ماده فقط داربستی است که استخوان میزبان از کناره‌ها روی آن رشد می‌کند و جایش را می‌گیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماده فقط داربستی است که استخوان میزبان از کناره‌ها روی آن رشد می‌کند و جایش را می‌گیرد"
+            }
+          ]
+        },
+        {
+          "id": "4e44ab2b57d526b88d7138d1cc29aecadf4f5bed7897ba08af07cd62e8b13771",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ماده سلول‌های بنیادی میزبان را تحریک می‌کند تا در محل نقص به استئوبلاست تمایز یابند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماده سلول‌های بنیادی میزبان را تحریک می‌کند تا در محل نقص به استئوبلاست تمایز یابند"
+            }
+          ]
+        },
+        {
+          "id": "d620a760ef61171e6e25bee9885c010cc348275c170b7a295eb4c557b25440a6",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ماده پیوندی خودش سلول‌های زنده استخوان‌ساز دارد و مستقیماً استخوان می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماده پیوندی خودش سلول‌های زنده استخوان‌ساز دارد و مستقیماً استخوان می‌سازد"
+            }
+          ]
+        },
+        {
+          "id": "54dd96481b526b2e7fa56acd3aedd1067c5c81cb4cfe7e5832ed5a315fc255e7",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ماده باعث تحلیل استخوان می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماده باعث تحلیل استخوان می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d620a760ef61171e6e25bee9885c010cc348275c170b7a295eb4c557b25440a6"
+        ],
+        "explanation": "درست تشخیص دادی. چون به سلول زنده نیاز دارد، فقط اتوگرافت می‌تواند استئوژنیک باشد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. چون به سلول زنده نیاز دارد، فقط "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "اتوگرافت"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌تواند استئوژنیک باشد."
+          }
+        ],
+        "observedAt": "2026-11-16T16:11:14.066Z"
+      }
+    },
+    {
+      "id": "question:4383",
+      "sourceId": "4383",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "d02c3db6d4fac54a3d1f486eb0afd9e88f453d78a42a5c4bb467e536bb88018f",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام ماده پیوندی هر سه سازوکار — استئوژنز، اینداکشن و کانداکشن — را دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام ماده پیوندی هر سه سازوکار — استئوژنز، اینداکشن و کانداکشن — را دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زنوگرافت دپروتئینه‌ی گاوی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلوپلاست هیدروکسی‌آپاتیت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "FDBA بانک استخوان انسانی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اتوگرافت از خود بیمار"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0c8d5c33471ac3586d00a418196b2b73877d5ea7a96477733398b62dfe15cf04",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "زنوگرافت دپروتئینه‌ی گاوی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زنوگرافت دپروتئینه‌ی گاوی"
+            }
+          ]
+        },
+        {
+          "id": "7505e2898bb0533a3ecb9b0788c0ee28c2576e81955d401735d66fbbd918bfd1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "آلوپلاست هیدروکسی‌آپاتیت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آلوپلاست هیدروکسی‌آپاتیت"
+            }
+          ]
+        },
+        {
+          "id": "5c644621dab7322e209e993fe32f69e8ec2dfc130774a090dba819e89f6c9d91",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "FDBA بانک استخوان انسانی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "FDBA بانک استخوان انسانی"
+            }
+          ]
+        },
+        {
+          "id": "c2904274842b3520690084bdb99c27792380f44bde66ca11227a8371cc1dae27",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اتوگرافت از خود بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اتوگرافت از خود بیمار"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c2904274842b3520690084bdb99c27792380f44bde66ca11227a8371cc1dae27"
+        ],
+        "explanation": "کاملاً درست. به همین دلیل اتوگرافت همچنان استاندارد طلایی است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کاملاً درست. به همین دلیل اتوگرافت همچنان استاندارد طلایی است."
+          }
+        ],
+        "observedAt": "2026-11-16T16:11:19.179Z"
+      }
+    },
+    {
+      "id": "question:4386",
+      "sourceId": "4386",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "6a0e701be6fa7ebdcaf333f62779cff1285e326ea35615a6e6df4b57e159f9c7",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "تفاوت اصلی DFDBA و FDBA از نظر سازوکار چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تفاوت اصلی DFDBA و FDBA از نظر سازوکار چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو دقیقاً یکسان‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "FDBA ایندکتیو است و DFDBA کانداکتیو"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "DFDBA به‌دلیل دمینرالیزاسیون، BMPها را در دسترس قرار می‌دهد و ایندکتیو است؛ FDBA عمدتاً کانداکتیو است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو استئوژنیک‌اند و سلول‌های زنده استخوان‌ساز دارند؛ تفاوتشان فقط در سرعت جذب و مدت زمانی است که حجم پیوند را نگه می‌دارند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b1166257f529d7bdc3341f3b971d27ab05176ed7dac2f7672478d82b1d50642b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر دو دقیقاً یکسان‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو دقیقاً یکسان‌اند"
+            }
+          ]
+        },
+        {
+          "id": "4344a98d88ef065a62f477088ade2ec76acce52916ed176b080703776568cc07",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "FDBA ایندکتیو است و DFDBA کانداکتیو",
+          "content": [
+            {
+              "tag": "text",
+              "text": "FDBA ایندکتیو است و DFDBA کانداکتیو"
+            }
+          ]
+        },
+        {
+          "id": "8e9f4aa0771fb3051f195972f680ff57abc4b0021d1eb97971ebdb9e4f3c53ea",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "DFDBA به‌دلیل دمینرالیزاسیون، BMPها را در دسترس قرار می‌دهد و ایندکتیو است؛ FDBA عمدتاً کانداکتیو است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "DFDBA به‌دلیل دمینرالیزاسیون، BMPها را در دسترس قرار می‌دهد و ایندکتیو است؛ FDBA عمدتاً کانداکتیو است"
+            }
+          ]
+        },
+        {
+          "id": "e572e96ac666c2ea38d81e57d893776c9408af0e974faf5041bdfeca6f0c836f",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هر دو استئوژنیک‌اند و سلول‌های زنده استخوان‌ساز دارند؛ تفاوتشان فقط در سرعت جذب و مدت زمانی است که حجم پیوند را نگه می‌دارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو استئوژنیک‌اند و سلول‌های زنده استخوان‌ساز دارند؛ تفاوتشان فقط در سرعت جذب و مدت زمانی است که حجم پیوند را نگه می‌دارند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8e9f4aa0771fb3051f195972f680ff57abc4b0021d1eb97971ebdb9e4f3c53ea"
+        ],
+        "explanation": "همین‌طور است. دمینرالیزاسیون، BMPها را از حبس مینرال آزاد می‌کند — و این ماده را از داربست ساده به القاکننده تبدیل.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین‌طور است. دمینرالیزاسیون، BMPها را از حبس مینرال آزاد می‌کند — و این ماده را از داربست ساده به القاکننده تبدیل."
+          }
+        ],
+        "observedAt": "2026-11-16T16:11:24.402Z"
+      }
+    },
+    {
+      "id": "question:4389",
+      "sourceId": "4389",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "9f3755d7685ff28e1a6ee250344c79b197fbf88d476150847e4cf747be6b60c8",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا پر شدن رادیوگرافیک نقص، لزوماً به‌معنای بازسازی واقعی نیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا پر شدن رادیوگرافیک نقص، لزوماً به‌معنای بازسازی واقعی نیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون رادیوگرافی هیچ چیزی نشان نمی‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون خود ماده پیوندی رادیواوپک است و تصویر «پرشده» می‌تواند صرفاً حضور ماده باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون بازسازی همیشه رادیولوسنت است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون نقص استخوانی هرگز کاملاً پر نمی‌شود و آنچه در تصویر دیده می‌شود فقط یک خطای هندسی است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "c0cd7c8dadff932d438453941a5c7829ef59a3410fcdea14d4facc5ce394b71a",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون رادیوگرافی هیچ چیزی نشان نمی‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون رادیوگرافی هیچ چیزی نشان نمی‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "ad56bd54a99a424b94621dbb1287605d99ee6f33df164faa113bd997d783275f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون خود ماده پیوندی رادیواوپک است و تصویر «پرشده» می‌تواند صرفاً حضور ماده باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون خود ماده پیوندی رادیواوپک است و تصویر «پرشده» می‌تواند صرفاً حضور ماده باشد"
+            }
+          ]
+        },
+        {
+          "id": "6b11e8d229c3d12ffe952fc365449b7ff22da4274745792b8a2c57a778e14054",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون بازسازی همیشه رادیولوسنت است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون بازسازی همیشه رادیولوسنت است"
+            }
+          ]
+        },
+        {
+          "id": "82c2e253e4086a15a350b2e0b92f452f59794c9c5ee88b3bc32d4ac1a283d6f4",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون نقص استخوانی هرگز کاملاً پر نمی‌شود و آنچه در تصویر دیده می‌شود فقط یک خطای هندسی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون نقص استخوانی هرگز کاملاً پر نمی‌شود و آنچه در تصویر دیده می‌شود فقط یک خطای هندسی است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ad56bd54a99a424b94621dbb1287605d99ee6f33df164faa113bd997d783275f"
+        ],
+        "explanation": "بله، دقیقاً. اثبات بازسازی واقعی — سمان، لیگامان و استخوان جدید — فقط با بافت‌شناسی ممکن است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بله، دقیقاً. اثبات بازسازی واقعی — سمان، لیگامان و استخوان جدید — فقط با بافت‌شناسی ممکن است."
+          }
+        ],
+        "observedAt": "2026-11-16T16:11:29.808Z"
+      }
+    },
+    {
+      "id": "question:4394",
+      "sourceId": "4394",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "dc913403946cce2a309c64d1fae62b0891d93da1ae197fcc10c1fdf706b3d866",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "👑\nسؤال غول مرحله:\nکدام مجموعه گزاره‌ها درباره پیوند استخوان به‌طور کامل درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "👑 "
+            },
+            {
+              "tag": "strong",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سؤال غول مرحله:"
+                }
+              ]
+            },
+            {
+              "tag": "text",
+              "text": " کدام مجموعه گزاره‌ها درباره پیوند استخوان به‌طور کامل درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زنوگرافت استئوژنیک است؛ FDBA ایندکتیو است؛ پر شدن رادیوگرافیک اثبات بازسازی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط اتوگرافت استئوژنیک است چون تنها ماده با سلول زنده؛ DFDBA به‌دلیل دمینرالیزاسیون ایندکتیو است و FDBA عمدتاً کانداکتیو؛ زنوگرافت و آلوپلاست فقط کانداکتیوند؛ پر شدن رادیوگرافیک اثبات بازسازی نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلوپلاست از خود بیمار گرفته می‌شود؛ استئوکانداکشن قوی‌ترین سازوکار است؛ کنترل پلاک ضعیف مانعی نیست؛ ماده فریز-خشک همچنان سلول زنده دارد؛ زنوگرافت سریع جذب می‌شود؛ اتوگرافت فقط استئوکانداکتیو است؛ آلوگرافت از گونه‌ی حیوانی دیگر تهیه می‌شود."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه مواد پیوندی یکسان‌اند؛ BMP نقشی ندارد؛ نقص پهن بهترین کاندید است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "07c187dace38c1e9a2efa56a831066f8983cd5efb99b0c39e944885adb10ac82",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "زنوگرافت استئوژنیک است؛ FDBA ایندکتیو است؛ پر شدن رادیوگرافیک اثبات بازسازی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زنوگرافت استئوژنیک است؛ FDBA ایندکتیو است؛ پر شدن رادیوگرافیک اثبات بازسازی است"
+            }
+          ]
+        },
+        {
+          "id": "a5155533497292e7af5ad2a7e8b17a5204d2d23024a6e60457dbf5a7887575b1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "فقط اتوگرافت استئوژنیک است چون تنها ماده با سلول زنده؛ DFDBA به‌دلیل دمینرالیزاسیون ایندکتیو است و FDBA عمدتاً کانداکتیو؛ زنوگرافت و آلوپلاست فقط کانداکتیوند؛ پر شدن رادیوگرافیک اثبات بازسازی نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط اتوگرافت استئوژنیک است چون تنها ماده با سلول زنده؛ DFDBA به‌دلیل دمینرالیزاسیون ایندکتیو است و FDBA عمدتاً کانداکتیو؛ زنوگرافت و آلوپلاست فقط کانداکتیوند؛ پر شدن رادیوگرافیک اثبات بازسازی نیست"
+            }
+          ]
+        },
+        {
+          "id": "b0619e849e623f9310bb7d91fda2dffb2a9491cdbcfe4228ad6a37a5975555d4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آلوپلاست از خود بیمار گرفته می‌شود؛ استئوکانداکشن قوی‌ترین سازوکار است؛ کنترل پلاک ضعیف مانعی نیست؛ ماده فریز-خشک همچنان سلول زنده دارد؛ زنوگرافت سریع جذب می‌شود؛ اتوگرافت فقط استئوکانداکتیو است؛ آلوگرافت از گونه‌ی حیوانی دیگر تهیه می‌شود.",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آلوپلاست از خود بیمار گرفته می‌شود؛ استئوکانداکشن قوی‌ترین سازوکار است؛ کنترل پلاک ضعیف مانعی نیست؛ ماده فریز-خشک همچنان سلول زنده دارد؛ زنوگرافت سریع جذب می‌شود؛ اتوگرافت فقط استئوکانداکتیو است؛ آلوگرافت از گونه‌ی حیوانی دیگر تهیه می‌شود."
+            }
+          ]
+        },
+        {
+          "id": "7d235e826099fc223d390dd4ad846343f5afcdf6ea11d7efbee6638385ca3341",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همه مواد پیوندی یکسان‌اند؛ BMP نقشی ندارد؛ نقص پهن بهترین کاندید است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه مواد پیوندی یکسان‌اند؛ BMP نقشی ندارد؛ نقص پهن بهترین کاندید است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a5155533497292e7af5ad2a7e8b17a5204d2d23024a6e60457dbf5a7887575b1"
+        ],
+        "explanation": "👑 غول مرحله شکست خورد! چهار ستون این درس را کنار هم داری: انحصار استئوژنز به اتوگرافت، تفاوت DFDBA و FDBA، سازوکار زنوگرافت و آلوپلاست، و تفکیک پر شدن از بازسازی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "👑 غول مرحله شکست خورد! چهار ستون این درس را کنار هم داری: انحصار استئوژنز به اتوگرافت، تفاوت DFDBA و FDBA، سازوکار زنوگرافت و آلوپلاست، و تفکیک پر شدن از بازسازی."
+          }
+        ],
+        "observedAt": "2026-11-16T16:11:35.556Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:2773bbc71826c42e4e30b3f9383c4afb4e884ee4ec30cf3a0a6839eaef2689cd",
+      "at": "2026-11-16T16:11:01.233Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:7e175ef3e77d19a0ee230307229312ab16f33edc3233ab3812ab15f6c328cd82",
+      "at": "2026-11-16T16:11:02.697Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:65cfb56748d70728f4d73ddbb270ca9b5039e51773455ed0b34be64f97960011",
+      "at": "2026-11-16T16:11:04.313Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:4380",
+      "at": "2026-11-16T16:11:05.918Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:4383",
+      "at": "2026-11-16T16:11:15.659Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:4386",
+      "at": "2026-11-16T16:11:20.796Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:4389",
+      "at": "2026-11-16T16:11:25.953Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:4394",
+      "at": "2026-11-16T16:11:31.427Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
