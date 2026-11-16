@@ -1,0 +1,1425 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/61/lesson.json",
+  "id": "61",
+  "title": "درس ششم: آماده‌سازی کم‌تهاجمی و ترمیمی‌های آدهزیو",
+  "specialtyKey": "019606470d1aa4da",
+  "chapter": {
+    "id": "22",
+    "title": "آماده‌سازی حفره و اصول تراش دندان",
+    "position": 35
+  },
+  "position": 6,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:3abff07550486da914e60f2bada90410a4f887eca862801622b613999e747eb3",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "3aae1929531d828bb84542056cac3e89510d0f402633552558bdd41f610bcef0",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "فلسفه‌ی کم‌تهاجمی: حفظ بافت در برابر تخریب"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "(توضیح تصویر: این دیاگرام شفاف، مقایسه‌ی دو رویکرد را نشان می‌دهد. سمت چپ (GV Black Classical): یک دندان با پوسیدگیِ کوچک (قهوه‌ای) را نشان می‌دهد که برای جایگذاری آمالگام، تراشِ وسیع (قرمز) شاملِ همگرایی دیواره‌ها و حذف پشته‌ی مارژینال (Extension for Prevention) انجام شده است. سمت راست (Minimally Invasive): همان پوسیدگیِ کوچک با یک تراشِ بسیار ظریف و نقطه ای (سبز) فقط در حد حذف بافتِ بیمار برداشت شده و بافت سالم (Dovetail) حفظ شده است.)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "blockquote",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دندانپزشکی کم‌تهاجمی (MI) بر پایه‌ی حفظ حداکثری بافت سالمِ دندان (Conservation) استوار است و به طور بنیادی با رویکرد کلاسیک تفاوت دارد (با رفرنس به تصویر بالا):"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "🔑 "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اصول بنیادین (با رفرنس به تصویر):"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حفظ بافت سالم (Conservation):"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " MI هدفش برداشتنِ "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "فقط"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " بافتِ بیمار (پوسیده) است، نه تراش بافتِ سالم برای تامین فرم‌های مکانیکی (سمت راست تصویر)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حذف \"Extension for Prevention\":"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " در MI، دیگر نیازی به تراشِ وسیعِ شیارهایِ سالم (Dovetail) برای جلوگیری از پوسیدگیِ آینده (که GV Black توصیه می‌کرد) نیست (سمت چپ تصویر)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "علت:"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " کامپوزیت به کمک آدهزیو به دندان می‌چسبد و نیاز به قفل‌های مکانیکی مخرب را از بین می‌برد."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/HmzCCc1PeLrVvQ4E9T4U6RD4c8FneCubAqA9OPZK.webp",
+                  "alt": "",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/4ead173b0d3471c9d9fb820d82e03921bc5165870d324100fcef70c5d7c6e555.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:383c93a433aabbed9fb07b96f2f9f70bf035708fe92987c8ea63cdfe2208d9ce",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 16.6667%;",
+      "contentKey": "0fbc453b6c40f86dd022ad045bf0635212bdbe53187774da5c27e0567b7e5296",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تراش آدهزیو: تفاوت ساختاری با آمالگام"
+                }
+              ]
+            },
+            {
+              "tag": "blockquote",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طراحی حفره در دندانپزشکی آدهزیو به طور کامل تابعِ خواصِ ماده‌ی ترمیمی است و با آمالگام تفاوت دارد :"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "🔑 "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تفاوت‌های کلیدی:"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "فرم گیر (Retention):"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "ul",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "li",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "strong",
+                                      "attributes": {},
+                                      "children": [
+                                        {
+                                          "tag": "text",
+                                          "text": "آمالگام:"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "text",
+                                      "text": " نیازمند دیواره‌هایِ همگرا و آندرکات برای قفل مکانیکی است ."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "strong",
+                                      "attributes": {},
+                                      "children": [
+                                        {
+                                          "tag": "text",
+                                          "text": "کامپوزیت:"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "text",
+                                      "text": " به کمک "
+                                    },
+                                    {
+                                      "tag": "strong",
+                                      "attributes": {},
+                                      "children": [
+                                        {
+                                          "tag": "text",
+                                          "text": "لایه‌هیبرید (Hybrid Layer)"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "text",
+                                      "text": " و پیوندِ مایکرو-مکانیکال به دندان می‌چسبد."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "عمق حفره:"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "ul",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "li",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "strong",
+                                      "attributes": {},
+                                      "children": [
+                                        {
+                                          "tag": "text",
+                                          "text": "آمالگام:"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "text",
+                                      "text": " نیازمند عمقِ حداقل ۱.۵ میلی‌متر برای مقاومت است."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "li",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "children": [
+                                    {
+                                      "tag": "strong",
+                                      "attributes": {},
+                                      "children": [
+                                        {
+                                          "tag": "text",
+                                          "text": "کامپوزیت:"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "text",
+                                      "text": " عمق می‌تواند بسیار کمتر باشد؛ زیرا کامپوزیت با چسبندگی قوی، دیواره‌های دندان را تقویت می‌کند."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "زوایای داخلی:"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " در کامپوزیت باید گرد (Rounded) باشند تا از تمرکز استرس جلوگیری شود (یادآوری از Lesson 1.3.4)."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:c0ff92d98dcefd9836d393e0cf68e627d3a4b985a66eeb89a895bc01ca8a95c4",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 33.3333%;",
+      "contentKey": "7174e8ee1f43a4cbd1b9247c4405131e2b3fe45e6157e60a694ad4038847a598",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مزایای بالینی کم‌تهاجمی وBevel زدن مینا"
+                }
+              ]
+            },
+            {
+              "tag": "blockquote",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آماده‌سازی کم‌تهاجمی و استفاده از تکنیک Bevel مزایای بالینی فوق‌العاده‌ای دارد :"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "🔑 "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مزایای Bevel زدن مینا (با رفرنس به تصویر):"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "افزایش گیر آدهزیو:"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " Bevel سطح مینای در دسترس برای اتچینگ را به طور چشمگیری افزایش می‌دهد ."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "قطع بهینه‌ی منشورها:"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " Bevel باعث قطعِ عمودیِ منشورهایِ مینایی می‌شود که بهترین الگوی اتچینگ و قفلِ مایکرو-مکانیکال را ایجاد می‌کند ."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "زیبایی:"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " Bevel باعثِ محو شدنِ لبه‌یِ ترمیم و همرنگیِ بهتر با دندان می‌شود."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "🔑 "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مزایای کلی کم‌تهاجمی (سمت راست تصویر):"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حفظ استحکام دندان:"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " با حفظ پشته‌های مارژینال و کاسپ‌ها، دندان در برابر نیروها قوی‌تر باقی می‌ماند."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حفاظت از پالپ:"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " تراش‌های کم‌عمق‌تر خطر آسیب به پالپ را کم می‌کنند."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:612",
+      "sourceId": "612",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "650ca97a2278559074ab8b037ea07f531d7e484613e642be01d4daa058011408",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "هدف اصلی و بنیادین فلسفه‌یِ آماده‌سازی کم‌تهاجمی (Minimally Invasive) در دندانپزشکی ترمیمی چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هدف اصلی و بنیادین فلسفه‌یِ آماده‌سازی کم‌تهاجمی (Minimally Invasive) در دندانپزشکی ترمیمی چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش زیبایی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حفظ حداکثری بافت سالم دندان باقی‌مانده و برداشتن فقط بافت بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تراش کامل تاج دندان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش عمق حفره"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0b68e36d15b8c2f2b4a485a67ec6a940a631139ff6f605ba94704f054abce9b3",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "افزایش زیبایی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش زیبایی"
+            }
+          ]
+        },
+        {
+          "id": "2fb5917b8f45e1c11cf5daf6af9de0991173d2ec2844fc3a7540edcc12f606f4",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "حفظ حداکثری بافت سالم دندان باقی‌مانده و برداشتن فقط بافت بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حفظ حداکثری بافت سالم دندان باقی‌مانده و برداشتن فقط بافت بیمار"
+            }
+          ]
+        },
+        {
+          "id": "3bc5cb508ba468795384716c1f506c778e0a2b6f82c5ac3048a4866cc6b2dc93",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تراش کامل تاج دندان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تراش کامل تاج دندان"
+            }
+          ]
+        },
+        {
+          "id": "dc3fb3364077f6692f34473ec3d7844bcb5b4ba62839033517e3ab0c6c582988",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "افزایش عمق حفره",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش عمق حفره"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "2fb5917b8f45e1c11cf5daf6af9de0991173d2ec2844fc3a7540edcc12f606f4"
+        ],
+        "explanation": "پاسخ صحیح است. MI بر پایه حفظ بافت سالم و تراش نقطه ای استوار است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پاسخ صحیح است. MI بر پایه حفظ بافت سالم و تراش نقطه ای استوار است."
+          }
+        ],
+        "observedAt": "2026-11-16T09:13:28.739Z"
+      }
+    },
+    {
+      "id": "question:617",
+      "sourceId": "617",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 66.6667%;",
+      "contentKey": "5d6b9c5660bb322cf63e3979e2565e3cf07ba83c158bed4810b8872258059544",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دندانپزشکی در حال آماده‌سازی حفره برای کامپوزیت است. او حفره را عمیق و با دیواره‌های همگرا (مانند حفره آمالگام) می‌تراشد. تحلیلِ علمی شما از این اقدام چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دندانپزشکی در حال آماده‌سازی حفره برای کامپوزیت است. او حفره را عمیق و با دیواره‌های همگرا (مانند حفره آمالگام) می‌تراشد. تحلیلِ علمی شما از این اقدام چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اقدامی فوق‌العاده برای گیر بیشتر کامپوزیت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اقدامی نادرست و ناقض اصل حفظ بافت سالم دندان (Conservation)؛ زیرا آدهزیو به گیر مکانیکی شدید نیاز ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اقدام متوسط"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جلوگیری از درد پالپ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "aa5f1c2810f79535a9e2ab1272d5a8602fde73526d89bbeef48b91687f1dcb55",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اقدامی فوق‌العاده برای گیر بیشتر کامپوزیت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اقدامی فوق‌العاده برای گیر بیشتر کامپوزیت"
+            }
+          ]
+        },
+        {
+          "id": "3a3f5415d18dd5a8fb85833fa5633df0a88268ec6f77e9694a0d8ff1cb69111a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اقدامی نادرست و ناقض اصل حفظ بافت سالم دندان (Conservation)؛ زیرا آدهزیو به گیر مکانیکی شدید نیاز ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اقدامی نادرست و ناقض اصل حفظ بافت سالم دندان (Conservation)؛ زیرا آدهزیو به گیر مکانیکی شدید نیاز ندارد"
+            }
+          ]
+        },
+        {
+          "id": "752cdeeeb0b592ef3a427f4396aa0fc22ceeb280575803bcb65bc71076cc023e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اقدام متوسط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اقدام متوسط"
+            }
+          ]
+        },
+        {
+          "id": "845ec5b42e04d6b5d154a623246ffb91925f29619ab67d0bca7f54be9ffb3ae1",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "جلوگیری از درد پالپ",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جلوگیری از درد پالپ"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3a3f5415d18dd5a8fb85833fa5633df0a88268ec6f77e9694a0d8ff1cb69111a"
+        ],
+        "explanation": "فوق‌العاده! تراش مکانیکی شدید برای کامپوزیت، بافت سالم دندان را بی‌مورد قربانی کرده و دندان را تضعیف می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "فوق‌العاده! تراش مکانیکی شدید برای کامپوزیت، بافت سالم دندان را بی‌مورد قربانی کرده و دندان را تضعیف می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T09:13:35.340Z"
+      }
+    },
+    {
+      "id": "question:619",
+      "sourceId": "619",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 83.3333%;",
+      "contentKey": "4f82f817f5afd8840bcf8a65de0654028083ab85974a2b21f7db83bffbdc1033",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "Bevel زدن باعث قطعِ عمودیِ منشورهایِ مینایی می‌شود که بهترین الگوی اتچینگ و قفلِ مایکرو-مکانیکال را ایجاد می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "Bevel زدن باعث قطعِ عمودیِ منشورهایِ مینایی می‌شود که بهترین الگوی اتچینگ و قفلِ مایکرو-مکانیکال را ایجاد می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "آفرین. قطع عمودی منشورها بهترین گیر را در آدهزیو تامین می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. قطع عمودی منشورها بهترین گیر را در آدهزیو تامین می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T09:13:41.252Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:3abff07550486da914e60f2bada90410a4f887eca862801622b613999e747eb3",
+      "at": "2026-11-16T09:13:03.612Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:383c93a433aabbed9fb07b96f2f9f70bf035708fe92987c8ea63cdfe2208d9ce",
+      "at": "2026-11-16T09:13:05.246Z",
+      "progress": "width: 16.6667%;"
+    },
+    {
+      "stepId": "theory:c0ff92d98dcefd9836d393e0cf68e627d3a4b985a66eeb89a895bc01ca8a95c4",
+      "at": "2026-11-16T09:13:06.885Z",
+      "progress": "width: 33.3333%;"
+    },
+    {
+      "stepId": "question:612",
+      "at": "2026-11-16T09:13:08.482Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:617",
+      "at": "2026-11-16T09:13:30.343Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:619",
+      "at": "2026-11-16T09:13:36.961Z",
+      "progress": "width: 83.3333%;"
+    }
+  ],
+  "extraVerifiedQuestions": [
+    {
+      "id": "question:613",
+      "sourceId": "613",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "b7ed8117cdd8a301f62464d8964607c6c808e2117043a790dd812b0dfa46ab39",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در آماده‌سازی کم‌تهاجمی (MI)، دیگر نیازی به رعایت اصل کلاسیک \"Extension for Prevention\" (توسعه برای پیشگیری) و تراش شیارهای سالم نیست.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در آماده‌سازی کم‌تهاجمی (MI)، دیگر نیازی به رعایت اصل کلاسیک \"Extension for Prevention\" (توسعه برای پیشگیری) و تراش شیارهای سالم نیست."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "آفرین. آدهزیو نیاز به تراش‌های وسیع برای گیر مکانیکی را از بین برده است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. آدهزیو نیاز به تراش‌های وسیع برای گیر مکانیکی را از بین برده است."
+          }
+        ],
+        "observedAt": "2026-11-15T00:06:50.959Z"
+      }
+    }
+  ]
+}
