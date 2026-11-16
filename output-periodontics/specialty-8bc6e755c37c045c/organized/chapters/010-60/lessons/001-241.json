@@ -1,0 +1,2092 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/241/lesson.json",
+  "id": "241",
+  "title": "درس اول: پروبینگ؛ تکنیک، انواع پروب و منابع خطا",
+  "specialtyKey": "8bc6e755c37c045c",
+  "chapter": {
+    "id": "60",
+    "title": "معاینه بالینی",
+    "position": 10
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:1f074e1dce6f9f0601fcd0b06b4e32dc6ca5c09e5fd474122dcea32a73d0372d",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "205836c938fc123c1eb1e191b98627b291a0162fded11105f55bd15c371c14fb",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h2",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📏 پروب‌ها؛ ابزار اصلی تشخیص"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پروب پریودنتال مهم‌ترین ابزار تشخیصی توست. انواع رایج را باید بشناسی:"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/2UfheiTcpA3TwQxkgkNFRpRWFZEtJxmwY43OacCD.webp",
+                  "alt": "سه پروب پریودنتال با الگوهای درجه‌بندی متفاوت",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/8bc4b04e9eb18319c7753a0b0daf8ad61c572b4a1cafb0c2a3b66f5a54c743cf.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل ۴۱ — نمونه‌هایی از پروب‌های پریودنتال درجه‌بندی‌شده؛ الگوی علامت‌گذاری در هر نوع متفاوت است، Lindhe, 7th ed., Fig. 22-7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پروب"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "علامت‌گذاری (میلی‌متر)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ویژگی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ویلیامز"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۱، ۲، ۳، ۵، ۷، ۸، ۹، ۱۰"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کلاسیک؛ فاصله ۴ و ۶ حذف شده تا خوانایی بالا برود"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "UNC-15"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هر ۱ میلی‌متر تا ۱۵"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نوارهای مشکی در ۵، ۱۰ و ۱۵؛ دقیق‌ترین برای تحقیق"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "میشیگان-O"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۳، ۶، ۸"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "باریک؛ مناسب نواحی تنگ"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "CPI / WHO"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نوار رنگی ۳٫۵ تا ۵٫۵"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "نوک گرد ۰٫۵ میلی‌متری"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": "؛ برای غربالگری و PSR"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "نیبرز"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بدون درجه‌بندی دقیق"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "خمیده"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": "؛ اختصاصی سنجش فورکیشن"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ نکته: پروب WHO نوک گرد دارد تا از نفوذ بیش از حد و آسیب به بافت جلوگیری کند؛ به همین دلیل برای غربالگری جمعیتی طراحی شده است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:b89e2442be361fad0ac53f9ee52eee120b7ad4c12a5f789f84ee6d5a4c37c622",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "09ae9f65989cc032490229dde976a544f2904a02660dad6a5c52f3885617fb66",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🎯 تکنیک درست پروبینگ"
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نیروی استاندارد"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۰٫۲۵ نیوتن (تقریباً ۲۵ گرم)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — معادل فشاری که با آن می‌توانی بدون درد زیر ناخنت را لمس کنی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ نیروی بیشتر، عمق را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیش‌برآورد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌کند؛ یعنی عددی می‌سازی که واقعی نیست."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حرکت پیاده‌روی (Walking Stroke)"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پروب را به‌آرامی وارد شیار کن و با حرکات کوچک بالا و پایین، در امتداد سطح دندان «قدم بزن». عمق را در تمام مسیر بسنج نه فقط در یک نقطه."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "زاویه پروب"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پروب باید تا حد امکان "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "موازی محور طولی دندان"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " باشد."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "استثنا: در ناحیه بین‌دندانی، پروب را کمی به سمت نقطه تماس "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مایل"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " کن تا به عمیق‌ترین نقطه زیر کول برسی."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📊 شش نقطه در هر دندان"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مزیوباکال، میدباکال، دیستوباکال، مزیولینگوال، میدلینگوال، دیستولینگوال."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 ثبت فقط "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیشترین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " عدد هر ناحیه انجام می‌شود، نه میانگین."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:bbad622df3bc799a2e2dd6d19f8c42443985b94cf6591e77506f592e37beb4dc",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "a88c59a41fb94dee387bcfe2f0b06d38a9065b94b91b2ce4fa6951a617e629cf",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ منابع خطا در پروبینگ"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "وضعیت التهاب:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " مهم‌ترین منبع خطا. در بافت ملتهب، پروب از اپیتلیوم اتصالی عبور کرده و وارد بافت همبند می‌شود؛ یعنی عدد بیش‌برآورد می‌شود. پس از درمان و بهبود، همان ناحیه عدد کمتری می‌دهد — بخشی از این کاهش «واقعی» نیست بلکه ناشی از بهبود مقاومت بافت است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "جرم زیرلثه‌ای:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " پروب را منحرف می‌کند و عمق را کم‌برآورد می‌کند."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کانتور ترمیم یا لبه اضافی:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " مسیر پروب را می‌بندد."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "زاویه نادرست پروب"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تفاوت بین معاینه‌کنندگان:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " خطای اندازه‌گیری معمول حدود "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "±۱ میلی‌متر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تغییر نوع پروب:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " الگوی درجه‌بندی و قطر نوک در پروب‌های مختلف یکسان نیست؛ در پایش یک بیمار همیشه با یک نوع پروب کار کن، وگرنه تغییر ابزار را با تغییر بیماری اشتباه می‌گیری."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔬 پروب واقعاً کجا متوقف می‌شود؟"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "وضعیت بافت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "محل توقف پروب"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سلامت"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "در سطح یا کمی بالاتر از اپیتلیوم اتصالی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "التهاب"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "از اپیتلیوم اتصالی عبور و وارد بافت همبند"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "پس از درمان"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بالاتر از اپیتلیوم اتصالی متوقف می‌شود"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 اشتباه‌های رایج"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۱:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " نیروی استاندارد "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۰٫۲۵ نیوتن"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۲:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " جرم عمق را "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کم‌برآورد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " می‌کند اما التهاب آن را "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بیش‌برآورد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۳:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " پروب نیبرز برای فورکیشن است، نه سنجش عمق پاکت."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:2387",
+      "sourceId": "2387",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "90eaab7cceee845665ed02c8885b9ea58094c7e3d9507d274ca4f0fbba77b354",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام تطابق پروب و ویژگی آن\nنادرست\nاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام تطابق پروب و ویژگی آن "
+            },
+            {
+              "tag": "strong",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نادرست"
+                }
+              ]
+            },
+            {
+              "tag": "text",
+              "text": " است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "UNC-15: درجه‌بندی هر یک میلی‌متر تا ۱۵ و نوارهای مشکی در ۵، ۱۰ و ۱۵"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ویلیامز: درجه‌بندی تا ۱۰ میلی‌متر با حذف علامت‌های ۴ و ۶"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "WHO: نوک گرد ۰٫۵ میلی‌متری و نوار رنگی بین ۳٫۵ و ۵٫۵"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیبرز: بهترین پروب برای ثبت دقیق عمق پاکت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3fb88a1b34a28678ba751ecc1bc8bf1fd6f46471c3ff37fa84709479048e6c92",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "UNC-15: درجه‌بندی هر یک میلی‌متر تا ۱۵ و نوارهای مشکی در ۵، ۱۰ و ۱۵",
+          "content": [
+            {
+              "tag": "text",
+              "text": "UNC-15: درجه‌بندی هر یک میلی‌متر تا ۱۵ و نوارهای مشکی در ۵، ۱۰ و ۱۵"
+            }
+          ]
+        },
+        {
+          "id": "2bd9a798f05a130cb2031b034deccfcaa7a0aa81cacd323dc471c1a11c6a7cae",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ویلیامز: درجه‌بندی تا ۱۰ میلی‌متر با حذف علامت‌های ۴ و ۶",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ویلیامز: درجه‌بندی تا ۱۰ میلی‌متر با حذف علامت‌های ۴ و ۶"
+            }
+          ]
+        },
+        {
+          "id": "640bca855ed69da8ce552e2a6c9dcab6aa500fba7d854de97cbe6fd37a3dfba9",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "WHO: نوک گرد ۰٫۵ میلی‌متری و نوار رنگی بین ۳٫۵ و ۵٫۵",
+          "content": [
+            {
+              "tag": "text",
+              "text": "WHO: نوک گرد ۰٫۵ میلی‌متری و نوار رنگی بین ۳٫۵ و ۵٫۵"
+            }
+          ]
+        },
+        {
+          "id": "c8cf8910b058ac04ed6924393e28593803f9e0af5063a678edc10d02bd0efe69",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نیبرز: بهترین پروب برای ثبت دقیق عمق پاکت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیبرز: بهترین پروب برای ثبت دقیق عمق پاکت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c8cf8910b058ac04ed6924393e28593803f9e0af5063a678edc10d02bd0efe69"
+        ],
+        "explanation": "خطا را درست پیدا کردی. پروب نیبرز درجه‌بندی دقیق ندارد و برای ثبت عمق پاکت ساخته نشده؛ کارش سنجش افقی فورکیشن است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خطا را درست پیدا کردی. پروب نیبرز درجه‌بندی دقیق ندارد و برای ثبت عمق پاکت ساخته نشده؛ کارش سنجش افقی فورکیشن است."
+          }
+        ],
+        "observedAt": "2026-11-16T13:26:49.326Z"
+      }
+    },
+    {
+      "id": "question:2390",
+      "sourceId": "2390",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "ec0012e30f30c44741021e27d45751edacf034bbed9bb607b8daffadd477502c",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دو معاینه‌کننده یک ناحیه را می‌سنجند و اعداد ۵ و ۶ میلی‌متر ثبت می‌کنند. تفسیر درست چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دو معاینه‌کننده یک ناحیه را می‌سنجند و اعداد ۵ و ۶ میلی‌متر ثبت می‌کنند. تفسیر درست چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یکی از آن‌ها قطعاً اشتباه کرده و باید پیش از ادامه‌ی کار دوباره آموزش و کالیبراسیون ببیند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این تفاوت نشانه پیشرفت بیماری است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ابزار معیوب است و باید تعویض شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این تفاوت در محدوده خطای معمول اندازه‌گیری یعنی حدود یک میلی‌متر قرار دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3ff491288f34c582055730b889bbdc48a2a9fce87ab2022a4703c8ec71321242",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "یکی از آن‌ها قطعاً اشتباه کرده و باید پیش از ادامه‌ی کار دوباره آموزش و کالیبراسیون ببیند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یکی از آن‌ها قطعاً اشتباه کرده و باید پیش از ادامه‌ی کار دوباره آموزش و کالیبراسیون ببیند"
+            }
+          ]
+        },
+        {
+          "id": "b89cdb6fe4fb1f7bb5ea8f951a00b2e34563048f81edf2ea468c41c0cf0686e3",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "این تفاوت نشانه پیشرفت بیماری است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این تفاوت نشانه پیشرفت بیماری است"
+            }
+          ]
+        },
+        {
+          "id": "7b66c864ecde3421ec52977d650d35429cac36b3cd19a3d304e230f5a38ca682",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ابزار معیوب است و باید تعویض شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ابزار معیوب است و باید تعویض شود"
+            }
+          ]
+        },
+        {
+          "id": "9ef1fc15739ad86c819a7f7e9e2c5ac285648896578d11f9bd2c6ef722159c36",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "این تفاوت در محدوده خطای معمول اندازه‌گیری یعنی حدود یک میلی‌متر قرار دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این تفاوت در محدوده خطای معمول اندازه‌گیری یعنی حدود یک میلی‌متر قرار دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9ef1fc15739ad86c819a7f7e9e2c5ac285648896578d11f9bd2c6ef722159c36"
+        ],
+        "explanation": "همین است. خطای معمول اندازه‌گیری حدود ±۱ میلی‌متر است؛ برای همین برای اعلام پیشرفت واقعی به تغییری بزرگ‌تر از این نیاز داری.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. خطای معمول اندازه‌گیری حدود ±۱ میلی‌متر است؛ برای همین برای اعلام پیشرفت واقعی به تغییری بزرگ‌تر از این نیاز داری."
+          }
+        ],
+        "observedAt": "2026-11-16T13:26:55.451Z"
+      }
+    },
+    {
+      "id": "question:2391",
+      "sourceId": "2391",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "ad03ba7bebcfdd83d0f87ddd616b05ed59986e45e815af25bab5cf574ee0c720",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "حرکت پیاده‌روی (Walking Stroke) در پروبینگ به چه معناست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "حرکت پیاده‌روی (Walking Stroke) در پروبینگ به چه معناست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حرکت پروب در امتداد سطح دندان با حرکات کوچک بالا و پایین برای سنجش کل مسیر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرخاندن پروب دور محور خودش در ته پاکت، برای سنجش قطر ناحیه و شکل نقص استخوانی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فشار دادن پروب فقط در یک نقطه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جابه‌جا کردن بیمار روی یونیت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "986af97a6f353dc92e2461da6f84aa3dd107474b2b7233f5324f9144215dfba1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حرکت پروب در امتداد سطح دندان با حرکات کوچک بالا و پایین برای سنجش کل مسیر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حرکت پروب در امتداد سطح دندان با حرکات کوچک بالا و پایین برای سنجش کل مسیر"
+            }
+          ]
+        },
+        {
+          "id": "47a6c50d385e5e5b6fccf7480c57e0084caffcb0ba2fab981aa607217a204e51",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چرخاندن پروب دور محور خودش در ته پاکت، برای سنجش قطر ناحیه و شکل نقص استخوانی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چرخاندن پروب دور محور خودش در ته پاکت، برای سنجش قطر ناحیه و شکل نقص استخوانی"
+            }
+          ]
+        },
+        {
+          "id": "2f3afcc83d5ea9a0db9e7682fbd25c67e5fca5992f2dd36e1059fd1c5c697b1e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "فشار دادن پروب فقط در یک نقطه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فشار دادن پروب فقط در یک نقطه"
+            }
+          ]
+        },
+        {
+          "id": "613c0c2701d92c77ec866e5f7efc9083d1c6d7eda807e206ec4026c35ffebf76",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "جابه‌جا کردن بیمار روی یونیت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جابه‌جا کردن بیمار روی یونیت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "986af97a6f353dc92e2461da6f84aa3dd107474b2b7233f5324f9144215dfba1"
+        ],
+        "explanation": "همین است. با این حرکت عمق را در تمام مسیر می‌سنجی نه فقط در یک نقطه؛ بدون آن ممکن است عمیق‌ترین نقطه از دستت برود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. با این حرکت عمق را در تمام مسیر می‌سنجی نه فقط در یک نقطه؛ بدون آن ممکن است عمیق‌ترین نقطه از دستت برود."
+          }
+        ],
+        "observedAt": "2026-11-16T13:27:00.877Z"
+      }
+    },
+    {
+      "id": "question:2394",
+      "sourceId": "2394",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "7766f805a719f2706c6b1679bdb4d898593cd1b22ab520b2a022f5483a648214",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "جرم زیرلثه‌ای چه اثری بر اندازه‌گیری عمق پاکت دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "جرم زیرلثه‌ای چه اثری بر اندازه‌گیری عمق پاکت دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق را بیش‌برآورد می‌کند، چون پروب از کنار جرم می‌لغزد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ اثری ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پروب را منحرف کرده و عمق را کم‌برآورد می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باعث خون‌ریزی کاذب می‌شود بدون آنکه بر عدد ثبت‌شده اثری بگذارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "78968dd7db424fa1b48b435b2c27d4936c66e2a5b3063eb291e5148af4cbc7e0",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "عمق را بیش‌برآورد می‌کند، چون پروب از کنار جرم می‌لغزد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عمق را بیش‌برآورد می‌کند، چون پروب از کنار جرم می‌لغزد"
+            }
+          ]
+        },
+        {
+          "id": "ed9f9eaa0e61c34a3f6486c9fd47e37697455d6a9ec12c2e6e4082912c702774",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هیچ اثری ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ اثری ندارد"
+            }
+          ]
+        },
+        {
+          "id": "86a6a2b82d94fde5fda3f03a2978876a2bffbda3cd4eb6fe1021c138c389ac12",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "پروب را منحرف کرده و عمق را کم‌برآورد می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پروب را منحرف کرده و عمق را کم‌برآورد می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "1499576762f5ac3d79748db6b0066ec8cc4bbfd5b7280f1bd145b9308e1ddfc0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "باعث خون‌ریزی کاذب می‌شود بدون آنکه بر عدد ثبت‌شده اثری بگذارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باعث خون‌ریزی کاذب می‌شود بدون آنکه بر عدد ثبت‌شده اثری بگذارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "86a6a2b82d94fde5fda3f03a2978876a2bffbda3cd4eb6fe1021c138c389ac12"
+        ],
+        "explanation": "همین است. جرم یک مانع فیزیکی است و نمی‌گذارد پروب به کف واقعی پاکت برسد؛ نتیجه، عددی کمتر از واقعیت.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. جرم یک مانع فیزیکی است و نمی‌گذارد پروب به کف واقعی پاکت برسد؛ نتیجه، عددی کمتر از واقعیت."
+          }
+        ],
+        "observedAt": "2026-11-16T13:27:06.213Z"
+      }
+    },
+    {
+      "id": "question:2398",
+      "sourceId": "2398",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "87a11f552bc34f01c7ce82305904b45d58a6628b840c835a8ab79996bd5fe8bf",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در ثبت چارت پریودنتال، برای هر ناحیه بیشترین عدد به‌دست‌آمده ثبت می‌شود، نه میانگین.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در ثبت چارت پریودنتال، برای هر ناحیه بیشترین عدد به‌دست‌آمده ثبت می‌شود، نه میانگین."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "نکته را گرفتی. میانگین‌گیری عمیق‌ترین نقطه را پنهان می‌کند، و همان عمیق‌ترین نقطه است که پیش‌آگهی و تصمیم درمانی را تعیین می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نکته را گرفتی. میانگین‌گیری عمیق‌ترین نقطه را پنهان می‌کند، و همان عمیق‌ترین نقطه است که پیش‌آگهی و تصمیم درمانی را تعیین می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T13:27:11.416Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:1f074e1dce6f9f0601fcd0b06b4e32dc6ca5c09e5fd474122dcea32a73d0372d",
+      "at": "2026-11-16T13:26:29.234Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:b89e2442be361fad0ac53f9ee52eee120b7ad4c12a5f789f84ee6d5a4c37c622",
+      "at": "2026-11-16T13:26:30.843Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:bbad622df3bc799a2e2dd6d19f8c42443985b94cf6591e77506f592e37beb4dc",
+      "at": "2026-11-16T13:26:32.475Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:2387",
+      "at": "2026-11-16T13:26:34.069Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:2390",
+      "at": "2026-11-16T13:26:50.931Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:2391",
+      "at": "2026-11-16T13:26:57.031Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:2394",
+      "at": "2026-11-16T13:27:02.494Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:2398",
+      "at": "2026-11-16T13:27:07.819Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

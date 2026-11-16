@@ -1,0 +1,2028 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/243/lesson.json",
+  "id": "243",
+  "title": "درس سوم: خونریزی، ترشح چرک، لقی و فرمیتوس",
+  "specialtyKey": "8bc6e755c37c045c",
+  "chapter": {
+    "id": "60",
+    "title": "معاینه بالینی",
+    "position": 10
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:7991902fc100a3fb6a0fe7ea422945c92282e5bccdc709b93477eaf13effbe5b",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "2c377b6d8aa92041dbb905ad89e21392b519b66446c69a4fd04ae95ab01cd2c6",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h2",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🩸 خون‌ریزی هنگام پروب؛ ارزش واقعی آن"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "BOP حساس‌ترین نشانه زودرس التهاب است، اما ارزش تشخیصی آن یک ظرافت مهم دارد که باید بدانی:"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ارزش"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مقدار تقریبی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "معنا"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ارزش پیشگویی منفی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حدود ۹۸ درصد"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اگر خون‌ریزی "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "نباشد"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": "، تقریباً مطمئنیم ناحیه پایدار است"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ارزش پیشگویی مثبت"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حدود ۳۰ درصد"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اگر خون‌ریزی "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "باشد"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": "، فقط حدود یک‌سوم موارد پیشرفت می‌کنند"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🔑 معنای عملی این دو عدد"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نبود خون‌ریزی خبر بسیار خوبی است؛ وجود خون‌ریزی خبر بدِ قطعی نیست."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ناحیه‌ای که خون‌ریزی نمی‌دهد، با اطمینان بالا پایدار است ⬅️ می‌توانی با خیال راحت آن را در برنامه نگهدارنده معمول بگذاری."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ناحیه‌ای که خون‌ریزی می‌دهد، "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "در معرض خطر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " است اما لزوماً در حال پیشرفت نیست ⬅️ نیاز به پایش دارد نه لزوماً مداخله تهاجمی."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 به همین دلیل BOP ابزار عالی برای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنار گذاشتن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نواحی سالم است، نه برای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اثبات"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فعالیت بیماری."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:0c18821646b89404fa6d594fb59e0d48a47179f7ee56add47be1cd6d76aa5b2f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "199df32ca50f461ad4819bbe50f77962d3ad940746117ebb9c414369635551d2",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🟡 ترشح چرک (Suppuration)"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نشانه "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "عفونت فعال"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " و تجمع نوتروفیل‌های مرده است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "با فشار ملایم انگشت روی لثه از سمت آپیکال به کرونال بررسی می‌شود."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ نکته: ترشح چرک نشانه فعالیت است اما "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "به‌تنهایی پیشگویی‌کننده قابل اعتمادی برای پیشرفت آینده نیست"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": "؛ حضور آن فقط بخشی از تصویر است."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "🦷 لقی دندان — طبقه‌بندی میلر"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "درجه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "توصیف"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "I"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حرکت افقی "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "کمتر از ۱ میلی‌متر"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "II"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حرکت افقی "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "بیش از ۱ میلی‌متر"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "III"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حرکت افقی شدید "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "به‌همراه حرکت عمودی"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (دندان در حفره فرو می‌رود)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ مرز درجه II و III حرکت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمودی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، نه صرفاً مقدار حرکت افقی. دندانی که در حفره پایین می‌رود، درجه III است."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "لقی فیزیولوژیک در برابر پاتولوژیک"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حرکت بسیار جزئی دندان در PDL طبیعی است. لقی پاتولوژیک می‌تواند از دو منشأ باشد: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "التهاب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (بخشی برگشت‌پذیر) یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از دست رفتن حمایت استخوانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (برگشت‌ناپذیر)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:0d0c34ccabeb79134275d1566b6d8d375bb19da8814124799a9a581b9f7e1bca",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "2fa027c8b2247db03dae9927aeb3fc35f96993b28f31d2c7b0a96283bbcb3f40",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👆 فرمیتوس"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ارتعاش یا حرکت قابل لمس دندان هنگام "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عملکرد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — یعنی وقتی بیمار دندان‌ها را روی هم می‌گذارد و حرکات جانبی انجام می‌دهد."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "روش بررسی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "انگشت را به‌آرامی روی سطح باکال دندان‌های فک بالا بگذار و از بیمار بخواه دندان‌ها را روی هم بزند و حرکات جانبی انجام دهد."
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "درجه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "یافته"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "I"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ارتعاش خفیف قابل لمس"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "II"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حرکت قابل لمس واضح"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "III"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حرکت قابل "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "مشاهده"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " با چشم"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ تفاوت کلیدی با لقی: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لقی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با نیروی خارجی درمانگر سنجیده می‌شود، اما "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرمیتوس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با نیروی عملکردی خود بیمار. فرمیتوس مثبت یعنی این دندان در اکلوژن نیروی بیش از حد دریافت می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "h4",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "📌 اشتباه‌های رایج"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۱:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " BOP ارزش پیشگویی "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "منفی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " بالا دارد نه مثبت؛ نبودش خبر خوب است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۲:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " مرز لقی درجه II و III، حرکت "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "عمودی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " است."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "⚠️ "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اشتباه رایج ۳:"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " فرمیتوس با نیروی "
+                        },
+                        {
+                          "tag": "strong",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "خود بیمار"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " سنجیده می‌شود، لقی با نیروی درمانگر."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:2417",
+      "sourceId": "2417",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "94a654b1e01d28116130a804239284950b18697a51685592acab58220caa950e",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ناحیه‌ای با عمق ۵ میلی‌متر هنگام پروب خون‌ریزی می‌دهد. مناسب‌ترین برداشت چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ناحیه‌ای با عمق ۵ میلی‌متر هنگام پروب خون‌ریزی می‌دهد. مناسب‌ترین برداشت چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این ناحیه در معرض خطر است و نیاز به پایش دارد، اما خون‌ریزی به‌تنهایی پیشرفت قطعی را ثابت نمی‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این ناحیه قطعاً در حال پیشرفت است و نیاز به جراحی فوری دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خون‌ریزی معنایی ندارد و می‌توان نادیده گرفت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید بلافاصله دندان کشیده شود، چون خون‌ریزی در عمق ۵ میلی‌متر یعنی از دست رفتن اتصال دیگر برگشت‌ناپذیر است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7a6d2901dc6e1bcae54a317c3ffaad6182b2fbe87e475f79d56697c944be1474",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "این ناحیه در معرض خطر است و نیاز به پایش دارد، اما خون‌ریزی به‌تنهایی پیشرفت قطعی را ثابت نمی‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این ناحیه در معرض خطر است و نیاز به پایش دارد، اما خون‌ریزی به‌تنهایی پیشرفت قطعی را ثابت نمی‌کند"
+            }
+          ]
+        },
+        {
+          "id": "f926f09e9ce9a348de326350d4cce01edf13d4169600471359d582e57fd0f62f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "این ناحیه قطعاً در حال پیشرفت است و نیاز به جراحی فوری دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این ناحیه قطعاً در حال پیشرفت است و نیاز به جراحی فوری دارد"
+            }
+          ]
+        },
+        {
+          "id": "373285e59e2485b1aac4e4ce28e30d194683b49c506f7fb3ac531f4ae08c2b13",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "خون‌ریزی معنایی ندارد و می‌توان نادیده گرفت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خون‌ریزی معنایی ندارد و می‌توان نادیده گرفت"
+            }
+          ]
+        },
+        {
+          "id": "17327a76d5336b973eecfe826fb76872db61a01f442bac7c71629dd304c530eb",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "باید بلافاصله دندان کشیده شود، چون خون‌ریزی در عمق ۵ میلی‌متر یعنی از دست رفتن اتصال دیگر برگشت‌ناپذیر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید بلافاصله دندان کشیده شود، چون خون‌ریزی در عمق ۵ میلی‌متر یعنی از دست رفتن اتصال دیگر برگشت‌ناپذیر است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "7a6d2901dc6e1bcae54a317c3ffaad6182b2fbe87e475f79d56697c944be1474"
+        ],
+        "explanation": "برداشت درستی داشتی! ارزش پیشگویی مثبت BOP حدود ۳۰ درصد است؛ پس خون‌ریزی یک هشدار است نه یک حکم. پاسخ درست، پایش دقیق‌تر است نه مداخله تهاجمی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "برداشت درستی داشتی! ارزش پیشگویی مثبت BOP حدود ۳۰ درصد است؛ پس خون‌ریزی یک هشدار است نه یک حکم. پاسخ درست، پایش دقیق‌تر است نه مداخله تهاجمی."
+          }
+        ],
+        "observedAt": "2026-11-16T13:28:36.238Z"
+      }
+    },
+    {
+      "id": "question:2418",
+      "sourceId": "2418",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "15f97aeba7cd4b1bc499ec4065c121c01f162d9bcda078c6c440e66f6cd745e8",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ترشح چرک از پاکت پریودنتال نشانه چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ترشح چرک از پاکت پریودنتال نشانه چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عفونت فعال و تجمع نوتروفیل‌های مرده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بهبود بافت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نشانه‌ی تشکیل چسبندگی جدید در دیواره‌ی پاکت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش التهاب و پایان یافتن فاز حاد عفونت پاکت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "1fa2820e16952d84a4e2f996f68f922c31f5c46800e43eed81a0023ab3ce9ea1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "عفونت فعال و تجمع نوتروفیل‌های مرده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عفونت فعال و تجمع نوتروفیل‌های مرده"
+            }
+          ]
+        },
+        {
+          "id": "f551430cce7cf426a031db2ca566175c933ebe23fe48c2a72e5158ca8d3cae91",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بهبود بافت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بهبود بافت"
+            }
+          ]
+        },
+        {
+          "id": "6423800d67e32e4b786112b328d8e8e48abf8065007c1718e6d71fffc500fc50",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نشانه‌ی تشکیل چسبندگی جدید در دیواره‌ی پاکت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نشانه‌ی تشکیل چسبندگی جدید در دیواره‌ی پاکت"
+            }
+          ]
+        },
+        {
+          "id": "7bdbafff9660a0a94a881dbf4285dad98b8a4e26b2f7f6a53d4bc4e66905e472",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کاهش التهاب و پایان یافتن فاز حاد عفونت پاکت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش التهاب و پایان یافتن فاز حاد عفونت پاکت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1fa2820e16952d84a4e2f996f68f922c31f5c46800e43eed81a0023ab3ce9ea1"
+        ],
+        "explanation": "دقیقاً همین. چرک عمدتاً از نوتروفیل‌های مرده تشکیل شده و نشانه‌ی عفونت فعال در آن ناحیه است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً همین. چرک عمدتاً از نوتروفیل‌های مرده تشکیل شده و نشانه‌ی عفونت فعال در آن ناحیه است."
+          }
+        ],
+        "observedAt": "2026-11-16T13:28:41.482Z"
+      }
+    },
+    {
+      "id": "question:2423",
+      "sourceId": "2423",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "e9adc506d48571d44b0bc040e553731c74e61d77c0e7911fa23c83b19f4416c2",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در معاینه‌ی اولیه دندانی با لقی درجه II دیده‌ای. مناسب‌ترین اقدام پیش از تصمیم‌گیری درباره کشیدن آن چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در معاینه‌ی اولیه دندانی با لقی درجه II دیده‌ای. مناسب‌ترین اقدام پیش از تصمیم‌گیری درباره کشیدن آن چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن فوری دندان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسپلینت کردن فوری دندان بدون کنترل التهاب و بدون هیچ درمان دیگری"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنترل التهاب و ارزیابی مجدد لقی پس از فاز اول درمان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نادیده گرفتن لقی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d30021e27bdc069c6b1b7cd0fa3308b6680d596ad67e3b39d08a32870bca205c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کشیدن فوری دندان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن فوری دندان"
+            }
+          ]
+        },
+        {
+          "id": "cd7fa1f49e307d4143b8c7134da1b6dd9b9fe6bf515e71690a92d302bc87ee4e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اسپلینت کردن فوری دندان بدون کنترل التهاب و بدون هیچ درمان دیگری",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اسپلینت کردن فوری دندان بدون کنترل التهاب و بدون هیچ درمان دیگری"
+            }
+          ]
+        },
+        {
+          "id": "0ce38339141fee3a647aec45a486f197899bd811293d900a302ca56b403a5c7e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کنترل التهاب و ارزیابی مجدد لقی پس از فاز اول درمان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کنترل التهاب و ارزیابی مجدد لقی پس از فاز اول درمان"
+            }
+          ]
+        },
+        {
+          "id": "141416234968f0ad294309b8dec25dd6c6cc2559cabfbc2f993f02dea166d978",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نادیده گرفتن لقی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نادیده گرفتن لقی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "0ce38339141fee3a647aec45a486f197899bd811293d900a302ca56b403a5c7e"
+        ],
+        "explanation": "تصمیم درستی گرفتی! بخشی از لقی ممکن است ناشی از التهاب و ادم PDL باشد و پس از درمان بهبود یابد؛ قضاوت پیش از کنترل التهاب زودهنگام است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تصمیم درستی گرفتی! بخشی از لقی ممکن است ناشی از التهاب و ادم PDL باشد و پس از درمان بهبود یابد؛ قضاوت پیش از کنترل التهاب زودهنگام است."
+          }
+        ],
+        "observedAt": "2026-11-16T13:28:47.117Z"
+      }
+    },
+    {
+      "id": "question:2425",
+      "sourceId": "2425",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "517d5006603e55c3230e1344da88aa1a823a37d7e9cae9b6a9931a1ef571f5a8",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "فرمیتوس با گذاشتن انگشت روی سطح باکال دندان‌های فک بالا و درخواست از بیمار برای زدن دندان‌ها روی هم بررسی می‌شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "فرمیتوس با گذاشتن انگشت روی سطح باکال دندان‌های فک بالا و درخواست از بیمار برای زدن دندان‌ها روی هم بررسی می‌شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "بله. این تست ساده ده ثانیه وقت می‌گیرد و اطلاعات ارزشمندی درباره‌ی توزیع نیروی اکلوزالی می‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بله. این تست ساده ده ثانیه وقت می‌گیرد و اطلاعات ارزشمندی درباره‌ی توزیع نیروی اکلوزالی می‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-16T13:28:52.335Z"
+      }
+    },
+    {
+      "id": "question:2428",
+      "sourceId": "2428",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "164dc64a8b684e46357952da6bf6b2a62d38390b809267990bffc14fb036a99c",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "فرمیتوس مثبت نشان می‌دهد دندان در اکلوژن نیروی بیش از حد دریافت می‌کند و باید تنظیم اکلوزالی بررسی شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "فرمیتوس مثبت نشان می‌دهد دندان در اکلوژن نیروی بیش از حد دریافت می‌کند و باید تنظیم اکلوزالی بررسی شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "درست است. فرمیتوس یافته‌ای عملکردی است و مستقیماً به توزیع نیرو اشاره دارد؛ نادیده گرفتنش یعنی از دست دادن یک عامل قابل اصلاح.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است. فرمیتوس یافته‌ای عملکردی است و مستقیماً به توزیع نیرو اشاره دارد؛ نادیده گرفتنش یعنی از دست دادن یک عامل قابل اصلاح."
+          }
+        ],
+        "observedAt": "2026-11-16T13:28:57.538Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:7991902fc100a3fb6a0fe7ea422945c92282e5bccdc709b93477eaf13effbe5b",
+      "at": "2026-11-16T13:28:24.158Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:0c18821646b89404fa6d594fb59e0d48a47179f7ee56add47be1cd6d76aa5b2f",
+      "at": "2026-11-16T13:28:25.778Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:0d0c34ccabeb79134275d1566b6d8d375bb19da8814124799a9a581b9f7e1bca",
+      "at": "2026-11-16T13:28:27.393Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:2417",
+      "at": "2026-11-16T13:28:28.844Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:2418",
+      "at": "2026-11-16T13:28:37.844Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:2423",
+      "at": "2026-11-16T13:28:43.115Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:2425",
+      "at": "2026-11-16T13:28:48.717Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:2428",
+      "at": "2026-11-16T13:28:53.911Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
