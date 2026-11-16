@@ -1,0 +1,2192 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/819/lesson.json",
+  "id": "819",
+  "title": "درس اول: رادیوگرافی پری‌اپیکال و قانون زاویه",
+  "specialtyKey": "67add4f767c7e6ed",
+  "chapter": {
+    "id": "179",
+    "title": "تصویربرداری اندودنتیک",
+    "position": 5
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:248d1bdd4b4e55416b5bc325d2e25e85e22e2cd2c395eab57483a659414133a3",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "d03e34d75b67f6ea78a42fa60a6bd9298160dbb944426007190fa888280ca9be",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا تکنیک موازی، و چرا زاویه‌ی افقی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکنیک موازی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، سنسور موازی محور طولی دندان قرار می‌گیرد و پرتو عمود بر هر دو می‌تابد. نتیجه‌اش تصویری با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمترین اعوجاج طولی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است — که در اندو حیاتی است، چون طول کار و رابطه‌ی ریشه با ساختارهای مجاور را از همین تصویر می‌خوانی."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 860 400",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "28"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تکنیک موازی، و بُعدی که گم می‌شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "215",
+                        "y": "58"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تکنیک موازی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.7",
+                        "x": "70",
+                        "y": "70",
+                        "width": "290",
+                        "height": "170"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M180,96 C166,96 158,108 160,122 L168,196 C170,210 186,212 190,198 L198,150 L206,198 C210,212 226,210 228,196 L236,122 C238,108 230,96 216,96 Z",
+                        "fill": "#C9A227",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#3F9E6B",
+                        "stroke-width": "2",
+                        "x1": "198",
+                        "y1": "88",
+                        "x2": "198",
+                        "y2": "216"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#8FA3B8",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.6",
+                        "x": "256",
+                        "y": "92",
+                        "width": "12",
+                        "height": "124"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {
+                        "stroke": "#E08A3C",
+                        "stroke-width": "2.2"
+                      },
+                      "children": [
+                        {
+                          "tag": "line",
+                          "attributes": {
+                            "x1": "106",
+                            "y1": "120",
+                            "x2": "150",
+                            "y2": "120"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "line",
+                          "attributes": {
+                            "x1": "106",
+                            "y1": "154",
+                            "x2": "150",
+                            "y2": "154"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "line",
+                          "attributes": {
+                            "x1": "106",
+                            "y1": "188",
+                            "x2": "150",
+                            "y2": "188"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "98",
+                        "y": "126"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پرتو"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "290",
+                        "y": "130"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سنسور"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "290",
+                        "y": "148"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "موازی محور"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "x": "88",
+                        "y": "252",
+                        "width": "254",
+                        "height": "26"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "215",
+                        "y": "270"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کمترین اعوجاج طولی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "620",
+                        "y": "58"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "و بُعدی که حذف می‌شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.7",
+                        "x": "470",
+                        "y": "70",
+                        "width": "320",
+                        "height": "170"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "560",
+                        "y": "94"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "واقعیت — نمای از بالا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "ellipse",
+                      "attributes": {
+                        "fill": "#C9A227",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.6",
+                        "cx": "560",
+                        "cy": "140"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "cx": "560",
+                        "cy": "126",
+                        "r": "8"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "cx": "560",
+                        "cy": "154",
+                        "r": "8"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "560",
+                        "y": "188"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دو کانال جدا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "2.2",
+                        "x1": "618",
+                        "y1": "140",
+                        "x2": "650",
+                        "y2": "140"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "716",
+                        "y": "94"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تصویر دوبعدی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#C9A227",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.6",
+                        "x": "686",
+                        "y": "112",
+                        "width": "60",
+                        "height": "56"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#7B5EA7",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.6",
+                        "cx": "716",
+                        "cy": "140",
+                        "r": "9"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "716",
+                        "y": "188"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "یکی به‌نظر می‌رسد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "x": "490",
+                        "y": "252",
+                        "width": "280",
+                        "height": "26"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "630",
+                        "y": "270"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عمق باکولینگوال از دست می‌رود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "1",
+                        "x1": "60",
+                        "y1": "300",
+                        "x2": "800",
+                        "y2": "300"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.9",
+                        "x": "180",
+                        "y": "314",
+                        "width": "500",
+                        "height": "34"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "336"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "راه‌حل: تغییر زاویه‌ی افقی و گرفتن تصویر دوم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "376"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تکرار با همان زاویه همان تصویر را می‌دهد — آنچه بُعد سوم را برمی‌گرداند تغییر هندسه است"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکنیک موازی اعوجاج طولی را کمینه می‌کند، ولی بُعد باکولینگوال در تصویر دوبعدی حذف می‌شود و دو کانال جدا یکی به‌نظر می‌رسند. — Torabinejad 6th ed, Ch.3؛ Ingle's Endodontics 7, Ch.9A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اما تصویر دوبعدی یک بُعد را از دست می‌دهد: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق باکولینگوال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". دو کانالی که روی هم افتاده‌اند در یک تصویر یکی به‌نظر می‌رسند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "راه‌حل:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تغییر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زاویه‌ی افقی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پرتو و گرفتن تصویر دوم. با چرخاندن پرتو، ساختارهایی که روی هم بودند از هم جدا می‌شوند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:9ae28a77bffe690625d35e291eac593fefe0119a1e5a16f7566b92d1d13b20e6",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "59f90fae5b4356bbb144ecec5e675d1eda254d33f562fa81a0e533ef6aa3416d",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قانون زبانی-باکالی و کاربردش"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "وقتی زاویه‌ی افقی را تغییر می‌دهی، دو شیء روی هم‌افتاده به دو سمت جابه‌جا می‌شوند — ولی نه به یک اندازه و نه یک جهت:"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 860 430",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "28"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قانون زبانی-باکالی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "56"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نمای از بالا — دو شیء در دو عمق متفاوت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#8FA3B8",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.6",
+                        "x": "330",
+                        "y": "196",
+                        "width": "200",
+                        "height": "14"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "228"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سنسور"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8",
+                        "cx": "430",
+                        "cy": "166",
+                        "r": "11"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "452",
+                        "y": "170"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "باکالی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8",
+                        "cx": "430",
+                        "cy": "112",
+                        "r": "11"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "452",
+                        "y": "116"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "زبانی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "x1": "430",
+                        "y1": "72",
+                        "x2": "430",
+                        "y2": "192"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "cx": "430",
+                        "cy": "68",
+                        "r": "7"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#E08A3C",
+                        "stroke-width": "2.4",
+                        "x1": "290",
+                        "y1": "76",
+                        "x2": "470",
+                        "y2": "192"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#E08A3C",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "cx": "286",
+                        "cy": "74",
+                        "r": "7"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "272",
+                        "y": "66"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پرتو از این سمت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#C0504D",
+                        "stroke-width": "1.4",
+                        "x1": "430",
+                        "y1": "112",
+                        "x2": "486",
+                        "y2": "196"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#4A7FB5",
+                        "stroke-width": "1.4",
+                        "x1": "430",
+                        "y1": "166",
+                        "x2": "456",
+                        "y2": "196"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "cx": "486",
+                        "cy": "203",
+                        "r": "6"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "cx": "456",
+                        "cy": "203",
+                        "r": "6"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "560",
+                        "y": "200"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هر دو به سمت راست رفتند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "560",
+                        "y": "218"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ولی زبانی بیشتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "1",
+                        "x1": "60",
+                        "y1": "252",
+                        "x2": "800",
+                        "y2": "252"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8",
+                        "x": "80",
+                        "y": "266",
+                        "width": "330",
+                        "height": "70"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "245",
+                        "y": "290"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شیء زبانی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "245",
+                        "y": "312"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در همان جهت حرکت پرتو"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "245",
+                        "y": "330"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "از سنسور دورتر است، پس بیشتر جابه‌جا می‌شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8",
+                        "x": "450",
+                        "y": "266",
+                        "width": "330",
+                        "height": "70"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "615",
+                        "y": "290"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شیء باکالی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "615",
+                        "y": "312"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در جهت مخالف حرکت پرتو"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "615",
+                        "y": "330"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "به سنسور نزدیک‌تر است، پس کمتر جابه‌جا می‌شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "364"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سه کاربرد روزمره"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "x": "66",
+                        "y": "376",
+                        "width": "238",
+                        "height": "30"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "185",
+                        "y": "396"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تفکیک کانال‌های روی هم‌افتاده"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "x": "312",
+                        "y": "376",
+                        "width": "238",
+                        "height": "30"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "431",
+                        "y": "396"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "باکالی یا زبانی بودن یک شیء"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "x": "558",
+                        "y": "376",
+                        "width": "238",
+                        "height": "30"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "677",
+                        "y": "396"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "افتراق تحلیل داخلی از خارجی"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با تغییر زاویه‌ی افقی، شیء زبانی هم‌جهت با پرتو و شیء باکالی در جهت مخالف جابه‌جا می‌شود؛ سه کاربرد روزمره‌ی این قاعده در پایین آمده است. — Torabinejad 6th ed, Ch.3 و Ch.13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شیء زبانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همان جهت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " حرکت پرتو جابه‌جا می‌شود."
+                },
+                {
+                  "tag": "br",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شیء باکالی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جهت مخالف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این همان قاعده‌ای است که با نام "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "SLOB"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " شناخته می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه کاربرد روزمره‌اش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تفکیک دو کانال روی هم‌افتاده در پرمولر و مولر، تعیین اینکه یک شیء یا ضایعه باکالی است یا لینگوالی، و افتراق تحلیل داخلی از خارجی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در دندان‌های قدامی بالا که تک‌کانال‌اند، معمولاً نیازی به زاویه نیست."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:10846",
+      "sourceId": "10846",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "531ec14c79ec57bd1fdc6e1ada4ea9e2141d6ae47ddf0bb5ad694ac3c8c5d082",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا تکنیک موازی در اندودنتیکس بر تکنیک نیمساز ترجیح دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا تکنیک موازی در اندودنتیکس بر تکنیک نیمساز ترجیح دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اعوجاج طولی را کمینه می‌کند؛ طول کار از همین بُعد خوانده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز پرتو دریافتی بیمار را در هر تصویر نصف می‌کند، چون پرتو عمود بر سنسور می‌تابد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیاز به نگهدارنده‌ی سنسور را از میان برمی‌دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "امکان دیدن بُعد باکولینگوال را در یک تصویر فراهم می‌کند و کانال دوم را آشکار می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "60bfdc5c6ac9fbada8580e4cadae0cafa5075e9d97957d24e5f241aa60578bd5",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اعوجاج طولی را کمینه می‌کند؛ طول کار از همین بُعد خوانده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اعوجاج طولی را کمینه می‌کند؛ طول کار از همین بُعد خوانده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "b5ebf29a81171deb3810f3da23d900b56a846499557da060d5850320f8c34f4e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دوز پرتو دریافتی بیمار را در هر تصویر نصف می‌کند، چون پرتو عمود بر سنسور می‌تابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دوز پرتو دریافتی بیمار را در هر تصویر نصف می‌کند، چون پرتو عمود بر سنسور می‌تابد"
+            }
+          ]
+        },
+        {
+          "id": "adfffe103498c964237c9c61a141d430ad5cf901ac6eee671569a85645de9f83",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نیاز به نگهدارنده‌ی سنسور را از میان برمی‌دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیاز به نگهدارنده‌ی سنسور را از میان برمی‌دارد"
+            }
+          ]
+        },
+        {
+          "id": "851cec06b6e66a749a81988686f3b8d188efcebd3319bafac22033b312c74131",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "امکان دیدن بُعد باکولینگوال را در یک تصویر فراهم می‌کند و کانال دوم را آشکار می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "امکان دیدن بُعد باکولینگوال را در یک تصویر فراهم می‌کند و کانال دوم را آشکار می‌سازد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "60bfdc5c6ac9fbada8580e4cadae0cafa5075e9d97957d24e5f241aa60578bd5"
+        ],
+        "explanation": "در اندو، دقت طولی مستقیماً به تصمیم بالینی ترجمه می‌شود — پس روشی که آن را حفظ کند برتری دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در اندو، "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دقت طولی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " مستقیماً به تصمیم بالینی ترجمه می‌شود — پس روشی که آن را حفظ کند برتری دارد."
+          }
+        ],
+        "observedAt": "2026-11-16T09:47:50.643Z"
+      }
+    },
+    {
+      "id": "question:10850",
+      "sourceId": "10850",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "8a8a4da2aa3b49fc15f9fd2364f82eb3a76cf3ce6ddeb7b16a3d0c9cdb95fbcc",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "تکرار تصویر پری‌اپیکال با همان زاویه، می‌تواند اطلاعات باکولینگوال به دست دهد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تکرار تصویر پری‌اپیکال با همان زاویه، می‌تواند اطلاعات باکولینگوال به دست دهد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "تکرار با همان زاویه همان تصویر را می‌دهد؛ آنچه بُعد سوم را برمی‌گرداند تغییر زاویه است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تکرار با "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "همان زاویه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " همان تصویر را می‌دهد؛ آنچه بُعد سوم را برمی‌گرداند "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "تغییر زاویه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است."
+          }
+        ],
+        "observedAt": "2026-11-16T09:47:55.674Z"
+      }
+    },
+    {
+      "id": "question:10852",
+      "sourceId": "10852",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "fcb5e26ba0fc98755fd230695f697418c1cc603cb524fbc6c2f249690f966d28",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "وقتی زاویه‌ی افقی پرتو را تغییر می‌دهی، دو شیء روی هم‌افتاده چگونه جابه‌جا می‌شوند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "وقتی زاویه‌ی افقی پرتو را تغییر می‌دهی، دو شیء روی هم‌افتاده چگونه جابه‌جا می‌شوند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شیء زبانی در همان جهت حرکت پرتو و شیء باکالی در جهت مخالف"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شیء باکالی در همان جهت حرکت پرتو و شیء زبانی در جهت مخالف"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو در همان جهت و به یک اندازه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ‌کدام جابه‌جا نمی‌شوند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9f55811e2c0977c464d90df46cdc852155b023fae46fc25be54c9c800e67311d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "شیء زبانی در همان جهت حرکت پرتو و شیء باکالی در جهت مخالف",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شیء زبانی در همان جهت حرکت پرتو و شیء باکالی در جهت مخالف"
+            }
+          ]
+        },
+        {
+          "id": "a9cd90c450651b671b9a7d770a44aa11ddfbbe419fa41a78f04bb91d0d9566ff",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "شیء باکالی در همان جهت حرکت پرتو و شیء زبانی در جهت مخالف",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شیء باکالی در همان جهت حرکت پرتو و شیء زبانی در جهت مخالف"
+            }
+          ]
+        },
+        {
+          "id": "b76a146cb8495b9288a6e3b65dfeeea7b28a23a8ab380d568fb27f3ac31dd628",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هر دو در همان جهت و به یک اندازه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو در همان جهت و به یک اندازه"
+            }
+          ]
+        },
+        {
+          "id": "9d591a2c5a1455589404e7f40ce5c88ce7a3416670de6b534eef13e688dc336b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هیچ‌کدام جابه‌جا نمی‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ‌کدام جابه‌جا نمی‌شوند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9f55811e2c0977c464d90df46cdc852155b023fae46fc25be54c9c800e67311d"
+        ],
+        "explanation": "درست — همان قاعده‌ای که با نام SLOB شناخته می‌شود. شیء دورتر از سنسور، بیشتر و هم‌جهت با پرتو جابه‌جا می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست — همان قاعده‌ای که با نام "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "SLOB"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " شناخته می‌شود. شیء دورتر از سنسور، بیشتر و هم‌جهت با پرتو جابه‌جا می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-16T09:48:00.839Z"
+      }
+    },
+    {
+      "id": "question:10855",
+      "sourceId": "10855",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "377b1b9af2ded886df3738acf5461ec2a5505543df2740c45967103d06134c2c",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه، همگی کاربردهای مستقیم تصویر با زاویه‌ی افقی متفاوت‌اند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه، همگی کاربردهای مستقیم تصویر با زاویه‌ی افقی متفاوت‌اند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش دوز پرتو، افزایش کنتراست، و حذف آرتیفکت فلزی ترمیم‌ها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌گیری طول کار، سنجش تراکم استخوان اطراف ریشه، و یافتن پوسیدگی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سنجش حیات پالپ، ارزیابی اکلوژن، و رنگ دندان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تفکیک کانال‌ها، تعیین باکالی یا زبانی، و افتراق تحلیل"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e24c9c2cc37b45b533c587c15da9242410df5a62e9613b736c6d1b0ba3ee7281",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کاهش دوز پرتو، افزایش کنتراست، و حذف آرتیفکت فلزی ترمیم‌ها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش دوز پرتو، افزایش کنتراست، و حذف آرتیفکت فلزی ترمیم‌ها"
+            }
+          ]
+        },
+        {
+          "id": "50c47bf3daea4b8023159c9ee0371ccccdb7cd7d3fe3e0f01116f6efc3d3c3d7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اندازه‌گیری طول کار، سنجش تراکم استخوان اطراف ریشه، و یافتن پوسیدگی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندازه‌گیری طول کار، سنجش تراکم استخوان اطراف ریشه، و یافتن پوسیدگی"
+            }
+          ]
+        },
+        {
+          "id": "16685fb4af5471ec62bac3591ca959628e3d41c6ac854e144f952961cc1c0c0e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "سنجش حیات پالپ، ارزیابی اکلوژن، و رنگ دندان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سنجش حیات پالپ، ارزیابی اکلوژن، و رنگ دندان"
+            }
+          ]
+        },
+        {
+          "id": "91e3e84a53e66d705e95aa4afb8df017775fc2c66202c5a84e4640e8b6a399d5",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تفکیک کانال‌ها، تعیین باکالی یا زبانی، و افتراق تحلیل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تفکیک کانال‌ها، تعیین باکالی یا زبانی، و افتراق تحلیل"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "91e3e84a53e66d705e95aa4afb8df017775fc2c66202c5a84e4640e8b6a399d5"
+        ],
+        "explanation": "هر سه کاربرد یک وجه مشترک دارند: همگی نیازمند اطلاعات عمقاند — همان چیزی که تغییر زاویه فراهم می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هر سه کاربرد یک وجه مشترک دارند: همگی نیازمند "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "اطلاعات عمق"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "اند — همان چیزی که تغییر زاویه فراهم می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T09:48:06.120Z"
+      }
+    },
+    {
+      "id": "question:10859",
+      "sourceId": "10859",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "ffb600f636bd5bcae8f32b286a31885bf41457b6b15f3fd7da9e915e07868059",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در دندان‌های قدامی بالا که معمولاً یک کانال دارند، گرفتن تصویر با زاویه‌ی افقی متفاوت برای تفکیک کانال ضرورتی ندارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در دندان‌های قدامی بالا که معمولاً یک کانال دارند، گرفتن تصویر با زاویه‌ی افقی متفاوت برای تفکیک کانال ضرورتی ندارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "وقتی کانال دومی برای تفکیک وجود ندارد، زاویه برای این هدف اطلاعات تازه‌ای اضافه نمی‌کند — هرچند برای سنجش موقعیت ضایعه همچنان مفید است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "وقتی کانال دومی برای تفکیک وجود ندارد، زاویه "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "برای این هدف"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " اطلاعات تازه‌ای اضافه نمی‌کند — هرچند برای سنجش موقعیت ضایعه همچنان مفید است."
+          }
+        ],
+        "observedAt": "2026-11-16T09:48:11.119Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:248d1bdd4b4e55416b5bc325d2e25e85e22e2cd2c395eab57483a659414133a3",
+      "at": "2026-11-16T09:47:41.690Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:9ae28a77bffe690625d35e291eac593fefe0119a1e5a16f7566b92d1d13b20e6",
+      "at": "2026-11-16T09:47:43.333Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:10846",
+      "at": "2026-11-16T09:47:44.921Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:10850",
+      "at": "2026-11-16T09:47:52.226Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:10852",
+      "at": "2026-11-16T09:47:57.267Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:10855",
+      "at": "2026-11-16T09:48:02.439Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:10859",
+      "at": "2026-11-16T09:48:07.702Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

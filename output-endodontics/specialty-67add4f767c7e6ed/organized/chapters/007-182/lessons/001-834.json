@@ -1,0 +1,1956 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/834/lesson.json",
+  "id": "834",
+  "title": "درس اول: داروی داخل کارتریج",
+  "specialtyKey": "67add4f767c7e6ed",
+  "chapter": {
+    "id": "182",
+    "title": "بخش ۳: کنترل درد و اورژانس اندودنتیک، بی‌حسی موضعی در اندودنتیکس",
+    "position": 7
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:460dfe3d3ee625057f9937a4cb16130f2ed7daf391f1197cc2be1a8cb0d08b48",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "49d2ce036985caedc07a31b28a46a68d5ddb15060b522ab93a9d691302ad14b1",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "باز آزاد؛ همان بخشی که وارد عصب می‌شود"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "محلول بی‌حسی داخل کارتریج، نمکِ اسیدیِ یک آمید است. اما چیزی که واقعاً از غشای عصب عبور می‌کند، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرم باز آزاد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است — نه فرم یونیزه."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نسبت این دو، به فاصله‌ی pH محلول تا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "pKa"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارو بستگی دارد. هرچه pH محلول به pKa نزدیک‌تر باشد، سهم بیشتری از دارو به شکل باز آزاد در دسترس است و می‌تواند وارد عصب شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "همین یک جمله، کل درس بعدی را توضیح می‌دهد: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر چیزی که pH بافت را پایین ببرد، سهم باز آزاد را کم می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — و التهاب دقیقاً همین کار را می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پس شکست بی‌حسی در دندان ملتهب، نه بی‌مهارتی توست و نه ضعف دارو؛ یک مسئله‌ی شیمیایی است."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 860 400",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "28"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فقط باز آزاد وارد عصب می‌شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#8FA3B8",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "x": "46",
+                        "y": "52",
+                        "width": "470",
+                        "height": "200"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "281",
+                        "y": "76"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "محلول در بافت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.7",
+                        "x": "80",
+                        "y": "94",
+                        "width": "180",
+                        "height": "60"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "170",
+                        "y": "118"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "باز آزاد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "170",
+                        "y": "140"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "چربی‌دوست"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.7",
+                        "x": "300",
+                        "y": "94",
+                        "width": "180",
+                        "height": "60"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "390",
+                        "y": "118"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فرم یونیزه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "390",
+                        "y": "140"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در محلول می‌ماند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M296,116 L266,116",
+                        "fill": "none",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M264,138 L294,138",
+                        "fill": "none",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.6",
+                        "x": "90",
+                        "y": "176",
+                        "width": "380",
+                        "height": "58"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "280",
+                        "y": "199"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نسبت این دو را نزدیکی اسیدیته‌ی محیط به ثابت تفکیک دارو می‌سازد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "280",
+                        "y": "221"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نزدیک‌تر شدن این دو به هم یعنی باز آزاد بیشتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#C9A227",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5",
+                        "x": "560",
+                        "y": "52",
+                        "width": "42",
+                        "height": "200"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "581",
+                        "y": "270"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "غشای عصب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.7",
+                        "x": "640",
+                        "y": "94",
+                        "width": "174",
+                        "height": "60"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "727",
+                        "y": "118"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "داخل عصب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "727",
+                        "y": "140"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "محل اثر دارو"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#4A7FB5",
+                        "stroke-width": "2.6",
+                        "x1": "516",
+                        "y1": "118",
+                        "x2": "556",
+                        "y2": "118"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#4A7FB5",
+                        "stroke-width": "2.6",
+                        "x1": "606",
+                        "y1": "118",
+                        "x2": "636",
+                        "y2": "118"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#C0504D",
+                        "stroke-width": "2.2",
+                        "x1": "516",
+                        "y1": "140",
+                        "x2": "552",
+                        "y2": "140"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#C0504D",
+                        "stroke-width": "2.6",
+                        "x1": "552",
+                        "y1": "130",
+                        "x2": "568",
+                        "y2": "150"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#C0504D",
+                        "stroke-width": "2.6",
+                        "x1": "568",
+                        "y1": "130",
+                        "x2": "552",
+                        "y2": "150"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "1",
+                        "x1": "46",
+                        "y1": "288",
+                        "x2": "814",
+                        "y2": "288"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8",
+                        "x": "120",
+                        "y": "304",
+                        "width": "620",
+                        "height": "66"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "328"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "التهاب اسیدیته‌ی بافت را بالا می‌برد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "352"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "همان دوز تزریق می‌شود، ولی کسر کمتری از آن فعال است"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها فرم باز آزاد از غشای عصب عبور می‌کند؛ نسبت آن به فرم یونیزه با اسیدیته‌ی محیط تغییر می‌کند. — Torabinejad Endodontics 6th ed, Ch.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:2ce79f6abd49b40a14aeb5ee826f1f111ba8f74823325e606a7b2fd7f962dc78",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "78cc0835f1b9e040bac58340e10a430bd3d2664c4a5d0e797ee3556cb1948b6c",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام تغییر واقعاً کمک می‌کند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چند جایگزین رایج، از نظر بی‌حسی پالپ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "معادل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " لیدوکائین ۲ درصد با اپی‌نفرین یک صدهزارم‌اند و حدود یک ساعت بی‌حسی پالپ می‌دهند: مپیواکائین ۲ درصد با لوونوردفرین، پریلوکائین ۴ درصد با اپی‌نفرین یک دویست‌هزارم، و محلول‌های بدون وازوکانستریکتور یعنی مپیواکائین ۳ درصد و پریلوکائین ۴ درصد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلیظ‌تر کردن اپی‌نفرین کمکی نمی‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " غلظت یک پنجاه‌هزارم در بلاک آلوئولار تحتانی، بی‌حسی پالپ را بهتر نمی‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اما "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بوپیواکائین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فرق دارد: شروع کندتر، ولی حدود دو برابر طول اثر در فک پایین."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 860 400",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "26"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کدام تغییر واقعاً کمک می‌کند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5",
+                        "x": "46",
+                        "y": "46",
+                        "width": "768",
+                        "height": "128"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "70"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "معادل لیدوکائین ۲ درصد با اپی‌نفرین — حدود یک ساعت بی‌حسی پالپ"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5",
+                        "x": "66",
+                        "y": "84",
+                        "width": "176",
+                        "height": "72"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "154",
+                        "y": "108"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مپیواکائین ۲ درصد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "154",
+                        "y": "130"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "با لوونوردفرین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5",
+                        "x": "252",
+                        "y": "84",
+                        "width": "176",
+                        "height": "72"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "340",
+                        "y": "108"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پریلوکائین ۴ درصد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "340",
+                        "y": "130"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "با اپی‌نفرین رقیق"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5",
+                        "x": "438",
+                        "y": "84",
+                        "width": "176",
+                        "height": "72"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "526",
+                        "y": "108"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مپیواکائین ۳ درصد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "526",
+                        "y": "130"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بدون وازوکانستریکتور"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5",
+                        "x": "624",
+                        "y": "84",
+                        "width": "172",
+                        "height": "72"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "710",
+                        "y": "108"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پریلوکائین ۴ درصد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "710",
+                        "y": "130"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بدون وازوکانستریکتور"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#7B5EA7",
+                        "stroke": "currentColor",
+                        "stroke-width": "2",
+                        "x": "440",
+                        "y": "192",
+                        "width": "374",
+                        "height": "86"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "627",
+                        "y": "216"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بوپیواکائین: بیرون از فهرست معادل‌ها"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "627",
+                        "y": "240"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شروع کندتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "627",
+                        "y": "262"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوام نزدیک به دو برابر در فک پایین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "stroke": "currentColor",
+                        "stroke-width": "2",
+                        "x": "46",
+                        "y": "192",
+                        "width": "374",
+                        "height": "86"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "233",
+                        "y": "216"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دو اقدامی که موفقیت را بالا نمی‌برند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "233",
+                        "y": "240"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دو برابر کردن حجم کارتریج"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "233",
+                        "y": "262"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "غلیظ‌تر کردن اپی‌نفرین در بلاک"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "1",
+                        "x1": "46",
+                        "y1": "300",
+                        "x2": "814",
+                        "y2": "300"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#E08A3C",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.7",
+                        "x": "150",
+                        "y": "316",
+                        "width": "560",
+                        "height": "56"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "338"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "وقتی چیزی جواب نمی‌دهد، مسیر را عوض کن نه مقدار را"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "360"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "جایگزین‌های بدون وازوکانستریکتور، انتخاب بیمار با محدودیت قلبی‌اند"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محلول‌های معادلِ لیدوکائین با اپی‌نفرین، جایگاه متمایز بوپیواکائین، و دو اقدامی که موفقیت را بالا نمی‌برند. — Torabinejad 6th ed, Ch.8؛ Ingle's Endodontics 7, Ch.18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:11159",
+      "sourceId": "11159",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "af04d187c444506dba82dc80a51f44074bcd1de9af5cdefac275def4e904dd3b",
+      "position": 3,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "هرچه pH محلول بی‌حسی به ______ دارو نزدیک‌تر باشد، سهم بیشتری از دارو به شکل باز آزاد در دسترس است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هرچه pH محلول بی‌حسی به ______ دارو نزدیک‌تر باشد، سهم بیشتری از دارو به شکل باز آزاد در دسترس است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "a"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "K"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "p"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "pKa",
+        "explanation": "دقیقاً. فاصله‌ی pH محلول تا pKa است که نسبت باز آزاد به فرم یونیزه را تعیین می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً. فاصله‌ی pH محلول تا pKa است که نسبت باز آزاد به فرم یونیزه را تعیین می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T09:56:47.773Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 3,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "a"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "K"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "p"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:11161",
+      "sourceId": "11161",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "277748530a70da3278194f56bfb33bdd3a63224b9046dad3da8b237a96606943",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "پایین آمدن pH بافت در ناحیه‌ی ملتهب، سهم فرم باز آزاد دارو را افزایش می‌دهد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پایین آمدن pH بافت در ناحیه‌ی ملتهب، سهم فرم باز آزاد دارو را افزایش می‌دهد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "نادرست است، و درست وارونه. اسیدی‌تر شدن بافت تعادل را به سمت فرم یونیزه می‌برد و سهم باز آزاد کم می‌شود، پس داروی کمتری از غشای عصب می‌گذرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نادرست است، و درست وارونه. اسیدی‌تر شدن بافت تعادل را به سمت "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "فرم یونیزه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌برد و سهم باز آزاد کم می‌شود، پس داروی کمتری از غشای عصب می‌گذرد."
+          }
+        ],
+        "observedAt": "2026-11-16T09:56:54.971Z"
+      }
+    },
+    {
+      "id": "question:11165",
+      "sourceId": "11165",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "4978c4f82f76e98c5bcf80d35f6f4d6a665860f2f7ca8097e80d29495a802801",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام گزینه جزو محلول‌های معادلِ لیدوکائین ۲ درصد با اپی‌نفرین برای حدود یک ساعت بی‌حسی پالپ شمرده شده است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام گزینه جزو محلول‌های معادلِ لیدوکائین ۲ درصد با اپی‌نفرین برای حدود یک ساعت بی‌حسی پالپ شمرده شده است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بوپیواکائین ۰٫۵ درصد با اپی‌نفرین یک دویست‌هزارم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پریلوکائین ۴ درصد با اپی‌نفرین یک دویست‌هزارم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سرم فیزیولوژی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اپی‌نفرین خالص"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d0df9425cbe91a603619e441c5be00af9dac046c2fae46ab44a4b274601910a7",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بوپیواکائین ۰٫۵ درصد با اپی‌نفرین یک دویست‌هزارم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بوپیواکائین ۰٫۵ درصد با اپی‌نفرین یک دویست‌هزارم"
+            }
+          ]
+        },
+        {
+          "id": "45441b2c4c4f7c78957f22d370a9c609be9205ff26292ae945644a361e08dfe7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "پریلوکائین ۴ درصد با اپی‌نفرین یک دویست‌هزارم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پریلوکائین ۴ درصد با اپی‌نفرین یک دویست‌هزارم"
+            }
+          ]
+        },
+        {
+          "id": "d8e857504a9597069e8fd3fa3ce55ed4f6e116e867ad25004a21abe964b82343",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "سرم فیزیولوژی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سرم فیزیولوژی"
+            }
+          ]
+        },
+        {
+          "id": "78eba1418462d188576b077bfa916024f472e933511c6664b8d5095625cf6658",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اپی‌نفرین خالص",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اپی‌نفرین خالص"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "45441b2c4c4f7c78957f22d370a9c609be9205ff26292ae945644a361e08dfe7"
+        ],
+        "explanation": "این محلول در همین دسته‌ی معادل‌ها قرار می‌گیرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این محلول در همین دسته‌ی معادل‌ها قرار می‌گیرد."
+          }
+        ],
+        "observedAt": "2026-11-16T09:57:00.077Z"
+      }
+    },
+    {
+      "id": "question:11168",
+      "sourceId": "11168",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "eab917061aeae76b0405a3f24d258332a81ef8a6670481b95c951da652f374a2",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در انفیلتراسیون فک بالا، افزایش غلظت اپی‌نفرین به یک پنجاه‌هزارم چه اثری داشته است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در انفیلتراسیون فک بالا، افزایش غلظت اپی‌نفرین به یک پنجاه‌هزارم چه اثری داشته است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ اثری بر بی‌حسی هیچ‌یک از دندان‌های بالا نداشته است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوام بی‌حسی را در همه‌ی دندان‌های بالا دو برابر کرده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شروع اثر دارو را به کمتر از یک دقیقه کاهش داده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوام را برای انسیزور جانبی افزایش داده، نه همه"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9e20ea501c2032aa1396f88ac00e2db9421adf07d2d6e77f4c023e094bded862",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هیچ اثری بر بی‌حسی هیچ‌یک از دندان‌های بالا نداشته است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ اثری بر بی‌حسی هیچ‌یک از دندان‌های بالا نداشته است"
+            }
+          ]
+        },
+        {
+          "id": "9bd1293643b0fe37f0e4f67c0af9afcf111270c0383a364fced203f381072cb1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دوام بی‌حسی را در همه‌ی دندان‌های بالا دو برابر کرده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دوام بی‌حسی را در همه‌ی دندان‌های بالا دو برابر کرده"
+            }
+          ]
+        },
+        {
+          "id": "c3dee61088ea50fe060277537eba81028c081bf27de884996e1df640525e656a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "شروع اثر دارو را به کمتر از یک دقیقه کاهش داده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شروع اثر دارو را به کمتر از یک دقیقه کاهش داده است"
+            }
+          ]
+        },
+        {
+          "id": "e130adee24939e619b7852832391c5c9f9a9fbd32093e05043e12b02d1ec219d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دوام را برای انسیزور جانبی افزایش داده، نه همه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دوام را برای انسیزور جانبی افزایش داده، نه همه"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e130adee24939e619b7852832391c5c9f9a9fbd32093e05043e12b02d1ec219d"
+        ],
+        "explanation": "اثر محدود و دندان‌به‌دندان است — نه یک بهبود عمومی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "اثر "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "محدود و دندان‌به‌دندان"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است — نه یک بهبود عمومی."
+          }
+        ],
+        "observedAt": "2026-11-16T09:57:13.832Z"
+      }
+    },
+    {
+      "id": "question:11170",
+      "sourceId": "11170",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "b74a01d176a1ab84ebddf68798b2f209ff29d4c7d10cec2f94208b316b3cfd88",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ویژگی متمایز بوپیواکائین در مقایسه با لیدوکائین چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ویژگی متمایز بوپیواکائین در مقایسه با لیدوکائین چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شروع اثر کندتر ولی دوام بی‌حسی پالپ نزدیک به دو برابر در فک پایین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شروع سریع‌تر و دوام کوتاه‌تر بی‌حسی پالپ، به‌دلیل اتصال ضعیف‌تر به پروتئین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شروع سریع‌تر و دوام بیشتر بی‌حسی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شروع اثر و دوام بی‌حسی کاملاً یکسان با لیدوکائین در هر دو فک بالا و پایین"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "51a88856830171a059fc7cec93d57a648ec032434fb3a2076d4f1be33ee7dcd4",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "شروع اثر کندتر ولی دوام بی‌حسی پالپ نزدیک به دو برابر در فک پایین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شروع اثر کندتر ولی دوام بی‌حسی پالپ نزدیک به دو برابر در فک پایین"
+            }
+          ]
+        },
+        {
+          "id": "bcfc0560533b2013486f94c22abc4428b4a6b867e92dc4832da5914df9024a9c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "شروع سریع‌تر و دوام کوتاه‌تر بی‌حسی پالپ، به‌دلیل اتصال ضعیف‌تر به پروتئین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شروع سریع‌تر و دوام کوتاه‌تر بی‌حسی پالپ، به‌دلیل اتصال ضعیف‌تر به پروتئین"
+            }
+          ]
+        },
+        {
+          "id": "818e12fa21bf86aab17df0061628fb8f27a16143a3440956ed96c1158acbc89c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "شروع سریع‌تر و دوام بیشتر بی‌حسی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شروع سریع‌تر و دوام بیشتر بی‌حسی"
+            }
+          ]
+        },
+        {
+          "id": "998d0de1f5087abeb52fbe919da885908b8253a4d5001414e06fc740a0cf1a7c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "شروع اثر و دوام بی‌حسی کاملاً یکسان با لیدوکائین در هر دو فک بالا و پایین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شروع اثر و دوام بی‌حسی کاملاً یکسان با لیدوکائین در هر دو فک بالا و پایین"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "51a88856830171a059fc7cec93d57a648ec032434fb3a2076d4f1be33ee7dcd4"
+        ],
+        "explanation": "این دارو یک معاوضه است: صبر بیشتر در ابتدا، آرامش بیشتر در ادامه.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این دارو یک "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "معاوضه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است: صبر بیشتر در ابتدا، آرامش بیشتر در ادامه."
+          }
+        ],
+        "observedAt": "2026-11-16T09:57:10.496Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:460dfe3d3ee625057f9937a4cb16130f2ed7daf391f1197cc2be1a8cb0d08b48",
+      "at": "2026-11-16T09:56:39.094Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:2ce79f6abd49b40a14aeb5ee826f1f111ba8f74823325e606a7b2fd7f962dc78",
+      "at": "2026-11-16T09:56:40.701Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:11159",
+      "at": "2026-11-16T09:56:42.293Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:11161",
+      "at": "2026-11-16T09:56:49.376Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:11165",
+      "at": "2026-11-16T09:56:56.568Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:11168",
+      "at": "2026-11-16T09:57:01.689Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:11170",
+      "at": "2026-11-16T09:57:06.903Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:11168",
+      "at": "2026-11-16T09:57:12.097Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

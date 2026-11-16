@@ -1,0 +1,1968 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/867/lesson.json",
+  "id": "867",
+  "title": "درس چهارم: طول کار و نقطه‌ی مرجع",
+  "specialtyKey": "67add4f767c7e6ed",
+  "chapter": {
+    "id": "188",
+    "title": "حفره‌ی دسترسی و تعیین طول کار",
+    "position": 11
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:1182ee1eb1424adb3550f0e6fc1e1df4afcb04dacd65deacd8e8c8e039fb2a1f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "5de1b59358f38b803d209070c2c08ba3304febe7023597eec10ae80d9c1d08c4",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همه چیز از نقطه‌ی مرجع شروع می‌شود"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ارزیابی اولیه‌ی طول کار یعنی تعیین "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقیق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فاصله‌ی یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نقطه‌ی مرجع"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تا راس رادیوگرافیک. همین فاصله است که مشخص می‌کند کانال تا کجا آماده و پر شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پس اگر نقطه‌ی مرجع پایدار نباشد، همه‌ی اعداد بعدی بی‌معنا می‌شوند. کاسپی که در حین کار می‌شکند یا لبه‌ی ترمیمی که تغییر می‌کند، هیچ‌کدام نقطه‌ی مرجع قابل اتکایی نیستند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نقطه‌ی مرجع باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در طول درمان و میان جلسات ثابت بماند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و در پرونده ثبت شود تا در جلسه‌ی بعد دقیقاً همان نقطه به کار برود. اگر ساختار مرجع در میانه‌ی کار تغییر کرد، طول کار باید از نو تعیین شود."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 860 380",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "28"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "طول کار: یک فاصله میان دو نقطه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#8FA3B8",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "x": "470",
+                        "y": "46",
+                        "width": "344",
+                        "height": "240"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M580,74 L704,74 Q714,74 712,84 L702,140 L582,140 L572,84 Q570,74 580,74 Z",
+                        "fill": "#C9A227",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M586,140 L698,140 L682,244 Q676,262 642,262 Q608,262 602,244 Z",
+                        "fill": "#C9A227",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M624,96 L660,96 L652,240 Q650,250 642,250 Q634,250 632,240 Z",
+                        "fill": "#B5679C",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.2"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.2",
+                        "cx": "642",
+                        "cy": "80",
+                        "r": "5"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "x": "756",
+                        "y": "84"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نقطه‌ی مرجع"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.2",
+                        "cx": "642",
+                        "cy": "258",
+                        "r": "5"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "x": "756",
+                        "y": "262"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "راس رادیوگرافیک"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "2",
+                        "x1": "530",
+                        "y1": "80",
+                        "x2": "530",
+                        "y2": "258"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "2",
+                        "x1": "522",
+                        "y1": "80",
+                        "x2": "538",
+                        "y2": "80"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "2",
+                        "x1": "522",
+                        "y1": "258",
+                        "x2": "538",
+                        "y2": "258"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "504",
+                        "y": "174"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "طول کار"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8",
+                        "x": "46",
+                        "y": "46",
+                        "width": "394",
+                        "height": "76"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "243",
+                        "y": "70"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مرجع باید ثابت بماند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "243",
+                        "y": "94"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در طول درمان و میان جلسات"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "243",
+                        "y": "114"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "و در پرونده ثبت شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#C0504D",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8",
+                        "x": "46",
+                        "y": "134",
+                        "width": "394",
+                        "height": "76"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "243",
+                        "y": "158"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مرجع نامناسب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "243",
+                        "y": "182"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کاسپ نازکی که ممکن است بشکند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "243",
+                        "y": "202"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "یا لبه‌ی ترمیم موقت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#E08A3C",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8",
+                        "x": "46",
+                        "y": "222",
+                        "width": "394",
+                        "height": "64"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "243",
+                        "y": "246"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اگر مرجع تغییر کرد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "243",
+                        "y": "270"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "طول کار باید از نو تعیین شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "1",
+                        "x1": "46",
+                        "y1": "306",
+                        "x2": "814",
+                        "y2": "306"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "334"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اگر مبدأ پایدار نباشد، همه‌ی اعداد بعدی بی‌معنا می‌شوند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "362"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کاسپ ضعیف را پیش از تعیین طول کار کوتاه کن، نه پس از آن"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طول کار به‌عنوان فاصله‌ی نقطه‌ی مرجع تا راس رادیوگرافیک، و شرایط یک مبدأ پایدار. — Torabinejad Endodontics 6th ed, Ch.3 و Ch.13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:2830d33fa3c2876284e2beb5f514cdacf0e9ecd6c149bbac5e27fc2d1f27aa30",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "4ebb9b248f96302374d683e14809ce95024d0ea0619d04a08ecb670a8ba5ad3d",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اپکس‌لوکیتور در کنار رادیوگرافی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اپکس‌لوکیتور الکترونیکی موقعیت فورامن و تنگه را تعیین می‌کند، و نشان داده شده که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقیق‌تر از رادیوگرافی دوبعدی استاندارد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در تعیین طول کار است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اما نکته‌ی کلیدی این است: وقتی اپکس‌لوکیتور "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همراه با"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " رادیوگرافی به کار رود، خطر بلندتر یا کوتاه‌تر شدن آماده‌سازی کاهش می‌یابد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یعنی این دو رقیب هم نیستند؛ دو شاهد مستقل‌اند که هرکدام چیز متفاوتی می‌سنجند — یکی ویژگی الکتریکی مرز بافتی و دیگری تصویر ساختار. تصمیم درست، از کنار هم گذاشتن این دو می‌آید."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 860 380",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "28"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دو شاهد مستقل، نه دو رقیب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8",
+                        "x": "440",
+                        "y": "46",
+                        "width": "374",
+                        "height": "164"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "627",
+                        "y": "70"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اپکس‌لوکیتور"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "1",
+                        "x1": "460",
+                        "y1": "82",
+                        "x2": "794",
+                        "y2": "82"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "627",
+                        "y": "108"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ویژگی الکتریکی مرز بافتی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "627",
+                        "y": "134"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "موقعیت فورامن و تنگه را می‌سنجد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "627",
+                        "y": "158"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "همان دو ساختاری که روی فیلم دیده نمی‌شوند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#3F9E6B",
+                        "x": "627",
+                        "y": "186"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دقیق‌تر از رادیوگرافی دوبعدی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.8",
+                        "x": "46",
+                        "y": "46",
+                        "width": "374",
+                        "height": "164"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "233",
+                        "y": "70"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رادیوگرافی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "1",
+                        "x1": "66",
+                        "y1": "82",
+                        "x2": "400",
+                        "y2": "82"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "233",
+                        "y": "108"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تصویر ساختار"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "233",
+                        "y": "134"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مسیر و انحنای فایل را نشان می‌دهد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "233",
+                        "y": "158"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "و رابطه‌ی آن با ساختارهای مجاور"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#4A7FB5",
+                        "x": "233",
+                        "y": "186"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "چیزی که دستگاه نمی‌بیند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "1",
+                        "x1": "46",
+                        "y1": "232",
+                        "x2": "814",
+                        "y2": "232"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#7B5EA7",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.9",
+                        "x": "150",
+                        "y": "248",
+                        "width": "560",
+                        "height": "52"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "270"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ترکیب این دو، خطر بلندتر یا کوتاه‌تر شدن آماده‌سازی را کم می‌کند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "290"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "چون هرکدام کمیت متفاوتی را می‌سنجند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "328"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اختلاف کوچک میان دو عدد قابل انتظار است"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "430",
+                        "y": "356"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "چون فورامن اغلب روی سطح جانبی ریشه باز می‌شود، نه در نوک آن"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اپکس‌لوکیتور و رادیوگرافی: دو کمیت متفاوت که ترکیبشان خطای طول را کم می‌کند. — Torabinejad 6th ed, Ch.7؛ Ingle's Endodontics 7, Ch.20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:11812",
+      "sourceId": "11812",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "7abbc9672a963fb60590af94920cccb9cf9ff7841e69af35ac8cd25f09db3b6e",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ارزیابی اولیه‌ی طول کار یعنی تعیین دقیق چه چیزی؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ارزیابی اولیه‌ی طول کار یعنی تعیین دقیق چه چیزی؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاصله‌ی نقطه‌ی مرجع تا راس رادیوگرافیک"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قطر کانال ریشه در ثلث آپیکال دندان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضخامت دیواره‌ی عاجی کانال ریشه‌ی دندان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاصله‌ی کاسپ تا سقف اتاقک پالپ دندان"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "11540896e14123caeaa5b2079c8651f9418b1e5c2c7c9efa299d5d7d6c87a332",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "فاصله‌ی نقطه‌ی مرجع تا راس رادیوگرافیک",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فاصله‌ی نقطه‌ی مرجع تا راس رادیوگرافیک"
+            }
+          ]
+        },
+        {
+          "id": "121065e32c922fbb4e012c17cf20ffa389b4d48915c9df6eb989784f51fedd2c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "قطر کانال ریشه در ثلث آپیکال دندان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "قطر کانال ریشه در ثلث آپیکال دندان"
+            }
+          ]
+        },
+        {
+          "id": "b98b8ce20942be5c8eafe285359acfe6969f8fbabd96bc5b7b261c5a972f3ab7",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ضخامت دیواره‌ی عاجی کانال ریشه‌ی دندان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ضخامت دیواره‌ی عاجی کانال ریشه‌ی دندان"
+            }
+          ]
+        },
+        {
+          "id": "32bd87e4d47227fc6eea5e529139acddb2bec530d27ca82b5dfc900c585665a7",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فاصله‌ی کاسپ تا سقف اتاقک پالپ دندان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فاصله‌ی کاسپ تا سقف اتاقک پالپ دندان"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "11540896e14123caeaa5b2079c8651f9418b1e5c2c7c9efa299d5d7d6c87a332"
+        ],
+        "explanation": "بله. همین فاصله مشخص می‌کند کانال تا کجا آماده و پر شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بله. همین فاصله مشخص می‌کند کانال تا کجا آماده و پر شود."
+          }
+        ],
+        "observedAt": "2026-11-16T10:15:50.973Z"
+      }
+    },
+    {
+      "id": "question:11817",
+      "sourceId": "11817",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "f89a8b901675b9e1fb5cf0bd16d4679ffd6ad3f7191852691587bd80e1349084",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در میانه‌ی آماده‌سازی، کاسپی که مرجع طول کار بود می‌شکند. اقدام درست چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در میانه‌ی آماده‌سازی، کاسپی که مرجع طول کار بود می‌شکند. اقدام درست چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعیین دوباره‌ی طول کار با یک نقطه‌ی مرجع تازه و ثبت آن در پرونده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ادامه دادن کار با همان عدد قبلی طول کار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کم کردن یک میلی‌متر از عدد قبلی به‌صورت تخمینی، به اندازه‌ی ارتفاع کاسپ شکسته"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارجاع فوری بیمار به متخصص، چون طول کار در این وضعیت دیگر قابل تعیین نیست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a1a21d651d509a25065001017d1743d73617be13b6f54f41b5049f6dfeedf219",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تعیین دوباره‌ی طول کار با یک نقطه‌ی مرجع تازه و ثبت آن در پرونده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تعیین دوباره‌ی طول کار با یک نقطه‌ی مرجع تازه و ثبت آن در پرونده"
+            }
+          ]
+        },
+        {
+          "id": "ea2b9aa854c525ba9efd5d99327f52f447f7d8eb36491cc1570d0e2db7ff2963",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ادامه دادن کار با همان عدد قبلی طول کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ادامه دادن کار با همان عدد قبلی طول کار"
+            }
+          ]
+        },
+        {
+          "id": "8e51ebd02b2088c3013e2a6626f39aebb8d32b25f1e0542041789c62190fb249",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کم کردن یک میلی‌متر از عدد قبلی به‌صورت تخمینی، به اندازه‌ی ارتفاع کاسپ شکسته",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کم کردن یک میلی‌متر از عدد قبلی به‌صورت تخمینی، به اندازه‌ی ارتفاع کاسپ شکسته"
+            }
+          ]
+        },
+        {
+          "id": "065a58d4f08d794f2715523c6f90b105eb11bb00c225180190718687c0afaf57",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ارجاع فوری بیمار به متخصص، چون طول کار در این وضعیت دیگر قابل تعیین نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ارجاع فوری بیمار به متخصص، چون طول کار در این وضعیت دیگر قابل تعیین نیست"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a1a21d651d509a25065001017d1743d73617be13b6f54f41b5049f6dfeedf219"
+        ],
+        "explanation": "با تغییر مبدأ، عدد قبلی دیگر معتبر نیست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "با تغییر مبدأ، عدد قبلی دیگر معتبر نیست."
+          }
+        ],
+        "observedAt": "2026-11-16T10:16:15.671Z"
+      }
+    },
+    {
+      "id": "question:11819",
+      "sourceId": "11819",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "98b6cbd59ffc6705c8e25159f039d83292471e0192d4433995a9b8b48ff00e8b",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "وقتی اپکس‌لوکیتور همراه با رادیوگرافی به کار رود، چه سودی حاصل می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "وقتی اپکس‌لوکیتور همراه با رادیوگرافی به کار رود، چه سودی حاصل می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیاز به بی‌حسی موضعی از میان می‌رود، چون دستگاه جریان بسیار ضعیفی دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان کلی درمان به نصف کاهش می‌یابد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر بلندتر یا کوتاه‌تر شدن آماده‌سازی کاهش می‌یابد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار کانال‌های دندان به‌طور قطعی و کامل مشخص می‌شود برای درمانگر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a35c366010054e19c2e6b2146340c95e7a0d67b8d4f7737a729c3ffd144578c8",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نیاز به بی‌حسی موضعی از میان می‌رود، چون دستگاه جریان بسیار ضعیفی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیاز به بی‌حسی موضعی از میان می‌رود، چون دستگاه جریان بسیار ضعیفی دارد"
+            }
+          ]
+        },
+        {
+          "id": "ac7ba150d004bc18b5f4f1bb72a724f4e3e910e80fd0747518a8f20a4de6e22a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "زمان کلی درمان به نصف کاهش می‌یابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان کلی درمان به نصف کاهش می‌یابد"
+            }
+          ]
+        },
+        {
+          "id": "890bfae9ba6a86478dcb853e9f3f6a4ff8d7c3b3078cdc7361b1608e8c69e8a7",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "خطر بلندتر یا کوتاه‌تر شدن آماده‌سازی کاهش می‌یابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطر بلندتر یا کوتاه‌تر شدن آماده‌سازی کاهش می‌یابد"
+            }
+          ]
+        },
+        {
+          "id": "70e8724043aa18d9375f8e6c39baaddc3a92edb95f6cbdef4cfef4dad652b956",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "شمار کانال‌های دندان به‌طور قطعی و کامل مشخص می‌شود برای درمانگر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شمار کانال‌های دندان به‌طور قطعی و کامل مشخص می‌شود برای درمانگر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "890bfae9ba6a86478dcb853e9f3f6a4ff8d7c3b3078cdc7361b1608e8c69e8a7"
+        ],
+        "explanation": "دو شاهد مستقل، عدم قطعیت را از دو جهت کم می‌کنند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دو شاهد مستقل، عدم قطعیت را از دو جهت کم می‌کنند."
+          }
+        ],
+        "observedAt": "2026-11-16T10:16:01.583Z"
+      }
+    },
+    {
+      "id": "question:11823",
+      "sourceId": "11823",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "554ebcd1605be775354cea9218ba4b8453a47cdf0cbcb31109a9e88bc7d3186b",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اپکس‌لوکیتور و رادیوگرافی در یک دندان اعداد کمی متفاوت می‌دهند. رویکرد درست چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اپکس‌لوکیتور و رادیوگرافی در یک دندان اعداد کمی متفاوت می‌دهند. رویکرد درست چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همیشه انتخاب کردن عدد رادیوگرافی، چون تصویرش در پرونده بایگانی می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنار هم گذاشتن هر دو شاهد و تصمیم بر پایه‌ی مجموعشان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همیشه انتخاب کردن عدد بزرگ‌تر از میان این دو تا کانال کامل پاک‌سازی شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنار گذاشتن هر دو و تخمین از روی جدول‌های مرجع"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3233b7007ab2f22e8841c74243a5a17b26243eb848f0dcb7ccc80222eed36598",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "همیشه انتخاب کردن عدد رادیوگرافی، چون تصویرش در پرونده بایگانی می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همیشه انتخاب کردن عدد رادیوگرافی، چون تصویرش در پرونده بایگانی می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "6febb7117649b48b64572fedcdfd24dbf039a8debaefde3eec17e11dba17588a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کنار هم گذاشتن هر دو شاهد و تصمیم بر پایه‌ی مجموعشان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کنار هم گذاشتن هر دو شاهد و تصمیم بر پایه‌ی مجموعشان"
+            }
+          ]
+        },
+        {
+          "id": "4b1f56300f08cd0a842f02d701a90189f91d05d410e90d1fc4f15e5fd273eb4f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "همیشه انتخاب کردن عدد بزرگ‌تر از میان این دو تا کانال کامل پاک‌سازی شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همیشه انتخاب کردن عدد بزرگ‌تر از میان این دو تا کانال کامل پاک‌سازی شود"
+            }
+          ]
+        },
+        {
+          "id": "bf007c3b2d92e656737b1f8bfd616db67232bb77a163197448796c103125d13d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کنار گذاشتن هر دو و تخمین از روی جدول‌های مرجع",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کنار گذاشتن هر دو و تخمین از روی جدول‌های مرجع"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6febb7117649b48b64572fedcdfd24dbf039a8debaefde3eec17e11dba17588a"
+        ],
+        "explanation": "اختلاف کوچک قابل انتظار است، چون دو ابزار دو کمیت متفاوت را می‌سنجند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "اختلاف کوچک قابل انتظار است، چون دو ابزار دو کمیت متفاوت را می‌سنجند."
+          }
+        ],
+        "observedAt": "2026-11-16T10:16:06.947Z"
+      }
+    },
+    {
+      "id": "question:11826",
+      "sourceId": "11826",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "b8dc46868419d30d9798dd9c14060c3faa6a5919f69561e052183a4cc56e56ad",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه‌ی گزاره‌ها درباره‌ی طول کار کاملاً درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه‌ی گزاره‌ها درباره‌ی طول کار کاملاً درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اپکس‌لوکیتور نوک کاسپ مرجع را می‌سنجد، تخمین طول کافی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طول کار قطر کانال است، یک ابزار به‌تنهایی همیشه کافی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طول کار پس از پرکردن کانال تعیین می‌شود، مرجع اهمیتی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طول کار فاصله‌ی مرجع تا راس است، مرجع باید ثابت باشد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d7d0f355c4b248528a783c9e3fb0dd7d1e5674110cad8ce23fb719311b4c1eba",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اپکس‌لوکیتور نوک کاسپ مرجع را می‌سنجد، تخمین طول کافی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اپکس‌لوکیتور نوک کاسپ مرجع را می‌سنجد، تخمین طول کافی است"
+            }
+          ]
+        },
+        {
+          "id": "7546370d6fed3e67e2feb366fc30f527c8aaef759e88d62dc70b9d5b4397ab09",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "طول کار قطر کانال است، یک ابزار به‌تنهایی همیشه کافی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "طول کار قطر کانال است، یک ابزار به‌تنهایی همیشه کافی است"
+            }
+          ]
+        },
+        {
+          "id": "23c8e08c2e775b0dac2c87584b1f60b385e1c9378fc232fdfd4b983786caedcd",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "طول کار پس از پرکردن کانال تعیین می‌شود، مرجع اهمیتی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "طول کار پس از پرکردن کانال تعیین می‌شود، مرجع اهمیتی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "63023307829ca06a5ab5eaeefd98301a3235a26c0e86faf8e20ef8ed4068e975",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "طول کار فاصله‌ی مرجع تا راس است، مرجع باید ثابت باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "طول کار فاصله‌ی مرجع تا راس است، مرجع باید ثابت باشد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "63023307829ca06a5ab5eaeefd98301a3235a26c0e86faf8e20ef8ed4068e975"
+        ],
+        "explanation": "همین است. سه ستون این درس: تعریف، مبدأ پایدار و ترکیب دو شاهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. سه ستون این درس: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "تعریف"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مبدأ پایدار"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " و "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ترکیب دو شاهد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-16T10:16:12.207Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:1182ee1eb1424adb3550f0e6fc1e1df4afcb04dacd65deacd8e8c8e039fb2a1f",
+      "at": "2026-11-16T10:15:42.293Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:2830d33fa3c2876284e2beb5f514cdacf0e9ecd6c149bbac5e27fc2d1f27aa30",
+      "at": "2026-11-16T10:15:43.746Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:11812",
+      "at": "2026-11-16T10:15:45.328Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:11817",
+      "at": "2026-11-16T10:15:52.590Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:11819",
+      "at": "2026-11-16T10:15:57.925Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:11823",
+      "at": "2026-11-16T10:16:03.171Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:11826",
+      "at": "2026-11-16T10:16:08.541Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:11817",
+      "at": "2026-11-16T10:16:13.786Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
