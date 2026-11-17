@@ -1,0 +1,1238 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "question:17487",
+      "position": 3,
+      "kind": "question",
+      "sourceQuestionId": "17487",
+      "sourceStepId": null,
+      "sourceProgress": "width: 28.5714%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: دیویژن C و دیویژن D",
+      "prompt": "شرط CHS در دیویژن C چه تفاوتی با دیویژن A و B دارد؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شرط CHS در دیویژن C چه تفاوتی با دیویژن A و B دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در هر سه دیویژن یکسان است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در A و B کمتر از ۱۵ میلی‌متر بود؛ در C وارونه می‌شود: بیش از ۱۵"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در C شرط سخت‌گیرانه‌تر می‌شود و CHS باید کمتر از ۱۰ میلی‌متر بماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در C دیگر CHS معیار نیست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "در هر سه دیویژن یکسان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در هر سه دیویژن یکسان است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "در A و B کمتر از ۱۵ میلی‌متر بود؛ در C وارونه می‌شود: بیش از ۱۵",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در A و B کمتر از ۱۵ میلی‌متر بود؛ در C وارونه می‌شود: بیش از ۱۵"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "در C شرط سخت‌گیرانه‌تر می‌شود و CHS باید کمتر از ۱۰ میلی‌متر بماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در C شرط سخت‌گیرانه‌تر می‌شود و CHS باید کمتر از ۱۰ میلی‌متر بماند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "در C دیگر CHS معیار نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در C دیگر CHS معیار نیست"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "1"
+        ],
+        "correctOptionHashes": [
+          "512a3881558b931306d829ff6f4deb8ded42ba1d868eaf27517d8fd1db8e7b93"
+        ],
+        "correctOptionTexts": [
+          "در A و B کمتر از ۱۵ میلی‌متر بود؛ در C وارونه می‌شود: بیش از ۱۵"
+        ],
+        "explanation": "کاملاً درست؛ و این یک مرز صرفاً عددی نیست: عبور از ۱۵ میلی‌متر یعنی ورود به قلمرویی که بیومکانیک دیگر بخشنده نیست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کاملاً درست؛ و این یک مرز صرفاً عددی نیست: عبور از ۱۵ میلی‌متر یعنی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ورود به قلمرویی که بیومکانیک دیگر بخشنده نیست"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "در هر سه دیویژن یکسان است",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "در A و B کمتر از ۱۵ میلی‌متر بود؛ در C وارونه می‌شود: بیش از ۱۵",
+            "isCorrect": true
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "در C شرط سخت‌گیرانه‌تر می‌شود و CHS باید کمتر از ۱۰ میلی‌متر بماند",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "در C دیگر CHS معیار نیست",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T10:33:11.438Z"
+      }
+    },
+    {
+      "id": "question:17490",
+      "position": 4,
+      "kind": "question",
+      "sourceQuestionId": "17490",
+      "sourceStepId": null,
+      "sourceProgress": "width: 42.8571%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: دیویژن C و دیویژن D",
+      "prompt": "منحنی تحلیل استخوان در گذر زمان چه شکلی دارد؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "منحنی تحلیل استخوان در گذر زمان چه شکلی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افت سریع از A به B، سپس فلاتی طولانی از B تا D"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افت خطی و یکنواخت از A تا D با سرعتی تقریباً ثابت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فلات اولیه در سال‌های نخست و سپس افت سریع در انتها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نوسانی، با دوره‌های بازسازی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "افت سریع از A به B، سپس فلاتی طولانی از B تا D",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افت سریع از A به B، سپس فلاتی طولانی از B تا D"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "افت خطی و یکنواخت از A تا D با سرعتی تقریباً ثابت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افت خطی و یکنواخت از A تا D با سرعتی تقریباً ثابت"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "فلات اولیه در سال‌های نخست و سپس افت سریع در انتها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فلات اولیه در سال‌های نخست و سپس افت سریع در انتها"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "نوسانی، با دوره‌های بازسازی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نوسانی، با دوره‌های بازسازی"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "0"
+        ],
+        "correctOptionHashes": [
+          "3c0f0386b011259195ed51217607cf440fe5f735f9141b0d0c3d1b230047c42c"
+        ],
+        "correctOptionTexts": [
+          "افت سریع از A به B، سپس فلاتی طولانی از B تا D"
+        ],
+        "explanation": "نتیجه‌ی عملی‌اش: باید از تحلیل استخوان بلافاصله پس از کشیدن دندان پیشگیری کرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نتیجه‌ی عملی‌اش: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "باید از تحلیل استخوان بلافاصله پس از کشیدن دندان پیشگیری کرد."
+              }
+            ]
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "افت سریع از A به B، سپس فلاتی طولانی از B تا D",
+            "isCorrect": true
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "افت خطی و یکنواخت از A تا D با سرعتی تقریباً ثابت",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "فلات اولیه در سال‌های نخست و سپس افت سریع در انتها",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "نوسانی، با دوره‌های بازسازی",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T10:33:17.185Z"
+      }
+    },
+    {
+      "id": "question:17493",
+      "position": 5,
+      "kind": "question",
+      "sourceQuestionId": "17493",
+      "sourceStepId": null,
+      "sourceProgress": "width: 57.1429%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: دیویژن C و دیویژن D",
+      "prompt": "چرا بیماران دیویژن D اغلب نقص حسی‌ـ‌عصبی لب پایین گزارش می‌کنند، به‌ویژه هنگام جویدن؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا بیماران دیویژن D اغلب نقص حسی‌ـ‌عصبی لب پایین گزارش می‌کنند، به‌ویژه هنگام جویدن؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون خون‌رسانی لب کاهش می‌یابد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون عضله‌ی مِنتالیس اتصالش را از دست می‌دهد و هنگام جویدن روی عصب فشار می‌آورد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون پروتز بیش از حد سنگین است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون فورامن منتال و بخش‌هایی از کانال دهیسنت می‌شوند و عصب بی‌محافظ می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "چون خون‌رسانی لب کاهش می‌یابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون خون‌رسانی لب کاهش می‌یابد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "چون عضله‌ی مِنتالیس اتصالش را از دست می‌دهد و هنگام جویدن روی عصب فشار می‌آورد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون عضله‌ی مِنتالیس اتصالش را از دست می‌دهد و هنگام جویدن روی عصب فشار می‌آورد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "چون پروتز بیش از حد سنگین است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون پروتز بیش از حد سنگین است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "چون فورامن منتال و بخش‌هایی از کانال دهیسنت می‌شوند و عصب بی‌محافظ می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون فورامن منتال و بخش‌هایی از کانال دهیسنت می‌شوند و عصب بی‌محافظ می‌ماند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "3"
+        ],
+        "correctOptionHashes": [
+          "be9c5d27bf2c8abd1890ea5d6fe429292ae077baf919035e5f142f5f4e1f36ed"
+        ],
+        "correctOptionTexts": [
+          "چون فورامن منتال و بخش‌هایی از کانال دهیسنت می‌شوند و عصب بی‌محافظ می‌ماند"
+        ],
+        "explanation": "قید «به‌ویژه هنگام جویدن» یک جزئیات تشخیصی است: فشار پروتز حین عملکرد، عصب بی‌محافظ را تحریک می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "قید "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "«به‌ویژه هنگام جویدن»"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " یک جزئیات تشخیصی است: فشار پروتز حین عملکرد، عصب بی‌محافظ را تحریک می‌کند."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "چون خون‌رسانی لب کاهش می‌یابد",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "چون عضله‌ی مِنتالیس اتصالش را از دست می‌دهد و هنگام جویدن روی عصب فشار می‌آورد",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "چون پروتز بیش از حد سنگین است",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "چون فورامن منتال و بخش‌هایی از کانال دهیسنت می‌شوند و عصب بی‌محافظ می‌ماند",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-17T10:33:23.045Z"
+      }
+    },
+    {
+      "id": "question:17497",
+      "position": 6,
+      "kind": "question",
+      "sourceQuestionId": "17497",
+      "sourceStepId": null,
+      "sourceProgress": "width: 71.4286%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: دیویژن C و دیویژن D",
+      "prompt": "توصیه‌ی درست پروتز متحرک در دیویژن D چیست و چه شرطی دارد؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "توصیه‌ی درست پروتز متحرک در دیویژن D چیست و چه شرطی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دنچر کامل متعارف بدون ایمپلنت، با ریلاین‌های دوره‌ای برای جبران تحلیل ریج"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اوردنچر بافت‌نرم‌پشتیبان بدون ایمپلنت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پروتز ثابت FP-1 با ایمپلنت‌های بلند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اوردنچر RP-4 روی ایمپلنت قدامی و خلفی، که تقریباً همیشه گرافت می‌خواهد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "دنچر کامل متعارف بدون ایمپلنت، با ریلاین‌های دوره‌ای برای جبران تحلیل ریج",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دنچر کامل متعارف بدون ایمپلنت، با ریلاین‌های دوره‌ای برای جبران تحلیل ریج"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "اوردنچر بافت‌نرم‌پشتیبان بدون ایمپلنت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اوردنچر بافت‌نرم‌پشتیبان بدون ایمپلنت"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "پروتز ثابت FP-1 با ایمپلنت‌های بلند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پروتز ثابت FP-1 با ایمپلنت‌های بلند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "اوردنچر RP-4 روی ایمپلنت قدامی و خلفی، که تقریباً همیشه گرافت می‌خواهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اوردنچر RP-4 روی ایمپلنت قدامی و خلفی، که تقریباً همیشه گرافت می‌خواهد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "3"
+        ],
+        "correctOptionHashes": [
+          "0f2bcefc74068073fc0f8075d4ce154a591bc1726c5f5f1243c4d575800e852d"
+        ],
+        "correctOptionTexts": [
+          "اوردنچر RP-4 روی ایمپلنت قدامی و خلفی، که تقریباً همیشه گرافت می‌خواهد"
+        ],
+        "explanation": "هدف از آن، کاهش عوارض بافت نرم و عصبی است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هدف از آن، کاهش عوارض بافت نرم و عصبی است."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "دنچر کامل متعارف بدون ایمپلنت، با ریلاین‌های دوره‌ای برای جبران تحلیل ریج",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "اوردنچر بافت‌نرم‌پشتیبان بدون ایمپلنت",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "پروتز ثابت FP-1 با ایمپلنت‌های بلند",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "اوردنچر RP-4 روی ایمپلنت قدامی و خلفی، که تقریباً همیشه گرافت می‌خواهد",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-17T10:33:28.923Z"
+      }
+    },
+    {
+      "id": "question:17499",
+      "position": 7,
+      "kind": "question",
+      "sourceQuestionId": "17499",
+      "sourceStepId": null,
+      "sourceProgress": "width: 85.7143%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: دیویژن C و دیویژن D",
+      "prompt": "چه قاعده‌ی صریحی درباره‌ی اندیکاسیون گرافت اتوژن وجود دارد؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چه قاعده‌ی صریحی درباره‌ی اندیکاسیون گرافت اتوژن وجود دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همیشه باید پیش از ساخت هر پروتز متحرکی انجام شود تا ریج پهن‌تر شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همیشه برای جایگذاری ایمپلنت، هرگز برای پشتیبانی دنچر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها در بیماران زیر ۵۰ سال اندیکاسیون دارد، چون ترمیم گرافت در سالمندان کند است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها برای بهبود زیبایی اندیکاسیون دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "همیشه باید پیش از ساخت هر پروتز متحرکی انجام شود تا ریج پهن‌تر شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همیشه باید پیش از ساخت هر پروتز متحرکی انجام شود تا ریج پهن‌تر شود"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "همیشه برای جایگذاری ایمپلنت، هرگز برای پشتیبانی دنچر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همیشه برای جایگذاری ایمپلنت، هرگز برای پشتیبانی دنچر"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "تنها در بیماران زیر ۵۰ سال اندیکاسیون دارد، چون ترمیم گرافت در سالمندان کند است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها در بیماران زیر ۵۰ سال اندیکاسیون دارد، چون ترمیم گرافت در سالمندان کند است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "تنها برای بهبود زیبایی اندیکاسیون دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها برای بهبود زیبایی اندیکاسیون دارد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "1"
+        ],
+        "correctOptionHashes": [
+          "953bc5648d75da46f11491ce2ca3a2f1c653ae7f292e59829a7f887eb3627160"
+        ],
+        "correctOptionTexts": [
+          "همیشه برای جایگذاری ایمپلنت، هرگز برای پشتیبانی دنچر"
+        ],
+        "explanation": "دلیلش عددی است: اگر پروتز بافت‌نرم‌بر روی گرافت اتوژن ساخته شود، ۹۰ درصد استخوان گرافت‌شده ظرف پنج سال تحلیل می‌رود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دلیلش عددی است: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "اگر پروتز بافت‌نرم‌بر روی گرافت اتوژن ساخته شود، ۹۰ درصد استخوان گرافت‌شده ظرف پنج سال تحلیل می‌رود."
+              }
+            ]
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "همیشه باید پیش از ساخت هر پروتز متحرکی انجام شود تا ریج پهن‌تر شود",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "همیشه برای جایگذاری ایمپلنت، هرگز برای پشتیبانی دنچر",
+            "isCorrect": true
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "تنها در بیماران زیر ۵۰ سال اندیکاسیون دارد، چون ترمیم گرافت در سالمندان کند است",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "تنها برای بهبود زیبایی اندیکاسیون دارد",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T10:33:34.907Z"
+      }
+    }
+  ]
+}

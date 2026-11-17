@@ -1,6 +1,7 @@
 import {readdir} from 'node:fs/promises';
 import path from 'node:path';
 import {chooseWithOllama} from '../src/ai.js';
+import {aiContextSize} from '../src/ai-context.js';
 import {isVerifiedAnswer,safeCode} from '../src/core.js';
 import {readJson} from '../src/storage.js';
 import {StudyMemory,contentText} from '../src/study-memory.js';
@@ -21,6 +22,7 @@ try {
   const questions=lesson.steps.filter(s=>s.kind==='question');
   const step=questions.find(s=>!isVerifiedAnswer(s.answer))??questions.at(-1);
   if(!step)throw new Error('AI_CHECK_QUESTION_NOT_FOUND');
+  const contextSize=aiContextSize(Number(arg('--ai-context-size','8192')));
   const imageMaxEdge=Number(arg('--ai-image-max-edge','1280'));
   if(!Number.isSafeInteger(imageMaxEdge)||imageMaxEdge<256||imageMaxEdge>2048)throw new Error('INVALID_AI_IMAGE_MAX_EDGE');
   const frame={...step,questionId:step.sourceQuestionId} as unknown as Frame;
@@ -30,7 +32,7 @@ try {
   const primary=active.steps.filter(s=>s.kind==='theory').map(s=>contentText(s.content)).join('\n\n');
   const budget=Math.max(0,Math.min(1200,15500-primary.length-frame.prompt.length-frame.options.reduce((n,o)=>n+o.text.length,0)));
   diagnosticRoot=path.join(root,'ai-checks',`lesson-${id}`);
-  const key=await chooseWithOllama(frame,active,root,arg('--model','qwen3-vl:2b-instruct'),memory.context(frame,active,budget,2),undefined,diagnosticRoot,{imageMaxEdge});
+  const key=await chooseWithOllama(frame,active,root,arg('--model','qwen3-vl:2b-instruct'),memory.context(frame,active,budget,2),undefined,diagnosticRoot,{imageMaxEdge,contextSize});
   console.log(JSON.stringify({event:'AI_LESSON_CHECK_OK',lesson:id,question:frame.questionId,provisionalAnswer:key,verified:false,diagnosticRoot}));
   console.log('این تست فقط درخواست محلی Ollama را اجرا کرد؛ پاسخ تأییدشده نیست و هیچ پاسخ، قلب یا پیشرفتی در سایت تغییر نکرد.');
 }catch(error){console.error(JSON.stringify({event:'AI_LESSON_CHECK_FAILED',error:safeCode(error),diagnosticRoot}));process.exitCode=1;}

@@ -123,3 +123,25 @@ test('empty final answer never becomes a guessed choice after bounded retries',a
     assert.equal(calls,2);
   }finally{globalThis.fetch=original;await rm(root,{recursive:true,force:true});}
 });
+
+test('explicit context size reaches Ollama without dropping primary lesson text',async()=>{
+ const {aiContextSize}=await import('../src/ai-context.js');
+ assert.equal(aiContextSize(),8192);assert.equal(aiContextSize(12288),12288);
+ for(const value of [0,4096,8193,65536,NaN,Infinity])assert.throws(()=>aiContextSize(value),/INVALID_AI_CONTEXT_SIZE/);
+ const root=await mkdtemp(path.join(tmpdir(),'dentigo-context-')),original=globalThis.fetch;
+ const frame={questionType:'single-choice',questionId:'context',prompt:'Q',content:[],options:[{key:'a',text:'A',content:[]},{key:'b',text:'B',content:[]}]} as unknown as Frame;
+ const source='متن کامل درس '.repeat(200),lesson={steps:[{kind:'theory',content:[{tag:'text',text:source}]}]} as unknown as Lesson;
+ try{
+  let calls=0;
+  globalThis.fetch=(async(_url,init)=>{
+   const body=JSON.parse(String(init?.body));assert.equal(body.options.num_ctx,calls++===0?12288:8192);
+   assert.equal(JSON.parse(body.messages[1].content).lesson,source);
+   assert.equal(body.options.num_predict,64);
+   return new Response(JSON.stringify({done:true,message:{content:'{"optionKey":"a"}'}}));
+  }) as typeof fetch;
+  assert.equal(await chooseWithOllama(frame,lesson,root,'qwen3-vl:2b-instruct','',undefined,root,{contextSize:12288}),'a');
+  assert.equal(await chooseWithOllama(frame,lesson,root,'qwen3-vl:2b-instruct'),'a');
+  await assert.rejects(chooseWithOllama(frame,lesson,root,'qwen3-vl:2b-instruct','',undefined,root,{contextSize:8193}),/INVALID_AI_CONTEXT_SIZE/);
+  assert.equal(calls,2);
+ }finally{globalThis.fetch=original;await rm(root,{recursive:true,force:true});}
+});
