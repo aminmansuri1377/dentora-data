@@ -1,0 +1,3367 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1604/lesson.json",
+  "id": "1604",
+  "title": "درس چهارم: آزمون‌های دستگاه، گیرنده و CBCT",
+  "specialtyKey": "578cf1df5257e51f",
+  "chapter": {
+    "id": "335",
+    "title": "تضمین کیفیت و کنترل عفونت",
+    "position": 27
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:4ca52004747173330b5bfec19df04b905906e52635821abc3c6434f7b5ed7ab2",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "5c23cba206a11efea40b8b87a4d6f6410840e6a371e19764b04dec2d2f422e04",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آزمون پذیرش و کالیبراسیون سالانه"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هنگام خرید دستگاه تازه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «باید توسط یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خبره‌ی واجد شرایط"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، طبق مقررات فدرال و ایالتی نصب شود. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش از کاربرد بالینی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، خبره‌ی واجد شرایط "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آزمون‌های پذیرش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را انجام می‌دهد.»"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-14-2.webp",
+                  "alt": "فانتوم سنجش کیفیت تصویر گیرنده‌های دیجیتال دندانی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/f39dab14a2f378f214a960110f4fe9e410a69f2eed00cce1ed3ee23db86fbf85.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فانتوم سنجش کیفیت تصویر گیرنده‌های دیجیتال دندانی "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 14.2)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و آزمون پذیرش چیست؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک گروه رسمی از آزمون‌ها که دستگاه را بازرسی و تأیید می‌کنند که طبق استانداردهای ویژه‌ی فروشنده و صنعت کار می‌کند.» و مرجعش: «جزئیات در گزارش شماره‌ی ۱۷۵ انجمن آمریکایی فیزیک‌دانان پزشکی توصیف شده‌اند و شامل همه‌ی عناصر آزمون‌های روزانه، ماهانه و سالانهاند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک مقایسه‌ی مهم میان انواع دستگاه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «دستگاه‌های داخل‌دهانی هنگام استفاده "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عموماً کاملاً پایدارند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و تنها به‌ندرت نقص دستگاه علت رادیوگرافی بد است. در برابر، دستگاه‌های پانورامیک، سفالومتریک و CBCT اجزای مکانیکی و الکتریکی متعددی افزون بر منبع پرتو دارند — از جمله بازوی C برای چرخاندن منبع و گیرنده و مجموعه‌ی نگه‌دارنده‌ی سر. نقص این اجزا می‌تواند به کیفیت پایین تصویر بینجامد.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کالیبراسیون سالانه — و کِی زودتر"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قاعده:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «دستگاه‌ها باید سالانه کالیبره شوند، یا زودتر، وقتی مشکل خاصی شناسایی شود یا تعمیر اساسی لازم باشد که ممکن است بر عملکرد اثر بگذارد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چه کسی؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خبره‌ی واجد شرایط"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — به‌طور معمول کارکنان خدمات فروشنده، فیزیک‌دانان پزشکی واجد شرایط، یا رادیولوژیست‌های دهان و فک و صورت واجد شرایط — باید این اندازه‌گیری‌های دوز پرتویی را انجام دهند، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌دلیل تجهیزات و دانش تخصصی لازم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هشت آزمون سالانه"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پایداری هد لوله"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «هد لوله باید هنگام قرار گرفتن گرد سر بیمار "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پایدار باشد و حین پرتوگیری رانش نکند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ". رانش باید "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰٫۵ سانتی‌متر یا کمتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " باشد.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پرتو نشتی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «یک آشکارساز پرتو با حساسیت بالا باید برای کشف نشتی از محفظه‌ی لوله به کار رود. "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هیچ پرتو نشتی نباید کشف شود."
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دقت kVp"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «kVp اندازه‌گیری‌شده باید "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دقیق و بازتولیدپذیر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " باشد. اندازه‌گیری‌ها باید در "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سراسر طیف کامل مقادیر kVp به‌کاررفته"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " انجام شوند. تغییرپذیری پیش‌بینی‌شده توسط سازنده مشخص می‌شود و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نباید بیش از ۱۰ درصد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " باشد.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کیفیت پرتو (HVL)"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «لایه‌ی نیم‌جذب باید اندازه‌گیری شود تا اطمینان یابیم پرتو الزامات مقرراتی را برآورده می‌کند. این کار با یک دوزیمتر و ورق‌های آلومینیومی با ضخامت مشخص انجام می‌شود.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بازتولیدپذیری پرتوگیری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دست‌کم سه اندازه‌گیری کرمای هوا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " انجام و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ضریب تغییرات"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — انحراف معیار تقسیم بر میانگین — محاسبه شود. "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ضریب تغییرات نباید از ۵ درصد فراتر رود."
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دقت تایمر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «برای دستگاه‌های داخل‌دهانی و سفالومتریک، دقت و بازتولیدپذیری تنظیمات تایمر باید تأیید شود. انحراف نباید از ۱۰ درصد برای تنظیمات تایمر بیش از ۱۰ میلی‌ثانیه فراتر رود.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خطی بودن mA"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «اگر دو یا چند تنظیم mA موجود باشد، خطی بودن کنترل mA باید تأیید شود.» و روشش: «کرمای هوا با تنظیم "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بایت‌وینگ بزرگسال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اندازه‌گیری می‌شود. سپس mA به مقدار پایین‌تر بعدی کاهش و زمان پرتوگیری افزایش می‌یابد تا همان mAs حاصل شود. اختلاف در کرمای هوای اندازه‌گیری‌شده به معنای ناخطی بودن کنترل mA یا نقص در تایمر است. این تغییر نباید از ۱۰ درصد فراتر رود.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اندازه‌ی نقطه‌ی کانونی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «اندازه‌ی نقطه‌ی کانونی ممکن است با انباشت گرمای بیش از حد درون دستگاه بزرگ شود. نقطه‌ی کانونی بزرگ‌شده به "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ناتیزی تصویر حاصل"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " کمک می‌کند.» و جایگاهش: «این بخشی از فرایند روتین تضمین کیفیت نیست و ممکن است برای "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عیب‌یابی ناتیزی هندسی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " لازم شود.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حداقل لایه‌ی نیم‌جذب — بر حسب میلی‌متر آلومینیوم"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کیلوولتاژ پیک"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "دستگاه داخل‌دهانی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پانورامیک و سفالومتریک"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۶۰"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۱٫۵"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۱٫۵"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۷۰"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۱٫۵"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۱٫۸"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۷۱"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۲٫۱"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۲٫۵"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۸۰"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۲٫۳"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۲٫۹"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۹۰"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۲٫۵"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۳٫۲"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو الگو در این جدول: هرچه kVp بالاتر، HVL لازم بیشتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ و دستگاه خارج‌دهانی از داخل‌دهانی سخت‌گیرانه‌تر است (جز در ۶۰ کیلوولت که برابرند). و جهش بزرگ میان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۷۰ و ۷۱ کیلوولت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را ببین — یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مرز مقرراتی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، نه یک تغییر فیزیکی تدریجی."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کولیماسیون و هم‌راستایی در هر مودالیته"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "داخل‌دهانی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «قطر میدان نباید بیش از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۲٫۷۵ اینچ (۷ سانتی‌متر)"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " باشد. و لبه‌ی PID یا سیلندر هدف‌گیری باید نزدیک با پرتو هم‌راستا باشد.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پانورامیک"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «پرتو "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در منبع و پیش از برخورد به گیرنده"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " کولیمه می‌شود. دو کولیماتور باید هم‌راستا باشند و پرتو باید با ناحیه‌ی پرتوگیرشده‌ی گیرنده منطبق باشد. پهنای پرتو باید درون دهانه‌ی کولیماتور بماند و نباید فراتر از ارتفاع گیرنده برود.» و یک ابزار عملی: «بیشتر سازندگان یک فانتوم رادیوگرافیک برای تأیید موقعیت لایه‌ی تصویر و تقارن چرخش پرتو فراهم می‌کنند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سفالومتریک"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «هم‌راستایی پرتو و مجموعه‌ی سفالوستات باید تأیید شود. موقعیت میله‌های گوشی را در صفحات عمودی و افقی تأیید کن، به‌گونه‌ای که پرتو بر هر دو میله‌ی نگه‌دارنده‌ی گوش و صفحه‌ی گیرنده عمود باشد. و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "یکپارچگی و پایداری اشاره‌گر نازیون"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را بررسی کن.» و یک کمک عملی: «بسیاری از سازندگان "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نشانگرهای فلزی روی میله‌های گوشی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌گذارند تا "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ناهم‌راستایی به‌آسانی کشف شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ".»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "CBCT"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «هم‌راستایی پرتو و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اندازه‌ی میدان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تأیید می‌شوند.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نکته‌ی مفهومی درباره‌ی پانورامیک:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «در دستگاه پانورامیک، سرعت‌های نسبی پرتو و حرکت گیرنده از کنار کولیماتور، موقعیت و شکل لایه‌ی تصویر (فوکال تراف) را تعیین می‌کنند.» — یعنی نقص در همین سرعت‌ها، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فوکال تراف را جابه‌جا می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:912952d16bf450dac8a3b13e79d54d680770129c01b21f9a4fb89da1a0076c36",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "fec7b3e8db9d9fcb878a02b78830b0af3256c0006ce5d01ef2f872c29613a4bc",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "گیرنده‌ی دیجیتال، نمایشگر، فیلم و CBCT"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آزمون پذیرش گیرنده — و یک عدد نگران‌کننده"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یافته‌ای که رویه را تعیین می‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " حدود ۲۴ درصد گیرنده‌های جامد داخل‌دهانی تازه اختلاف تصویری دارند، که ممکن است ناشی از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نقص ساخت یا آسیب حین حمل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشد."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-14-6.webp",
+                  "alt": "فانتوم SEDENTEXCT IQ برای کیفیت تصویر CBCT",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/ca266720935efa2be499c8bdf42a2d4557e05366cb7bf9b68afbec5f26ca258a.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فانتوم SEDENTEXCT IQ برای کیفیت تصویر CBCT "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 14.6)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پیامد عملی‌اش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «ارزیابی دقیق تصاویر فانتومی که برای تعیین تنظیمات بهینه‌ی پرتوگیری به کار می‌روند، به شناسایی این نقص‌ها پیش از پذیرش برای کاربرد بالینی کمک می‌کند.» — یعنی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک کار، دو سود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ": هم تنظیمات تعیین می‌شود و هم گیرنده‌ی معیوب لو می‌رود."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بازرسی ماهانه‌ی گیرنده‌ها"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "صفحه‌های PSP"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «ممکن است در جریان استفاده "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خط بیفتند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ". این خط‌ها ممکن است به‌صورت "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نوارهای روشن روی تصاویر پردازش‌شده"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دیده شوند و کیفیت تشخیصی را به خطر بیندازند و پاتولوژی یا اجسام خارجی را تقلید کنند.» و اقدام: «صفحه‌ها باید ماهانه بازرسی و هنگام یافتن چنین نقص‌هایی از خدمت خارج شوند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سنسورهای CCD و CMOS"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «باید ماهانه بازرسی شوند تا تأیید گردد محفظه‌ی پلاستیکی و اتصالات کابل به سنسور و USB سالم‌اند.» و یک هشدار ظریف: «هرچند سنسور ممکن است با وجود نشانه‌های آسیب به این اجزا کارکردی بماند، این می‌تواند نشانه‌ی یک شکست قریب‌الوقوع باشد.» و اقدام: «وقتی آسیب مرئی است، تصاویر ساخته‌شده با آن سنسور باید برای آرتیفکت احتمالی ارزیابی شوند. برخی از این آسیب‌ها، مثلاً اتصالات سیم، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قابل تعمیرند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ".»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کالیبراسیون نمایشگر — ماهانه"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرا لازم است؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «همان فایل دیجیتال ممکن است روی دو نمایشگر متفاوت ظاهر متفاوتی داشته باشد، با تأثیر بر کیفیت تشخیصی. کالیبراسیون نمایشگر می‌کوشد "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیوستگی در دیدن تصویر دیجیتال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فراهم کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و استانداردش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استانداردهای DICOM"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مشخص می‌کنند چگونه مقادیر خاکستری یک تصویر رادیوگرافیک به دامنه‌ی درخشندگی ادراک انسانی نگاشت می‌شوند. نمایشگرهای درجه‌ی پزشکی با استانداردهای DICOM سازگارند.» ولی واقعیت: «اغلب، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمایشگرهای درجه‌ی مصرفی سطح بالا —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " LCD یا LED — در کلینیک‌های دندانپزشکی و بیمارستان‌ها به کار می‌روند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و قاعده‌ی صریح:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «صرف‌نظر از نوع، نمایشگرهای به‌کاررفته برای تشخیص رادیولوژیک باید بر پایه‌ی ماهانه بررسی و کالیبره شوند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو الگوی آزمون:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «الگوی آزمون تصویربرداری تشخیصی پزشکی SMPTE — انجمن مهندسان تصویر متحرک و تلویزیون — یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصویر AAPM TG18-QC"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» و ویژگی‌هایشان: «به‌طور عمومی از راه اینترنت در دسترس‌اند و آموزش کمینه‌ای می‌خواهند» و «تنظیم می‌تواند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در چند دقیقه توسط دندانپزشک یا کارکنان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کامل شود»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و منطق تشخیصی دو ویژگی الگو —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " این را دقیق بفهم:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«هر دو الگو یک "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ویژگی کنتراست پایین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دارند — "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مربع خاکستری درون مربع سیاه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — که باید وقتی درخشندگی نمایشگر بهینه است دیده شود. اگر ویژگی‌های کنتراست پایین قابل درک نباشند، ممکن است لازم باشد درخشندگی نمایشگر تنظیم شود.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نمایشگری که بیش از حد روشن باشد، ویژگی‌های کنتراست بالا —"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " مربع خاکستری درون مربع سفید — را نشان نمی‌دهد.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و الزام ثبت:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «نتیجه‌ی کالیبراسیون ماهانه باید ثبت شود، شامل هر تنظیم اصلاحی.» و آزمون باید «در اتاقی با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نور محیطی کمینه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» انجام شود."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و آنچه در فیلم روزانه انجام می‌شود"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرا فیلم بار کاری بیشتری دارد؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «شرایط پردازش، شامل "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قدرت و دمای مواد شیمیایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، می‌توانند به‌سرعت نوسان کنند؛ بررسی‌های روزانه لازم‌اند. وظایف تضمین کیفیت برای تصویربرداری فیلمی پرتکرارتر و زمان‌برتر از گیرنده‌های دیجیتالاند.»"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دمای محلول"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «۶۸ درجه‌ی فارنهایت (۲۰ درجه‌ی سانتی‌گراد) برای پردازش دستی و ۸۲ درجه‌ی فارنهایت (۲۸ درجه‌ی سانتی‌گراد) برای پردازشگرهای خودکار گرم‌شونده.» و یک نکته‌ی چیدمان: «پردازشگرهای خودکار بدون گرم‌کن باید دور از پنجره یا بخاری قرار گیرند که ممکن است دمایشان را در طول روز تغییر دهند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شایع‌ترین علت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «شایع‌ترین علت رادیوگرافی فیلمی بد، پردازش بد در تاریک‌خانه است، به‌ویژه استفاده از محلول‌های تخلیه‌شده.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فیلم مرجع"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «مقایسه‌ی تصاویر روزانه با فیلم مرجع ممکن است مشکلات را پیش از اینکه با کیفیت تشخیصی تداخل کنند آشکار کند.» و تفسیرش: «اگر محلول‌ها تخلیه شده باشند، رادیوگرافی‌ها "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "روشن و با کنتراست کاهش‌یافته"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "اند. تصاویر روشن ممکن است از محلول سرد یا زمان ظهور ناکافی هم بیایند. تصاویر تیره ممکن است از زمان ظهور بیش از حد، ظاهرکننده‌ی بیش از حد گرم، یا نشت نور بیایند.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو نوع فیلم مرجع:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصویر بیمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — رادیوگرافی درست پرتوگیرشده و پردازش‌شده با تکنیک دقیق زمان-دما، که به‌محض تعویض محلول‌ها روی گوشه‌ی نگاتوسکوپ نصب می‌شود»؛ و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رادیوگرافی جسم آزمون استاندارد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقیق‌ترین و سخت‌گیرانه‌ترین روش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، ولی نیازمند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تجهیزات افزوده و زمان بیشتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "». و ابزارش: «یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گوه‌ی پله‌ای آلومینیومی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که دامنه‌ی پیوسته‌ای از سایه‌های خاکستری می‌دهد» — و می‌توان آن را «با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چند ورق سربی هم‌پوشان، پلکانی‌شده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» ساخت."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و CBCT — که استانداردهایش کمتر توسعه یافته‌اند"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک اعتراف صریح:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «هرچند پروتکل‌های تضمین کیفیت برای MDCT به‌خوبی تثبیت شده‌اند، پروتکل‌های تضمین کیفیت CBCT کمتر توسعه یافته‌اند.» و مراجع موجود: «نشریه‌ی ۱۲۹ ICRP، استانداردهای IAC برای اعتباربخشی CT دندانی، و گزارش ۱۷۲ کمیسیون اروپا (SEDENTEXCT).»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک قاعده‌ی حاکمیتی مهم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «پروتکل‌ها و تناوب آزمون "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بر حسب سازنده متفاوتند، و دستورالعمل سازنده باید به‌شدت دنبال شود —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از جمله وقتی توصیه‌های سازنده از راهنمایی آژانس‌های ملی و سازمان‌های حرفه‌ای فراتر می‌روند.»"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "روزانه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کالیبراسیون هوا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — که در آن اسکن CT "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بدون فانتوم یا سوژه در میدان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " انجام می‌شود و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آشکارساز در معرض پرتو تضعیف‌نشده"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " قرار می‌گیرد. داده‌های تضعیف برای نرمال کردن پاسخ آشکارساز در اسکن‌های بیمار به کار می‌روند.» و استانداردهای IAC «ارزیابی روزانه‌ی کیفیت تصویر شامل اندازه‌گیری عدد CT میانگین برای آب و مواد مرجع دیگر، یکنواختی و نویز تصویر، و ارزیابی آرتیفکت‌ها» را الزام می‌کنند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ماهانه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «ارزیابی دوره‌ای تفکیک فضایی برای اجسام کنتراست بالا و پایین و یکنواختی تصویر.» و SEDENTEXCT «اندازه‌گیری ماهانه‌ی مقادیر چگالی تصویر با تغییر پذیرفتنی ±۱۰ درصد از مقدار پایه‌ی اندازه‌گیری‌شده در آزمون‌های پذیرش» را توصیه می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سالانه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «نگهداری پیشگیرانه، به‌طور معمول سالانه» شامل «ارزیابی خروجی پرتو، کولیماسیون، اجزای الکتریکی و مکانیکی کنترل‌کننده‌ی گانتری و بازوی C، پاسخ آشکارساز، و کیفیت تصویر» و «آزمون‌های هم‌راستایی پرتوهای لیزری وضعیت‌دهی بیمار و دقت موقعیت برش». و SEDENTEXCT اندازه‌گیری سالانه‌ی «نویز تصویر، تفکیک محدودکننده، جزئیات کنتراست، و دقت هندسی» را توصیه می‌کند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو عدد از گزارش آزمون فانتوم که ارزش حفظ کردن دارند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «نباید هم‌پوشانی میان مقادیر خاکستری اندازه‌گیری‌شده در نواحی معادل استخوان و معادل آب فانتوم باشد.» و برای یکنواختی و نویز: «وقتی انحراف معیار پنج میانگین کمتر از ۶٫۴ باشد، تصویر یکنواخت تلقی می‌شود؛ و برای نویز تصویر، انحراف معیار مقدار خاکستری اندازه‌گیری‌شده در مرکز باید کمتر از ۶٫۴ باشد.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:28835",
+      "sourceId": "28835",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "a513c2a04c0c5fd2a1fb521e7fdb55bbf1eb0db70bfcce069134ad7f80a16cca",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "آزمون پذیرش چیست و کِی انجام می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آزمون پذیرش چیست و کِی انجام می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک گروه رسمی از آزمون‌ها که دستگاه را بازرسی و تأیید می‌کنند طبق استانداردهای ویژه‌ی فروشنده و صنعت کار می‌کند؛ و پیش از کاربرد بالینی توسط خبره‌ی واجد شرایطی که دستگاه را نصب کرده انجام می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک بازرسی غیررسمی که پس از شش ماه کاربرد بالینی توسط اپراتور مطب انجام می‌شود؛ و چون دستگاه در شرایط واقعی بالینی آزمون می‌شود، نتیجه‌اش واقع‌بینانه‌تر از آزمون پیش از کاربرد است و به تجهیزات تخصصی هم نیازی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آزمونی که تنها خروجی پرتو را با دوزیمتر می‌سنجد و به عملکرد مکانیکی، هم‌راستایی و کیفیت تصویر کاری ندارد؛ و به‌جای آغاز کار، هر پنج سال یک بار همراه با تمدید مجوز دستگاه در سازمان نظارتی تکرار می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آزمونی که تنها برای دستگاه‌های CBCT الزامی است و برای دستگاه‌های دوبعدی لازم نیست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b74fe8dd71f5d7d58e79f4925363fcdeae5329e45bed96d8837a53173cebe3e7",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "یک گروه رسمی از آزمون‌ها که دستگاه را بازرسی و تأیید می‌کنند طبق استانداردهای ویژه‌ی فروشنده و صنعت کار می‌کند؛ و پیش از کاربرد بالینی توسط خبره‌ی واجد شرایطی که دستگاه را نصب کرده انجام می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک گروه رسمی از آزمون‌ها که دستگاه را بازرسی و تأیید می‌کنند طبق استانداردهای ویژه‌ی فروشنده و صنعت کار می‌کند؛ و پیش از کاربرد بالینی توسط خبره‌ی واجد شرایطی که دستگاه را نصب کرده انجام می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "74c93862919097f067050f7c2d289574597389bc766acd8fdd853b042ea16d0a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "یک بازرسی غیررسمی که پس از شش ماه کاربرد بالینی توسط اپراتور مطب انجام می‌شود؛ و چون دستگاه در شرایط واقعی بالینی آزمون می‌شود، نتیجه‌اش واقع‌بینانه‌تر از آزمون پیش از کاربرد است و به تجهیزات تخصصی هم نیازی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک بازرسی غیررسمی که پس از شش ماه کاربرد بالینی توسط اپراتور مطب انجام می‌شود؛ و چون دستگاه در شرایط واقعی بالینی آزمون می‌شود، نتیجه‌اش واقع‌بینانه‌تر از آزمون پیش از کاربرد است و به تجهیزات تخصصی هم نیازی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "3395840d344ec0176e5ef9eef85d644100049e7f4c4a4dc41f01205d1abae08f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آزمونی که تنها خروجی پرتو را با دوزیمتر می‌سنجد و به عملکرد مکانیکی، هم‌راستایی و کیفیت تصویر کاری ندارد؛ و به‌جای آغاز کار، هر پنج سال یک بار همراه با تمدید مجوز دستگاه در سازمان نظارتی تکرار می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آزمونی که تنها خروجی پرتو را با دوزیمتر می‌سنجد و به عملکرد مکانیکی، هم‌راستایی و کیفیت تصویر کاری ندارد؛ و به‌جای آغاز کار، هر پنج سال یک بار همراه با تمدید مجوز دستگاه در سازمان نظارتی تکرار می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "fa859d69ccc6a766833e3846881c56f4c6b807c77be15f1180d4e94705b0cfaa",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "آزمونی که تنها برای دستگاه‌های CBCT الزامی است و برای دستگاه‌های دوبعدی لازم نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آزمونی که تنها برای دستگاه‌های CBCT الزامی است و برای دستگاه‌های دوبعدی لازم نیست"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "b74fe8dd71f5d7d58e79f4925363fcdeae5329e45bed96d8837a53173cebe3e7"
+        ],
+        "explanation": "مرجع تفصیلی‌اش گزارش شماره‌ی ۱۷۵ انجمن آمریکایی فیزیک‌دانان پزشکی است که «همه‌ی عناصر آزمون‌های روزانه، ماهانه و سالانه» را در بر می‌گیرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مرجع تفصیلی‌اش "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "گزارش شماره‌ی ۱۷۵ انجمن آمریکایی فیزیک‌دانان پزشکی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است که «"
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "همه‌ی عناصر آزمون‌های روزانه، ماهانه و سالانه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "» را در بر می‌گیرد."
+          }
+        ],
+        "observedAt": "2026-11-17T18:00:44.510Z"
+      }
+    },
+    {
+      "id": "question:28840",
+      "sourceId": "28840",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "5480b0b569971060d2095e473730d213434e73ca878eed0ad9a8e23a292886a2",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "آزمون اندازه‌ی نقطه‌ی کانونی چه جایگاهی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آزمون اندازه‌ی نقطه‌ی کانونی چه جایگاهی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این آزمون بخش الزامی روال روزانه است و باید پیش از نخستین بیمار انجام شود، چون نقطه‌ی کانونی با هر روشن و خاموش شدن دستگاه تغییر اندازه می‌دهد و تنها بررسی روزانه ناتیزی را پیش از تصویربرداری بیمار آشکار می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌ی نقطه‌ی کانونی ممکن است با انباشت گرمای بیش از حد بزرگ شود و به ناتیزی تصویر کمک کند؛ ولی این آزمون بخشی از فرایند روتین تضمین کیفیت نیست و ممکن است برای عیب‌یابی ناتیزی هندسی لازم شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌ی نقطه‌ی کانونی با گرما کوچک می‌شود و تیزی تصویر را بهتر می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این آزمون تنها برای دستگاه‌های CBCT کاربرد دارد و در داخل‌دهانی معنا ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9d55eadb8b559d2c74c5c697accf3e57ff9e7b824234f1ea1d7d47fb16a79026",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "این آزمون بخش الزامی روال روزانه است و باید پیش از نخستین بیمار انجام شود، چون نقطه‌ی کانونی با هر روشن و خاموش شدن دستگاه تغییر اندازه می‌دهد و تنها بررسی روزانه ناتیزی را پیش از تصویربرداری بیمار آشکار می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این آزمون بخش الزامی روال روزانه است و باید پیش از نخستین بیمار انجام شود، چون نقطه‌ی کانونی با هر روشن و خاموش شدن دستگاه تغییر اندازه می‌دهد و تنها بررسی روزانه ناتیزی را پیش از تصویربرداری بیمار آشکار می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "e4edc15ce0c80c0e904dc5fdfbfd7501edaeb4eed344e55b48bd8a32d68f0832",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اندازه‌ی نقطه‌ی کانونی ممکن است با انباشت گرمای بیش از حد بزرگ شود و به ناتیزی تصویر کمک کند؛ ولی این آزمون بخشی از فرایند روتین تضمین کیفیت نیست و ممکن است برای عیب‌یابی ناتیزی هندسی لازم شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندازه‌ی نقطه‌ی کانونی ممکن است با انباشت گرمای بیش از حد بزرگ شود و به ناتیزی تصویر کمک کند؛ ولی این آزمون بخشی از فرایند روتین تضمین کیفیت نیست و ممکن است برای عیب‌یابی ناتیزی هندسی لازم شود"
+            }
+          ]
+        },
+        {
+          "id": "268a523480ae132db7bc4ca05c2a57d1f857f43eba8628a029346ea5028632b1",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اندازه‌ی نقطه‌ی کانونی با گرما کوچک می‌شود و تیزی تصویر را بهتر می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندازه‌ی نقطه‌ی کانونی با گرما کوچک می‌شود و تیزی تصویر را بهتر می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "644ee84662ddce8e9f63a28806a167c6abe5b6ba065f89701afd66633ac944d5",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "این آزمون تنها برای دستگاه‌های CBCT کاربرد دارد و در داخل‌دهانی معنا ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این آزمون تنها برای دستگاه‌های CBCT کاربرد دارد و در داخل‌دهانی معنا ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e4edc15ce0c80c0e904dc5fdfbfd7501edaeb4eed344e55b48bd8a32d68f0832"
+        ],
+        "explanation": "این یک آزمون عیب‌یابی است نه پایش؛ وقتی ناتیزی هندسی دیدی و علت دیگری نیافتی، سراغش می‌روی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این یک آزمون "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "عیب‌یابی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است نه "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پایش"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ وقتی ناتیزی هندسی دیدی و علت دیگری نیافتی، سراغش می‌روی."
+          }
+        ],
+        "observedAt": "2026-11-17T18:00:52.017Z"
+      }
+    },
+    {
+      "id": "question:28841",
+      "sourceId": "28841",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "173d3837abd85c68e1ac09e323422f8dd7c2a5d9a2acfb4aaf246e9642ac4d40",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه‌ی حداقل لایه‌ی نیم‌جذب بر حسب میلی‌متر آلومینیوم درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه‌ی حداقل لایه‌ی نیم‌جذب بر حسب میلی‌متر آلومینیوم درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در ۶۰ کیلوولت هر دو ۱٫۵، در ۷۰ داخل‌دهانی ۱٫۵ و خارج‌دهانی ۱٫۸، در ۷۱ داخل‌دهانی ۲٫۱ و خارج‌دهانی ۲٫۵، در ۸۰ داخل‌دهانی ۲٫۳ و خارج‌دهانی ۲٫۹، و در ۹۰ داخل‌دهانی ۲٫۵ و خارج‌دهانی ۳٫۲"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در همه‌ی کیلوولتاژها، از ۶۰ تا ۹۰، هر دو گروه دستگاه ۱٫۵ میلی‌متر آلومینیوم است و با kVp تغییر نمی‌کند، چون فیلتراسیون ذاتی لوله با بالا رفتن ولتاژ خودش بیشتر می‌شود و افزودن فیلتر لازم نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در ۶۰ کیلوولت داخل‌دهانی ۳٫۲ و خارج‌دهانی ۲٫۵، در ۷۰ هر دو ۲٫۳، در ۸۰ داخل‌دهانی ۱٫۸ و خارج‌دهانی ۲٫۱، و در ۹۰ هر دو ۱٫۵؛ چون پرتو پرانرژی‌تر خودش نفوذ بیشتری دارد و به فیلتر کمتری نیاز دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دستگاه داخل‌دهانی همیشه HVL بالاتری از خارج‌دهانی می‌خواهد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ee322592e480dc42950ca81166daa8fc71a7d7acf78885c32920543b978af9eb",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "در ۶۰ کیلوولت هر دو ۱٫۵، در ۷۰ داخل‌دهانی ۱٫۵ و خارج‌دهانی ۱٫۸، در ۷۱ داخل‌دهانی ۲٫۱ و خارج‌دهانی ۲٫۵، در ۸۰ داخل‌دهانی ۲٫۳ و خارج‌دهانی ۲٫۹، و در ۹۰ داخل‌دهانی ۲٫۵ و خارج‌دهانی ۳٫۲",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در ۶۰ کیلوولت هر دو ۱٫۵، در ۷۰ داخل‌دهانی ۱٫۵ و خارج‌دهانی ۱٫۸، در ۷۱ داخل‌دهانی ۲٫۱ و خارج‌دهانی ۲٫۵، در ۸۰ داخل‌دهانی ۲٫۳ و خارج‌دهانی ۲٫۹، و در ۹۰ داخل‌دهانی ۲٫۵ و خارج‌دهانی ۳٫۲"
+            }
+          ]
+        },
+        {
+          "id": "1a0505e13daef804456ffc48fc6dcd62cf720804dc492b302ba5b5525606376f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "در همه‌ی کیلوولتاژها، از ۶۰ تا ۹۰، هر دو گروه دستگاه ۱٫۵ میلی‌متر آلومینیوم است و با kVp تغییر نمی‌کند، چون فیلتراسیون ذاتی لوله با بالا رفتن ولتاژ خودش بیشتر می‌شود و افزودن فیلتر لازم نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در همه‌ی کیلوولتاژها، از ۶۰ تا ۹۰، هر دو گروه دستگاه ۱٫۵ میلی‌متر آلومینیوم است و با kVp تغییر نمی‌کند، چون فیلتراسیون ذاتی لوله با بالا رفتن ولتاژ خودش بیشتر می‌شود و افزودن فیلتر لازم نیست"
+            }
+          ]
+        },
+        {
+          "id": "6449636873852d50d1bf3f2b1c3a0aca0b24b142f10d97cdf563b312a3a5e3d6",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "در ۶۰ کیلوولت داخل‌دهانی ۳٫۲ و خارج‌دهانی ۲٫۵، در ۷۰ هر دو ۲٫۳، در ۸۰ داخل‌دهانی ۱٫۸ و خارج‌دهانی ۲٫۱، و در ۹۰ هر دو ۱٫۵؛ چون پرتو پرانرژی‌تر خودش نفوذ بیشتری دارد و به فیلتر کمتری نیاز دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در ۶۰ کیلوولت داخل‌دهانی ۳٫۲ و خارج‌دهانی ۲٫۵، در ۷۰ هر دو ۲٫۳، در ۸۰ داخل‌دهانی ۱٫۸ و خارج‌دهانی ۲٫۱، و در ۹۰ هر دو ۱٫۵؛ چون پرتو پرانرژی‌تر خودش نفوذ بیشتری دارد و به فیلتر کمتری نیاز دارد"
+            }
+          ]
+        },
+        {
+          "id": "bd3b0e398191eb1e1f69b4cd562c459811b49adb18b60c7a0ed71ad1e66492a8",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دستگاه داخل‌دهانی همیشه HVL بالاتری از خارج‌دهانی می‌خواهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دستگاه داخل‌دهانی همیشه HVL بالاتری از خارج‌دهانی می‌خواهد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ee322592e480dc42950ca81166daa8fc71a7d7acf78885c32920543b978af9eb"
+        ],
+        "explanation": "دو الگو را به خاطر بسپار: هرچه kVp بالاتر، HVL لازم بیشتر؛ و خارج‌دهانی سخت‌گیرانه‌تر از داخل‌دهانی (جز در ۶۰ که برابرند). و جهش میان ۷۰ و ۷۱ یک مرز مقرراتی است، نه تغییر فیزیکی تدریجی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دو الگو را به خاطر بسپار: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هرچه kVp بالاتر، HVL لازم بیشتر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ و "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "خارج‌دهانی سخت‌گیرانه‌تر از داخل‌دهانی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " (جز در ۶۰ که برابرند). و "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "جهش میان ۷۰ و ۷۱"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " یک مرز مقرراتی است، نه تغییر فیزیکی تدریجی."
+          }
+        ],
+        "observedAt": "2026-11-17T18:01:19.455Z"
+      }
+    },
+    {
+      "id": "question:28846",
+      "sourceId": "28846",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "347d2a0248c1a702ee2f3247f71a5d247ea52f9dd41b4570ec01169164c18f2b",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کالیبراسیون نمایشگر چگونه انجام می‌شود و دو ویژگی الگوی آزمون چه چیزی را نشان می‌دهند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کالیبراسیون نمایشگر چگونه انجام می‌شود و دو ویژگی الگوی آزمون چه چیزی را نشان می‌دهند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با الگوی SMPTE، ماهانه و در نور معمول اتاق؛ ویژگی کنتراست پایین یعنی خاکستری درون سیاه وقتی نمایشگر بیش از حد روشن است دیده نمی‌شود، و ویژگی کنتراست بالا یعنی خاکستری درون سفید وقتی نمایشگر بیش از حد تاریک است؛ پس هر دو را با کاهش یا افزایش درخشندگی اصلاح کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با الگوی SMPTE در اتاقی با نور روشن و به‌صورت سالانه؛ و هر دو ویژگی تنها میزان وضوح تصویر را می‌سنجند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با الگوی SMPTE یا AAPM TG18-QC، ماهانه و در اتاقی با نور محیطی کم؛ مربع خاکستری درون سیاه (کنتراست پایین) باید در درخشندگی بهینه دیده شود و اگر دیده نشود درخشندگی تنظیم می‌شود؛ و نمایشگر بیش از حد روشن، مربع خاکستری درون سفید (کنتراست بالا) را نشان نمی‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کالیبراسیون نمایشگر تنها با نرم‌افزار اختصاصی سازنده ممکن است و الگوهای عمومی کاربردی ندارند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "67d5780b13aeaa9868ad9d40f7aff9cdb0af6ce2b8444ab69763fe76d3edf3d4",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "با الگوی SMPTE، ماهانه و در نور معمول اتاق؛ ویژگی کنتراست پایین یعنی خاکستری درون سیاه وقتی نمایشگر بیش از حد روشن است دیده نمی‌شود، و ویژگی کنتراست بالا یعنی خاکستری درون سفید وقتی نمایشگر بیش از حد تاریک است؛ پس هر دو را با کاهش یا افزایش درخشندگی اصلاح کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "با الگوی SMPTE، ماهانه و در نور معمول اتاق؛ ویژگی کنتراست پایین یعنی خاکستری درون سیاه وقتی نمایشگر بیش از حد روشن است دیده نمی‌شود، و ویژگی کنتراست بالا یعنی خاکستری درون سفید وقتی نمایشگر بیش از حد تاریک است؛ پس هر دو را با کاهش یا افزایش درخشندگی اصلاح کن"
+            }
+          ]
+        },
+        {
+          "id": "9beae08b85d0be6eb6da887dc3e9ac5510a60bf5ee589cd65eee7fd6ca35aacd",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "با الگوی SMPTE در اتاقی با نور روشن و به‌صورت سالانه؛ و هر دو ویژگی تنها میزان وضوح تصویر را می‌سنجند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "با الگوی SMPTE در اتاقی با نور روشن و به‌صورت سالانه؛ و هر دو ویژگی تنها میزان وضوح تصویر را می‌سنجند"
+            }
+          ]
+        },
+        {
+          "id": "cfdfbf89d8c8e8a83c0b4753677389806aaaec117991f95654d0809f055630ce",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "با الگوی SMPTE یا AAPM TG18-QC، ماهانه و در اتاقی با نور محیطی کم؛ مربع خاکستری درون سیاه (کنتراست پایین) باید در درخشندگی بهینه دیده شود و اگر دیده نشود درخشندگی تنظیم می‌شود؛ و نمایشگر بیش از حد روشن، مربع خاکستری درون سفید (کنتراست بالا) را نشان نمی‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "با الگوی SMPTE یا AAPM TG18-QC، ماهانه و در اتاقی با نور محیطی کم؛ مربع خاکستری درون سیاه (کنتراست پایین) باید در درخشندگی بهینه دیده شود و اگر دیده نشود درخشندگی تنظیم می‌شود؛ و نمایشگر بیش از حد روشن، مربع خاکستری درون سفید (کنتراست بالا) را نشان نمی‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "f072a0e993a4e6fd228a37d0ac76669691d3acb23c4ad4cfa8ecfd5cfcd50acb",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کالیبراسیون نمایشگر تنها با نرم‌افزار اختصاصی سازنده ممکن است و الگوهای عمومی کاربردی ندارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کالیبراسیون نمایشگر تنها با نرم‌افزار اختصاصی سازنده ممکن است و الگوهای عمومی کاربردی ندارند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "cfdfbf89d8c8e8a83c0b4753677389806aaaec117991f95654d0809f055630ce"
+        ],
+        "explanation": "دو ویژگی، دو انتهای طیف: کنتراست پایین کم‌نوری را لو می‌دهد و کنتراست بالا پرنوری را. و این الگوها «به‌طور عمومی از راه اینترنت در دسترس‌اند و آموزش کمینه‌ای می‌خواهند».",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دو ویژگی، دو انتهای طیف"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ": کنتراست پایین "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کم‌نوری"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " را لو می‌دهد و کنتراست بالا "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پرنوری"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " را. و این الگوها «"
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "به‌طور عمومی از راه اینترنت در دسترس‌اند و آموزش کمینه‌ای می‌خواهند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "»."
+          }
+        ],
+        "observedAt": "2026-11-17T18:01:08.074Z"
+      }
+    },
+    {
+      "id": "question:28849",
+      "sourceId": "28849",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "2af8ea9ba482e41c24c919ce8d1f42e5783487e24e804c5a7320f2e7b9c8b702",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "روال تضمین کیفیت CBCT در سه تناوب چیست و چه قاعده‌ی حاکمیتی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "روال تضمین کیفیت CBCT در سه تناوب چیست و چه قاعده‌ی حاکمیتی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "CBCT هیچ روال تضمین کیفیتی ندارد چون پروتکل‌هایش هنوز تدوین نشده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روزانه نگهداری پیشگیرانه‌ی گانتری و بازوی C، ماهانه کالیبراسیون هوا با فانتوم آب، و سالانه ارزیابی یکنواختی و نویز تصویر؛ و راهنمای آژانس‌های ملی همیشه بر دستورالعمل سازنده مقدم است، چون سازنده ذی‌نفع است و ممکن است آزمون‌ها را سبک‌تر یا بیش از حد لازم تعیین کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روزانه کالیبراسیون هوا، یعنی اسکن بدون فانتوم یا سوژه تا پاسخ آشکارساز نرمال شود؛ ماهانه تفکیک فضایی و یکنواختی و چگالی با تغییر پذیرفتنی ±۱۰ درصد از پایه؛ سالانه نگهداری پیشگیرانه؛ و دستورالعمل سازنده، حتی اگر از راهنمای ملی فراتر رود، به‌دقت دنبال می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی آزمون‌ها سالانه انجام می‌شوند و هیچ آزمون روزانه یا ماهانه‌ای وجود ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "782610f9841fa585af13df13f2daf02c6f2a3d92c46f69db62ce72bb362a5b6f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "CBCT هیچ روال تضمین کیفیتی ندارد چون پروتکل‌هایش هنوز تدوین نشده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "CBCT هیچ روال تضمین کیفیتی ندارد چون پروتکل‌هایش هنوز تدوین نشده‌اند"
+            }
+          ]
+        },
+        {
+          "id": "e46da4020c113e43b3e0e72785a67731824e4e679dfdc353f2561ffeb6455669",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "روزانه نگهداری پیشگیرانه‌ی گانتری و بازوی C، ماهانه کالیبراسیون هوا با فانتوم آب، و سالانه ارزیابی یکنواختی و نویز تصویر؛ و راهنمای آژانس‌های ملی همیشه بر دستورالعمل سازنده مقدم است، چون سازنده ذی‌نفع است و ممکن است آزمون‌ها را سبک‌تر یا بیش از حد لازم تعیین کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "روزانه نگهداری پیشگیرانه‌ی گانتری و بازوی C، ماهانه کالیبراسیون هوا با فانتوم آب، و سالانه ارزیابی یکنواختی و نویز تصویر؛ و راهنمای آژانس‌های ملی همیشه بر دستورالعمل سازنده مقدم است، چون سازنده ذی‌نفع است و ممکن است آزمون‌ها را سبک‌تر یا بیش از حد لازم تعیین کند"
+            }
+          ]
+        },
+        {
+          "id": "6e3957b8ebf51d38c4b85311807f7e2d32a94373987449558591b7fc4077f3c3",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "روزانه کالیبراسیون هوا، یعنی اسکن بدون فانتوم یا سوژه تا پاسخ آشکارساز نرمال شود؛ ماهانه تفکیک فضایی و یکنواختی و چگالی با تغییر پذیرفتنی ±۱۰ درصد از پایه؛ سالانه نگهداری پیشگیرانه؛ و دستورالعمل سازنده، حتی اگر از راهنمای ملی فراتر رود، به‌دقت دنبال می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "روزانه کالیبراسیون هوا، یعنی اسکن بدون فانتوم یا سوژه تا پاسخ آشکارساز نرمال شود؛ ماهانه تفکیک فضایی و یکنواختی و چگالی با تغییر پذیرفتنی ±۱۰ درصد از پایه؛ سالانه نگهداری پیشگیرانه؛ و دستورالعمل سازنده، حتی اگر از راهنمای ملی فراتر رود، به‌دقت دنبال می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "2de32ca1ba93181a1b3e0bfe72f0cf3e6f7079e75dacc503658c67b7179f15d3",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همه‌ی آزمون‌ها سالانه انجام می‌شوند و هیچ آزمون روزانه یا ماهانه‌ای وجود ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی آزمون‌ها سالانه انجام می‌شوند و هیچ آزمون روزانه یا ماهانه‌ای وجود ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6e3957b8ebf51d38c4b85311807f7e2d32a94373987449558591b7fc4077f3c3"
+        ],
+        "explanation": "مراجعش نشریه‌ی ۱۲۹ ICRP، استانداردهای IAC، و SEDENTEXCTاند؛ و قاعده‌ی «سازنده مقدم است» ظریف‌ترین بخش این درس است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مراجعش "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "نشریه‌ی ۱۲۹ ICRP، استانداردهای IAC، و SEDENTEXCT"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "اند؛ و قاعده‌ی «"
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "سازنده مقدم است"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "» ظریف‌ترین بخش این درس است."
+          }
+        ],
+        "observedAt": "2026-11-17T18:01:16.046Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:4ca52004747173330b5bfec19df04b905906e52635821abc3c6434f7b5ed7ab2",
+      "at": "2026-11-17T17:59:57.334Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:912952d16bf450dac8a3b13e79d54d680770129c01b21f9a4fb89da1a0076c36",
+      "at": "2026-11-17T17:59:59.422Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:28835",
+      "at": "2026-11-17T18:00:01.077Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:28840",
+      "at": "2026-11-17T18:00:46.129Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:28841",
+      "at": "2026-11-17T18:00:53.621Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:28846",
+      "at": "2026-11-17T18:01:01.687Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:28849",
+      "at": "2026-11-17T18:01:09.675Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:28841",
+      "at": "2026-11-17T18:01:17.504Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

@@ -1,0 +1,2660 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1603/lesson.json",
+  "id": "1603",
+  "title": "درس سوم: تکرار، نمودار اکسپوز و سطوح مرجع",
+  "specialtyKey": "578cf1df5257e51f",
+  "chapter": {
+    "id": "335",
+    "title": "تضمین کیفیت و کنترل عفونت",
+    "position": 27
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:a61cb9d5e1821f6993450ed97701ff700db8795d1cbe820b851430670e3f5a87",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "0220ff1ec7a60556400be323817ec7c49e8ba759dce65f055b244c7946a0b57c",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دفتر تکرار و نمودار دیواری"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نخست هدف کل برنامه‌ی تضمین کیفیت:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک برنامه‌ی تضمین کیفیت در رادیولوژی مجموعه‌ای از روش‌هاست که برای اطمینان از عملکرد بهینه و پایدار هر جزء زنجیره‌ی تصویربرداری طراحی شده‌اند.» و نتیجه‌اش دوگانه است: «وقتی همه‌ی اجزا درست کار کنند، نتیجه رادیوگرافی‌های پیوسته باکیفیت و دوز پرتویی کاهش‌یافته برای بیماران و کارکنان مطب است.»"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-14-1.webp",
+                  "alt": "نمونه‌ی نمودار دیواری با اطلاعات شناسایی دستگاه",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/e30d3081cd0dcaff68417fe51abca161509823316856dea59dc5e28d61e17a03.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمونه‌ی نمودار دیواری با اطلاعات شناسایی دستگاه "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 14.1)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک الزام سازمانی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برای مدیریت مؤثر برنامه، مطب باید یک فرد را شناسایی کند که مسئولیت اصلی اجرای برنامه و هماهنگی اقدام اصلاحی را بپذیرد.» و خبر خوب: «بیشتر روش‌های تضمین کیفیت به‌سرعت انجام می‌شوند و می‌توانند تأثیر معناداری بر کیفیت رادیوگرافیک داشته باشند.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دفتر تکرار — ساده‌ترین ابزار، بزرگ‌ترین سود"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعریفش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک ابزار "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ساده و مؤثر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای کاهش شمار رادیوگرافی‌های معیوب، نگه داشتن یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دفتر تکرار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای ثبت خطاهایی است که نیازمند گرفتن دوباره‌ی رادیوگرافی‌اند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سه چیزی که باید ثبت شوند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «دفتر باید اپراتور، تجهیزات خاص به‌کاررفته، و توصیف یا نشانه‌ای از ماهیت خطایی که نیاز به اصلاح داشت را شناسایی کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا این سه؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «این فرایند به‌سرعت منبع مشکلات تکرارشونده را آشکار می‌کند و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حل زودهنگام را تسهیل می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک الزام گزارش‌نویسی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «خطاهایی که بر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کیفیت تشخیصی یا تفسیر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اثر می‌گذارند باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در گزارش رادیولوژی گنجانده شوند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و بازبینی هفتگی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «سابقه‌ی تکرار باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هفتگی بازبینی شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تا هر مشکل تکرارشونده شناسایی گردد — برای مثال با اپراتورهای خاص، پروجکشن‌های رادیوگرافیک خاص، گیرنده‌های معیوب، و شرایط پردازش فیلم.» و کاربردش: «این اطلاعات می‌تواند برای آغاز اقدامات اصلاحی، از جمله آموزش کارکنان، به کار رود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو هدف کلی این مجموعه‌روش‌ها:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «(۱) کمینه کردن خطاهای تکنیک رادیوگرافیک، شامل وضعیت‌دهی بیمار و تنظیمات پرتوگیری، و (۲) شناسایی خطاهای سیستماتیک مرتبط با نقص تجهیزات.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نمودار دیواری اکسپوز"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الزامش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مطب باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنظیمات پرتوگیری برای هر دستگاه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را تدوین کند. برای رادیوگرافی داخل‌دهانی، تنظیمات جداگانه باید برای هر ترکیب منبع-گیرنده‌ی به‌کاررفته تعیین شود. و تنظیمات جداگانه باید برای بیماران بزرگسال و کودک تعیین گردد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کجا نصب شود؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترجیحاً مجاور پنل کنترل دستگاه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که این پارامترها آنجا انتخاب می‌شوند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چه چیزهایی باید روی نمودار باشند؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «نمودار باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "منبع پرتو ایکس و گیرنده‌ی به‌کاررفته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را مشخص کند و کیلوولتاژ پیک (kVp)، میلی‌آمپر (mA)، و زمان‌های پرتوگیری مناسب برای هر ناحیه‌ی حفره‌ی دهان را نشان دهد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا این کار مهم است؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «این نمودارها کمک می‌کنند اطمینان یابیم که همه‌ی اپراتورها از همان دامنه‌ی بهینه‌ی عوامل پرتوگیری استفاده می‌کنند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و بازبینی ماهانه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «هر ماه، این نمودار باید بازرسی شود تا تأیید گردد "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اطلاعات خوانا و دقیق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نمونه‌ی نمودار چه ساختاری دارد؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اطلاعات شناسایی دستگاه و گیرنده (مثلاً منبع، فاصله‌ی منبع-جسم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۰ سانتی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، هولدر سنسور، کولیماسیون مستطیلی)، تنظیمات ثابت ("
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "kVp ۶۶، mA ۸"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ")، و سپس زمان پرتوگیری برای هر پروجکشن در چهار گروه: پری‌اپیکال بزرگسال، بایت‌وینگ بزرگسال، پری‌اپیکال بی‌دندان، و کودک."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک الگوی مهم در آن نمونه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " زمان‌ها از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قدامی به خلفی افزایش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌یابند (انسیزور ۰٫۱۶۰ ثانیه، کانین-پرمولر ۰٫۲۰۰، مولر ۰٫۳۰۰)؛ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بی‌دندان کمتر از دندان‌دار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است؛ و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کودک کمترین و یکنواخت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است. و یک قاعده‌ی مهم: «زمان‌های بهینه‌ی پرتوگیری باید در هر مطب به‌صورت تجربی تعیین شوند، چون با تنظیمات دستگاه، فاصله‌ی منبع تا پوست، و عوامل دیگر تغییر می‌کنند.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:e5c0931c27351f4d8271d9b4b464d1e9f0cc22868578b5f0e6eeced763077c54",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "662c16d079f07df8ac43e09610daa5bc6ab0d1f76447e729a6406f116ac079e8",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تعیین زمان بهینه، فانتوم، و سطوح مرجع"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اکنون تعریف طلایی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «زمان بهینه‌ی پرتوگیری، کمترین زمان پرتوگیری است که اطلاعات تشخیصی لازم را فراهم می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-14-5.webp",
+                  "alt": "مقایسه‌ی روزانه‌ی کلیشه‌ها با یک کلیشه‌ی مرجع",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/23f69a630999d135d3dc6fcf178fbb9f05cfd17c6b290ed485ea7c761c0c04f0.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقایسه‌ی روزانه‌ی کلیشه‌ها با یک کلیشه‌ی مرجع "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 14.5)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کِی باید دوباره تعیین شود؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تنظیمات بهینه باید هر بار که هر جزء سامانه‌ی تصویربرداری عوض شود دوباره تعیین گردند — برای مثال یک منبع پرتو ایکس تازه، تغییر از فیلم به دیجیتال، و استفاده از برند متفاوت گیرنده‌ی دیجیتال.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سه پارامتری که با فانتوم سنجیده می‌شوند"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روال کار:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برای تعیین عوامل بهینه، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصاویر جسم آزمون با چند تنظیم پرتوگیری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ساخته می‌شوند. برای رادیوگرافی داخل‌دهانی، انرژی پرتو "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۰ تا ۷۰ کیلوولت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به کار می‌رود. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بالاترین تنظیم mA"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " موجود انتخاب می‌شود و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چند پرتوگیری با زمان‌های متفاوت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " انجام می‌گیرد.» سپس پارامترها «به‌صورت دیداری روی تصاویر حاصل بررسی می‌شوند»."
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پارامتر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "چگونه سنجیده می‌شود"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "تفکیک فضایی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "با یک "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "گِیج جفت‌خط"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": "؛ بر حسب "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "جفت‌خط بر میلی‌متر"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "تفکیک کنتراست"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "با بررسی "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "دایره‌های رادیولوسنت ساخته‌شده از چاهک‌هایی با عمق یا پهنای متفاوت درون یک بلوک پلکسی‌گلاس"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "دامنه‌ی دینامیک"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "با یک "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "گوه‌ی پله‌ای سربی"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " که دامنه‌ای از رادیودنسیته‌ها را نشان می‌دهد"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و افزون بر این سه، "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یکنواختی تصویر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هم بررسی می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و فانتوم DDQA"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — فانتوم تضمین کیفیت دیجیتال دندانی — «ارزیابی تفکیک فضایی، دامنه‌ی دینامیک، و تفکیک کنتراست را روی یک تصویر واحد فراهم می‌کند». و ویژگی طراحی‌اش: «فانتوم طراحی شده تا فاصله‌های منبع-جسم و منبع-گیرنده‌ی بالینی مربوط را فراهم کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و استاندارد مرجعش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «استاندارد ملی آمریکا / انجمن دندانپزشکی آمریکا شماره‌ی ۱۰۹۴ راهنمایی برای تعیین عوامل بهینه‌ی پرتوگیری در رادیوگرافی داخل‌دهانی فراهم می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سطح مرجع تشخیصی و دوز دست‌یافتنی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو مفهوم که با هم دو گام پیاپی می‌سازند:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سطح مرجع تشخیصی (DRL)"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «سنجه‌ای از شرایط بهینه‌ی پرتوگیری که به‌عنوان یک معیار قابل دستیابی توسط مطب‌ها برای یک روش خاص عمل می‌کند.» و عددش: «به‌طور معمول ۷۵ درصد مراکز از دوزی در سطح DRL یا پایین‌تر استفاده می‌کنند، و این انگیزه‌ای برای مطب‌هایی که دوز بالاتر از DRL دارند فراهم می‌کند.» و جایگاهش: «"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "گام نخست به سوی تعیین تنظیمات بهینه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ".»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز دست‌یافتنی (AD)"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": «"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "گام دوم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را فراهم می‌کند و نماینده‌ی دوزی است که ۵۰ درصد مراکز استفاده می‌کنند، که انگیزه‌ی بیشتری برای "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کاهش دوز بدون به خطر انداختن کیفیت تصویر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌دهد.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "روش"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سطح مرجع تشخیصی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "دوز دست‌یافتنی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "رادیوگرافی داخل‌دهانی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۱٫۶ میلی‌گری"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۱٫۲ میلی‌گری"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "رادیوگرافی پانورامیک"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۱۰۰ میلی‌گری بر سانتی‌متر مربع"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۷۶ میلی‌گری بر سانتی‌متر مربع"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "رادیوگرافی سفالومتریک"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۰٫۱۴ میلی‌گری"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۰٫۰۹ میلی‌گری"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک خلأ که باید بدانی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «گزارش شماره‌ی ۱۷۲ شورای ملی حفاظت و اندازه‌گیری‌های پرتویی سطوح مرجع تشخیصی و دوزهای دست‌یافتنی را برای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داخل‌دهانی، پانورامیک و سفالومتریک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " توصیه می‌کند. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "DRL و AD برای CBCT هنوز تدوین نشده‌اند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و توجه کن که واحد پانورامیک متفاوت است: میلی‌گری بر سانتی‌متر مربع"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — یعنی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حاصل‌ضرب دوز در سطح"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، چون در پانورامیک پرتو باریکی روی یک قوس حرکت می‌کند و بیان دوز نقطه‌ای معنا ندارد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:28821",
+      "sourceId": "28821",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "6e77210ae76a0e22dd3ed300f8fd0dc9502d3cf36521e7d0248bd72f2b60bce8",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مدیریت مؤثر برنامه‌ی تضمین کیفیت چه الزام سازمانی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مدیریت مؤثر برنامه‌ی تضمین کیفیت چه الزام سازمانی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مطب باید یک فرد را شناسایی کند که مسئولیت اصلی اجرای برنامه و هماهنگی اقدام اصلاحی را هر جا لازم باشد بپذیرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی کارکنان باید مسئولیت برابر داشته باشند و هیچ فرد مشخصی تعیین نشود، تا برنامه به یک نفر وابسته نماند و با غیبتش متوقف نشود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسئولیت باید کامل به شرکت سازنده‌ی دستگاه واگذار شود، چون تنها سازنده تجهیزات سنجش دارد و مطب در این برنامه نقشی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برنامه نیازی به مسئول ندارد، چون همه‌ی روش‌های تضمین کیفیت در دستگاه‌های دیجیتال امروزی به‌طور خودکار انجام و ثبت می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "668eabed8c0be9f94171abb3129b36540c2fc6cdda34b4d3e7708bfdfc531b90",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مطب باید یک فرد را شناسایی کند که مسئولیت اصلی اجرای برنامه و هماهنگی اقدام اصلاحی را هر جا لازم باشد بپذیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مطب باید یک فرد را شناسایی کند که مسئولیت اصلی اجرای برنامه و هماهنگی اقدام اصلاحی را هر جا لازم باشد بپذیرد"
+            }
+          ]
+        },
+        {
+          "id": "71b4dc9f21b6a67f775ba06a31f5a4e7440ada8b2243d2651564365b4fb3164a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "همه‌ی کارکنان باید مسئولیت برابر داشته باشند و هیچ فرد مشخصی تعیین نشود، تا برنامه به یک نفر وابسته نماند و با غیبتش متوقف نشود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی کارکنان باید مسئولیت برابر داشته باشند و هیچ فرد مشخصی تعیین نشود، تا برنامه به یک نفر وابسته نماند و با غیبتش متوقف نشود"
+            }
+          ]
+        },
+        {
+          "id": "8bf890160fac4764ecba5932342cf32322e32909f5c0d9141edb0d107b3e3afb",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مسئولیت باید کامل به شرکت سازنده‌ی دستگاه واگذار شود، چون تنها سازنده تجهیزات سنجش دارد و مطب در این برنامه نقشی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مسئولیت باید کامل به شرکت سازنده‌ی دستگاه واگذار شود، چون تنها سازنده تجهیزات سنجش دارد و مطب در این برنامه نقشی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "7cb2a40bbc0d6ebaf791ac49b258e21001b2880a81681520b65096705925590e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "برنامه نیازی به مسئول ندارد، چون همه‌ی روش‌های تضمین کیفیت در دستگاه‌های دیجیتال امروزی به‌طور خودکار انجام و ثبت می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "برنامه نیازی به مسئول ندارد، چون همه‌ی روش‌های تضمین کیفیت در دستگاه‌های دیجیتال امروزی به‌طور خودکار انجام و ثبت می‌شوند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "668eabed8c0be9f94171abb3129b36540c2fc6cdda34b4d3e7708bfdfc531b90"
+        ],
+        "explanation": "خبر دلگرم‌کننده هم این است: «بیشتر روش‌های تضمین کیفیت به‌سرعت انجام می‌شوند و می‌توانند تأثیر معناداری بر کیفیت رادیوگرافیک داشته باشند».",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خبر دلگرم‌کننده هم این است: «"
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بیشتر روش‌های تضمین کیفیت به‌سرعت انجام می‌شوند و می‌توانند تأثیر معناداری بر کیفیت رادیوگرافیک داشته باشند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "»."
+          }
+        ],
+        "observedAt": "2026-11-17T17:59:20.774Z"
+      }
+    },
+    {
+      "id": "question:28824",
+      "sourceId": "28824",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "d248597ac7ea75c24868caf0fd280481c9f34a64b1ce222b3fdaa4c2d2102db5",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دفتر تکرار با چه تناوبی پر و بازبینی می‌شود و نتیجه‌اش چگونه به کار می‌رود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دفتر تکرار با چه تناوبی پر و بازبینی می‌شود و نتیجه‌اش چگونه به کار می‌رود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ورود هفتگی و بازبینی روزانه است، تا هر روز صبح خلاصه‌ی هفته‌ی گذشته پیش چشم باشد؛ و نتیجه تنها برای گزارش به مقامات نظارتی و تمدید مجوز به کار می‌رود، چون اقدام اصلاحی درون‌مطبی تنها با سرویس رسمی و مجاز سازنده ممکن است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ورود ماهانه و بازبینی سالانه است؛ و نتیجه تنها بایگانی می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یافته‌ها روزانه ثبت و هفتگی بازبینی می‌شوند تا مشکلات تکرارشونده‌ی اپراتورها، پروجکشن‌ها، گیرنده‌های معیوب و شرایط پردازش پیدا شوند؛ و این اطلاعات برای آغاز اقدام اصلاحی، از جمله آموزش کارکنان، به کار می‌رود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ورود تنها هنگام بروز مشکل بزرگ است و بازبینی دوره‌ای لازم نیست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "08df042e4b28e70ab2005ddeeca219c177da12b6ce5dfd9546d71429eb147801",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ورود هفتگی و بازبینی روزانه است، تا هر روز صبح خلاصه‌ی هفته‌ی گذشته پیش چشم باشد؛ و نتیجه تنها برای گزارش به مقامات نظارتی و تمدید مجوز به کار می‌رود، چون اقدام اصلاحی درون‌مطبی تنها با سرویس رسمی و مجاز سازنده ممکن است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ورود هفتگی و بازبینی روزانه است، تا هر روز صبح خلاصه‌ی هفته‌ی گذشته پیش چشم باشد؛ و نتیجه تنها برای گزارش به مقامات نظارتی و تمدید مجوز به کار می‌رود، چون اقدام اصلاحی درون‌مطبی تنها با سرویس رسمی و مجاز سازنده ممکن است"
+            }
+          ]
+        },
+        {
+          "id": "d91c156bab4d375c613d32d3bbfba7e73cc372ff52d4c5d06820c00a80934c9e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ورود ماهانه و بازبینی سالانه است؛ و نتیجه تنها بایگانی می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ورود ماهانه و بازبینی سالانه است؛ و نتیجه تنها بایگانی می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "c0711aa5a072d44e9da188e7c6e84b4132010a70de897a7e664294f9a04ce5aa",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "یافته‌ها روزانه ثبت و هفتگی بازبینی می‌شوند تا مشکلات تکرارشونده‌ی اپراتورها، پروجکشن‌ها، گیرنده‌های معیوب و شرایط پردازش پیدا شوند؛ و این اطلاعات برای آغاز اقدام اصلاحی، از جمله آموزش کارکنان، به کار می‌رود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یافته‌ها روزانه ثبت و هفتگی بازبینی می‌شوند تا مشکلات تکرارشونده‌ی اپراتورها، پروجکشن‌ها، گیرنده‌های معیوب و شرایط پردازش پیدا شوند؛ و این اطلاعات برای آغاز اقدام اصلاحی، از جمله آموزش کارکنان، به کار می‌رود"
+            }
+          ]
+        },
+        {
+          "id": "d4b733d72bd0e6634cd8a4fa3d35edaa56aff1ec050d89de1c784cca249d8797",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ورود تنها هنگام بروز مشکل بزرگ است و بازبینی دوره‌ای لازم نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ورود تنها هنگام بروز مشکل بزرگ است و بازبینی دوره‌ای لازم نیست"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c0711aa5a072d44e9da188e7c6e84b4132010a70de897a7e664294f9a04ce5aa"
+        ],
+        "explanation": "ثبت روزانه، بازبینی هفتگی؛ و چهار الگویی که می‌توان کشف کرد: اپراتور، پروجکشن، گیرنده، و پردازش.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ثبت روزانه، بازبینی هفتگی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ و چهار الگویی که می‌توان کشف کرد: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "اپراتور، پروجکشن، گیرنده، و پردازش"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-17T17:59:27.847Z"
+      }
+    },
+    {
+      "id": "question:28827",
+      "sourceId": "28827",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "63d606cadda301b132e010d014ad2c203bb9087b7166f9b29ddddea7091d0170",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "نمودار اکسپوز با چه تناوبی و برای چه چیزی بازرسی می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نمودار اکسپوز با چه تناوبی و برای چه چیزی بازرسی می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر روز، برای تأیید اینکه دستگاه کالیبره است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر ماه، برای تأیید اینکه اطلاعات خوانا و دقیق است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر سال، همراه با کالیبراسیون کامل دستگاه توسط خبره"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمودار پس از نصب دیگر بازرسی نمی‌شود چون اطلاعاتش ثابت است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5a8dcd4504cff2ed568f4b9a1f2f7224e012bf1610871a4fefdefc981217ee83",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر روز، برای تأیید اینکه دستگاه کالیبره است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر روز، برای تأیید اینکه دستگاه کالیبره است"
+            }
+          ]
+        },
+        {
+          "id": "3d278f757d3bdc434854d1ad9ea1f2518f0c1d69bf8136a2bab1d6b53e097bde",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هر ماه، برای تأیید اینکه اطلاعات خوانا و دقیق است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر ماه، برای تأیید اینکه اطلاعات خوانا و دقیق است"
+            }
+          ]
+        },
+        {
+          "id": "3518d9cde62b3b2cc6d7a6ac845029314faa65d83ef42024429d1aa7469d8aa0",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هر سال، همراه با کالیبراسیون کامل دستگاه توسط خبره",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر سال، همراه با کالیبراسیون کامل دستگاه توسط خبره"
+            }
+          ]
+        },
+        {
+          "id": "867ca3bd13ee715644d3470e98e52930f0a9b1031afee8ec2a03de8296981ae4",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نمودار پس از نصب دیگر بازرسی نمی‌شود چون اطلاعاتش ثابت است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نمودار پس از نصب دیگر بازرسی نمی‌شود چون اطلاعاتش ثابت است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3d278f757d3bdc434854d1ad9ea1f2518f0c1d69bf8136a2bab1d6b53e097bde"
+        ],
+        "explanation": "خوانایی نکته‌ی ظریفی است: نموداری که در معرض ضدعفونی‌کننده و دست خوردن است، محو می‌شود.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "خوانایی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " نکته‌ی ظریفی است: نموداری که در معرض ضدعفونی‌کننده و دست خوردن است، "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "محو می‌شود"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-17T17:59:33.835Z"
+      }
+    },
+    {
+      "id": "question:28830",
+      "sourceId": "28830",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "76603753b0a8ea7d2072e7859a0bb1d56ae54de550e69ce76c721e975d053413",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "سه پارامتر کیفیت تصویر چگونه با فانتوم سنجیده می‌شوند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سه پارامتر کیفیت تصویر چگونه با فانتوم سنجیده می‌شوند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر سه پارامتر تنها با یک گوه‌ی پله‌ای سنجیده می‌شوند و ابزار دیگری لازم نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تفکیک فضایی با گوه‌ی پله‌ای سربی بر حسب شمار پله‌های قابل تشخیص؛ تفکیک کنتراست با گِیج جفت‌خط بر حسب جفت‌خط بر میلی‌متر؛ و دامنه‌ی دینامیک با دایره‌های رادیولوسنت چاهک‌های بلوک پلکسی‌گلاس با عمق و پهنای متفاوت در یک ردیف"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تفکیک فضایی با یک گِیج جفت‌خط بر حسب جفت‌خط بر میلی‌متر؛ تفکیک کنتراست با بررسی دایره‌های رادیولوسنت ساخته‌شده از چاهک‌هایی با عمق یا پهنای متفاوت درون بلوک پلکسی‌گلاس؛ و دامنه‌ی دینامیک با یک گوه‌ی پله‌ای سربی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ‌یک با فانتوم سنجیده نمی‌شوند و همگی تنها به‌صورت ذهنی روی تصاویر بیماران ارزیابی می‌گردند، چون فانتوم فاصله‌ها و بافت‌های واقعی دهان را بازسازی نمی‌کند و نتیجه‌اش به کار بالینی تعمیم‌پذیر نیست و داوری نهایی با چشم رادیولوژیست است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "f67ebf580e8fba8ea90a3aec109d674c7fd7357f2487bac452b8ab57df5be7cd",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر سه پارامتر تنها با یک گوه‌ی پله‌ای سنجیده می‌شوند و ابزار دیگری لازم نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر سه پارامتر تنها با یک گوه‌ی پله‌ای سنجیده می‌شوند و ابزار دیگری لازم نیست"
+            }
+          ]
+        },
+        {
+          "id": "1cc7cfa0d8cd5f02cf40182b065cf2d07a83734cbf85fbdbc96577a19353b816",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تفکیک فضایی با گوه‌ی پله‌ای سربی بر حسب شمار پله‌های قابل تشخیص؛ تفکیک کنتراست با گِیج جفت‌خط بر حسب جفت‌خط بر میلی‌متر؛ و دامنه‌ی دینامیک با دایره‌های رادیولوسنت چاهک‌های بلوک پلکسی‌گلاس با عمق و پهنای متفاوت در یک ردیف",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تفکیک فضایی با گوه‌ی پله‌ای سربی بر حسب شمار پله‌های قابل تشخیص؛ تفکیک کنتراست با گِیج جفت‌خط بر حسب جفت‌خط بر میلی‌متر؛ و دامنه‌ی دینامیک با دایره‌های رادیولوسنت چاهک‌های بلوک پلکسی‌گلاس با عمق و پهنای متفاوت در یک ردیف"
+            }
+          ]
+        },
+        {
+          "id": "d2692458727b4cc382e66510be6275127ff3e5743d7d947575c683eddc330b88",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تفکیک فضایی با یک گِیج جفت‌خط بر حسب جفت‌خط بر میلی‌متر؛ تفکیک کنتراست با بررسی دایره‌های رادیولوسنت ساخته‌شده از چاهک‌هایی با عمق یا پهنای متفاوت درون بلوک پلکسی‌گلاس؛ و دامنه‌ی دینامیک با یک گوه‌ی پله‌ای سربی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تفکیک فضایی با یک گِیج جفت‌خط بر حسب جفت‌خط بر میلی‌متر؛ تفکیک کنتراست با بررسی دایره‌های رادیولوسنت ساخته‌شده از چاهک‌هایی با عمق یا پهنای متفاوت درون بلوک پلکسی‌گلاس؛ و دامنه‌ی دینامیک با یک گوه‌ی پله‌ای سربی"
+            }
+          ]
+        },
+        {
+          "id": "1c1ba60c26d16752faaa0675c261650804b29586ff8be35ef8158c12b01cb9d3",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هیچ‌یک با فانتوم سنجیده نمی‌شوند و همگی تنها به‌صورت ذهنی روی تصاویر بیماران ارزیابی می‌گردند، چون فانتوم فاصله‌ها و بافت‌های واقعی دهان را بازسازی نمی‌کند و نتیجه‌اش به کار بالینی تعمیم‌پذیر نیست و داوری نهایی با چشم رادیولوژیست است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ‌یک با فانتوم سنجیده نمی‌شوند و همگی تنها به‌صورت ذهنی روی تصاویر بیماران ارزیابی می‌گردند، چون فانتوم فاصله‌ها و بافت‌های واقعی دهان را بازسازی نمی‌کند و نتیجه‌اش به کار بالینی تعمیم‌پذیر نیست و داوری نهایی با چشم رادیولوژیست است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d2692458727b4cc382e66510be6275127ff3e5743d7d947575c683eddc330b88"
+        ],
+        "explanation": "افزون بر این سه، یکنواختی تصویر هم بررسی می‌شود. و فانتوم DDQA هر سه را روی یک تصویر واحد می‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "افزون بر این سه، "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "یکنواختی تصویر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " هم بررسی می‌شود. و فانتوم "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "DDQA"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " هر سه را "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "روی یک تصویر واحد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:59:41.127Z"
+      }
+    },
+    {
+      "id": "question:28832",
+      "sourceId": "28832",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "93d9722645a3d4943dbeb965a69b21ea2590587d79259976826b70e8a6af5ec4",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "سطح مرجع تشخیصی و دوز دست‌یافتنی چگونه تعریف می‌شوند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سطح مرجع تشخیصی و دوز دست‌یافتنی چگونه تعریف می‌شوند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سطح مرجع تشخیصی دوز ۵۰ درصد مراکز و دوز دست‌یافتنی دوز ۷۵ درصد مراکز است؛ و چون نیمی از مراکز همیشه زیر میانه‌اند، دوز دست‌یافتنی معیار آسان‌تری است و گام نخست به شمار می‌آید، و مطبی که به آن رسید تازه باید سراغ سطح مرجع تشخیصی برود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سطح مرجع تشخیصی سنجه‌ای از شرایط بهینه است که حدود ۷۵ درصد مراکز در آن یا پایین‌تر کار می‌کنند و گام نخست است؛ دوز دست‌یافتنی دوزی است که ۵۰ درصد مراکز به کار می‌برند و گام دوم است برای کاهش بیشتر بی‌آنکه کیفیت فدا شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو یک مفهوم واحدند و تنها نام‌های متفاوتی برای دوز میانگین کشورند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو حد قانونی الزام‌آورند که عبور از آن‌ها جریمه دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a8ca6c674460ff60ac6f4b060b8450e84e529f952fa59eafa10261f9ae1e1ab6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "سطح مرجع تشخیصی دوز ۵۰ درصد مراکز و دوز دست‌یافتنی دوز ۷۵ درصد مراکز است؛ و چون نیمی از مراکز همیشه زیر میانه‌اند، دوز دست‌یافتنی معیار آسان‌تری است و گام نخست به شمار می‌آید، و مطبی که به آن رسید تازه باید سراغ سطح مرجع تشخیصی برود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سطح مرجع تشخیصی دوز ۵۰ درصد مراکز و دوز دست‌یافتنی دوز ۷۵ درصد مراکز است؛ و چون نیمی از مراکز همیشه زیر میانه‌اند، دوز دست‌یافتنی معیار آسان‌تری است و گام نخست به شمار می‌آید، و مطبی که به آن رسید تازه باید سراغ سطح مرجع تشخیصی برود"
+            }
+          ]
+        },
+        {
+          "id": "1c8b788f349b40705f0e5640e069b5d5c279791071a6fba6b7ec1098f2d27ccb",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سطح مرجع تشخیصی سنجه‌ای از شرایط بهینه است که حدود ۷۵ درصد مراکز در آن یا پایین‌تر کار می‌کنند و گام نخست است؛ دوز دست‌یافتنی دوزی است که ۵۰ درصد مراکز به کار می‌برند و گام دوم است برای کاهش بیشتر بی‌آنکه کیفیت فدا شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سطح مرجع تشخیصی سنجه‌ای از شرایط بهینه است که حدود ۷۵ درصد مراکز در آن یا پایین‌تر کار می‌کنند و گام نخست است؛ دوز دست‌یافتنی دوزی است که ۵۰ درصد مراکز به کار می‌برند و گام دوم است برای کاهش بیشتر بی‌آنکه کیفیت فدا شود"
+            }
+          ]
+        },
+        {
+          "id": "7e1dde5d3c8d2c3ecf62d0aa0d33f331d3cde472f65596d6736c28685dff115d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هر دو یک مفهوم واحدند و تنها نام‌های متفاوتی برای دوز میانگین کشورند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو یک مفهوم واحدند و تنها نام‌های متفاوتی برای دوز میانگین کشورند"
+            }
+          ]
+        },
+        {
+          "id": "4962c6712313f0a2de84d08992c2c70cd44c6db7510534f1a120efff8e7fbcdb",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هر دو حد قانونی الزام‌آورند که عبور از آن‌ها جریمه دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو حد قانونی الزام‌آورند که عبور از آن‌ها جریمه دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1c8b788f349b40705f0e5640e069b5d5c279791071a6fba6b7ec1098f2d27ccb"
+        ],
+        "explanation": "دو گام پیاپی: نخست خودت را به ۷۵ درصد برسان، سپس به ۵۰ درصد. و هیچ‌کدام حد قانونی نیستند، بلکه معیار انگیزشی‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دو گام پیاپی: نخست خودت را به "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۷۵ درصد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " برسان، سپس به "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۵۰ درصد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". و هیچ‌کدام "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "حد قانونی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " نیستند، بلکه "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "معیار انگیزشی‌اند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-17T17:59:48.168Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:a61cb9d5e1821f6993450ed97701ff700db8795d1cbe820b851430670e3f5a87",
+      "at": "2026-11-17T17:58:45.232Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:e5c0931c27351f4d8271d9b4b464d1e9f0cc22868578b5f0e6eeced763077c54",
+      "at": "2026-11-17T17:58:47.330Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:28821",
+      "at": "2026-11-17T17:58:48.937Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:28824",
+      "at": "2026-11-17T17:59:22.390Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:28827",
+      "at": "2026-11-17T17:59:29.440Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:28830",
+      "at": "2026-11-17T17:59:35.298Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:28832",
+      "at": "2026-11-17T17:59:42.754Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

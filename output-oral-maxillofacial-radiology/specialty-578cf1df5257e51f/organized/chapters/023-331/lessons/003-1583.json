@@ -1,0 +1,2945 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1583/lesson.json",
+  "id": "1583",
+  "title": "درس سوم: پزشکی هسته‌ای — وقتی بیمار منبع پرتوست",
+  "specialtyKey": "578cf1df5257e51f",
+  "chapter": {
+    "id": "331",
+    "title": "MRI، پزشکی هسته‌ای و سونوگرافی",
+    "position": 23
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:9ec97532264092aacbc1b824b724efa7cd815c6489456ee4a23439e4a491e78d",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "ea8c3f8cc1bcb7144cc2c3853baea0d79a19ac71ee75949616cf866aad87f187",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "رادیودارو و آشکارساز"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک وارونگی بنیادی در این روش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «در این مودالیته، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بافت‌های خود بیمار منبع پرتو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هستند و تصویر، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الگوی توزیع زیستی رادیودارو در یک لحظه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را نشان می‌دهد.» و دو پارامتر کلیدی تفسیر: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شدت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سیگنال."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-11-3.webp",
+                  "alt": "سینتی‌گرافی اسکلتی برای ارزیابی استئومیلیت",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/cd85c7b086f8fecef745a5819e34dfeccd2063944e2d60753e1d9f024a1711ee.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سینتی‌گرافی اسکلتی برای ارزیابی استئومیلیت "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 11.3)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و هر رادیودارو دو جزء دارد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «(۱) یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مولکول"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای هدف‌گیری بافت یا اندام مورد نظر، و (۲) یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عنصر رادیواکتیو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای ردیابی توزیع زیستی مولکول هدف‌گیر.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو شرط طراحی که با هم در تنش‌اند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مولکول هدف‌گیر باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اختصاصی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشد، با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جذب بالا در بافت هدف و کمترین جذب غیرهدف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»، و «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیمه‌عمر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " رادیونوکلید باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌قدر کافی بلند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشد تا توزیع زیستی کافی و اختصاصی ممکن شود، ولی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌قدر کافی کوتاه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تا پرتوگیری بیمار پس از عمل کمینه گردد.»"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "رادیودارو"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بافت هدف"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "Tc99m-متیلن دی‌فسفونات (MDP)"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "br",
+                              "attributes": {},
+                              "children": []
+                            },
+                            {
+                              "tag": "text",
+                              "text": "Tc99m-هیدروکسی‌متیلن دی‌فسفونات (HMDP)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "استخوان"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "Tc99m-پرتکنتات"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "غدد بزاقی"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "FDG (فلوئورودئوکسی‌گلوکز با فلوئور-۱۸)"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "سلول‌های فعال متابولیک"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (سلول‌های نئوپلاستیک بدخیم)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو خانواده‌ی آشکارساز:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " رادیوداروها یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرتو گاما"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌تابانند یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پوزیترون"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و در رادیوداروهای گاماتاب:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تصاویر پروجکشن ساخته می‌شود و «دانسیته‌ی تصویر در هر نقطه، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بزرگی شار فوتون از تجمع رادیودارو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را نشان می‌دهد». و چون «رادیونوکلیدها در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی جهات"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پرتو می‌تابانند، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کولیماتور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای ساخت تصاویر پروجکشن از فوتون‌های یک مسیر مشخص به کار می‌رود»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک اصل عملی آشنا:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «منبع پرتو (بافت مورد نظر) "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نزدیک‌ترین فاصله به گیرنده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قرار می‌گیرد تا سیگنال تقویت شود.» مثالش: در سینتی‌گرافی استخوان برای ارزیابی TMJ، «نماهای جانبی راست و چپ جداگانه و نماهای قدامی و خلفی اغلب گرفته می‌شوند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوربین گاما"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از چه ساخته شده؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بلورهای سینتیلاسیون جفت‌شده با لوله‌های فوتومولتی‌پلایر» — و از همین‌جاست که این تکنیک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سینتی‌گرافی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و محدودیت سینتی‌گرافی مسطح:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «سیگنال، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شار خالص فوتون در یک نقطه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را نشان می‌دهد، و سهم ساختارهای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در عمق‌های مختلف از هم تفکیک نمی‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» و راه‌حلش: تصویربرداری مقطعی — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "SPECT"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "PET"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — که «اطلاعات عملکردی‌شان اغلب روی اطلاعات مورفولوژیک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "MDCT"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سوپرایمپوز می‌شود»."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:2d31db0960539f9e81f24b0c6add674a62a530ca626dd4e3474956afc6cb57b1",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "87622262790579da29aaf0d74a3344d80c46bf37e577518f730eda47249b4912",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سینتی‌گرافی استخوان و SPECT"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سینتی‌گرافی استخوان یک تکنیک "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوبعدی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است که «محل‌های گردش فعال استخوان» را نشان می‌دهد. و رادیونوکلیدش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکنسیوم-۹۹m"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با دو مشخصه‌ی کلیدی: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیمه‌عمر ۶ ساعت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و «تابش عمدتاً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فوتون‌های گامای ۱۴۰ کیلوالکترون‌ولت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-11-1.webp",
+                  "alt": "SPECT ترکیب‌شده با توموگرافی رایانه‌ای",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/1b26893dbde93815a4264a523a3cde1a7794e81c4af0585420bf5dc8f59805eb.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "SPECT ترکیب‌شده با توموگرافی رایانه‌ای "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 11.1)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و برای تصویربرداری استخوان، به MDP یا HMDP —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آنالوگ پیروفسفات — متصل می‌شود. ویژگی‌های این ترکیب: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پایدار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، در بدن "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "متابولیزه نمی‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و به‌سرعت با دفع کلیوی از پلاسما پاک می‌شود — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیش از ۷۰٪"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " رادیواکتیویته‌ی تجویزشده "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ظرف ۶ ساعت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اعداد کلیدی سینتی‌گرافی استخوان:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "حساسیت:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " «می‌تواند "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کمتر از ۵ تا ۱۰ درصد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از دست رفتن مواد معدنی استخوان را کشف کند» — بسیار بالاتر از رادیوگرافی معمول."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سازوکار تجمع:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " «"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "جذب سطحی شیمیایی روی هیدروکسی‌آپاتیت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " سطح استخوان»؛ و محلش «به عروق‌رسانی موضعی و درجه‌ی فعالیت استئوبلاستی» بستگی دارد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کسر جذب:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " «تقریباً "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۳۰٪"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " رادیونوکلید تجویزشده روی استخوان جذب می‌شود، با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بیشینه‌ی جذب در ساعت نخست"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ".»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز تجویزی: ۵۵۵ تا ۱۱۱۰ مگابکرل"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (تقریباً "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۵ تا ۳۰ میلی‌کوری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ") داخل وریدی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز مؤثر:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تقریباً "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۳ تا ۶ میلی‌سیورت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پروتکل معمول:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تک‌فازی، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۳ تا ۴ ساعت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پس از تزریق."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پروتکل سه‌فازی —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مفید برای ارزیابی استئومیلیت و تومورهای اولیه‌ی استخوان»:"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فاز"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نام"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "زمان پس از تزریق"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اطلاعات عملکردی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۱"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "جریان خون"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۳۰ تا ۶۰ ثانیه"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بازتاب "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "عروق‌رسانی"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۲"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حوضچه‌ی خون"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ظرف ۱۰ دقیقه"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بازتاب "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "درگیری بافت نرم"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۳"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تأخیری"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۲ تا ۶ ساعت"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بازتاب "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "فعالیت استئوبلاستی"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و الگوی جذب طبیعی که نباید با بیماری اشتباه شود:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «جذب رادیونوکلید در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استخوان ترابکولار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و در نواحی با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سطح معدنی‌سازی بزرگ‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مانند ستون فقرات بیشتر است.»، «در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کودکان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، فعالیت استئوبلاستی همراه با رشد، جذب افزایش‌یافته در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صفحات رشد و استخوان‌های صورت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌سازد.»، و «گردش استخوانی خفیف همراه با بیماری پریودنتال یا ترمیم حفره‌ی کشیدن دندان هم به‌صورت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جذب افزایش‌یافته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بروز می‌کند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و SPECT — نسخه‌ی مقطعی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «دوربین گاما "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۸۰ تا ۳۶۰ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " گرد بیمار می‌چرخد و در چند زاویه — معمولاً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۲۰ یا بیشتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — تصویر می‌گیرد.» در هر پروجکشن «داده برای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰ تا ۳۰ ثانیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» جمع می‌شود و «کل اکتساب تصویر حدود "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۰ تا ۴۵ دقیقه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» می‌گیرد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو نکته‌ی مهم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «حرکت جزئی بیمار کیفیت تصویر را تخریب می‌کند.»، و «تصویربرداری مقطعی سوپرایمپوزیشن را کمینه و کنتراست و تفکیک فضایی را بیشتر می‌کند». و تصاویر SPECT می‌توانند «با تصاویر CT "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ادغام"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " شوند تا اطلاعات عملکردی و مورفولوژیک با هم بیایند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کاربردهای سینتی‌گرافی و SPECT در ماگزیلوفاسیال: استئومیلیت و استئونکروز فک‌ها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناهنجاری‌های استخوانی TMJ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مانند هایپرپلازی و تحلیل کندیل."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و PET — تصویربرداری مقطعی با پوزیترون:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " رادیودارو پوزیترون می‌تاباند که با یک الکترون آزاد نابودی متقابل می‌کند و دو فوتون ۵۱۱ کیلوالکترون‌ولتی در ۱۸۰ درجه نسبت به هم می‌سازد. حلقه‌ای از آشکارسازها که مقابل هم الکترونیکی جفت شده‌اند، این دو فوتون را هم‌زمان ثبت می‌کنند و همین پایه‌ی مکان‌یابی است؛ پس کولیماتور لازم نیست. PET تقریباً ۱۰۰ برابر حساس‌تر از دوربین گاماست و در حساسیت، تفکیک فضایی و کمی‌سازی بر SPECT برتری دارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و FDG:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فلوئور-۱۸ با نیمه‌عمر ۱۰۹٫۸ دقیقه. سلول‌های بدخیم متابولیسم گلوکز بالا و ناقل‌های گلوکز بیش‌بیان‌شده دارند؛ FDG با هگزوکیناز فسفریله می‌شود، ولی FDG-۶-فسفات برخلاف گلوکز-۶-فسفات دیگر متابولیزه نمی‌شود و در سلول می‌ماند (محبوس‌شدن متابولیک). حاصل، تصویری عملکردی از متابولیسم گلوکز بافت است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سینتی‌گرافی غدد بزاقی با پرتکنتات:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در سندرم شوگرن جذب به‌دلیل کاهش عملکرد غده کم است و با تحریک اسیدی تقریباً تغییری نمی‌کند؛ تومور وارتین و انکوسیتوما جذب بالایی دارند و با تحریک بزاقی کاهش نمی‌یابند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:28316",
+      "sourceId": "28316",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "3a8572b4e23fa5d7a3414c0a1e830a07a091543ccc0bfd47d2e0e82f625bc1ad",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در پزشکی هسته‌ای، منبع پرتو کجاست و تصویر چه چیزی را نشان می‌دهد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در پزشکی هسته‌ای، منبع پرتو کجاست و تصویر چه چیزی را نشان می‌دهد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بافت‌های خود بیمار منبع پرتوند؛ و تصویر الگوی توزیع زیستی رادیودارو در یک لحظه را نشان می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک تیوب پرتو ایکس بیرونی منبع است؛ و تصویر الگوی تضعیف پرتو در بافت‌ها و استخوان‌های بیمار را نشان می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک آهنربای فوق‌رسانای بیرونی منبع است؛ و تصویر چگالی پروتون و زمان‌های آسایش بافت‌ها را نشان می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک ترانسدیوسر پیزوالکتریک روی پوست منبع است؛ و تصویر امپدانس آکوستیک مرز بافت‌ها را نشان می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "bdfdb26ff9f68863bb53938eb057b7331e226b377866813367f230af3c78103b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بافت‌های خود بیمار منبع پرتوند؛ و تصویر الگوی توزیع زیستی رادیودارو در یک لحظه را نشان می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بافت‌های خود بیمار منبع پرتوند؛ و تصویر الگوی توزیع زیستی رادیودارو در یک لحظه را نشان می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "dbbdb9a0d0191939d25ec247b8ba6168e341bbc31bc991f2c983ac26a13dffa9",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "یک تیوب پرتو ایکس بیرونی منبع است؛ و تصویر الگوی تضعیف پرتو در بافت‌ها و استخوان‌های بیمار را نشان می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک تیوب پرتو ایکس بیرونی منبع است؛ و تصویر الگوی تضعیف پرتو در بافت‌ها و استخوان‌های بیمار را نشان می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "3cf6edcc7782f01d6259f557b34547fb1de51c98a1527ebdc8b165fec44ac9dc",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "یک آهنربای فوق‌رسانای بیرونی منبع است؛ و تصویر چگالی پروتون و زمان‌های آسایش بافت‌ها را نشان می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک آهنربای فوق‌رسانای بیرونی منبع است؛ و تصویر چگالی پروتون و زمان‌های آسایش بافت‌ها را نشان می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "cb7251730f04d6e719eab620e4d548add7317996e5ed06c2b0e43d5ed5a2e0b0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "یک ترانسدیوسر پیزوالکتریک روی پوست منبع است؛ و تصویر امپدانس آکوستیک مرز بافت‌ها را نشان می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک ترانسدیوسر پیزوالکتریک روی پوست منبع است؛ و تصویر امپدانس آکوستیک مرز بافت‌ها را نشان می‌دهد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "bdfdb26ff9f68863bb53938eb057b7331e226b377866813367f230af3c78103b"
+        ],
+        "explanation": "وارونگی بنیادی نسبت به همه‌ی روش‌هایی که تا اینجا خوانده‌ای؛ و دو پارامتر کلیدی تفسیر: شدت و محل سیگنال.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "وارونگی بنیادی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " نسبت به همه‌ی روش‌هایی که تا اینجا خوانده‌ای؛ و دو پارامتر کلیدی تفسیر: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "شدت"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " و "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "محل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " سیگنال."
+          }
+        ],
+        "observedAt": "2026-11-17T17:31:45.769Z"
+      }
+    },
+    {
+      "id": "question:28321",
+      "sourceId": "28321",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "7c2f81c492d42515d0164d41e8bdfc41a57619eeca3313d607077ab34f65e6c1",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "محدودیت سینتی‌گرافی مسطح چیست و چگونه برطرف می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "محدودیت سینتی‌گرافی مسطح چیست و چگونه برطرف می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیگنال به‌دلیل نیمه‌عمر کوتاه رادیونوکلید در طول اکتساب ناپایدار است و افت می‌کند؛ و راه‌حلش استفاده از رادیونوکلیدهای با نیمه‌عمر چند روزه است، حتی به بهای دوز بیشتر بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیگنال تنها از سطح بدن می‌آید و ساختارهای عمقی به‌دلیل جذب کامل فوتون‌ها در بافت هیچ سهمی ندارند؛ و راه‌حلش افزایش دوز رادیودارو تا رسیدن سیگنال عمقی به گیرنده‌ی دوربین است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیگنال تنها اطلاعات مورفولوژیک می‌دهد و اطلاعات عملکردی ندارد؛ و راه‌حلش ترکیب با MRI است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیگنال شار خالص فوتون در یک نقطه را نشان می‌دهد و سهم ساختارهای در عمق‌های مختلف از هم تفکیک نمی‌شود؛ و تصویربرداری مقطعی با SPECT و PET این محدودیت را برطرف می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "30f1760f8b666f568499b792b803cf49965347f7147ca44817f5422e1784969e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "سیگنال به‌دلیل نیمه‌عمر کوتاه رادیونوکلید در طول اکتساب ناپایدار است و افت می‌کند؛ و راه‌حلش استفاده از رادیونوکلیدهای با نیمه‌عمر چند روزه است، حتی به بهای دوز بیشتر بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سیگنال به‌دلیل نیمه‌عمر کوتاه رادیونوکلید در طول اکتساب ناپایدار است و افت می‌کند؛ و راه‌حلش استفاده از رادیونوکلیدهای با نیمه‌عمر چند روزه است، حتی به بهای دوز بیشتر بیمار"
+            }
+          ]
+        },
+        {
+          "id": "de3186d68dee03b376043a4868894c769d524ddfb52f8053e9b3d05d6f507a59",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سیگنال تنها از سطح بدن می‌آید و ساختارهای عمقی به‌دلیل جذب کامل فوتون‌ها در بافت هیچ سهمی ندارند؛ و راه‌حلش افزایش دوز رادیودارو تا رسیدن سیگنال عمقی به گیرنده‌ی دوربین است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سیگنال تنها از سطح بدن می‌آید و ساختارهای عمقی به‌دلیل جذب کامل فوتون‌ها در بافت هیچ سهمی ندارند؛ و راه‌حلش افزایش دوز رادیودارو تا رسیدن سیگنال عمقی به گیرنده‌ی دوربین است"
+            }
+          ]
+        },
+        {
+          "id": "605c5349234b6b778e369b278bd4dd02df4bf641eb8bc1bedb38f7022fcbd379",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "سیگنال تنها اطلاعات مورفولوژیک می‌دهد و اطلاعات عملکردی ندارد؛ و راه‌حلش ترکیب با MRI است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سیگنال تنها اطلاعات مورفولوژیک می‌دهد و اطلاعات عملکردی ندارد؛ و راه‌حلش ترکیب با MRI است"
+            }
+          ]
+        },
+        {
+          "id": "c9605ee121afec630ef6a16fa78daa67db266fcbfe954dc559db8b6ea5055c74",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سیگنال شار خالص فوتون در یک نقطه را نشان می‌دهد و سهم ساختارهای در عمق‌های مختلف از هم تفکیک نمی‌شود؛ و تصویربرداری مقطعی با SPECT و PET این محدودیت را برطرف می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سیگنال شار خالص فوتون در یک نقطه را نشان می‌دهد و سهم ساختارهای در عمق‌های مختلف از هم تفکیک نمی‌شود؛ و تصویربرداری مقطعی با SPECT و PET این محدودیت را برطرف می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c9605ee121afec630ef6a16fa78daa67db266fcbfe954dc559db8b6ea5055c74"
+        ],
+        "explanation": "این همان مشکل سوپرایمپوزیشن است که CT هم برای رادیوگرافی تخت حل کرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "همان مشکل سوپرایمپوزیشن"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است که CT هم برای رادیوگرافی تخت حل کرد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:31:52.712Z"
+      }
+    },
+    {
+      "id": "question:28323",
+      "sourceId": "28323",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "d5cbbe1abd9ee66590450355d2a9d932491fcdbc9b1e2aa74098f4183ad21eea",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه‌ی اعداد سینتی‌گرافی استخوان درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه‌ی اعداد سینتی‌گرافی استخوان درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حساسیت کشف تنها ۵۰ تا ۶۰ درصد از دست رفتن مواد معدنی، مشابه رادیوگرافی معمول؛ تقریباً ۹۰ درصد رادیونوکلید روی استخوان جذب می‌شود؛ دوز تجویزی ۵ تا ۱۰ مگابکرل؛ دوز مؤثر حدود ۰٫۰۵ میلی‌سیورت در حد یک رادیوگرافی پانورامیک؛ و پروتکل معمول بلافاصله پس از تزریق و بدون هیچ انتظاری"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حساسیت کشف ۵ تا ۱۰ درصد از دست رفتن مواد معدنی؛ تقریباً ۳۰ درصد رادیونوکلید روی استخوان جذب می‌شود با بیشینه در ساعت نخست؛ دوز تجویزی ۵۵۵ تا ۱۱۱۰ مگابکرل معادل ۱۵ تا ۳۰ میلی‌کوری؛ دوز مؤثر ۳ تا ۶ میلی‌سیورت؛ و پروتکل معمول تک‌فازی ۳ تا ۴ ساعت پس از تزریق"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حساسیت مشابه رادیوگرافی معمول؛ جذب استخوانی کامل؛ دوز تجویزی بدون استاندارد؛ و دوز مؤثر صفر چون رادیونوکلید در بدن می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی این پارامترها در هر بیمار متفاوت‌اند و هیچ مقدار استانداردی برایشان گزارش نشده است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a2023c998b230f995d549fcd550eafeca84cc47e82d03acf5ba53b813cec61b9",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حساسیت کشف تنها ۵۰ تا ۶۰ درصد از دست رفتن مواد معدنی، مشابه رادیوگرافی معمول؛ تقریباً ۹۰ درصد رادیونوکلید روی استخوان جذب می‌شود؛ دوز تجویزی ۵ تا ۱۰ مگابکرل؛ دوز مؤثر حدود ۰٫۰۵ میلی‌سیورت در حد یک رادیوگرافی پانورامیک؛ و پروتکل معمول بلافاصله پس از تزریق و بدون هیچ انتظاری",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حساسیت کشف تنها ۵۰ تا ۶۰ درصد از دست رفتن مواد معدنی، مشابه رادیوگرافی معمول؛ تقریباً ۹۰ درصد رادیونوکلید روی استخوان جذب می‌شود؛ دوز تجویزی ۵ تا ۱۰ مگابکرل؛ دوز مؤثر حدود ۰٫۰۵ میلی‌سیورت در حد یک رادیوگرافی پانورامیک؛ و پروتکل معمول بلافاصله پس از تزریق و بدون هیچ انتظاری"
+            }
+          ]
+        },
+        {
+          "id": "cf12033727bc51aa1f1566d64d3e29d80741f155a1cabe0379fd00685ac97cb7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "حساسیت کشف ۵ تا ۱۰ درصد از دست رفتن مواد معدنی؛ تقریباً ۳۰ درصد رادیونوکلید روی استخوان جذب می‌شود با بیشینه در ساعت نخست؛ دوز تجویزی ۵۵۵ تا ۱۱۱۰ مگابکرل معادل ۱۵ تا ۳۰ میلی‌کوری؛ دوز مؤثر ۳ تا ۶ میلی‌سیورت؛ و پروتکل معمول تک‌فازی ۳ تا ۴ ساعت پس از تزریق",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حساسیت کشف ۵ تا ۱۰ درصد از دست رفتن مواد معدنی؛ تقریباً ۳۰ درصد رادیونوکلید روی استخوان جذب می‌شود با بیشینه در ساعت نخست؛ دوز تجویزی ۵۵۵ تا ۱۱۱۰ مگابکرل معادل ۱۵ تا ۳۰ میلی‌کوری؛ دوز مؤثر ۳ تا ۶ میلی‌سیورت؛ و پروتکل معمول تک‌فازی ۳ تا ۴ ساعت پس از تزریق"
+            }
+          ]
+        },
+        {
+          "id": "81dc257a483a0b68d50da8a42fe6dfe938aee67b63ef32a73fedf3b850b45f34",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "حساسیت مشابه رادیوگرافی معمول؛ جذب استخوانی کامل؛ دوز تجویزی بدون استاندارد؛ و دوز مؤثر صفر چون رادیونوکلید در بدن می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حساسیت مشابه رادیوگرافی معمول؛ جذب استخوانی کامل؛ دوز تجویزی بدون استاندارد؛ و دوز مؤثر صفر چون رادیونوکلید در بدن می‌ماند"
+            }
+          ]
+        },
+        {
+          "id": "4120468f87ae4c51b02e1d53868f5dc784ed5f97d91dcd761015d92a77403dfe",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همه‌ی این پارامترها در هر بیمار متفاوت‌اند و هیچ مقدار استانداردی برایشان گزارش نشده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی این پارامترها در هر بیمار متفاوت‌اند و هیچ مقدار استانداردی برایشان گزارش نشده است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "cf12033727bc51aa1f1566d64d3e29d80741f155a1cabe0379fd00685ac97cb7"
+        ],
+        "explanation": "حساسیت ۵ تا ۱۰ درصد بسیار بالاتر از رادیوگرافی معمول است؛ همین قدرت اصلی این روش است.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "حساسیت ۵ تا ۱۰ درصد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " بسیار بالاتر از رادیوگرافی معمول است؛ همین قدرت اصلی این روش است."
+          }
+        ],
+        "observedAt": "2026-11-17T17:31:59.957Z"
+      }
+    },
+    {
+      "id": "question:28326",
+      "sourceId": "28326",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "cf4f056c3b75014730aefa949f07a47da9b23af96090d8fc2500c10dacfed928",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام الگوهای جذب افزایش‌یافته طبیعی‌اند و نباید با بیماری اشتباه شوند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام الگوهای جذب افزایش‌یافته طبیعی‌اند و نباید با بیماری اشتباه شوند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استخوان ترابکولار و نواحی با سطح معدنی‌سازی بزرگ‌تر مانند ستون فقرات؛ صفحات رشد و استخوان‌های صورت در کودکان به‌دلیل فعالیت استئوبلاستی رشد؛ و بیماری پریودنتال یا ترمیم حفره‌ی کشیدن دندان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها استخوان کورتیکال متراکم فک و اندام‌ها، چون بیشترین مواد معدنی را دارد؛ و در کودکان جذب کلی کمتر از بزرگسالان است، چون استخوانشان هنوز کامل معدنی نشده و سطح هیدروکسی‌آپاتیت در دسترس بسیار کمتری دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ الگوی جذب افزایش‌یافته‌ای طبیعی نیست؛ هر افزایش جذب، حتی در صفحات رشد کودک، اطراف ساکت کشیدن اخیر یا پاکت پریودنتال، باید پاتولوژیک در نظر گرفته و با بیوپسی یا CBCT تکمیلی و پیگیری کوتاه‌مدت بررسی شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها نواحی با عروق‌رسانی کم؛ و جذب در نواحی پرعروق همیشه نشانه‌ی بیماری است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8a3d6e208cd0b560db1536d8ec5fe679f16414d714558080e8672fcfb23536b8",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "استخوان ترابکولار و نواحی با سطح معدنی‌سازی بزرگ‌تر مانند ستون فقرات؛ صفحات رشد و استخوان‌های صورت در کودکان به‌دلیل فعالیت استئوبلاستی رشد؛ و بیماری پریودنتال یا ترمیم حفره‌ی کشیدن دندان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استخوان ترابکولار و نواحی با سطح معدنی‌سازی بزرگ‌تر مانند ستون فقرات؛ صفحات رشد و استخوان‌های صورت در کودکان به‌دلیل فعالیت استئوبلاستی رشد؛ و بیماری پریودنتال یا ترمیم حفره‌ی کشیدن دندان"
+            }
+          ]
+        },
+        {
+          "id": "ac1a979071897fe44cf2785f658fa46f4732cc595709e8e114ee55f88305d8f1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تنها استخوان کورتیکال متراکم فک و اندام‌ها، چون بیشترین مواد معدنی را دارد؛ و در کودکان جذب کلی کمتر از بزرگسالان است، چون استخوانشان هنوز کامل معدنی نشده و سطح هیدروکسی‌آپاتیت در دسترس بسیار کمتری دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها استخوان کورتیکال متراکم فک و اندام‌ها، چون بیشترین مواد معدنی را دارد؛ و در کودکان جذب کلی کمتر از بزرگسالان است، چون استخوانشان هنوز کامل معدنی نشده و سطح هیدروکسی‌آپاتیت در دسترس بسیار کمتری دارد"
+            }
+          ]
+        },
+        {
+          "id": "48be053ff428784edb531e6c2f4f30f4d13ccb4e28f2f47d067c6ebb7effbb50",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هیچ الگوی جذب افزایش‌یافته‌ای طبیعی نیست؛ هر افزایش جذب، حتی در صفحات رشد کودک، اطراف ساکت کشیدن اخیر یا پاکت پریودنتال، باید پاتولوژیک در نظر گرفته و با بیوپسی یا CBCT تکمیلی و پیگیری کوتاه‌مدت بررسی شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ الگوی جذب افزایش‌یافته‌ای طبیعی نیست؛ هر افزایش جذب، حتی در صفحات رشد کودک، اطراف ساکت کشیدن اخیر یا پاکت پریودنتال، باید پاتولوژیک در نظر گرفته و با بیوپسی یا CBCT تکمیلی و پیگیری کوتاه‌مدت بررسی شود"
+            }
+          ]
+        },
+        {
+          "id": "eb6c8d34c51c97032f524972176c4fdd9adc5cd4a32fb4857fa08f50aea88192",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تنها نواحی با عروق‌رسانی کم؛ و جذب در نواحی پرعروق همیشه نشانه‌ی بیماری است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها نواحی با عروق‌رسانی کم؛ و جذب در نواحی پرعروق همیشه نشانه‌ی بیماری است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8a3d6e208cd0b560db1536d8ec5fe679f16414d714558080e8672fcfb23536b8"
+        ],
+        "explanation": "برای دندانپزشک، بیماری پریودنتال و ترمیم ساکت کشیدن اشتباه‌های تفسیری رایج‌اند: کشیدن اخیر دندان می‌تواند شبیه ضایعه به نظر برسد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "برای دندانپزشک، "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بیماری پریودنتال و ترمیم ساکت کشیدن"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " اشتباه‌های تفسیری رایج‌اند: کشیدن اخیر دندان می‌تواند شبیه ضایعه به نظر برسد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:32:07.057Z"
+      }
+    },
+    {
+      "id": "question:28330",
+      "sourceId": "28330",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "9b5aa5be22df84e3cc0cab234b37660fa245805c29be23f4ca033de4f52b910f",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در سینتی‌گرافی غدد بزاقی، الگوی سندرم شوگرن و تومور وارتین چه تفاوتی دارند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در سینتی‌گرافی غدد بزاقی، الگوی سندرم شوگرن و تومور وارتین چه تفاوتی دارند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو الگوی یکسانی دارند و از هم قابل تفکیک نیستند؛ و تشخیص تنها با بیوپسی ممکن است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در شوگرن جذب رادیودارو بالاست، چون التهاب غده عروق‌رسانی را افزایش می‌دهد، و با تحریک اسیدی به‌شدت و به‌سرعت کاهش می‌یابد؛ و وارتین جذب کمی دارد که با تحریک بزاقی در هر دو پاروتید به‌تدریج بیشتر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در شوگرن جذب رادیودارو به‌دلیل کاهش عملکرد غده کم است و تجمع با تحریک اسیدی تقریباً بی‌تأثیر می‌ماند؛ و وارتین و انکوسیتوما تجمع بالایی نشان می‌دهند و با تحریک بزاقی کاهش تجمع نشان نمی‌دهند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در هر دو بیماری تجمع رادیودارو و پاسخ به تحریک اسیدی طبیعی است، چون هیچ‌کدام بافت ترشحی غده را درگیر نمی‌کنند؛ و سینتی‌گرافی بزاقی در این دو بیماری هیچ ارزش تشخیصی ندارد و MRI کاملاً جایگزین آن شده است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4dc43872e73016cd1ef7d62051a18d965dcbee3f9db4162c06913d6341a2fa61",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر دو الگوی یکسانی دارند و از هم قابل تفکیک نیستند؛ و تشخیص تنها با بیوپسی ممکن است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو الگوی یکسانی دارند و از هم قابل تفکیک نیستند؛ و تشخیص تنها با بیوپسی ممکن است"
+            }
+          ]
+        },
+        {
+          "id": "eec3165ddb690fc7013c4fa3442b203791ca7cf4b1369f4bfd0625c1cdac3e0a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "در شوگرن جذب رادیودارو بالاست، چون التهاب غده عروق‌رسانی را افزایش می‌دهد، و با تحریک اسیدی به‌شدت و به‌سرعت کاهش می‌یابد؛ و وارتین جذب کمی دارد که با تحریک بزاقی در هر دو پاروتید به‌تدریج بیشتر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در شوگرن جذب رادیودارو بالاست، چون التهاب غده عروق‌رسانی را افزایش می‌دهد، و با تحریک اسیدی به‌شدت و به‌سرعت کاهش می‌یابد؛ و وارتین جذب کمی دارد که با تحریک بزاقی در هر دو پاروتید به‌تدریج بیشتر می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "82c62cc20325ad1d4d8b8dfd4e864dbf8ce077faae0b8aec65a60879e06a25ad",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "در شوگرن جذب رادیودارو به‌دلیل کاهش عملکرد غده کم است و تجمع با تحریک اسیدی تقریباً بی‌تأثیر می‌ماند؛ و وارتین و انکوسیتوما تجمع بالایی نشان می‌دهند و با تحریک بزاقی کاهش تجمع نشان نمی‌دهند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در شوگرن جذب رادیودارو به‌دلیل کاهش عملکرد غده کم است و تجمع با تحریک اسیدی تقریباً بی‌تأثیر می‌ماند؛ و وارتین و انکوسیتوما تجمع بالایی نشان می‌دهند و با تحریک بزاقی کاهش تجمع نشان نمی‌دهند"
+            }
+          ]
+        },
+        {
+          "id": "4faa75854c24d879806645b32c3858285bec4e3c5244636326509825bc44a8b0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "در هر دو بیماری تجمع رادیودارو و پاسخ به تحریک اسیدی طبیعی است، چون هیچ‌کدام بافت ترشحی غده را درگیر نمی‌کنند؛ و سینتی‌گرافی بزاقی در این دو بیماری هیچ ارزش تشخیصی ندارد و MRI کاملاً جایگزین آن شده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در هر دو بیماری تجمع رادیودارو و پاسخ به تحریک اسیدی طبیعی است، چون هیچ‌کدام بافت ترشحی غده را درگیر نمی‌کنند؛ و سینتی‌گرافی بزاقی در این دو بیماری هیچ ارزش تشخیصی ندارد و MRI کاملاً جایگزین آن شده است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "82c62cc20325ad1d4d8b8dfd4e864dbf8ce077faae0b8aec65a60879e06a25ad"
+        ],
+        "explanation": "وجه مشترک هر دو بی‌پاسخی به تحریک است، ولی از دو نقطه‌ی شروع کاملاً متفاوت: یکی جذب کم، دیگری جذب زیاد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "وجه مشترک هر دو "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بی‌پاسخی به تحریک"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است، ولی از دو نقطه‌ی شروع کاملاً متفاوت: یکی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "جذب کم"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، دیگری "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "جذب زیاد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-17T17:32:14.253Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:9ec97532264092aacbc1b824b724efa7cd815c6489456ee4a23439e4a491e78d",
+      "at": "2026-11-17T17:31:11.931Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:2d31db0960539f9e81f24b0c6add674a62a530ca626dd4e3474956afc6cb57b1",
+      "at": "2026-11-17T17:31:13.896Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:28316",
+      "at": "2026-11-17T17:31:15.361Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:28321",
+      "at": "2026-11-17T17:31:47.387Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:28323",
+      "at": "2026-11-17T17:31:54.316Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:28326",
+      "at": "2026-11-17T17:32:01.582Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:28330",
+      "at": "2026-11-17T17:32:08.672Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

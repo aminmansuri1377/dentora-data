@@ -1,0 +1,3128 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1564/lesson.json",
+  "id": "1564",
+  "title": "درس چهارم: MDCT — از حلزونی تا کرنل",
+  "specialtyKey": "578cf1df5257e51f",
+  "chapter": {
+    "id": "327",
+    "title": "CBCT و تصویربرداری مقطعی، اصول توموگرافی رایانه‌ای و MDCT",
+    "position": 21
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:4f360c9f58af9d8516a1187429c91b42704bf431bb722381e6bda1397febc1f4",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "04f6c36ebe35eef96ea9f9eb2e7aa3a4a373524dcbe02de4726ac07a0ea929f1",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "حرکت، دستگاه، تیوب و آشکارساز"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حالت غالب حرکت تیوب، اسکن "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "حلزونی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " یا "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مارپیچی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که «اکتساب حجمی» هم نامیده می‌شود. و شرط فنی‌اش: فناوری «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حلقه‌ی لغزان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»، که «اکتساب پیوسته‌ی داده‌ی پروجکشن در یک حجم سه‌بعدی از بافت را با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرخش پیوسته‌ی تیوب و آشکارسازها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و جابه‌جایی هم‌زمان بیمار از میان دهانه‌ی گانتری» ممکن می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-11.webp",
+                  "alt": "اثر پارامترهای پرتوگیری بر کیفیت تصویر",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/36b13012c5899b1d57725bbcc9919853e5ed29c6f0f5cde6e9a52f5fc382c1a2.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اثر پارامترهای پرتوگیری بر کیفیت تصویر "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.11)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا «حلزونی»؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «در حالی که تیوب در یک کمان دایره‌ای می‌چرخد، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسبت به بیمار در حال حرکت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به نظر می‌رسد مسیری مارپیچی یا حلزونی را دنبال می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اصطلاح "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تغذیه‌ی میز"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ":"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تنگی یا گشادی مارپیچ میان چرخش‌های پیاپی منبع — و بنابراین "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ابعاد وکسل در جهت Z"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سرعت حرکت میز در هر چرخش ۳۶۰ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تعیین می‌شود، که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغذیه‌ی میز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پیکربندی امروزی: MDCT یا CT چندبرشی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «پرتو پهن‌تری روی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چند ردیف آشکارساز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در امتداد محور بلند بدن یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محور z"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پروجکت می‌شود. ردیف‌های آشکارساز اغلب "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کانال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شوند و بسته به سازنده و مدل، از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۴ تا ۶۴۰ ردیف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " متغیرند.» و رده‌بندی: ۱۶ کاناله، ۲۰ تا ۴۰ کاناله، ۶۴ تا ۸۰ کاناله، و ممتاز."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو فایده‌ی اصلی چندردیفی بودن:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "زمان اسکن سریع‌تر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «از چند ثانیه تا چند دقیقه». و این «آرتیفکت حرکتی ناشی از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تنفس، پریستالسیس یا انقباض قلب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "» را محدود می‌کند؛ «مهم برای بیمارانی که نمی‌توانند نفسشان را طولانی نگه دارند، و برای بیماران "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کودک و ترومایی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "»."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تفکیک فضایی بهتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «تا ابعاد زیرمیلی‌متری، به کمی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰٫۱۲۵ تا ۰٫۲۵ میلی‌متر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "»."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پیکربندی دستگاه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گانتری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (حلقه‌ی بزرگی که تیوب و آشکارساز را در خود دارد) و یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میز متحرک بیمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که در طول اسکن از میان گانتری می‌لغزد. گانتری «برش‌های محوری در امتداد محور z را می‌گیرد و می‌تواند زاویه بگیرد تا اسکن کرونال مستقیم بگیرد» — ولی با وکسل‌های ایزوتروپیک، «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بازسازی در هر صفحه‌ای بدون اعوجاج"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» ممکن است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تیوب MDCT با تیوب دندانی قابل مقایسه نیست:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرخان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با ظرفیت گرمایی تا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸ میلیون واحد گرمایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «مقایسه کن با تیوب‌های داخل‌دهانی دندانی با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰٬۰۰۰ واحد گرمایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "». معمولاً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۲۰ kVp"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (دامنه ۸۰–۱۴۰) و جریان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰۰–۸۰۰ mA"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا این خروجی بالا؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «زمان اکسپوز را کمینه و کیفیت تصویر را با افزایش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسبت سیگنال به نویز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بهتر می‌کند.» و kVp بالا «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دامنه‌ی دینامیک گسترده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را با کاهش جذب استخوان نسبت به بافت نرم فراهم می‌کند و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمر تیوب را با کاهش بار آن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " افزایش می‌دهد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو مرحله کولیماسیون:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برای کمینه کردن اکسپوز بیمار، پرتو "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش از ورود به بیمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به یک پرتو بادبزنی نازک کولیمه می‌شود.» و سپس «برای بهبود کیفیت تصویر، پرتو باقی‌مانده دوباره کولیمه می‌شود تا فوتون‌های پراکنده پیش از رسیدن به آرایه حذف شوند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ساختار سه‌لایه‌ی هر آشکارساز MDCT:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سینتیلاتور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فوتودیود حالت جامد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بستر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای زیرساخت مکانیکی و الکتریکی. سینتیلاتورها معمولاً عدد اتمی بالا دارند — مانند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اکسی‌سولفید گادولینیوم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — و «کارایی آشکارسازی بالایی دارند و تقریباً ۹۰٪ فوتون‌های فرودی را جذب می‌کنند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو افزوده:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کولیماتور پیش‌آشکارساز (شبکه‌ی ضدپراکندگی) که «نویز را کم و کنتراست را بهتر می‌کند»، و فناوری نو: آشکارسازهای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمارنده‌ی فوتون (PhC)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که «سینتیلاتور و فوتودیود را با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماده‌ی تبدیل مستقیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " جایگزین می‌کنند» و «نه‌تنها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فوتون‌ها بلکه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انرژی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "شان را هم ثبت می‌کنند»؛ نتیجه: کار در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز پایین‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسبت کنتراست به نویز بهتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:9560cf356c96c3f6dcfb2673aee75cad76dafaa62fe94a4c908486a26d6a5bc9",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "4731ef39c62366f1fa01f4404fb07f3d2904cad151231772b9f289bfa6343bd8",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "FOV، پیچ، ضخامت برش، کرنل و ماده‌ی حاجب"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میدان دید:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پرتو کولیمه‌شده «باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناحیه‌ی آناتومیک مورد نظر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را در بر بگیرد». FOV استوانه‌ای با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قطر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بُعد کرانیوکائودال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تعریف می‌شود. قطر معمول MDCT: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۵ سانتی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و برای پروتکل‌های ماگزیلوفاسیال، FOV عمودی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۷ تا ۲۵ سانتی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تا کل اسکلت ماگزیلوفاسیال از قاعده‌ی جمجمه تا زیر مرز تحتانی مندیبل» را در بر بگیرد."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-12.webp",
+                  "alt": "اثر شمار پروجکشن‌های پایه بر تصویر حاصل",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/c3007196d7480549add0daed926a7e9840b6b334bce5313b4cad7c55cb629ccd.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اثر شمار پروجکشن‌های پایه بر تصویر حاصل "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.12)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نمای مکان‌یاب (اسکات):"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیش از اسکن گرفته می‌شود، «می‌تواند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لترال یا قدامی-خلفی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشد و شبیه پروجکشن‌های سر به نظر می‌رسد». کارش: «تنظیم سفارشی FOV برای کمینه کردن پرتوگیری بیمار» — و برخی روش‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنترل خودکار اکسپوز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از همین نما «برای تخمین جریان تیوب بر پایه‌ی اندازه و آناتومی بیمار» استفاده می‌کنند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تنظیمات اکسپوز:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بیشتر معاینات CT بزرگسال با ولتاژ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۲۰ kVp"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " انجام می‌شوند» و چند پروتکل کودکان kVp پایین‌تر ("
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸۰–۱۲۰"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "). «کاهش kVp دوز را کم می‌کند ولی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نویز را بالا و کنتراست را بیشتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌کند.» و روش شایع‌تر کاهش دوز: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش تنظیم mA"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»، یا استفاده از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "AEC"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که mA را بر پایه‌ی اندازه‌ی بیمار و ناحیه‌ی مورد بررسی خودکار تنظیم می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ضخامت برش و «بینینگ» —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با یک مثال عددی روشن: «کمترین ضخامت برش به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پهنای ردیف آشکارساز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بستگی دارد.» پس از اکتساب، داده‌ی ردیف‌های مجاور می‌تواند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترکیب (بینینگ)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " شود. یک مثال: یک اسکنر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۲۰ برشی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با دکسل‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۵ میلی‌متری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پهنای پرتو "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۶۰ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارد (۳۲۰ × ۰٫۵). و همان حجم می‌تواند بازسازی شود به: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۲۰ برش ۰٫۵ میلی‌متری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۶۰ برش ۱ میلی‌متری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸۰ برش ۲ میلی‌متری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و انتخاب ضخامت با وظیفه‌ی تشخیصی است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برای معاینات ماگزیلوفاسیال، ارزیابی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استخوان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " معمولاً با برش‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۵ میلی‌متری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " انجام می‌شود، در حالی که برش‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱ میلی‌متری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای معاینه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بافت نرم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کافی‌اند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پیچ — یک نسبت با پیامدهای سه‌گانه:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پیچ = مسافت طی‌شده‌ی میز در یک چرخش ۳۶۰ درجه ÷ پهنای کولیماسیون پرتو"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پیچ = ۱"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «پرتوها در چرخش‌های مجاور پیوسته‌اند و هیچ هم‌پوشانی میان برش‌ها نیست.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پیچ کمتر از ۱"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «پرتوها "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هم‌پوشانی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دارند و تصاویری با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تفکیک بالاتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌دهند. ولی طول بافت تصویربرداری‌شده در هر چرخش کمتر است، پس "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "زمان اسکن طولانی‌تر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌شود. و مهم‌تر: "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز بیمار افزایش می‌یابد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ".»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پیچ بیشتر از ۱"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «پرتوها "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پیوسته نیستند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و اکتساب‌های حلزونی از هم جدا می‌شوند. این "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اسکن سریع‌تر و دوز کمتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌دهد. ولی داده‌ی غایب میان چرخش‌ها، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تفکیک تصویر در محور z را کاهش می‌دهد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ".»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کرنل‌ها (فیلترها):"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «الگوریتم‌های پردازش تصویر که برای برجسته کردن ویژگی‌های خاص به کار می‌روند» و «با اثر مورد نظرشان نام‌گذاری می‌شوند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بسیار نرم، نرم، متوسط، تیز، و فوق تیز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کرنل استخوان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «تصویری با جزئیات "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تیزتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " برای تأکید بر ویژگی‌های استخوان بازسازی می‌کند، هرچند با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "افزایش اندکی در نویز"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "»."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کرنل بافت نرم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «تصاویری با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نویز کمتر و تفکیک کنتراستی بهتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "» می‌دهد، چون ارزیابی بافت نرم به «تفکیک تفاوت‌های جزئی در تضعیف» نیاز دارد."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو نکته‌ی مهم درباره‌ی کرنل‌ها:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «کرنل‌ها به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داده‌ی اصلی سینوگرام، پیش از بک‌پروجکشن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اعمال می‌شوند و بازسازی‌های جداگانه‌ای تولید می‌گردد؛ و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر بازسازی باید جداگانه ارزیابی شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» و مهم‌تر: «همه‌ی بازسازی‌ها به مجموعه‌داده‌ی خام اصلی اعمال می‌شوند، پس افزودن بازسازی‌های بیشتر زمان ساخت را افزایش می‌دهد ولی هیچ اثری بر دوز پرتو بیمار ندارد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مواد حاجب —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که «تقریباً به‌طور انحصاری در MDCT» به کار می‌روند: مواد حاجب داخل وریدی بر پایه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ید"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، یونی یا غیریونی، با اسمولالیته‌ی بالا یا پایین. «شایع‌ترین مواد حاجب، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غیریونی با اسمولالیته‌ی پایین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "اند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا کار می‌کنند؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «ید عدد اتمی بالایی دارد ("
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "Z = ۵۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") و پرتو را به‌طور کارآمد با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جذب فوتوالکتریک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تضعیف می‌کند و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روشن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به نظر می‌رسد.» و کاربردش: «تومورهای بدخیم ماگزیلوفاسیال اغلب "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عروق بیشتری از بافت طبیعی اطراف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارند؛ پس ید در عروق این بافت‌ها دانسیته‌شان را بالا و مرزهایشان را آشکارتر می‌کند.» و نیز «به دیدن لنف‌نودهای بزرگ‌شده‌ی حاوی کارسینومای متاستاتیک کمک می‌کند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اعداد ایمنی — که باید بدانی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نرخ واکنش‌های حاد آلرژیک‌مانند یا فیزیولوژیک برای اسمولالیته‌ی پایین «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بسیار پایین است (تقریباً ۰٫۶٪)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» و برای عوامل یونی و غیریونی یکسان — «هرچند عوامل غیریونی نرخ کمتری از واکنش‌های خفیف دارند». بروز واکنش‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تأخیری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (تا یک هفته) از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۵٪ تا ۱۴٪"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آسیب حاد کلیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — القاشده (ظرف "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶ ساعت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") یا مرتبط (ظرف "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۴۸ ساعت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") — «به‌ویژه در بیماران سالمند با نارسایی شدید کلیوی از پیش موجود»."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:27827",
+      "sourceId": "27827",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "11214e49238938c81e57ee42904f9b1753a270d36c3acc916ca2d1405762fcd1",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اسکن حلزونی چه فناوری‌ای لازم دارد و چگونه کار می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اسکن حلزونی چه فناوری‌ای لازم دارد و چگونه کار می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فناوری کولیماسیون الکترونیکی؛ که با تغییر پیوسته‌ی شکل میدان پرتو، حجم را بدون حرکت بیمار پوشش می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فناوری آشکارساز شمارنده‌ی فوتون؛ که با تبدیل مستقیم فوتون به سیگنال، اکتساب پیوسته را بدون نیاز به توقف میان چرخش‌ها و بدون کابل‌کشی میان گانتری و میز ممکن می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فناوری حلقه‌ی لغزان؛ که اکتساب پیوسته‌ی داده در یک حجم سه‌بعدی را با چرخش پیوسته‌ی تیوب و آشکارسازها و جابه‌جایی هم‌زمان بیمار از میان دهانه‌ی گانتری ممکن می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فناوری بازسازی تکراری؛ که با محاسبه‌ی مکرر، داده‌ی غایب میان برش‌های جدا از هم را پُر می‌کند و مسیر حلزونی را بی‌آنکه تیوب یا میز حرکت پیوسته داشته باشند شبیه‌سازی می‌نماید"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "301320bf0079a91943d5763c0ec44bed567cc945b0931db1bcb8a217297a8590",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "فناوری کولیماسیون الکترونیکی؛ که با تغییر پیوسته‌ی شکل میدان پرتو، حجم را بدون حرکت بیمار پوشش می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فناوری کولیماسیون الکترونیکی؛ که با تغییر پیوسته‌ی شکل میدان پرتو، حجم را بدون حرکت بیمار پوشش می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "fcc474c13d976d43df29d4996e7513695657768a4b45fd517f2a998599edc345",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "فناوری آشکارساز شمارنده‌ی فوتون؛ که با تبدیل مستقیم فوتون به سیگنال، اکتساب پیوسته را بدون نیاز به توقف میان چرخش‌ها و بدون کابل‌کشی میان گانتری و میز ممکن می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فناوری آشکارساز شمارنده‌ی فوتون؛ که با تبدیل مستقیم فوتون به سیگنال، اکتساب پیوسته را بدون نیاز به توقف میان چرخش‌ها و بدون کابل‌کشی میان گانتری و میز ممکن می‌سازد"
+            }
+          ]
+        },
+        {
+          "id": "6f109f764d4f551cb80a7c5d2cc58b65a5a0e9589f79fcb27b8b6e384ff422b9",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "فناوری حلقه‌ی لغزان؛ که اکتساب پیوسته‌ی داده در یک حجم سه‌بعدی را با چرخش پیوسته‌ی تیوب و آشکارسازها و جابه‌جایی هم‌زمان بیمار از میان دهانه‌ی گانتری ممکن می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فناوری حلقه‌ی لغزان؛ که اکتساب پیوسته‌ی داده در یک حجم سه‌بعدی را با چرخش پیوسته‌ی تیوب و آشکارسازها و جابه‌جایی هم‌زمان بیمار از میان دهانه‌ی گانتری ممکن می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "c999fd4c89a5354363561e4523ab8c5d9227ed9c238ba3ccc7cac9f8d2eca312",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فناوری بازسازی تکراری؛ که با محاسبه‌ی مکرر، داده‌ی غایب میان برش‌های جدا از هم را پُر می‌کند و مسیر حلزونی را بی‌آنکه تیوب یا میز حرکت پیوسته داشته باشند شبیه‌سازی می‌نماید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فناوری بازسازی تکراری؛ که با محاسبه‌ی مکرر، داده‌ی غایب میان برش‌های جدا از هم را پُر می‌کند و مسیر حلزونی را بی‌آنکه تیوب یا میز حرکت پیوسته داشته باشند شبیه‌سازی می‌نماید"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6f109f764d4f551cb80a7c5d2cc58b65a5a0e9589f79fcb27b8b6e384ff422b9"
+        ],
+        "explanation": "پاسخ درست همین است. بدون حلقه‌ی لغزان، کابل‌ها اجازه‌ی چرخش پیوسته نمی‌دادند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پاسخ درست همین است. بدون حلقه‌ی لغزان، کابل‌ها اجازه‌ی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "چرخش پیوسته"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " نمی‌دادند."
+          }
+        ],
+        "observedAt": "2026-11-17T17:18:25.098Z"
+      }
+    },
+    {
+      "id": "question:27831",
+      "sourceId": "27831",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "8458f2afd7edeeb42812de04215ac106e611fdda0c2730384fcec0cd2c13f193",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "گرفتن چند برش در یک چرخش گانتری چه دو مزیتی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "گرفتن چند برش در یک چرخش گانتری چه دو مزیتی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش دوز پرتو به نصف در هر معاینه؛ و امکان حذف کامل ماده‌ی حاجب در معاینات بافت نرم به‌دلیل تفکیک کنتراستی بسیار بالاتر، به‌طوری که بیمار با نارسایی کلیه هم بی‌هیچ خطری اسکن می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان اسکن سریع‌تر از چند ثانیه تا چند دقیقه که آرتیفکت حرکتی تنفس و پریستالسیس و انقباض قلب را محدود می‌کند؛ و تفکیک فضایی بهتر تا ابعاد زیرمیلی‌متری به کمی ۰٫۱۲۵ تا ۰٫۲۵ میلی‌متر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حذف نیاز به بازسازی نرم‌افزاری؛ و امکان نمایش مستقیم تصویر مقطعی روی نمایشگر بدون هیچ محاسبه‌ای"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "امکان اسکن بدون حرکت میز؛ و بی‌نیازی از فناوری حلقه‌ی لغزان که ساخت دستگاه را ساده‌تر و ارزان‌تر می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ae0bdf166b0ef13d479a1f7c300f3ae48e0daa15f86da74d5d1cd8b1e4f17126",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کاهش دوز پرتو به نصف در هر معاینه؛ و امکان حذف کامل ماده‌ی حاجب در معاینات بافت نرم به‌دلیل تفکیک کنتراستی بسیار بالاتر، به‌طوری که بیمار با نارسایی کلیه هم بی‌هیچ خطری اسکن می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش دوز پرتو به نصف در هر معاینه؛ و امکان حذف کامل ماده‌ی حاجب در معاینات بافت نرم به‌دلیل تفکیک کنتراستی بسیار بالاتر، به‌طوری که بیمار با نارسایی کلیه هم بی‌هیچ خطری اسکن می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "2b30a7b986f98c5c94df1f0f998367395ac5f71d0cef750b024bc6ba27383c2e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "زمان اسکن سریع‌تر از چند ثانیه تا چند دقیقه که آرتیفکت حرکتی تنفس و پریستالسیس و انقباض قلب را محدود می‌کند؛ و تفکیک فضایی بهتر تا ابعاد زیرمیلی‌متری به کمی ۰٫۱۲۵ تا ۰٫۲۵ میلی‌متر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان اسکن سریع‌تر از چند ثانیه تا چند دقیقه که آرتیفکت حرکتی تنفس و پریستالسیس و انقباض قلب را محدود می‌کند؛ و تفکیک فضایی بهتر تا ابعاد زیرمیلی‌متری به کمی ۰٫۱۲۵ تا ۰٫۲۵ میلی‌متر"
+            }
+          ]
+        },
+        {
+          "id": "c6d603821e55f138ab616f3475482cd56eddbb77aa5134916c64e97457f3ca82",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "حذف نیاز به بازسازی نرم‌افزاری؛ و امکان نمایش مستقیم تصویر مقطعی روی نمایشگر بدون هیچ محاسبه‌ای",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حذف نیاز به بازسازی نرم‌افزاری؛ و امکان نمایش مستقیم تصویر مقطعی روی نمایشگر بدون هیچ محاسبه‌ای"
+            }
+          ]
+        },
+        {
+          "id": "73f10f66e23778891ca25f2276c91651f9a87f838a4705fc818a90b6cc40a46d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "امکان اسکن بدون حرکت میز؛ و بی‌نیازی از فناوری حلقه‌ی لغزان که ساخت دستگاه را ساده‌تر و ارزان‌تر می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "امکان اسکن بدون حرکت میز؛ و بی‌نیازی از فناوری حلقه‌ی لغزان که ساخت دستگاه را ساده‌تر و ارزان‌تر می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "2b30a7b986f98c5c94df1f0f998367395ac5f71d0cef750b024bc6ba27383c2e"
+        ],
+        "explanation": "درست گفتی. سرعت «برای بیمارانی که نمی‌توانند نفسشان را نگه دارند و برای بیماران کودک و ترومایی» اهمیت ویژه دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست گفتی. سرعت «برای بیمارانی که نمی‌توانند نفسشان را نگه دارند و برای بیماران "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کودک و ترومایی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "» اهمیت ویژه دارد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:18:32.278Z"
+      }
+    },
+    {
+      "id": "question:27833",
+      "sourceId": "27833",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "9ae5f90ef62cfe853b5972f18108814cf2faa74242e2807a2063d8fd4eaf77e6",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "تیوب MDCT چه مشخصاتی دارد و چرا این خروجی بالا لازم است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تیوب MDCT چه مشخصاتی دارد و چرا این خروجی بالا لازم است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آند چرخان با ظرفیت گرمایی ۸۰۰ واحد؛ معمولاً ۴۰۰ kVp و جریان ۲ mA؛ چون ولتاژ بسیار بالا نفوذ کامل از جمجمه را تضمین می‌کند و جریان پایین گرمای تیوب را مهار می‌نماید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آند ثابت با ظرفیت گرمایی ۲۰٬۰۰۰ واحد، دقیقاً مانند تیوب داخل‌دهانی؛ معمولاً ۷۰ kVp و جریان ۷ mA در کل اسکن؛ چون خروجی پایین دوز بیمار را کمینه می‌کند و نیاز به خنک‌سازی ویژه را برطرف می‌سازد، و kVp پایین کنتراست استخوان و بافت نرم را بیشتر و عمر تیوب را طولانی‌تر می‌کند و مصرف برق دستگاه را پایین نگه می‌دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آند چرخان با ظرفیت گرمایی تا ۸ میلیون واحد در برابر ۲۰٬۰۰۰ واحد تیوب داخل‌دهانی؛ معمولاً ۱۲۰ kVp در دامنه‌ی ۸۰ تا ۱۴۰ و جریان ۲۰۰ تا ۸۰۰ mA؛ چون خروجی بالا زمان اکسپوز را کمینه و نسبت سیگنال به نویز را بهتر می‌کند، و kVp بالا دامنه‌ی دینامیک را گسترده و عمر تیوب را بیشتر می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تیوب MDCT مشخصات ثابتی ندارد و در هر معاینه بر پایه‌ی اندازه‌ی بیمار به‌طور کامل بازتنظیم می‌شود؛ و هیچ دامنه‌ی استانداردی برای آن گزارش نشده است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "70059d95eff5827997375978f449c6d1ec74a12d3eb033aa04e8bd96b2946d3f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "آند چرخان با ظرفیت گرمایی ۸۰۰ واحد؛ معمولاً ۴۰۰ kVp و جریان ۲ mA؛ چون ولتاژ بسیار بالا نفوذ کامل از جمجمه را تضمین می‌کند و جریان پایین گرمای تیوب را مهار می‌نماید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آند چرخان با ظرفیت گرمایی ۸۰۰ واحد؛ معمولاً ۴۰۰ kVp و جریان ۲ mA؛ چون ولتاژ بسیار بالا نفوذ کامل از جمجمه را تضمین می‌کند و جریان پایین گرمای تیوب را مهار می‌نماید"
+            }
+          ]
+        },
+        {
+          "id": "276ea2d169d3b5423af3827e18cf64c87c197922aedf956ba4a32b10d3c3cdb0",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "آند ثابت با ظرفیت گرمایی ۲۰٬۰۰۰ واحد، دقیقاً مانند تیوب داخل‌دهانی؛ معمولاً ۷۰ kVp و جریان ۷ mA در کل اسکن؛ چون خروجی پایین دوز بیمار را کمینه می‌کند و نیاز به خنک‌سازی ویژه را برطرف می‌سازد، و kVp پایین کنتراست استخوان و بافت نرم را بیشتر و عمر تیوب را طولانی‌تر می‌کند و مصرف برق دستگاه را پایین نگه می‌دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آند ثابت با ظرفیت گرمایی ۲۰٬۰۰۰ واحد، دقیقاً مانند تیوب داخل‌دهانی؛ معمولاً ۷۰ kVp و جریان ۷ mA در کل اسکن؛ چون خروجی پایین دوز بیمار را کمینه می‌کند و نیاز به خنک‌سازی ویژه را برطرف می‌سازد، و kVp پایین کنتراست استخوان و بافت نرم را بیشتر و عمر تیوب را طولانی‌تر می‌کند و مصرف برق دستگاه را پایین نگه می‌دارد"
+            }
+          ]
+        },
+        {
+          "id": "3e18cd5c397f810be531370ea2c0eded62fb1d7f9ff567068018bfc2d495af6f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آند چرخان با ظرفیت گرمایی تا ۸ میلیون واحد در برابر ۲۰٬۰۰۰ واحد تیوب داخل‌دهانی؛ معمولاً ۱۲۰ kVp در دامنه‌ی ۸۰ تا ۱۴۰ و جریان ۲۰۰ تا ۸۰۰ mA؛ چون خروجی بالا زمان اکسپوز را کمینه و نسبت سیگنال به نویز را بهتر می‌کند، و kVp بالا دامنه‌ی دینامیک را گسترده و عمر تیوب را بیشتر می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آند چرخان با ظرفیت گرمایی تا ۸ میلیون واحد در برابر ۲۰٬۰۰۰ واحد تیوب داخل‌دهانی؛ معمولاً ۱۲۰ kVp در دامنه‌ی ۸۰ تا ۱۴۰ و جریان ۲۰۰ تا ۸۰۰ mA؛ چون خروجی بالا زمان اکسپوز را کمینه و نسبت سیگنال به نویز را بهتر می‌کند، و kVp بالا دامنه‌ی دینامیک را گسترده و عمر تیوب را بیشتر می‌سازد"
+            }
+          ]
+        },
+        {
+          "id": "d8d74571b1e3af55bd7caafd6612d913c79d1c1440cd249916ffc077c7b8fc6c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تیوب MDCT مشخصات ثابتی ندارد و در هر معاینه بر پایه‌ی اندازه‌ی بیمار به‌طور کامل بازتنظیم می‌شود؛ و هیچ دامنه‌ی استانداردی برای آن گزارش نشده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تیوب MDCT مشخصات ثابتی ندارد و در هر معاینه بر پایه‌ی اندازه‌ی بیمار به‌طور کامل بازتنظیم می‌شود؛ و هیچ دامنه‌ی استانداردی برای آن گزارش نشده است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3e18cd5c397f810be531370ea2c0eded62fb1d7f9ff567068018bfc2d495af6f"
+        ],
+        "explanation": "کاملاً درست. نسبت ۸ میلیون به ۲۰ هزار یعنی ۴۰۰ برابر؛ همین مقایسه، تفاوت دو دنیا را نشان می‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کاملاً درست. نسبت "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۸ میلیون به ۲۰ هزار"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " یعنی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۴۰۰ برابر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ همین مقایسه، تفاوت دو دنیا را نشان می‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:18:40.254Z"
+      }
+    },
+    {
+      "id": "question:27838",
+      "sourceId": "27838",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "b8aaca0508b869c727ef6952d3eb07d1295c9aea2a5363c570dd85e9eb76bf59",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "پیچ چگونه تعریف می‌شود و مقادیر کمتر و بیشتر از یک چه پیامدهایی دارند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پیچ چگونه تعریف می‌شود و مقادیر کمتر و بیشتر از یک چه پیامدهایی دارند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسافت طی‌شده‌ی میز در یک چرخش ۳۶۰ درجه تقسیم بر پهنای کولیماسیون پرتو؛ کمتر از یک یعنی هم‌پوشانی پرتوها، تفکیک بالاتر، اسکن طولانی‌تر و دوز بیشتر؛ و بیشتر از یک یعنی پرتوهای جدا، اسکن سریع‌تر، دوز کمتر و تفکیک کمتر در محور z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پهنای کولیماسیون تقسیم بر مسافت میز؛ کمتر از یک یعنی پرتوهای جدا، اسکن سریع‌تر و دوز کمتر؛ و بیشتر از یک یعنی هم‌پوشانی پرتوها، اسکن طولانی‌تر، دوز بیشتر و تفکیک بهتر در محور z، که برای معاینات استخوانی ماگزیلوفاسیال ترجیح داده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار ردیف‌های آشکارساز تقسیم بر شمار برش‌های بازسازی‌شده؛ و مقادیر کمتر از یک نشان‌دهنده‌ی بینینگ و مقادیر بیشتر از یک نشان‌دهنده‌ی درون‌یابی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان چرخش گانتری تقسیم بر زمان کل اسکن؛ و مقدار آن تنها بر مدت معاینه اثر می‌گذارد نه بر کیفیت تصویر یا دوز بیمار"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "662ac97530220d10f28bb4208393da7c36be1043e42eef732204618bf727e3cc",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مسافت طی‌شده‌ی میز در یک چرخش ۳۶۰ درجه تقسیم بر پهنای کولیماسیون پرتو؛ کمتر از یک یعنی هم‌پوشانی پرتوها، تفکیک بالاتر، اسکن طولانی‌تر و دوز بیشتر؛ و بیشتر از یک یعنی پرتوهای جدا، اسکن سریع‌تر، دوز کمتر و تفکیک کمتر در محور z",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مسافت طی‌شده‌ی میز در یک چرخش ۳۶۰ درجه تقسیم بر پهنای کولیماسیون پرتو؛ کمتر از یک یعنی هم‌پوشانی پرتوها، تفکیک بالاتر، اسکن طولانی‌تر و دوز بیشتر؛ و بیشتر از یک یعنی پرتوهای جدا، اسکن سریع‌تر، دوز کمتر و تفکیک کمتر در محور z"
+            }
+          ]
+        },
+        {
+          "id": "30dfec2449cb8e6a3dccd88aa6a28ae91cfb9e2a4c00533f56c28e5321962b7e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "پهنای کولیماسیون تقسیم بر مسافت میز؛ کمتر از یک یعنی پرتوهای جدا، اسکن سریع‌تر و دوز کمتر؛ و بیشتر از یک یعنی هم‌پوشانی پرتوها، اسکن طولانی‌تر، دوز بیشتر و تفکیک بهتر در محور z، که برای معاینات استخوانی ماگزیلوفاسیال ترجیح داده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پهنای کولیماسیون تقسیم بر مسافت میز؛ کمتر از یک یعنی پرتوهای جدا، اسکن سریع‌تر و دوز کمتر؛ و بیشتر از یک یعنی هم‌پوشانی پرتوها، اسکن طولانی‌تر، دوز بیشتر و تفکیک بهتر در محور z، که برای معاینات استخوانی ماگزیلوفاسیال ترجیح داده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "4844de508e0f026aca4694a9483a57604f4c705aed914be6ac8ed15a0942d6f6",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "شمار ردیف‌های آشکارساز تقسیم بر شمار برش‌های بازسازی‌شده؛ و مقادیر کمتر از یک نشان‌دهنده‌ی بینینگ و مقادیر بیشتر از یک نشان‌دهنده‌ی درون‌یابی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شمار ردیف‌های آشکارساز تقسیم بر شمار برش‌های بازسازی‌شده؛ و مقادیر کمتر از یک نشان‌دهنده‌ی بینینگ و مقادیر بیشتر از یک نشان‌دهنده‌ی درون‌یابی است"
+            }
+          ]
+        },
+        {
+          "id": "1b9bfb2878182e2d16e29e36042cfb5f03de41fa499f3362b63327aebc7ded11",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "زمان چرخش گانتری تقسیم بر زمان کل اسکن؛ و مقدار آن تنها بر مدت معاینه اثر می‌گذارد نه بر کیفیت تصویر یا دوز بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان چرخش گانتری تقسیم بر زمان کل اسکن؛ و مقدار آن تنها بر مدت معاینه اثر می‌گذارد نه بر کیفیت تصویر یا دوز بیمار"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "662ac97530220d10f28bb4208393da7c36be1043e42eef732204618bf727e3cc"
+        ],
+        "explanation": "احسنت. در پیچ برابر یک، «پرتوها پیوسته‌اند و هیچ هم‌پوشانی میان برش‌ها نیست». یک مصالحه‌ی ساده: کیفیت در برابر دوز و زمان.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "احسنت. در "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پیچ برابر یک"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، «پرتوها پیوسته‌اند و هیچ هم‌پوشانی میان برش‌ها نیست». یک مصالحه‌ی ساده: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کیفیت در برابر دوز و زمان"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-17T17:18:47.850Z"
+      }
+    },
+    {
+      "id": "question:27840",
+      "sourceId": "27840",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "8123e6898d0d82527ca77ae517222293b84a51914a1e1a6be7285c58e370269b",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کرنل‌ها در چه مرحله‌ای اعمال می‌شوند و افزودن بازسازی‌های بیشتر چه هزینه‌ای دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کرنل‌ها در چه مرحله‌ای اعمال می‌شوند و افزودن بازسازی‌های بیشتر چه هزینه‌ای دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در مرحله‌ی نمایش و به‌صورت تنظیم پهنا و مرکز پنجره اعمال می‌شوند؛ و چون داده‌ی زیرین هیچ تغییری نمی‌کند، ارزیابی جداگانه‌ی هر بازسازی لازم نیست و یک سری تصویر برای همه‌ی وظایف تشخیصی کافی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به تصویر نهایی پس از بازسازی اعمال می‌شوند؛ و هر بازسازی افزوده نیازمند یک اسکن جداگانه و در نتیجه دوز افزوده برای بیمار است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش از اکسپوز و در تنظیمات دستگاه انتخاب می‌شوند؛ و تغییر کرنل پس از اسکن ممکن نیست و نیازمند تکرار کامل معاینه است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به داده‌ی اصلی سینوگرام و پیش از بک‌پروجکشن اعمال می‌شوند و هر بازسازی باید جداگانه ارزیابی شود؛ و افزودن بازسازی بیشتر تنها زمان ساخت را افزایش می‌دهد و هیچ اثری بر دوز بیمار ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "fcc9a67e113758bbbbe3370ba1dbefd18835976f2747d9e9c511372128486eeb",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "در مرحله‌ی نمایش و به‌صورت تنظیم پهنا و مرکز پنجره اعمال می‌شوند؛ و چون داده‌ی زیرین هیچ تغییری نمی‌کند، ارزیابی جداگانه‌ی هر بازسازی لازم نیست و یک سری تصویر برای همه‌ی وظایف تشخیصی کافی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در مرحله‌ی نمایش و به‌صورت تنظیم پهنا و مرکز پنجره اعمال می‌شوند؛ و چون داده‌ی زیرین هیچ تغییری نمی‌کند، ارزیابی جداگانه‌ی هر بازسازی لازم نیست و یک سری تصویر برای همه‌ی وظایف تشخیصی کافی است"
+            }
+          ]
+        },
+        {
+          "id": "f3ea53f29ba3599c1370b670b47791bdacb22c04fc53d3034f29a04dc85a83f8",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "به تصویر نهایی پس از بازسازی اعمال می‌شوند؛ و هر بازسازی افزوده نیازمند یک اسکن جداگانه و در نتیجه دوز افزوده برای بیمار است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به تصویر نهایی پس از بازسازی اعمال می‌شوند؛ و هر بازسازی افزوده نیازمند یک اسکن جداگانه و در نتیجه دوز افزوده برای بیمار است"
+            }
+          ]
+        },
+        {
+          "id": "8a4c2ecc38a69c737325512f4e96816574405eafcfcfc963b931758d0fec5d43",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "پیش از اکسپوز و در تنظیمات دستگاه انتخاب می‌شوند؛ و تغییر کرنل پس از اسکن ممکن نیست و نیازمند تکرار کامل معاینه است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پیش از اکسپوز و در تنظیمات دستگاه انتخاب می‌شوند؛ و تغییر کرنل پس از اسکن ممکن نیست و نیازمند تکرار کامل معاینه است"
+            }
+          ]
+        },
+        {
+          "id": "84af8b3ba990f3e99984999f040541c5ceed19c839e973947a8251599b84594e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "به داده‌ی اصلی سینوگرام و پیش از بک‌پروجکشن اعمال می‌شوند و هر بازسازی باید جداگانه ارزیابی شود؛ و افزودن بازسازی بیشتر تنها زمان ساخت را افزایش می‌دهد و هیچ اثری بر دوز بیمار ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به داده‌ی اصلی سینوگرام و پیش از بک‌پروجکشن اعمال می‌شوند و هر بازسازی باید جداگانه ارزیابی شود؛ و افزودن بازسازی بیشتر تنها زمان ساخت را افزایش می‌دهد و هیچ اثری بر دوز بیمار ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "84af8b3ba990f3e99984999f040541c5ceed19c839e973947a8251599b84594e"
+        ],
+        "explanation": "همین را می‌خواستیم. همین است که پروتکل‌های MDCT می‌توانند چند بازسازی از یک اسکن بسازند، بدون هزینه‌ی پرتویی افزوده.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین را می‌خواستیم. همین است که پروتکل‌های MDCT می‌توانند "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "چند بازسازی از یک اسکن"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " بسازند، بدون هزینه‌ی پرتویی افزوده."
+          }
+        ],
+        "observedAt": "2026-11-17T17:18:55.203Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:4f360c9f58af9d8516a1187429c91b42704bf431bb722381e6bda1397febc1f4",
+      "at": "2026-11-17T17:17:47.174Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:9560cf356c96c3f6dcfb2673aee75cad76dafaa62fe94a4c908486a26d6a5bc9",
+      "at": "2026-11-17T17:17:49.109Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:27827",
+      "at": "2026-11-17T17:17:50.751Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:27831",
+      "at": "2026-11-17T17:18:26.714Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:27833",
+      "at": "2026-11-17T17:18:33.897Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:27838",
+      "at": "2026-11-17T17:18:41.866Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:27840",
+      "at": "2026-11-17T17:18:49.455Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

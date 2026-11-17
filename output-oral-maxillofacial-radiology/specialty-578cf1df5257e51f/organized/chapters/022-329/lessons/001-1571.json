@@ -1,0 +1,2684 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1571/lesson.json",
+  "id": "1571",
+  "title": "درس اول: دستگاه CBCT — یک چرخش، یک حجم",
+  "specialtyKey": "578cf1df5257e51f",
+  "chapter": {
+    "id": "329",
+    "title": "CBCT، آرتیفکت و انتخاب مودالیته",
+    "position": 22
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:79e422b2ea4fcf149417c5ecd2f271e85c2f832731b19a2461b56a3b80ac3bd8",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "ed7d22c045002b13419c57374362166da4add6f06dd742f9453bf0cc31d67efa",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خاستگاه، هندسه و تصاویر پایه"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "CBCT از جای دیگری آمد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «در اصل برای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آنژیوگرافی در اوایل دهه‌ی ۱۹۸۰"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " توسعه یافت و سپس در دیگر رشته‌های پزشکی — مانند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رادیوتراپی و ماموگرافی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — به کار رفت.» و به دندانپزشکی دیر رسید: «نخستین واحدهای دندانی و ماگزیلوفاسیال در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اواخر دهه‌ی ۱۹۹۰ در اروپا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و سپس در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اوایل دهه‌ی ۲۰۰۰ در ایالات متحده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تجاری شدند.»"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-6.webp",
+                  "alt": "دستگاه‌های CBCT و تفاوت‌های عملیاتی‌شان",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/bdaf7134bd08379d298a5952ad267e18f5cdb386d3b19a48b0b56a31811e4fe9.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دستگاه‌های CBCT و تفاوت‌های عملیاتی‌شان "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.6)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و امروز بازارش گسترده است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تقریباً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵۰ سازنده‌ی دستگاه CBCT دندانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با بیش از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰۰ مدل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در دسترس.» و علت گسترشش روشن است: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش بها و ردپای فیزیکی کوچک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» که آن را به «یک روش تصویربرداری "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درون‌مطبی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» تبدیل کرده است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و هندسه‌ی کارش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تصویربرداری CBCT با یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سکوی چرخان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " انجام می‌شود که پرتو و آشکارساز روی آن با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاصله‌ی ثابت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از هم قرار دارند.» یک منبع پرتو "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هرمی یا مخروطی واگرا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از میان ناحیه‌ی مورد نظر می‌تابد و پرتو تضعیف‌شده روی یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آشکارساز سطحی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در سمت مقابل می‌افتد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک تفاوت بنیادی با MDCT که همه‌چیز را ساده می‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برخلاف MDCT، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار مورد تصویربرداری حرکت نمی‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» منبع و آشکارساز گرد یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکیه‌گاه چرخش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌چرخند که «در مرکز ناحیه‌ی مورد نظر ثابت است» — و همین تکیه‌گاه «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مرکز حجم نهایی تصویربرداری‌شده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تصاویر پایه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در طول چرخش، «چند تصویر پروجکشن مسطح متوالی» در کمانی از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۸۰ درجه یا بیشتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " گرفته می‌شود. این تصاویر «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داده‌ی اولیه‌ی خام"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» را می‌سازند و جداگانه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصویر پایه، فریم، یا تصویر خام"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شوند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ظاهرشان جالب است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تصاویر پایه مانند رادیوگرافی‌های سفالومتریک به نظر می‌رسند، تنها هرکدام "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندکی نسبت به بعدی جابه‌جا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " شده است.» معمولاً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چند صد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تصویر پایه وجود دارد، و کل مجموعه «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داده‌ی پروجکشن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» نامیده می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک مصالحه‌ی کلیدی که در سراسر CBCT تکرار می‌شود:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «شمار پروجکشن‌ها و فاصله‌ی زاویه‌ای میانشان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعیین‌کننده‌های مهم کیفیت تصویر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "اند. افزایش شمار پروجکشن‌های پایه کیفیت تصویر را بالا می‌برد، ولی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز پرتو بیمار را هم افزایش می‌دهد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» و صنعت از همین استفاده می‌کند: «بسیاری از دستگاه‌ها پروتکل‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کم‌دوز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش شمار زوایای پروجکشن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فراهم می‌کنند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا یک چرخش کافی است؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «فقط یک توالی چرخشی گانتری با ۱۸۰ درجه یا بیشتر برای CBCT لازم است تا داده‌ی کافی برای ساخت تصویر حجمی به دست آید، چون "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کل میدان دید هم‌زمان تابانده می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:227b69f8eb608b186e2c65e7cb910a09bd1cf8106a54d259c1af2dd4b5abecf5",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "8ccca6468708e55525e1e8707f441e67bd9dcbd65d20c8487729c794c344ca1e",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دستگاه، منبع، آشکارساز و وضعیت بیمار"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیکربندی دستگاه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " CBCTها می‌توانند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اختصاصی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشند یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیبرید چندمودالیته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «که رادیوگرافی پانورامیک و سفالومتریک دیجیتال را با یک CBCT با FOV کوچک تا متوسط ترکیب می‌کنند»."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-10.webp",
+                  "alt": "پنل کنترل یک دستگاه CBCT",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/8b70745fe96a9b0b7f170cfbd1ccb8b10a5c132fcf347a3e1f15f9acd97a9dbd.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پنل کنترل یک دستگاه CBCT "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.10)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و در بیشتر دستگاه‌ها،"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " منبع و آشکارساز روی یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بازوی C"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سوارند «که گرد یک محور ثابت در مرکز ناحیه‌ی مورد نظر می‌چرخد». کمان چرخش «به‌طور آرمانی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۶۰ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است ولی می‌تواند از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۸۰ تا ۲۷۰ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تغییر کند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و برخی دستگاه‌ها با آشکارساز کوچک، دو یا چند اسکن پیاپی می‌گیرند و داده را «ثبت و به هم می‌دوزند» تا FOV بزرگ‌تری بسازند — «در این موارد، چرخش بیمار می‌تواند تا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۷۲۰ درجه یا بیشتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برسد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و زمان اسکن:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «به‌طور میانگین حدود "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۸ ثانیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (دامنه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵ تا ۵۵ ثانیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ")، بسته به مدل و پروتکل انتخابی.» و یک تمایز مهم: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان اسکن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فاصله‌ی میان نخستین و آخرین تصویر پایه است و با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان اکسپوز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — دوره‌ای که بیمار واقعاً در معرض پرتوست — تفاوت دارد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و وضعیت بیمار — با آمار:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بیشتر دستگاه‌ها ("
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸۰٪"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") بیمار را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایستاده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اسکن می‌کنند، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۷٪ نشسته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و اندکی ("
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳٪"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خوابیده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و هر وضعیت مصالحه‌ی خودش را دارد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دستگاه‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خوابیده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «از نظر فیزیکی بزرگ‌ترند، ردپای بیشتری دارند، و ممکن است برای بیماران با برخی ناتوانی‌های جسمی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در دسترس نباشند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»، دستگاه‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایستاده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «ممکن است نتوانند به‌اندازه‌ی کافی پایین بیایند تا بیماران "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ویلچرنشین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را جا دهند»، و دستگاه‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نشسته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «راحت‌ترین‌اند، ولی ممکن است اجازه‌ی اسکن بیماران ناتوان یا ویلچرنشین را ندهند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک اصل عملی که بر همه مقدم است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «در همه‌ی سامانه‌ها، بی‌حرکت کردن سر بیمار مهم‌تر از وضعیت‌دهی اوست، چون "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر حرکت سر تصویر نهایی را تخریب می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» ابزارش: ترکیبی از چین‌کاپ، بایت فورک، یا مهارکننده‌های دیگر سر."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پرتو CBCT بسیار ساده‌تر از MDCT است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیشتر دستگاه‌ها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "kVp قابل تنظیم (۸۰ تا ۱۲۰)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "mA (۱ تا ۳۲)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارند، و «بیشترشان در انتهای پایین این دامنه‌ها کار می‌کنند که تفاوت چندانی با پارامترهای دستگاه پانورامیک ندارد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو تفاوت فنی مهم با MDCT:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اندازه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لکه‌ی کانونی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " CBCT (دامنه‌ی اسمی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۱۵ تا ۰٫۷ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") معمولاً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کوچک‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از MDCT ("
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۵ تا ۰٫۸ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") است، ولی «برخلاف MDCT، در بیشتر سامانه‌های CBCT "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آند ثابت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تولید پرتو، پیوسته یا پالسی؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تولید پرتو می‌تواند پیوسته باشد ولی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اغلب پالسی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است تا با فعال‌سازی و نمونه‌برداری آشکارساز هم‌زمان شود.» و مزیتش روشن است: «یعنی زمان واقعی اکسپوز می‌تواند به‌مراتب کمتر از زمان اسکن باشد، که دوز پرتو بیمار را به‌طور چشمگیری کاهش می‌دهد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و آشکارساز:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «همه‌ی دستگاه‌های امروزی CBCT از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آشکارسازهای پنل تخت آرایه‌ی دوبعدی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " استفاده می‌کنند.» اینها آشکارسازهای «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غیرمستقیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»اند: یک پنل حالت جامد سطح بزرگ که به یک لایه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سینتیلاتور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " جفت شده. شایع‌ترین پیکربندی: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یدید سزیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " روی یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترانزیستور لایه‌نازک از سیلیکون آمورف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". فوتودیودها «باری متناسب با انرژی پرتو فرودی» تولید می‌کنند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و عمق بیت آشکارساز:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «دامنه‌ی سایه‌های خاکستری ثبت‌شده "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق بیت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شود و برای پنل‌های تخت CBCT از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸ بیت (۲۵۶ سایه)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۶ بیت (۶۵٬۵۳۶ سایه)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۴ بیت (۱۶٬۳۸۴ سایه)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به‌عنوان شایع‌ترین.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نرخ فریم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ":"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " چون چرخش «در زمانی برابر یا کمتر از رادیوگرافی پانورامیک ("
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از ۵ ثانیه تا حدود ۲۰ ثانیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ")» انجام می‌شود، «هر تصویر پایه در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میلی‌ثانیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " گرفته و ارسال می‌شود، و این "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چند صد بار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در یک چرخش اکسپوز رخ می‌دهد». و «سرعتی که آشکارساز این اکتساب را انجام می‌دهد "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نرخ فریم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شود»."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:27882",
+      "sourceId": "27882",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "aff4838665bd2f3df5519a64df097ff08866c1b2c40e99378a10cb124e05a54f",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چه چیزی CBCT را به یک روش تصویربرداری درون‌مطبی تبدیل کرده است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چه چیزی CBCT را به یک روش تصویربرداری درون‌مطبی تبدیل کرده است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش بها و ردپای فیزیکی کوچک دستگاه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقت کمی‌سازی بالاتر از MDCT در چگالی استخوان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تفکیک کنتراستی برتر آن برای ضایعات بافت نرم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز پرتو صفر و بی‌نیازی از ملاحظات حفاظتی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "bdad2d1bfaf7ab545302da1f9267b8e8191b16803a2807b869cf818b03a590d6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کاهش بها و ردپای فیزیکی کوچک دستگاه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش بها و ردپای فیزیکی کوچک دستگاه"
+            }
+          ]
+        },
+        {
+          "id": "62fc609ecb55b1304eda573b227c45240ed6d8a6f488622fae1a76b8645eabae",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دقت کمی‌سازی بالاتر از MDCT در چگالی استخوان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دقت کمی‌سازی بالاتر از MDCT در چگالی استخوان"
+            }
+          ]
+        },
+        {
+          "id": "17d944acce952ef041723bd30ddfdf14de1603bdf05e6a3fac2f1a1aae4319b1",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تفکیک کنتراستی برتر آن برای ضایعات بافت نرم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تفکیک کنتراستی برتر آن برای ضایعات بافت نرم"
+            }
+          ]
+        },
+        {
+          "id": "c9d4cd77993c0596447a01832f3ee36fafcd7f1655d3051c2cad97dc59ffe0e6",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دوز پرتو صفر و بی‌نیازی از ملاحظات حفاظتی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دوز پرتو صفر و بی‌نیازی از ملاحظات حفاظتی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "bdad2d1bfaf7ab545302da1f9267b8e8191b16803a2807b869cf818b03a590d6"
+        ],
+        "explanation": "دقیقاً. امروز «تقریباً ۵۰ سازنده با بیش از ۲۰۰ مدل» در بازار هست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً. امروز «تقریباً "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۵۰ سازنده"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " با بیش از "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۲۰۰ مدل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "» در بازار هست."
+          }
+        ],
+        "observedAt": "2026-11-17T17:21:31.072Z"
+      }
+    },
+    {
+      "id": "question:27886",
+      "sourceId": "27886",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "91153182d4a5c678dcc30a7727e76084e6972b721d9a7c24b2612ae7a4ce0224",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "شمار تصاویر پایه چه اثری دارد و صنعت چگونه از آن استفاده می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شمار تصاویر پایه چه اثری دارد و صنعت چگونه از آن استفاده می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار پروجکشن‌ها در همه‌ی دستگاه‌ها ثابت و غیرقابل تغییر است؛ و تنها راه کاهش دوز، کاهش کیلوولتاژ است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار پروجکشن‌ها تنها بر زمان بازسازی اثر دارد و هیچ ارتباطی با کیفیت تصویر یا دوز بیمار ندارد؛ پس افزایش آن رایگان است و همیشه توصیه می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش شمار پروجکشن‌ها دوز را کاهش می‌دهد چون هر پروجکشن با اکسپوز به‌مراتب کمتری گرفته می‌شود و نویز هر فریم در بازسازی میانگین‌گیری و خنثی می‌شود؛ و پروتکل‌های کم‌دوز از افزایش شمار زوایا همراه با کاهش mA هر پروجکشن بهره می‌گیرند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار پروجکشن‌ها و فاصله‌ی زاویه‌ای میانشان تعیین‌کننده‌های مهم کیفیت تصویرند؛ افزایش شمار کیفیت را بالا می‌برد ولی دوز را هم افزایش می‌دهد، و بسیاری از دستگاه‌ها پروتکل‌های کم‌دوز را با کاهش شمار زوایای پروجکشن فراهم می‌کنند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4b8faa13cb5181d42a085fd8e8c9981e8d1058d9996bc85737ec2a52617e8727",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "شمار پروجکشن‌ها در همه‌ی دستگاه‌ها ثابت و غیرقابل تغییر است؛ و تنها راه کاهش دوز، کاهش کیلوولتاژ است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شمار پروجکشن‌ها در همه‌ی دستگاه‌ها ثابت و غیرقابل تغییر است؛ و تنها راه کاهش دوز، کاهش کیلوولتاژ است"
+            }
+          ]
+        },
+        {
+          "id": "7c9f7ae1a89573e44b51ded9ad0e1a2b5eec3069dcaceaa0e9afae93c1743f18",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "شمار پروجکشن‌ها تنها بر زمان بازسازی اثر دارد و هیچ ارتباطی با کیفیت تصویر یا دوز بیمار ندارد؛ پس افزایش آن رایگان است و همیشه توصیه می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شمار پروجکشن‌ها تنها بر زمان بازسازی اثر دارد و هیچ ارتباطی با کیفیت تصویر یا دوز بیمار ندارد؛ پس افزایش آن رایگان است و همیشه توصیه می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "1217b1434ac0cdef7bcfe52ed4bd75e6f1e55c5c8cfe78e94e5dbc81560bf47d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "افزایش شمار پروجکشن‌ها دوز را کاهش می‌دهد چون هر پروجکشن با اکسپوز به‌مراتب کمتری گرفته می‌شود و نویز هر فریم در بازسازی میانگین‌گیری و خنثی می‌شود؛ و پروتکل‌های کم‌دوز از افزایش شمار زوایا همراه با کاهش mA هر پروجکشن بهره می‌گیرند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش شمار پروجکشن‌ها دوز را کاهش می‌دهد چون هر پروجکشن با اکسپوز به‌مراتب کمتری گرفته می‌شود و نویز هر فریم در بازسازی میانگین‌گیری و خنثی می‌شود؛ و پروتکل‌های کم‌دوز از افزایش شمار زوایا همراه با کاهش mA هر پروجکشن بهره می‌گیرند"
+            }
+          ]
+        },
+        {
+          "id": "3faf697d8baea9ead4e0fe92e3014f09bfa4b5f17f3a461881a656702a459ccb",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "شمار پروجکشن‌ها و فاصله‌ی زاویه‌ای میانشان تعیین‌کننده‌های مهم کیفیت تصویرند؛ افزایش شمار کیفیت را بالا می‌برد ولی دوز را هم افزایش می‌دهد، و بسیاری از دستگاه‌ها پروتکل‌های کم‌دوز را با کاهش شمار زوایای پروجکشن فراهم می‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شمار پروجکشن‌ها و فاصله‌ی زاویه‌ای میانشان تعیین‌کننده‌های مهم کیفیت تصویرند؛ افزایش شمار کیفیت را بالا می‌برد ولی دوز را هم افزایش می‌دهد، و بسیاری از دستگاه‌ها پروتکل‌های کم‌دوز را با کاهش شمار زوایای پروجکشن فراهم می‌کنند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3faf697d8baea9ead4e0fe92e3014f09bfa4b5f17f3a461881a656702a459ccb"
+        ],
+        "explanation": "این مصالحه‌ی محوری CBCT است و بارها به آن برمی‌گردیم: داده‌ی بیشتر، کیفیت بهتر، دوز بیشتر.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مصالحه‌ی محوری CBCT"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است و بارها به آن برمی‌گردیم: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "داده‌ی بیشتر، کیفیت بهتر، دوز بیشتر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-17T17:21:38.245Z"
+      }
+    },
+    {
+      "id": "question:27889",
+      "sourceId": "27889",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "cb2b4df924a01816d70cc710b4fdd73322b393ff0e63ef7d7ab5397ff4afed02",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه درباره‌ی وضعیت بیمار در CBCT درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه درباره‌ی وضعیت بیمار در CBCT درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۸۰ درصد خوابیده، ۱۷ درصد نشسته و ۳ درصد ایستاده؛ و وضعیت‌دهی دقیق از بی‌حرکتی مهم‌تر است چون خطای وضعیت با نرم‌افزار قابل تصحیح نیست ولی حرکت جزئی سر تصحیح می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۸۰ درصد ایستاده، ۱۷ درصد نشسته و ۳ درصد خوابیده؛ و در همه‌ی سامانه‌ها بی‌حرکت کردن سر مهم‌تر از وضعیت‌دهی است چون هر حرکت سر تصویر نهایی را تخریب می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی دستگاه‌های CBCT بیمار را خوابیده اسکن می‌کنند، مانند MDCT، تا دسترسی بیماران ویلچرنشین آسان شود؛ و بی‌حرکتی به‌طور خودکار با وضعیت خوابیده و تکیه‌گاه سر تأمین می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وضعیت بیمار در CBCT اهمیتی ندارد و هر سه حالت ایستاده، نشسته و خوابیده نتیجه‌ی یکسانی می‌دهند؛ و آمار توزیع آن‌ها میان دستگاه‌های موجود در متون گزارش نشده است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "bb32e0f70b8aa9bf91ce59d5877b9e80fb79eaa799497e05e189aca8f82a39e1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حدود ۸۰ درصد خوابیده، ۱۷ درصد نشسته و ۳ درصد ایستاده؛ و وضعیت‌دهی دقیق از بی‌حرکتی مهم‌تر است چون خطای وضعیت با نرم‌افزار قابل تصحیح نیست ولی حرکت جزئی سر تصحیح می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۸۰ درصد خوابیده، ۱۷ درصد نشسته و ۳ درصد ایستاده؛ و وضعیت‌دهی دقیق از بی‌حرکتی مهم‌تر است چون خطای وضعیت با نرم‌افزار قابل تصحیح نیست ولی حرکت جزئی سر تصحیح می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "e86d63d36542befd15197fbe382c5fd572ba824ced2cb092474b5fea182a8ebd",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "حدود ۸۰ درصد ایستاده، ۱۷ درصد نشسته و ۳ درصد خوابیده؛ و در همه‌ی سامانه‌ها بی‌حرکت کردن سر مهم‌تر از وضعیت‌دهی است چون هر حرکت سر تصویر نهایی را تخریب می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۸۰ درصد ایستاده، ۱۷ درصد نشسته و ۳ درصد خوابیده؛ و در همه‌ی سامانه‌ها بی‌حرکت کردن سر مهم‌تر از وضعیت‌دهی است چون هر حرکت سر تصویر نهایی را تخریب می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "59f81010dc30202ad4af38e2e18fe964fe26864b7ee5923e6a659d5d5955e6a5",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "همه‌ی دستگاه‌های CBCT بیمار را خوابیده اسکن می‌کنند، مانند MDCT، تا دسترسی بیماران ویلچرنشین آسان شود؛ و بی‌حرکتی به‌طور خودکار با وضعیت خوابیده و تکیه‌گاه سر تأمین می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی دستگاه‌های CBCT بیمار را خوابیده اسکن می‌کنند، مانند MDCT، تا دسترسی بیماران ویلچرنشین آسان شود؛ و بی‌حرکتی به‌طور خودکار با وضعیت خوابیده و تکیه‌گاه سر تأمین می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "662fbfb6440d0fc1172047bbb4880e791f6e730800abbf68f98fe1da28252223",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "وضعیت بیمار در CBCT اهمیتی ندارد و هر سه حالت ایستاده، نشسته و خوابیده نتیجه‌ی یکسانی می‌دهند؛ و آمار توزیع آن‌ها میان دستگاه‌های موجود در متون گزارش نشده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وضعیت بیمار در CBCT اهمیتی ندارد و هر سه حالت ایستاده، نشسته و خوابیده نتیجه‌ی یکسانی می‌دهند؛ و آمار توزیع آن‌ها میان دستگاه‌های موجود در متون گزارش نشده است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e86d63d36542befd15197fbe382c5fd572ba824ced2cb092474b5fea182a8ebd"
+        ],
+        "explanation": "درست انتخاب کردی — هر وضعیت مصالحه‌ای در دسترس‌پذیری بیماران ناتوان و ویلچرنشین دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست انتخاب کردی — هر وضعیت مصالحه‌ای در "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دسترس‌پذیری بیماران ناتوان و ویلچرنشین"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " دارد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:21:45.271Z"
+      }
+    },
+    {
+      "id": "question:27890",
+      "sourceId": "27890",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "58724c9a546fbbf92d537c618578a657deed5c5d3c79102475b74871539fedf4",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "منبع پرتو CBCT چه مشخصاتی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "منبع پرتو CBCT چه مشخصاتی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "kVp قابل تنظیم در دامنه‌ی ۸۰ تا ۱۲۰ و mA در دامنه‌ی ۱ تا ۳۲، با کارکرد بیشتر دستگاه‌ها در انتهای پایین این دامنه‌ها که تفاوت چندانی با دستگاه پانورامیک ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "kVp ثابت ۱۲۰ و mA در دامنه‌ی ۲۰۰ تا ۸۰۰، مانند MDCT؛ و به همین دلیل به تیوب با آند چرخان و ظرفیت گرمایی بسیار بالا و ژنراتوری پرقدرت جدا از دستگاه پانورامیک نیاز دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "kVp در دامنه‌ی ۴۰ تا ۶۰ و mA کمتر از یک؛ و به همین دلیل دوز آن عملاً صفر و بی‌نیاز از ملاحظات حفاظتی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "kVp و mA در CBCT قابل تنظیم نیستند و در همه‌ی دستگاه‌ها ثابت‌اند؛ و تنها پارامتر قابل تغییر، اندازه‌ی میدان دید است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "cdbbddaab97d31f9c358ce1820e80fddb7ddf4ce90e2505ba48d318a15b14558",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "kVp قابل تنظیم در دامنه‌ی ۸۰ تا ۱۲۰ و mA در دامنه‌ی ۱ تا ۳۲، با کارکرد بیشتر دستگاه‌ها در انتهای پایین این دامنه‌ها که تفاوت چندانی با دستگاه پانورامیک ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "kVp قابل تنظیم در دامنه‌ی ۸۰ تا ۱۲۰ و mA در دامنه‌ی ۱ تا ۳۲، با کارکرد بیشتر دستگاه‌ها در انتهای پایین این دامنه‌ها که تفاوت چندانی با دستگاه پانورامیک ندارد"
+            }
+          ]
+        },
+        {
+          "id": "7ec4489143dd7d73d4425a50d69d6a713bf9389f65f609074b05bb8c5bfe1067",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "kVp ثابت ۱۲۰ و mA در دامنه‌ی ۲۰۰ تا ۸۰۰، مانند MDCT؛ و به همین دلیل به تیوب با آند چرخان و ظرفیت گرمایی بسیار بالا و ژنراتوری پرقدرت جدا از دستگاه پانورامیک نیاز دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "kVp ثابت ۱۲۰ و mA در دامنه‌ی ۲۰۰ تا ۸۰۰، مانند MDCT؛ و به همین دلیل به تیوب با آند چرخان و ظرفیت گرمایی بسیار بالا و ژنراتوری پرقدرت جدا از دستگاه پانورامیک نیاز دارد"
+            }
+          ]
+        },
+        {
+          "id": "e2ac7ef901c958cd381a8437ccf5ec2b57734b9dbe3b5271ba6b84a034ad2087",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "kVp در دامنه‌ی ۴۰ تا ۶۰ و mA کمتر از یک؛ و به همین دلیل دوز آن عملاً صفر و بی‌نیاز از ملاحظات حفاظتی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "kVp در دامنه‌ی ۴۰ تا ۶۰ و mA کمتر از یک؛ و به همین دلیل دوز آن عملاً صفر و بی‌نیاز از ملاحظات حفاظتی است"
+            }
+          ]
+        },
+        {
+          "id": "fc6db5f15643d1d989ef81213e4cc33dcfca0f9a80ba20a173b56510939e8708",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "kVp و mA در CBCT قابل تنظیم نیستند و در همه‌ی دستگاه‌ها ثابت‌اند؛ و تنها پارامتر قابل تغییر، اندازه‌ی میدان دید است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "kVp و mA در CBCT قابل تنظیم نیستند و در همه‌ی دستگاه‌ها ثابت‌اند؛ و تنها پارامتر قابل تغییر، اندازه‌ی میدان دید است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "cdbbddaab97d31f9c358ce1820e80fddb7ddf4ce90e2505ba48d318a15b14558"
+        ],
+        "explanation": "به نکته رسیدی — همین نزدیکی به پانورامیک است که ژنراتور CBCT را چنین ساده می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "به نکته رسیدی — همین "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "نزدیکی به پانورامیک"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است که ژنراتور CBCT را چنین ساده می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-17T17:21:52.585Z"
+      }
+    },
+    {
+      "id": "question:27894",
+      "sourceId": "27894",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "af9b118f2aea8068f207a599941638c1306e4da5b46fee9a879015f32985fcec",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "عمق بیت پنل‌های تخت CBCT چه دامنه‌ای دارد و شایع‌ترینش کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "عمق بیت پنل‌های تخت CBCT چه دامنه‌ای دارد و شایع‌ترینش کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از ۱۶ بیت تا ۳۲ بیت؛ و شایع‌ترین آن ۳۲ بیت است که همان عمق بیت مانیتورهای پزشکی درجه‌ی یک به شمار می‌رود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از ۱ بیت با ۲ سایه تا ۴ بیت با ۱۶ سایه؛ و شایع‌ترین آن ۲ بیت با ۴ سایه است که برای تفکیک بافت سخت کافی به شمار می‌رود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از ۸ بیت با ۲۵۶ سایه تا ۱۶ بیت با ۶۵٬۵۳۶ سایه؛ و شایع‌ترین آن ۱۴ بیت با ۱۶٬۳۸۴ سایه است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق بیت در پنل‌های CBCT تعریف نشده و مفهومی مربوط به نرم‌افزار نمایش است نه سخت‌افزار آشکارساز"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d49891682b3b256965320c7acaee1acbe582377beb4c15d3cad702f59f392427",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "از ۱۶ بیت تا ۳۲ بیت؛ و شایع‌ترین آن ۳۲ بیت است که همان عمق بیت مانیتورهای پزشکی درجه‌ی یک به شمار می‌رود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از ۱۶ بیت تا ۳۲ بیت؛ و شایع‌ترین آن ۳۲ بیت است که همان عمق بیت مانیتورهای پزشکی درجه‌ی یک به شمار می‌رود"
+            }
+          ]
+        },
+        {
+          "id": "6925c5207dbc0e85ac3d7f90bc0b0ba2876ec1a42fdb64020aceda39f6958ebd",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "از ۱ بیت با ۲ سایه تا ۴ بیت با ۱۶ سایه؛ و شایع‌ترین آن ۲ بیت با ۴ سایه است که برای تفکیک بافت سخت کافی به شمار می‌رود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از ۱ بیت با ۲ سایه تا ۴ بیت با ۱۶ سایه؛ و شایع‌ترین آن ۲ بیت با ۴ سایه است که برای تفکیک بافت سخت کافی به شمار می‌رود"
+            }
+          ]
+        },
+        {
+          "id": "a1d911737242c508d411dc29e38efc920d627532982dd3b2d5c405a2d3e5aef4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "از ۸ بیت با ۲۵۶ سایه تا ۱۶ بیت با ۶۵٬۵۳۶ سایه؛ و شایع‌ترین آن ۱۴ بیت با ۱۶٬۳۸۴ سایه است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از ۸ بیت با ۲۵۶ سایه تا ۱۶ بیت با ۶۵٬۵۳۶ سایه؛ و شایع‌ترین آن ۱۴ بیت با ۱۶٬۳۸۴ سایه است"
+            }
+          ]
+        },
+        {
+          "id": "5fd14b0bff90cadec46556c80559a15266294acfdd0cfa321d2d33f273fd6df0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "عمق بیت در پنل‌های CBCT تعریف نشده و مفهومی مربوط به نرم‌افزار نمایش است نه سخت‌افزار آشکارساز",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عمق بیت در پنل‌های CBCT تعریف نشده و مفهومی مربوط به نرم‌افزار نمایش است نه سخت‌افزار آشکارساز"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a1d911737242c508d411dc29e38efc920d627532982dd3b2d5c405a2d3e5aef4"
+        ],
+        "explanation": "عالی — عمق بیت همان «دامنه‌ی سایه‌های خاکستری ثبت‌شده» است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "عالی — عمق بیت همان «"
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دامنه‌ی سایه‌های خاکستری ثبت‌شده"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "» است."
+          }
+        ],
+        "observedAt": "2026-11-17T17:21:59.617Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:79e422b2ea4fcf149417c5ecd2f271e85c2f832731b19a2461b56a3b80ac3bd8",
+      "at": "2026-11-17T17:20:58.665Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:227b69f8eb608b186e2c65e7cb910a09bd1cf8106a54d259c1af2dd4b5abecf5",
+      "at": "2026-11-17T17:21:00.770Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:27882",
+      "at": "2026-11-17T17:21:02.385Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:27886",
+      "at": "2026-11-17T17:21:32.686Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:27889",
+      "at": "2026-11-17T17:21:39.734Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:27890",
+      "at": "2026-11-17T17:21:46.885Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:27894",
+      "at": "2026-11-17T17:21:54.199Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

@@ -1,0 +1,2734 @@
+{
+  "schemaVersion": 3,
+  "id": "1612",
+  "sourceUrl": "https://app.dentigoapp.com/fa/lesson/1612",
+  "title": "درس دوم: کنترل‌های دستگاه",
+  "specialtyKey": "578cf1df5257e51f",
+  "specialtyName": "رادیولوژی دهان، فک و صورت",
+  "chapterId": "337",
+  "chapterTitle": "حالا بفهم چرا، ماهیت پرتو و دستگاه پرتو ایکس",
+  "chapterPosition": 29,
+  "lessonPosition": 2,
+  "runId": "2026-11-17T14-53-57-014Z",
+  "startedAt": "2026-11-17T18:12:40.662Z",
+  "updatedAt": "2026-11-17T18:14:24.157Z",
+  "status": "captured",
+  "steps": [
+    {
+      "id": "theory:885bb21dc8f266876c66dfa9d4e4ac86f9165a975b9006554f5fe56a203255a7",
+      "position": 1,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 0%;",
+      "questionType": "unknown",
+      "title": "درس ۲: کنترل‌های دستگاه",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "منبع تغذیه، جریان و ولتاژ لوله"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو وظیفه‌ی اصلی ترانسفورمرهای منبع تغذیه:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-1-10.webp",
+                  "alt": "شماتیک مدار دستگاه پرتو ایکس دندانی و اجزای اصلی لوله",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/93a9eba5841f68b6d2ebc2a80131b8a91aea8272c511c77a0135e2e2c1aebdb3.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شماتیک مدار دستگاه پرتو ایکس دندانی و اجزای اصلی لوله "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 1.10)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«فراهم کردن یک "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "جریان ولتاژ پایین برای گرم کردن فیلامان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " لوله» — "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ترانسفورمر فیلامان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«تولید یک اختلاف پتانسیل بالا برای شتاب دادن الکترون‌ها از کاتد به نقطه‌ی کانونی روی آند» — "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ترانسفورمر ولتاژ بالا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و همه‌ی این‌ها کجایند؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «لوله و دو ترانسفورمر درون یک محفظه‌ی فلزی زمین‌شده‌ی الکتریکی به نام هد دستگاه قرار دارند.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "جریان لوله — میلی‌آمپر"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعریفش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «حین تولید پرتو ایکس، الکترون‌های تولیدشده در فیلامان به آند جذب می‌شوند. این "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جریان الکترون از کاتد به آند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، یک جریان در سراسر لوله می‌سازد که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جریان لوله"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چگونه تنظیم می‌شود؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بزرگی این جریان با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنترل میلی‌آمپر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تنظیم می‌شود، که مقاومت و جریان عبوری از فیلامان را تنظیم می‌کند و بدین‌سان شمار الکترون‌های تولیدشده را تنظیم می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اعداد واقعی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برای بسیاری از دستگاه‌های داخل‌دهانی، تنظیم mA "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثابت است، به‌طور معمول ۷ تا ۱۰ میلی‌آمپر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". برخی واحدها انعطاف انتخاب تنظیمات mA را می‌دهند، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از ۲ تا ۱۰ میلی‌آمپر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ولتاژ لوله — کیلوولتاژ"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرا لازم است؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «ولتاژ بالایی میان آند و کاتد لازم است تا به الکترون‌ها انرژی کافی برای تولید پرتو ایکس بدهد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چگونه کار می‌کند؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «انتخابگر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کیلوولت پیک (kVp)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ترانسفورمر ولتاژ بالا را تنظیم می‌کند تا ولتاژ پیک جریان ورودی خط (۱۱۰ یا ۲۲۰ ولت) را بالا ببرد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و محدوده‌های کاری:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «به‌طور معمول، دستگاه‌های داخل‌دهانی، پانورامیک و سفالومتریک میان ۵۰ تا ۹۰ کیلوولت کار می‌کنند، در حالی که دستگاه‌های توموگرافی رایانه‌ای در ۹۰ تا ۱۲۰ کیلوولت و بالاتر کار می‌کنند.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یک نکته‌ی کاربردی درباره‌ی تنظیمات"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توصیه درباره‌ی mA:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «اگر تنظیم mA متغیر باشد، اپراتور باید بالاترین مقدار mA موجود را انتخاب کند و دستگاه را با آن کار کند؛ این کوتاه‌ترین زمان پرتوگیری را ممکن می‌کند و شانس حرکت بیمار را کمینه می‌سازد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و درباره‌ی kVp:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «اپراتور می‌تواند انتخاب کند در یک ولتاژ ثابت، به‌طور معمول ۶۵ تا ۷۰ کیلوولت، کار کند. این پروتکل انتخاب تنظیمات درست را ساده می‌کند، با استفاده از تنها زمان پرتوگیری به‌عنوان ابزار تطبیق با محل آناتومیک و اندازه‌ی بیمار.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک قاعده‌ی سرانگشتی مهم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «kVp اغلب برای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جبران ضخامت بافت بیمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تنظیم می‌شود، به‌ویژه برای رادیوگرافی پانورامیک و سفالومتریک. یک قاعده‌ی سرانگشتی این است که تنظیم را ۲ کیلوولت به ازای هر سانتی‌متر ضخامت بافت تغییر دهیم.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:ce0479ef877b4b6af47a6ee19f2ecc39670634b71ef82a4077f4ff4f8168e2d7",
+      "position": 2,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 14.2857%;",
+      "questionType": "unknown",
+      "title": "درس ۲: کنترل‌های دستگاه",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "یکسوسازی، تایمر و رده‌بندی حرارتی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مولد جریان متناوب — یکسوسازی نیم‌موج"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چه اتفاقی می‌افتد؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برای منبع تغذیه‌ی ورودی با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جریان متناوب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، قطبیت جریان متناوب می‌شود — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۰ چرخه در ثانیه در آمریکای شمالی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قطبیت لوله با همان بسامد متناوب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-1-4.webp",
+                  "alt": "دستگاه دیواری در برابر دستگاه دستی با باتری",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/5fedce07635e4a8f30b18a9a63cd110d29f62ef9fa62cded9102aea761cf2e0b.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دستگاه دیواری در برابر دستگاه دستی با باتری "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 1.4)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و در نیمه‌ی مثبت چرخه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «وقتی قطبیت ولتاژ باعث شود "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آند مثبت و فیلامان منفی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشد، الکترون‌ها به سمت هدف مثبت شتاب می‌گیرند و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرتو ایکس تولید می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» و «وقتی ولتاژ در بالاترین حد است، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کارایی تولید پرتو بیشترین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، و بنابراین شدت پالس‌های پرتو در مرکز هر چرخه به اوج می‌رسد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و در نیمه‌ی منفی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «فیلامان مثبت و هدف منفی می‌شود. در این زمان‌ها، الکترون‌ها از شکاف میان دو الکترود عبور نمی‌کنند و هیچ پرتو ایکسی تولید نمی‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نتیجه‌ی عددی‌اش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «وقتی یک لوله با جریان متناوب ۶۰ چرخه‌ای تغذیه شود، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۰ پالس پرتو در هر ثانیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تولید می‌شود، که هرکدام "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک‌صدوبیستم ثانیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " طول می‌کشند.» و بنابراین: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تولید پرتو به نیمی از چرخه محدود می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". چنین دستگاه‌هایی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خودیکسوساز یا یکسوساز نیم‌موج"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شوند.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مولد پتانسیل ثابت — و پنج پیامد عملی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چگونه کار می‌کند؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برخی سازندگان دستگاه‌هایی می‌سازند که تغذیه‌ی متناوب ۶۰ چرخه‌ای یکسوساز نیم‌موج را با یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "منبع تغذیه‌ی بسامد بالا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " جایگزین می‌کنند که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تقریباً جریان مستقیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌دهد.» و نتیجه: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پتانسیل تقریباً ثابتی میان آند و کاتد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرتو ایکس در سراسر چرخه تولید می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اثرش بر طیف:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «ولتاژ تقریباً ثابت، پرتوهایی با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طیف انرژی باریک‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌دهد، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انرژی میانگین پرتو تولیدشده بالاتر از"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " انرژی میانگین یک دستگاه یکسوساز نیم‌موج معمول در همان ولتاژ است.» و «دستگاه‌های دستی با باتری تغذیه می‌شوند و بنابراین پتانسیل ثابت می‌دهند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پنج پیامد عملی:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«چون تولید پرتو "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در سراسر چرخه‌ی ولتاژ"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " رخ می‌دهد، واحدهای پتانسیل ثابت "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "زمان‌های پرتوگیری کوتاه‌تری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " برای تولید همان شمار فوتون می‌خواهند، که "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "حرکت بیمار را کمینه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌کند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«شدت فوتون‌های تولیدشده "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پایدارتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است، به‌ویژه با زمان‌های پرتوگیری کوتاه. این پایداری هنگام استفاده از گیرنده‌های دیجیتال که پرتو کمتری می‌خواهند عملاً مربوط است.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«وقتی در همان kVp کار کنند، پرتو تولیدشده "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انرژی میانگین بالاتری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دارد، که "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کنتراست تصویر را کاهش می‌دهد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ".»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«برای جبران این اثر، واحدهای پتانسیل ثابت به‌طور معمول در kVp اندکی پایین‌تر، معمولاً ۶۰ تا ۶۵ کیلوولت، کار می‌کنند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«طیف باریک‌تر انرژی‌ها، با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فوتون‌های کم‌انرژی کمتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز پرتویی بیمار را ۳۵ تا ۴۰ درصد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در برابر مولدهای متناوب معمول "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کاهش می‌دهد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ".»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تایمر — و ترفند پیش‌گرم کردن"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کارش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تایمر مدت زمانی را که ولتاژ بالا به لوله اعمال می‌شود و بنابراین زمان تولید پرتو را کنترل می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ولی یک مسئله هست:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «پیش از اعمال ولتاژ بالا، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فیلامان باید به دمای کاری برسد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تا نرخ کافی تابش الکترون تضمین شود. و گرم کردن پیوسته‌ی فیلامان با جریان کاری معمول، عمرش را کوتاه می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و راه‌حل:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برای کمینه کردن آسیب فیلامان، مدار زمان‌سنجی نخست حدود نیم ثانیه جریانی از فیلامان می‌گذراند تا به دمای کاری درست برسد و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سپس به مدار ولتاژ بالا توان می‌دهد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» و در برخی طراحی‌ها: «یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جریان پیوسته‌ی سطح پایین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فیلامان را در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دمای پایین ایمن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نگه می‌دارد و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تأخیر پیش‌گرم کردن را کوتاه‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و به همین دلیل:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک دستگاه پرتو ایکس ممکن است "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در ساعات کاری پیوسته روشن بماند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک واحد قدیمی که هنوز دیده می‌شود:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «در برخی واحدها، زمان پرتوگیری به‌صورت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار پالس‌ها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیان می‌شود (مثلاً ۳، ۶، ۹، ۱۵). "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار پالس‌ها تقسیم بر ۶۰"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — بسامد منبع تغذیه — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان پرتوگیری را بر حسب ثانیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌دهد. تنظیم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۰ پالس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یعنی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۰ پالس پرتو، معادل پرتوگیری ۰٫۵ ثانیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "رده‌بندی لوله و چرخه‌ی کاری"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واحد گرما:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «انباشت گرما در آند با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واحد گرما (HU)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سنجیده می‌شود، که HU برابر است با kVp ضرب‌در mA ضرب‌در ثانیه.» و ظرفیت: «ظرفیت ذخیره‌ی گرمای آند لوله‌های تشخیصی دندانی تقریباً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰ کیلو واحد گرما"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و گرما چگونه برداشته می‌شود؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رسانش به آند مسی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و سپس "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به روغن و محفظه‌ی اطراف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همرفت به جو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نمودار رده‌بندی لوله:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «هر دستگاه با یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمودار رده‌بندی لوله"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌آید که بلندترین زمان پرتوگیری‌ای که لوله می‌تواند برای دامنه‌ای از ولتاژها و جریان‌ها بدون خطر آسیب از گرمای بیش از حد انرژی‌دار شود را توصیف می‌کند.» و یک خبر خوب: «این رده‌بندی‌ها عموماً کاربرد لوله را برای رادیوگرافی داخل‌دهانی محدود نمی‌کنند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرخه‌ی کاری:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «به بسامدی که پرتوگیری‌های پیاپی می‌توانند بدون گرم شدن بیش از حد آند انجام شوند مربوط است. فاصله‌ی میان پرتوگیری‌های پیاپی باید به‌اندازه‌ی کافی بلند باشد که گرما پراکنده شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و به چه چیزهایی بستگی دارد؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «اندازه‌ی آند، kVp و mA پرتوگیری، و روش خنک کردن لوله.» و مثالش: «چرخه‌ی کاری "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱ به ۶۰"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یعنی می‌توان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر ۶۰ ثانیه یک پرتوگیری ۱ ثانیه‌ای"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " انجام داد.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:29004",
+      "position": 3,
+      "kind": "question",
+      "sourceQuestionId": "29004",
+      "sourceStepId": null,
+      "sourceProgress": "width: 28.5714%;",
+      "questionType": "letter-order",
+      "jumble": {
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "—"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "شمار"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "مقاومت"
+          }
+        ],
+        "slotCount": 3,
+        "slotTexts": [
+          "",
+          "",
+          ""
+        ],
+        "correctSlots": false,
+        "correctWord": ""
+      },
+      "title": "درس ۲: کنترل‌های دستگاه",
+      "prompt": "کنترل میلی‌آمپر با تنظیم ......... و جریان عبوری از فیلامان کار می‌کند و بدین‌سان ......... الکترون‌های تولیدشده را تنظیم می‌کند.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کنترل میلی‌آمپر با تنظیم ......... و جریان عبوری از فیلامان کار می‌کند و بدین‌سان ......... الکترون‌های تولیدشده را تنظیم می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کلمات را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "—"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقاومت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "status": "observed-text",
+        "correctText": "مقاومت — شمار",
+        "textEvidence": {
+          "submittedText": "مقاومت — شمار",
+          "sourceRevealedWord": "",
+          "slotsMarkedCorrect": true,
+          "feedbackClass": "feedback show ok"
+        },
+        "correctOptionHashes": [],
+        "correctOptionKeys": [],
+        "correctOptionTexts": [],
+        "explanation": "زنجیره را کامل داری: مقاومت ← جریان فیلامان ← دمای فیلامان ← شمار الکترون‌ها ← شمار فوتون‌ها.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "زنجیره را کامل داری: مقاومت ← جریان فیلامان ← دمای فیلامان ← شمار الکترون‌ها ← شمار فوتون‌ها."
+          }
+        ],
+        "options": [],
+        "observedAt": "2026-11-17T18:14:18.634Z"
+      }
+    },
+    {
+      "id": "question:29007",
+      "position": 4,
+      "kind": "question",
+      "sourceQuestionId": "29007",
+      "sourceStepId": null,
+      "sourceProgress": "width: 37.5%;",
+      "questionType": "letter-order",
+      "jumble": {
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "—"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "کیلوولتاژ"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "سانتیمتر"
+          }
+        ],
+        "slotCount": 3,
+        "slotTexts": [
+          "",
+          "",
+          ""
+        ],
+        "correctSlots": false,
+        "correctWord": ""
+      },
+      "title": "درس ۲: کنترل‌های دستگاه",
+      "prompt": "برای جبران ضخامت بافت بیمار، به‌ویژه در رادیوگرافی پانورامیک و سفالومتریک، یک قاعده‌ی سرانگشتی این است که ......... را ۲ کیلوولت به ازای هر ......... ضخامت بافت تغییر دهیم.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای جبران ضخامت بافت بیمار، به‌ویژه در رادیوگرافی پانورامیک و سفالومتریک، یک قاعده‌ی سرانگشتی این است که ......... را ۲ کیلوولت به ازای هر ......... ضخامت بافت تغییر دهیم."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کلمات را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "—"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کیلوولتاژ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سانتیمتر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "status": "observed-text",
+        "correctText": "کیلوولتاژ — سانتیمتر",
+        "textEvidence": {
+          "submittedText": "کیلوولتاژ — سانتیمتر",
+          "sourceRevealedWord": "",
+          "slotsMarkedCorrect": true,
+          "feedbackClass": "feedback show ok"
+        },
+        "correctOptionHashes": [],
+        "correctOptionKeys": [],
+        "correctOptionTexts": [],
+        "explanation": "تنظیم و واحد هر دو درست. دقت کن این قاعده روی kVp اعمال می‌شود، نه mA و نه زمان.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تنظیم و واحد هر دو درست. دقت کن این قاعده روی kVp اعمال می‌شود، نه mA و نه زمان."
+          }
+        ],
+        "options": [],
+        "observedAt": "2026-11-17T18:14:22.199Z"
+      }
+    },
+    {
+      "id": "question:29011",
+      "position": 5,
+      "kind": "question",
+      "sourceQuestionId": "29011",
+      "sourceStepId": null,
+      "sourceProgress": "width: 44.4444%;",
+      "questionType": "single-choice",
+      "title": "درس ۲: کنترل‌های دستگاه",
+      "prompt": "چرا شدت پالس‌های پرتو در مرکز هر چرخه به اوج می‌رسد؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا شدت پالس‌های پرتو در مرکز هر چرخه به اوج می‌رسد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون در مرکز چرخه آند بیشترین گرما را انباشته و رهایش گرمایی‌اش سهم فوتون‌های افزوده‌ای می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون در مرکز چرخه دمای فیلامان به بیشینه‌ی خود می‌رسد و بیشترین شمار الکترون تابیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون وقتی ولتاژ در بالاترین حد است، الکترون‌ها پرانرژی‌ترند و کارایی تولید پرتو بیشترین است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون در مرکز چرخه فیلتراسیون ذاتی لوله کمترین اثر را دارد و فوتون‌های کم‌انرژی بیشتری عبور می‌کنند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "چون در مرکز چرخه آند بیشترین گرما را انباشته و رهایش گرمایی‌اش سهم فوتون‌های افزوده‌ای می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون در مرکز چرخه آند بیشترین گرما را انباشته و رهایش گرمایی‌اش سهم فوتون‌های افزوده‌ای می‌سازد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "چون در مرکز چرخه دمای فیلامان به بیشینه‌ی خود می‌رسد و بیشترین شمار الکترون تابیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون در مرکز چرخه دمای فیلامان به بیشینه‌ی خود می‌رسد و بیشترین شمار الکترون تابیده می‌شود"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "چون وقتی ولتاژ در بالاترین حد است، الکترون‌ها پرانرژی‌ترند و کارایی تولید پرتو بیشترین است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون وقتی ولتاژ در بالاترین حد است، الکترون‌ها پرانرژی‌ترند و کارایی تولید پرتو بیشترین است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "چون در مرکز چرخه فیلتراسیون ذاتی لوله کمترین اثر را دارد و فوتون‌های کم‌انرژی بیشتری عبور می‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون در مرکز چرخه فیلتراسیون ذاتی لوله کمترین اثر را دارد و فوتون‌های کم‌انرژی بیشتری عبور می‌کنند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "2"
+        ],
+        "correctOptionHashes": [
+          "6d94f164d7c16a81f303833521209d6e7d15707d3e90033af1eb1b9884cf4936"
+        ],
+        "correctOptionTexts": [
+          "چون وقتی ولتاژ در بالاترین حد است، الکترون‌ها پرانرژی‌ترند و کارایی تولید پرتو بیشترین است"
+        ],
+        "explanation": "شکل پالس، تصویر شکل موج ولتاژ است: ولتاژ بالاتر یعنی الکترون‌های پرانرژی‌تر و تولید کارآمدتر.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "شکل پالس، تصویر شکل موج ولتاژ است: ولتاژ بالاتر یعنی الکترون‌های پرانرژی‌تر و تولید کارآمدتر."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "چون در مرکز چرخه آند بیشترین گرما را انباشته و رهایش گرمایی‌اش سهم فوتون‌های افزوده‌ای می‌سازد",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "چون در مرکز چرخه دمای فیلامان به بیشینه‌ی خود می‌رسد و بیشترین شمار الکترون تابیده می‌شود",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "چون وقتی ولتاژ در بالاترین حد است، الکترون‌ها پرانرژی‌ترند و کارایی تولید پرتو بیشترین است",
+            "isCorrect": true
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "چون در مرکز چرخه فیلتراسیون ذاتی لوله کمترین اثر را دارد و فوتون‌های کم‌انرژی بیشتری عبور می‌کنند",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T18:14:00.820Z"
+      }
+    },
+    {
+      "id": "question:29014",
+      "position": 6,
+      "kind": "question",
+      "sourceQuestionId": "29014",
+      "sourceStepId": null,
+      "sourceProgress": "width: 55.5556%;",
+      "questionType": "single-choice",
+      "title": "درس ۲: کنترل‌های دستگاه",
+      "prompt": "کلینیکی از گیرنده‌های دیجیتال با نیاز پرتویی کم استفاده می‌کند و زمان‌های پرتوگیری بسیار کوتاهی به کار می‌برد. کدام مزیت مولد پتانسیل ثابت اینجا بیشترین اهمیت را دارد؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کلینیکی از گیرنده‌های دیجیتال با نیاز پرتویی کم استفاده می‌کند و زمان‌های پرتوگیری بسیار کوتاهی به کار می‌برد. کدام مزیت مولد پتانسیل ثابت اینجا بیشترین اهمیت را دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ظرفیت گرمایی آند بالاتر است و امکان پرتوگیری‌های پیاپی سریع‌تر را می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شدت فوتون‌های تولیدشده پایدارتر است، به‌ویژه با زمان‌های پرتوگیری کوتاه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نقطه‌ی کانونی مؤثر کوچک‌تر می‌شود و تیزی تصویر دیجیتال بهبود می‌یابد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فیلتراسیون کل لازم کاهش می‌یابد و بنابراین خروجی پرتویی در واحد زمان بیشتر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "ظرفیت گرمایی آند بالاتر است و امکان پرتوگیری‌های پیاپی سریع‌تر را می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ظرفیت گرمایی آند بالاتر است و امکان پرتوگیری‌های پیاپی سریع‌تر را می‌دهد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "شدت فوتون‌های تولیدشده پایدارتر است، به‌ویژه با زمان‌های پرتوگیری کوتاه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شدت فوتون‌های تولیدشده پایدارتر است، به‌ویژه با زمان‌های پرتوگیری کوتاه"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "نقطه‌ی کانونی مؤثر کوچک‌تر می‌شود و تیزی تصویر دیجیتال بهبود می‌یابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نقطه‌ی کانونی مؤثر کوچک‌تر می‌شود و تیزی تصویر دیجیتال بهبود می‌یابد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "فیلتراسیون کل لازم کاهش می‌یابد و بنابراین خروجی پرتویی در واحد زمان بیشتر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فیلتراسیون کل لازم کاهش می‌یابد و بنابراین خروجی پرتویی در واحد زمان بیشتر می‌شود"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "1"
+        ],
+        "correctOptionHashes": [
+          "85a02b6c9acfa97aeb3415eea423ec4806aa11f59253ccb3ebe44374ca680e10"
+        ],
+        "correctOptionTexts": [
+          "شدت فوتون‌های تولیدشده پایدارتر است، به‌ویژه با زمان‌های پرتوگیری کوتاه"
+        ],
+        "explanation": "در زمان‌های خیلی کوتاه، دستگاه نیم‌موج ممکن است تنها چند پالس بدهد و نوسان پالس‌به‌پالس معنادار شود؛ پتانسیل ثابت این نوسان را ندارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در زمان‌های خیلی کوتاه، دستگاه نیم‌موج ممکن است تنها چند پالس بدهد و نوسان پالس‌به‌پالس معنادار شود؛ پتانسیل ثابت این نوسان را ندارد."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ظرفیت گرمایی آند بالاتر است و امکان پرتوگیری‌های پیاپی سریع‌تر را می‌دهد",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "شدت فوتون‌های تولیدشده پایدارتر است، به‌ویژه با زمان‌های پرتوگیری کوتاه",
+            "isCorrect": true
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "نقطه‌ی کانونی مؤثر کوچک‌تر می‌شود و تیزی تصویر دیجیتال بهبود می‌یابد",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "فیلتراسیون کل لازم کاهش می‌یابد و بنابراین خروجی پرتویی در واحد زمان بیشتر می‌شود",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T18:14:07.606Z"
+      }
+    },
+    {
+      "id": "question:29015",
+      "position": 7,
+      "kind": "question",
+      "sourceQuestionId": "29015",
+      "sourceStepId": null,
+      "sourceProgress": "width: 66.6667%;",
+      "questionType": "single-choice",
+      "title": "درس ۲: کنترل‌های دستگاه",
+      "prompt": "کدام مجموعه‌گزاره درباره‌ی تایمر و مدیریت حرارتی لوله کاملاً درست است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه‌گزاره درباره‌ی تایمر و مدیریت حرارتی لوله کاملاً درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مدار زمان‌سنجی حدود نیم ثانیه فیلامان را پیش‌گرم می‌کند، تنظیم ۳۰ پالس معادل ۱ ثانیه است، HU برابر kVp تقسیم‌بر mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲ کیلو واحد گرماست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مدار زمان‌سنجی نخست به ولتاژ بالا توان می‌دهد و فیلامان با همان جریان گرم می‌شود، تنظیم ۳۰ پالس معادل ۰٫۵ ثانیه است، HU برابر kVp ضرب‌در mA است، ظرفیت آند دندانی حدود ۲۰ کیلو واحد گرماست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش‌گرم فیلامان حدود پنج ثانیه طول می‌کشد، تنظیم ۳۰ پالس معادل ۰٫۲۵ ثانیه است، HU برابر kVp ضرب‌در mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲۰۰ کیلو واحد گرماست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش‌گرم فیلامان حدود نیم ثانیه پیش از ولتاژ بالا، تنظیم ۳۰ پالس معادل ۰٫۵ ثانیه است، HU برابر kVp ضرب‌در mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲۰ کیلو واحد گرماست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "مدار زمان‌سنجی حدود نیم ثانیه فیلامان را پیش‌گرم می‌کند، تنظیم ۳۰ پالس معادل ۱ ثانیه است، HU برابر kVp تقسیم‌بر mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲ کیلو واحد گرماست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مدار زمان‌سنجی حدود نیم ثانیه فیلامان را پیش‌گرم می‌کند، تنظیم ۳۰ پالس معادل ۱ ثانیه است، HU برابر kVp تقسیم‌بر mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲ کیلو واحد گرماست"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "مدار زمان‌سنجی نخست به ولتاژ بالا توان می‌دهد و فیلامان با همان جریان گرم می‌شود، تنظیم ۳۰ پالس معادل ۰٫۵ ثانیه است، HU برابر kVp ضرب‌در mA است، ظرفیت آند دندانی حدود ۲۰ کیلو واحد گرماست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مدار زمان‌سنجی نخست به ولتاژ بالا توان می‌دهد و فیلامان با همان جریان گرم می‌شود، تنظیم ۳۰ پالس معادل ۰٫۵ ثانیه است، HU برابر kVp ضرب‌در mA است، ظرفیت آند دندانی حدود ۲۰ کیلو واحد گرماست"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "پیش‌گرم فیلامان حدود پنج ثانیه طول می‌کشد، تنظیم ۳۰ پالس معادل ۰٫۲۵ ثانیه است، HU برابر kVp ضرب‌در mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲۰۰ کیلو واحد گرماست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پیش‌گرم فیلامان حدود پنج ثانیه طول می‌کشد، تنظیم ۳۰ پالس معادل ۰٫۲۵ ثانیه است، HU برابر kVp ضرب‌در mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲۰۰ کیلو واحد گرماست"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "پیش‌گرم فیلامان حدود نیم ثانیه پیش از ولتاژ بالا، تنظیم ۳۰ پالس معادل ۰٫۵ ثانیه است، HU برابر kVp ضرب‌در mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲۰ کیلو واحد گرماست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پیش‌گرم فیلامان حدود نیم ثانیه پیش از ولتاژ بالا، تنظیم ۳۰ پالس معادل ۰٫۵ ثانیه است، HU برابر kVp ضرب‌در mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲۰ کیلو واحد گرماست"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "3"
+        ],
+        "correctOptionHashes": [
+          "51aef7be73afe709171d22ca4957062e5c060005b62f2d2d95f6e263cf57d7f6"
+        ],
+        "correctOptionTexts": [
+          "پیش‌گرم فیلامان حدود نیم ثانیه پیش از ولتاژ بالا، تنظیم ۳۰ پالس معادل ۰٫۵ ثانیه است، HU برابر kVp ضرب‌در mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲۰ کیلو واحد گرماست"
+        ],
+        "explanation": "چهار عدد کلیدی این بخش را با هم داری. تبدیل پالس را هم به یاد بسپار: شمار پالس تقسیم بر ۶۰، بسامد منبع تغذیه.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "چهار عدد کلیدی این بخش را با هم داری. تبدیل پالس را هم به یاد بسپار: شمار پالس تقسیم بر ۶۰، بسامد منبع تغذیه."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "مدار زمان‌سنجی حدود نیم ثانیه فیلامان را پیش‌گرم می‌کند، تنظیم ۳۰ پالس معادل ۱ ثانیه است، HU برابر kVp تقسیم‌بر mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲ کیلو واحد گرماست",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "مدار زمان‌سنجی نخست به ولتاژ بالا توان می‌دهد و فیلامان با همان جریان گرم می‌شود، تنظیم ۳۰ پالس معادل ۰٫۵ ثانیه است، HU برابر kVp ضرب‌در mA است، ظرفیت آند دندانی حدود ۲۰ کیلو واحد گرماست",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "پیش‌گرم فیلامان حدود پنج ثانیه طول می‌کشد، تنظیم ۳۰ پالس معادل ۰٫۲۵ ثانیه است، HU برابر kVp ضرب‌در mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲۰۰ کیلو واحد گرماست",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "پیش‌گرم فیلامان حدود نیم ثانیه پیش از ولتاژ بالا، تنظیم ۳۰ پالس معادل ۰٫۵ ثانیه است، HU برابر kVp ضرب‌در mA ضرب‌در ثانیه است، ظرفیت آند دندانی حدود ۲۰ کیلو واحد گرماست",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-17T18:14:15.049Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:885bb21dc8f266876c66dfa9d4e4ac86f9165a975b9006554f5fe56a203255a7",
+      "at": "2026-11-17T18:12:42.719Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:ce0479ef877b4b6af47a6ee19f2ecc39670634b71ef82a4077f4ff4f8168e2d7",
+      "at": "2026-11-17T18:12:44.609Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:29004",
+      "at": "2026-11-17T18:12:46.228Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:29007",
+      "at": "2026-11-17T18:13:20.916Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:29011",
+      "at": "2026-11-17T18:13:27.208Z",
+      "progress": "width: 44.4444%;"
+    },
+    {
+      "stepId": "question:29014",
+      "at": "2026-11-17T18:14:02.456Z",
+      "progress": "width: 55.5556%;"
+    },
+    {
+      "stepId": "question:29015",
+      "at": "2026-11-17T18:14:09.213Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:29004",
+      "at": "2026-11-17T18:14:16.647Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:29007",
+      "at": "2026-11-17T18:14:20.228Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "warnings": [],
+  "theoryPageCount": 2,
+  "questionCount": 5,
+  "completion": {
+    "heading": "تبریک به تو…!",
+    "at": "2026-11-17T18:14:24.156Z"
+  },
+  "validation": {
+    "issues": [],
+    "countsVerified": false,
+    "sourceFinished": true
+  }
+}

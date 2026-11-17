@@ -1,0 +1,4158 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1620/lesson.json",
+  "id": "1620",
+  "title": "درس پنجم: مرور یونیت ۳۰",
+  "specialtyKey": "578cf1df5257e51f",
+  "chapter": {
+    "id": "338",
+    "title": "کنترل پرتو و برهم‌کنش آن با ماده",
+    "position": 30
+  },
+  "position": 5,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:7b4cfb6a5696f2a8fe6bc448078ae92dd3b4cf720394f43474f777183fc7c10a",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "808082fa856c1942de7ef04507ccc6bc05f60680d688e2d795b887471b7080f8",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "جدول جمع‌بندی: کنترل پرتو، برهم‌کنش و دوزیمتری"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بلوک ۱ — پنج اهرم کنترل پرتو"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "زمان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": کمیت مستقیماً متناسب، انرژی میانگین و بیشینه "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بدون تغییر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "mA"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": توان بیشتر به فیلامان ← الکترون بیشتر ← فوتون بیشتر، دو برابر شدن mA، شمار فوتون را دو برابر می‌کند، انرژی‌ها "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بدون تغییر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "mAs"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": پارامتر واحد شمار کل فوتون‌ها، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۰ mA × ۱ s = ۲۰ mA × ۰٫۵ s = ۱۰ mAs"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، خطی بودن و تکرارپذیری در برنامه‌ی تضمین کیفیت."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "kVp"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": تنها اهرمی که "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هر سه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را بالا می‌برد — شمار فوتون‌ها، انرژی میانگین، انرژی بیشینه."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمیت پرتو = شمار فوتون‌ها، کیفیت پرتو = انرژی میانگین."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فیلتراسیون"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": فوتون کم‌انرژی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خطر بدون سود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، فیلتر ترجیحاً آن‌ها را برمی‌دارد، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شدت پایین‌تر، انرژی میانگین بالاتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ذاتی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " = دیواره‌ی شیشه‌ای + روغن عایق + ماده‌ی سد دریچه، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "معادل ۰٫۵ تا ۲ میلی‌متر آلومینیوم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کل = ذاتی + افزوده"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الزام: ۱٫۵ میلی‌متر آلومینیوم تا ۷۰ کیلوولت، ۲٫۵ میلی‌متر بالاتر از آن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کولیماسیون"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": گرد و مستطیلی، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۲٫۷۵ اینچ = ۷ سانتی‌متر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در صورت بیمار، مستطیلی کمی بزرگ‌تر از گیرنده، برخی نگه‌دارنده‌ها هم کولیماسیون مستطیلی می‌دهند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سود دوم کولیماسیون: "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۹۱٪ فوتون‌ها جذب و تنها ۹٪ عبور می‌کنند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، کاهش حجم پرتودیده ← "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پراکندگی کمتر ← تصویر بهتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، افزون بر دوز کمتر."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قانون عکس مجذور"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": شدت = فوتون در واحد سطح در واحد زمان، ۴ گری در ۱ متر ← ۱ گری در ۲ متر ← ۰٫۲۵ گری در ۴ متر، دو کاربرد: تیوب بلند نیازمند جبران kVp یا mA، فاصله گرفتن اپراتور."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بلوک ۲ — سرنوشت فوتون‌ها"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرتو فرودی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "همگن"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، پرتو باقی‌مانده "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ناهمگن"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " به‌دلیل جذب افتراقی — و همین تصویر را می‌سازد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درصدها: کامپتون ۵۷٪، فوتوالکتریک ۲۷٪، بدون برهم‌کنش ۹٪، همدوس ۷٪."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فوتوالکتریک"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": یونیزاسیون بله، پراکندگی خیر، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پایه‌ی تشکیل تصویر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، فوتون "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "همه‌ی انرژی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را می‌دهد و از هستی ساقط می‌شود، انرژی جنبشی فوتوالکترون = انرژی فوتون منهای انرژی پیوند، بیشتر در اوربیتال "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "1s"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، پرتو مشخصه‌ی حاصل "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "درون بیمار جذب می‌شود و مه نمی‌سازد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرمول فوتوالکتریک: "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "Z³ ÷ E³"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، استخوان "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "Z=۱۳٫۸"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در برابر بافت نرم "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "Z=۷٫۴"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ← "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۶٫۵ برابر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کامپتون"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": با الکترون "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اوربیتال بیرونی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، یونیزاسیون بله، پراکندگی بله، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بیشتر انرژی نزد فوتون پراکنده می‌ماند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، احتمال "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "معکوس با انرژی و مستقل از Z"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، وابسته به "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "چگالی الکترونی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " که در بافت ثابت است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه پیامد کامپتون: تنزل تصویر با کاهش کنتراست، پرتودیدگی اپراتور، پراکندگی داخلی که اندام‌های دور از میدان را پرتودیده می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "همدوس"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (ریلی، کلاسیک، کشسان): زیر "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۰ کیلوالکترون‌ولت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اتم کامل"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بدون یونیزاسیون"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، فوتون تازه "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هم‌انرژی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ولی در جهت دیگر، اثر زیستی و اثر بر تصویر هر دو "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ناچیز"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بلوک ۳ — تضعیف"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تضعیف عمدتاً از راه "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فوتوالکتریک و کامپتون"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، وابسته به "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انرژی پرتو، ضخامت و چگالی جاذب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "HVL"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " = ضخامتی که شمار فوتون‌ها را "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۵۰٪"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " کم می‌کند، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انرژی میانگین بالاتر ← HVL بزرگ‌تر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، دو کاربرد: "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "محاسبه‌ی حفاظ"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آزمون پذیرش و تضمین کیفیت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، کمینه ۱٫۵ میلی‌متر آلومینیوم برای ۶۰ تا ۷۰ کیلوولت."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الگوی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نمایی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": ۱٫۵ سانتی‌متر آب ← ۵۰٪، ۳ سانتی‌متر ← ۲۵٪، پرتو ناهمگن به همان تندی افت نمی‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سخت شدن پرتو"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " = افزایش انرژی میانگین از راه "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "برداشت ترجیحی فوتون‌های کم‌انرژی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "لبه‌ی K"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": وقتی انرژی فوتون "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "برابر انرژی پیوند اوربیتال 1s"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " شود، جذب فوتوالکتریک "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "به‌شدت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بالا می‌رود، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "گادولینیوم ۵۰٫۲۴ کیلوالکترون‌ولت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، فیلتر خاکی کمیاب "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فوتون‌های پرانرژی کنتراست‌کاه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را می‌گیرد."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بلوک ۴ — واحدها"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پرتوگیری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": یونیزاسیون "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هوا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، کولن بر کیلوگرم، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ R = ۲٫۵۸×۱۰⁻⁴ C/kg"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۲٫۰۸×۱۰⁹ جفت یون در سانتی‌متر مکعب هوا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ C/kg = ۳۸۷۶ R"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کرما"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": انرژی جنبشی آزادشده در ماده، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "گری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ R ≈ ۸٫۷۷ میلی‌گری کرمای هوا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز جذبی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "گری = ۱ ژول بر کیلوگرم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، سنتی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "راد = ۱۰۰ ارگ بر گرم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ Gy = ۱۰۰ rad"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز معادل H_T = W_R × D_T"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سیورت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، W_R: فوتون ۱، نوترون ۵ keV و پروتون پرانرژی ۵، آلفا ۲۰، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ Sv = ۱۰۰ rem"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، برای پرتو ایکس "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ Sv = ۱ Gy"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز مؤثر E = ΣW_T × H_T"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، برای برآورد "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خطر اثرات احتمالی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": القای سرطان و اثرات ارثی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "W_T"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰٫۱۲"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " مغز استخوان، پستان، کولون، ریه، معده، بافت‌های باقی‌مانده، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰٫۰۸"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " گنادها، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰٫۰۴"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " مثانه، مری، کبد، تیروئید، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰٫۰۱"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " سطح استخوان، مغز، غدد بزاقی، پوست، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مخاط دهان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در بافت‌های باقی‌مانده."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رادیواکتیویته"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بکرل = ۱ واپاشی در ثانیه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کوری = ۳٫۷×۱۰¹⁰ واپاشی در ثانیه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ mCi = ۳۷ MBq"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ Bq = ۲٫۷×۱۰⁻¹¹ Ci"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سؤال‌های این مرور سخت‌ترند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و بسیاری یک عدد، یک فرمول یا یک درصد می‌دهند و می‌پرسند کدام برهم‌کنش، کدام کمیت، یا کدام پیامد."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-1-21.webp",
+                  "alt": "چهار سرنوشت فوتون — جمع‌بندی برهم‌کنش با ماده",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/2d999dd0ac45f3ed7e07968166c726dee786bc2f53581540a149b7a99d9392b1.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چهار سرنوشت فوتون — جمع‌بندی برهم‌کنش با ماده "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 1.21)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:29147",
+      "sourceId": "29147",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 7.14286%;",
+      "contentKey": "ecd11cc7d18c5de888a285f6e4e4b2aceac637ce06720e6909731886d39e2457",
+      "position": 2,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام گزینه سه اهرم زمان، mA و kVp را از نظر اثرشان بر کمیت و کیفیت پرتو درست طبقه‌بندی می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام گزینه سه اهرم زمان، mA و kVp را از نظر اثرشان بر کمیت و کیفیت پرتو درست طبقه‌بندی می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان هم کمیت و هم کیفیت، mA تنها کمیت، kVp تنها کیفیت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان تنها کمیت، mA هم کمیت و هم کیفیت، kVp تنها کیفیت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان تنها کمیت، mA تنها کمیت، kVp هم کمیت و هم کیفیت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان تنها کمیت، mA تنها کمیت، kVp تنها کیفیت و بدون اثر بر شمار فوتون‌ها"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0a3bde0bbcb5175811279432f2f87853a2257dbc5d225f83b167cc0536b0ff57",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "زمان هم کمیت و هم کیفیت، mA تنها کمیت، kVp تنها کیفیت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان هم کمیت و هم کیفیت، mA تنها کمیت، kVp تنها کیفیت"
+            }
+          ]
+        },
+        {
+          "id": "786488951d3ecd42c7054ea8617268bc4c08b1f1fae21beec0a70b94214c6d6f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "زمان تنها کمیت، mA هم کمیت و هم کیفیت، kVp تنها کیفیت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان تنها کمیت، mA هم کمیت و هم کیفیت، kVp تنها کیفیت"
+            }
+          ]
+        },
+        {
+          "id": "52d7f74f22f4bef5867d72a173555db4bdf979607b50bb64b6a91f13559fa80b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "زمان تنها کمیت، mA تنها کمیت، kVp هم کمیت و هم کیفیت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان تنها کمیت، mA تنها کمیت، kVp هم کمیت و هم کیفیت"
+            }
+          ]
+        },
+        {
+          "id": "3505978e43455eb1773d48c4376ff0eb76d4fdff263bc16822ec7c5995c5b5ea",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "زمان تنها کمیت، mA تنها کمیت، kVp تنها کیفیت و بدون اثر بر شمار فوتون‌ها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان تنها کمیت، mA تنها کمیت، kVp تنها کیفیت و بدون اثر بر شمار فوتون‌ها"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "52d7f74f22f4bef5867d72a173555db4bdf979607b50bb64b6a91f13559fa80b"
+        ],
+        "explanation": "از این سه اهرم، تنها kVp هم کمیت را تغییر می‌دهد و هم کیفیت را؛ همین است که انتخابش را از انتخاب mA متفاوت می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "از این سه اهرم، تنها kVp هم کمیت را تغییر می‌دهد و هم کیفیت را؛ همین است که انتخابش را از انتخاب mA متفاوت می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-17T18:28:29.071Z"
+      }
+    },
+    {
+      "id": "question:29152",
+      "sourceId": "29152",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 13.3333%;",
+      "contentKey": "fc3795c3a2b863d970e4c382b3a13496acd5e5e6eb3b412e94982452c4c7b8cd",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "تکنسینی می‌گوید: «چون فیلتراسیون کل دستگاه ما ۱٫۵ میلی‌متر آلومینیوم است، پس HVL آن هم همان ۱٫۵ میلی‌متر است و دیگر نیازی به اندازه‌گیری نیست.» ایراد کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تکنسینی می‌گوید: «چون فیلتراسیون کل دستگاه ما ۱٫۵ میلی‌متر آلومینیوم است، پس HVL آن هم همان ۱٫۵ میلی‌متر است و دیگر نیازی به اندازه‌گیری نیست.» ایراد کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این دو مفهوم متفاوت‌اند: فیلتراسیون کل ضخامت ماده‌ای است که در مسیر پرتو نصب شده، ولی HVL خاصیت اندازه‌گیری‌شده‌ی خود پرتو است که باید در آزمون پذیرش و تضمین کیفیت سنجیده شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایراد در عدد است؛ HVL کمینه برای دستگاه‌های ۶۰ تا ۷۰ کیلوولت ۲٫۵ میلی‌متر آلومینیوم است نه ۱٫۵"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایراد در واحد است؛ فیلتراسیون کل بر حسب میلی‌متر آلومینیوم بیان می‌شود ولی HVL همیشه بر حسب سانتی‌متر آب، پس این دو عدد اصلاً قابل مقایسه نیستند و برابری ظاهری‌شان هیچ معنایی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایرادی ندارد؛ HVL دقیقاً همان فیلتراسیون کل است و اندازه‌گیری جداگانه تنها یک الزام اداری است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "54552f6d64c641e995f746b44b8c32b844e06fd03d3ae1f336d4fa0194df22cf",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "این دو مفهوم متفاوت‌اند: فیلتراسیون کل ضخامت ماده‌ای است که در مسیر پرتو نصب شده، ولی HVL خاصیت اندازه‌گیری‌شده‌ی خود پرتو است که باید در آزمون پذیرش و تضمین کیفیت سنجیده شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این دو مفهوم متفاوت‌اند: فیلتراسیون کل ضخامت ماده‌ای است که در مسیر پرتو نصب شده، ولی HVL خاصیت اندازه‌گیری‌شده‌ی خود پرتو است که باید در آزمون پذیرش و تضمین کیفیت سنجیده شود"
+            }
+          ]
+        },
+        {
+          "id": "a0bf5a6b3179534698e5410565df087d34d456c94869b1335a1b6725665eb7ea",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ایراد در عدد است؛ HVL کمینه برای دستگاه‌های ۶۰ تا ۷۰ کیلوولت ۲٫۵ میلی‌متر آلومینیوم است نه ۱٫۵",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایراد در عدد است؛ HVL کمینه برای دستگاه‌های ۶۰ تا ۷۰ کیلوولت ۲٫۵ میلی‌متر آلومینیوم است نه ۱٫۵"
+            }
+          ]
+        },
+        {
+          "id": "c5a8073be1a8f318a55357935addd7b4f44390fd75de67f964ffdfba1a32276f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ایراد در واحد است؛ فیلتراسیون کل بر حسب میلی‌متر آلومینیوم بیان می‌شود ولی HVL همیشه بر حسب سانتی‌متر آب، پس این دو عدد اصلاً قابل مقایسه نیستند و برابری ظاهری‌شان هیچ معنایی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایراد در واحد است؛ فیلتراسیون کل بر حسب میلی‌متر آلومینیوم بیان می‌شود ولی HVL همیشه بر حسب سانتی‌متر آب، پس این دو عدد اصلاً قابل مقایسه نیستند و برابری ظاهری‌شان هیچ معنایی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "00ab527b1cbe5089c16ae98636ad74af3e0453d205bb979015b260766c37fdf3",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ایرادی ندارد؛ HVL دقیقاً همان فیلتراسیون کل است و اندازه‌گیری جداگانه تنها یک الزام اداری است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایرادی ندارد؛ HVL دقیقاً همان فیلتراسیون کل است و اندازه‌گیری جداگانه تنها یک الزام اداری است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "54552f6d64c641e995f746b44b8c32b844e06fd03d3ae1f336d4fa0194df22cf"
+        ],
+        "explanation": "برابری عددی این دو در دستگاه‌های زیر ۷۰ کیلوولت اتفاقی نیست، ولی یکی بودنشان نیست؛ HVL باید سنجیده شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "برابری عددی این دو در دستگاه‌های زیر ۷۰ کیلوولت اتفاقی نیست، ولی یکی بودنشان نیست؛ HVL باید سنجیده شود."
+          }
+        ],
+        "observedAt": "2026-11-17T18:27:00.578Z"
+      }
+    },
+    {
+      "id": "question:29154",
+      "sourceId": "29154",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 20%;",
+      "contentKey": "92bc2de36e824f2db65269935ea93cbc720d0a800273a5c825d7455f84ea9efb",
+      "position": 4,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "بافت‌های سخت و نرم تقریباً ۹۱ درصد فوتون‌ها را ......... می‌کنند و تنها حدود ۹ درصد به ......... می‌رسند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بافت‌های سخت و نرم تقریباً ۹۱ درصد فوتون‌ها را ......... می‌کنند و تنها حدود ۹ درصد به ......... می‌رسند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کلمات را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گیرنده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جذب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "—"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "جذب — گیرنده",
+        "explanation": "همان ۹ درصدی است که در فهرست سرنوشت فوتون‌ها زیر عنوان «بدون برهم‌کنش» می‌بینی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همان ۹ درصدی است که در فهرست سرنوشت فوتون‌ها زیر عنوان «بدون برهم‌کنش» می‌بینی."
+          }
+        ],
+        "observedAt": "2026-11-17T18:28:32.630Z"
+      },
+      "letterLayout": {
+        "unit": "word",
+        "slotCount": 3,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "گیرنده"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "جذب"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "—"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:29156",
+      "sourceId": "29156",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "574f9fb45382bbac4b0ce4d46484a475fcd62a2033a8ef56b9044c74fbe35c90",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "شدتی در فاصله‌ی ۱ متر برابر ۹ میلی‌گری است. در فاصله‌ی ۳ متر چقدر خواهد بود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شدتی در فاصله‌ی ۱ متر برابر ۹ میلی‌گری است. در فاصله‌ی ۳ متر چقدر خواهد بود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۴٫۵ میلی‌گری، چون تنها بخشی از پرتو با فاصله واگرا می‌شود و بقیه موازی می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳ میلی‌گری، چون شدت با عکس فاصله و نه مجذور آن متناسب است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸۱ میلی‌گری، چون شدت با مجذور فاصله متناسب است و نه با عکس آن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱ میلی‌گری، چون سه برابر شدن فاصله شدت را به یک‌نهم می‌رساند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7f3ffac044aac9c20d603d5fce4df2ee102ff2635223050cad899d741a5ae325",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "۴٫۵ میلی‌گری، چون تنها بخشی از پرتو با فاصله واگرا می‌شود و بقیه موازی می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۴٫۵ میلی‌گری، چون تنها بخشی از پرتو با فاصله واگرا می‌شود و بقیه موازی می‌ماند"
+            }
+          ]
+        },
+        {
+          "id": "2fce583bb3082e23bb6bf42bc248b532acbd7a99b4e56532b50eb2edc3871a45",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "۳ میلی‌گری، چون شدت با عکس فاصله و نه مجذور آن متناسب است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۳ میلی‌گری، چون شدت با عکس فاصله و نه مجذور آن متناسب است"
+            }
+          ]
+        },
+        {
+          "id": "5b203aeaa0428a96c110419a53ef53f836ad1569823ef08d7e8f7adefb5b5626",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "۸۱ میلی‌گری، چون شدت با مجذور فاصله متناسب است و نه با عکس آن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۸۱ میلی‌گری، چون شدت با مجذور فاصله متناسب است و نه با عکس آن"
+            }
+          ]
+        },
+        {
+          "id": "a87e3f379c3c756b700ed863fbf2588d7f0de2ac4c755fb74612282492085955",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "۱ میلی‌گری، چون سه برابر شدن فاصله شدت را به یک‌نهم می‌رساند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۱ میلی‌گری، چون سه برابر شدن فاصله شدت را به یک‌نهم می‌رساند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a87e3f379c3c756b700ed863fbf2588d7f0de2ac4c755fb74612282492085955"
+        ],
+        "explanation": "سه برابر شدن فاصله یعنی مجذورش نُه برابر، پس شدت یک‌نهم.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "سه برابر شدن فاصله یعنی مجذورش نُه برابر، پس شدت یک‌نهم."
+          }
+        ],
+        "observedAt": "2026-11-17T18:28:36.185Z"
+      }
+    },
+    {
+      "id": "question:29160",
+      "sourceId": "29160",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 29.4118%;",
+      "contentKey": "96a2a675f69823502bf44eae8a0a8e1f268042dd0e28f08fafd8af62cb680080",
+      "position": 6,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "در یک پرتوگیری دندانی، ۷ درصد فوتون‌ها پراکندگی ......... می‌یابند و ۹ درصد بدون ......... از بیمار عبور می‌کنند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در یک پرتوگیری دندانی، ۷ درصد فوتون‌ها پراکندگی ......... می‌یابند و ۹ درصد بدون ......... از بیمار عبور می‌کنند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کلمات را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برهمکنش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "—"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همدوس"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "همدوس — برهمکنش",
+        "explanation": "این دو عدد کوچک را جابه‌جا نکن؛ ۹ درصد همان فوتون‌هایی‌اند که به گیرنده می‌رسند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این دو عدد کوچک را جابه‌جا نکن؛ ۹ درصد همان فوتون‌هایی‌اند که به گیرنده می‌رسند."
+          }
+        ],
+        "observedAt": "2026-11-17T18:28:39.763Z"
+      },
+      "letterLayout": {
+        "unit": "word",
+        "slotCount": 3,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "برهمکنش"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "—"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "همدوس"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:29164",
+      "sourceId": "29164",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 33.3333%;",
+      "contentKey": "6f1e232d9e15de6d36a46a50ca899d12b9559d54693c4ff883dc5f436b69a407",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "جذب فوتوالکتریک افتراقی در مینا، عاج، پالپ، استخوان و بافت نرم را ما به چه صورت روی تصویر می‌بینیم؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "جذب فوتوالکتریک افتراقی در مینا، عاج، پالپ، استخوان و بافت نرم را ما به چه صورت روی تصویر می‌بینیم؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌صورت درجات متفاوت رادیواوپاسیته"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌صورت درجات متفاوت تیزی لبه‌های ساختارها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌صورت تفاوت در بزرگ‌نمایی نواحی مختلف تصویر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌صورت تفاوت سطح نویز میان نواحی چگال و کم‌چگال تصویر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "061892ad48ef6c3501e0bfc7a99647e5c20618ba3c64a4d99734f9a006b1c224",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "به‌صورت درجات متفاوت رادیواوپاسیته",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به‌صورت درجات متفاوت رادیواوپاسیته"
+            }
+          ]
+        },
+        {
+          "id": "f04a794709fff48cf6b19a4cbeb7c6a076c6acdb0513a68333d2289350845a3b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "به‌صورت درجات متفاوت تیزی لبه‌های ساختارها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به‌صورت درجات متفاوت تیزی لبه‌های ساختارها"
+            }
+          ]
+        },
+        {
+          "id": "d88cede619e6bbefbd28913fc23d117538931f472801b6bf6dbf5d8dc1fdcf91",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "به‌صورت تفاوت در بزرگ‌نمایی نواحی مختلف تصویر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به‌صورت تفاوت در بزرگ‌نمایی نواحی مختلف تصویر"
+            }
+          ]
+        },
+        {
+          "id": "5b8e0138d1f2d7918f5d44df701496bf1fad7882a9ae7dc6b3687f481efa379b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "به‌صورت تفاوت سطح نویز میان نواحی چگال و کم‌چگال تصویر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به‌صورت تفاوت سطح نویز میان نواحی چگال و کم‌چگال تصویر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "061892ad48ef6c3501e0bfc7a99647e5c20618ba3c64a4d99734f9a006b1c224"
+        ],
+        "explanation": "رادیواوپاسیته چیزی جز نمود بصری تفاوت جذب نیست؛ و آن تفاوت را عدد اتمی و چگالی بافت می‌سازند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "رادیواوپاسیته چیزی جز نمود بصری تفاوت جذب نیست؛ و آن تفاوت را عدد اتمی و چگالی بافت می‌سازند."
+          }
+        ],
+        "observedAt": "2026-11-17T18:28:43.306Z"
+      }
+    },
+    {
+      "id": "question:29167",
+      "sourceId": "29167",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 36.8421%;",
+      "contentKey": "be68762cbe9e1a6ce0eaced0ef8737d17a31e0d8e21289e42ea4d97bb1bf4c9f",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "معادله‌ی انرژی در جذب فوتوالکتریک و پراکندگی کامپتون چه تفاوتی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "معادله‌ی انرژی در جذب فوتوالکتریک و پراکندگی کامپتون چه تفاوتی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در هر دو فوتون باقی می‌ماند، ولی در فوتوالکتریک انرژی فوتون خروجی برابر انرژی فرودی است و در کامپتون کمتر از آن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در فوتوالکتریک فوتون از هستی ساقط می‌شود و انرژی جنبشی الکترون برابر انرژی فوتون منهای انرژی پیوند است؛ در کامپتون فوتون پراکنده باقی می‌ماند و انرژی‌اش برابر انرژی فوتون فرودی منهای مجموع انرژی جنبشی الکترون پس‌زده و انرژی پیوند آن است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در فوتوالکتریک فوتون پراکنده باقی می‌ماند و انرژی‌اش برابر انرژی فرودی منهای انرژی پیوند است؛ در کامپتون فوتون از هستی ساقط می‌شود و همه‌ی انرژی‌اش، پس از کسر انرژی پیوند، به صورت انرژی جنبشی به الکترون پس‌زده می‌رسد؛ پس فوتوالکتریک منبع اصلی پرتو پراکنده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در فوتوالکتریک انرژی به‌طور مساوی میان الکترون و فوتون تقسیم می‌شود و در کامپتون همه‌ی انرژی به الکترون می‌رسد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ab481e7b7fdcaba0843980b014db743d9b1b6e6967656a57d0f48ef57ae5c421",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "در هر دو فوتون باقی می‌ماند، ولی در فوتوالکتریک انرژی فوتون خروجی برابر انرژی فرودی است و در کامپتون کمتر از آن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در هر دو فوتون باقی می‌ماند، ولی در فوتوالکتریک انرژی فوتون خروجی برابر انرژی فرودی است و در کامپتون کمتر از آن"
+            }
+          ]
+        },
+        {
+          "id": "61ee323df7b794bb6d734b9a8cfe6e6eaddb0819d88496befa8f632a626334b0",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "در فوتوالکتریک فوتون از هستی ساقط می‌شود و انرژی جنبشی الکترون برابر انرژی فوتون منهای انرژی پیوند است؛ در کامپتون فوتون پراکنده باقی می‌ماند و انرژی‌اش برابر انرژی فوتون فرودی منهای مجموع انرژی جنبشی الکترون پس‌زده و انرژی پیوند آن است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در فوتوالکتریک فوتون از هستی ساقط می‌شود و انرژی جنبشی الکترون برابر انرژی فوتون منهای انرژی پیوند است؛ در کامپتون فوتون پراکنده باقی می‌ماند و انرژی‌اش برابر انرژی فوتون فرودی منهای مجموع انرژی جنبشی الکترون پس‌زده و انرژی پیوند آن است"
+            }
+          ]
+        },
+        {
+          "id": "2dfc7119129b881a963a8e741b966fadcfca702d597b38f71504e9eea223e48b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "در فوتوالکتریک فوتون پراکنده باقی می‌ماند و انرژی‌اش برابر انرژی فرودی منهای انرژی پیوند است؛ در کامپتون فوتون از هستی ساقط می‌شود و همه‌ی انرژی‌اش، پس از کسر انرژی پیوند، به صورت انرژی جنبشی به الکترون پس‌زده می‌رسد؛ پس فوتوالکتریک منبع اصلی پرتو پراکنده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در فوتوالکتریک فوتون پراکنده باقی می‌ماند و انرژی‌اش برابر انرژی فرودی منهای انرژی پیوند است؛ در کامپتون فوتون از هستی ساقط می‌شود و همه‌ی انرژی‌اش، پس از کسر انرژی پیوند، به صورت انرژی جنبشی به الکترون پس‌زده می‌رسد؛ پس فوتوالکتریک منبع اصلی پرتو پراکنده است"
+            }
+          ]
+        },
+        {
+          "id": "1ed4b5566b030b92d65d87610c0b632ff6e13ab3a577ce2327e0228fe21ce8d1",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "در فوتوالکتریک انرژی به‌طور مساوی میان الکترون و فوتون تقسیم می‌شود و در کامپتون همه‌ی انرژی به الکترون می‌رسد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در فوتوالکتریک انرژی به‌طور مساوی میان الکترون و فوتون تقسیم می‌شود و در کامپتون همه‌ی انرژی به الکترون می‌رسد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "61ee323df7b794bb6d734b9a8cfe6e6eaddb0819d88496befa8f632a626334b0"
+        ],
+        "explanation": "شمار اجزای معادله خودش راهنماست: فوتوالکتریک دو جزء دارد و کامپتون سه جزء، چون فوتون خروجی هم در حساب می‌آید.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "شمار اجزای معادله خودش راهنماست: فوتوالکتریک دو جزء دارد و کامپتون سه جزء، چون فوتون خروجی هم در حساب می‌آید."
+          }
+        ],
+        "observedAt": "2026-11-17T18:27:47.579Z"
+      }
+    },
+    {
+      "id": "question:29168",
+      "sourceId": "29168",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.1053%;",
+      "contentKey": "a2dbfd61099ee6ca4c8f1a57c34d27fd86fad2907ed65c75d0159565f569daa1",
+      "position": 9,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "پراکندگی همدوس در چه شرایطی و با چه چیزی رخ می‌دهد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پراکندگی همدوس در چه شرایطی و با چه چیزی رخ می‌دهد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی فوتون فرودی با انرژی برابر انرژی پیوند اوربیتال 1s با یک الکترون درونی برهم‌کنش کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی فوتون فرودی پرانرژی بالای ۱۰۰ کیلوالکترون‌ولت با یک اتم کامل برهم‌کنش کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی فوتون فرودی کم‌انرژی زیر ۱۰ کیلوالکترون‌ولت با یک الکترون اوربیتال بیرونی برهم‌کنش کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی فوتون فرودی کم‌انرژی زیر ۱۰ کیلوالکترون‌ولت با یک اتم کامل برهم‌کنش کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5d2eec73b51261eddb5f775f35e234b38a904011fd691ff653c5b4e4e39eb801",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "وقتی فوتون فرودی با انرژی برابر انرژی پیوند اوربیتال 1s با یک الکترون درونی برهم‌کنش کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی فوتون فرودی با انرژی برابر انرژی پیوند اوربیتال 1s با یک الکترون درونی برهم‌کنش کند"
+            }
+          ]
+        },
+        {
+          "id": "074ee7889e796d837444a21986f1e202e7e8939c99c774556ffce20833af292d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "وقتی فوتون فرودی پرانرژی بالای ۱۰۰ کیلوالکترون‌ولت با یک اتم کامل برهم‌کنش کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی فوتون فرودی پرانرژی بالای ۱۰۰ کیلوالکترون‌ولت با یک اتم کامل برهم‌کنش کند"
+            }
+          ]
+        },
+        {
+          "id": "5906ca7096eb64a0812f5a06fbee08cde21883f1f3c227760bafc969db89872a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "وقتی فوتون فرودی کم‌انرژی زیر ۱۰ کیلوالکترون‌ولت با یک الکترون اوربیتال بیرونی برهم‌کنش کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی فوتون فرودی کم‌انرژی زیر ۱۰ کیلوالکترون‌ولت با یک الکترون اوربیتال بیرونی برهم‌کنش کند"
+            }
+          ]
+        },
+        {
+          "id": "e64746297a9e46399d51f84962788180346b7b533cfd4386a61c61c8e8e2f8e8",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "وقتی فوتون فرودی کم‌انرژی زیر ۱۰ کیلوالکترون‌ولت با یک اتم کامل برهم‌کنش کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی فوتون فرودی کم‌انرژی زیر ۱۰ کیلوالکترون‌ولت با یک اتم کامل برهم‌کنش کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e64746297a9e46399d51f84962788180346b7b533cfd4386a61c61c8e8e2f8e8"
+        ],
+        "explanation": "همدوس تنها برهم‌کنشی است که هدفش کل اتم است، نه یک الکترون معین؛ به همین دلیل هم یونیزاسیونی نمی‌سازد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همدوس تنها برهم‌کنشی است که هدفش کل اتم است، نه یک الکترون معین؛ به همین دلیل هم یونیزاسیونی نمی‌سازد."
+          }
+        ],
+        "observedAt": "2026-11-17T18:28:46.858Z"
+      }
+    },
+    {
+      "id": "question:29171",
+      "sourceId": "29171",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 45%;",
+      "contentKey": "0dfeba57deeaeb994deec002dcfe35a1bf42cb3392f29fda262bd5c6831e1a66",
+      "position": 10,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "شدت یک پرتو تک‌انرژی پس از عبور از یک جاذب به ۶٫۲۵ درصد مقدار اولیه‌اش رسیده است. ضخامت این جاذب چند برابر HVL است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شدت یک پرتو تک‌انرژی پس از عبور از یک جاذب به ۶٫۲۵ درصد مقدار اولیه‌اش رسیده است. ضخامت این جاذب چند برابر HVL است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو برابر HVL، چون هر HVL نیمی از پرتو را می‌گیرد و دو لایه تقریباً همه‌ی آن را برمی‌دارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود پانزده برابر HVL، چون هر HVL تنها ۶٫۲۵ درصد از شدت اولیه را کم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چهار برابر HVL، چون ۱۰۰ درصد پس از چهار بار نصف شدن به ۶٫۲۵ درصد می‌رسد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه برابر HVL، چون پس از سه بار نصف شدن تقریباً چیزی از پرتو باقی نمی‌ماند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b685660c91dd20a0da0d141605a95b50e80c7b95fa7b533bd77b53c878b2f928",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دو برابر HVL، چون هر HVL نیمی از پرتو را می‌گیرد و دو لایه تقریباً همه‌ی آن را برمی‌دارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دو برابر HVL، چون هر HVL نیمی از پرتو را می‌گیرد و دو لایه تقریباً همه‌ی آن را برمی‌دارند"
+            }
+          ]
+        },
+        {
+          "id": "0527dd1584406f1787d164df46f90d9f332bea1b25a394f3b6bc8934cbffe70a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "حدود پانزده برابر HVL، چون هر HVL تنها ۶٫۲۵ درصد از شدت اولیه را کم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود پانزده برابر HVL، چون هر HVL تنها ۶٫۲۵ درصد از شدت اولیه را کم می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "dc92360fdd8e6d3af70a4b7ca563f9b82c2d115ab17b652e23a106e15bf03d63",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چهار برابر HVL، چون ۱۰۰ درصد پس از چهار بار نصف شدن به ۶٫۲۵ درصد می‌رسد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چهار برابر HVL، چون ۱۰۰ درصد پس از چهار بار نصف شدن به ۶٫۲۵ درصد می‌رسد"
+            }
+          ]
+        },
+        {
+          "id": "40d5c913974ada249b30f7654519cfc473b66d9fe7ef69d323f21eb337351b6a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سه برابر HVL، چون پس از سه بار نصف شدن تقریباً چیزی از پرتو باقی نمی‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سه برابر HVL، چون پس از سه بار نصف شدن تقریباً چیزی از پرتو باقی نمی‌ماند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "dc92360fdd8e6d3af70a4b7ca563f9b82c2d115ab17b652e23a106e15bf03d63"
+        ],
+        "explanation": "۱۰۰، ۵۰، ۲۵، ۱۲٫۵، ۶٫۲۵: چهار بار نصف شدن. در الگوی نمایی هر HVL نیمی از آنچه مانده را می‌گیرد، نه سهم ثابتی از شدت اولیه را.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "۱۰۰، ۵۰، ۲۵، ۱۲٫۵، ۶٫۲۵: چهار بار نصف شدن. در الگوی نمایی هر HVL نیمی از آنچه مانده را می‌گیرد، نه سهم ثابتی از شدت اولیه را."
+          }
+        ],
+        "observedAt": "2026-11-17T18:28:50.420Z"
+      }
+    },
+    {
+      "id": "question:29176",
+      "sourceId": "29176",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 47.619%;",
+      "contentKey": "8d351955425eb8adbd01cfc7fcdd689f9a893f519d8de30aa38ff43aefe93fb1",
+      "position": 11,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "قاعده‌ی کلی این است که پرتو پرانرژی‌تر بیشتر عبور می‌کند. جذب لبه‌ی K چگونه استثنایی بر این قاعده می‌سازد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قاعده‌ی کلی این است که پرتو پرانرژی‌تر بیشتر عبور می‌کند. جذب لبه‌ی K چگونه استثنایی بر این قاعده می‌سازد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی انرژی فوتون به نصف انرژی پیوند اوربیتال 1s برسد، پراکندگی همدوس ناگهان غالب می‌شود و عبور را متوقف می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی انرژی فوتون از انرژی پیوند اوربیتال 1s بگذرد، فوتون دیگر نمی‌تواند با هیچ الکترونی برهم‌کنش کند؛ پس برخلاف انتظار، جذب فوتوالکتریک یکباره متوقف می‌شود و عبور پرتو از جاذب کامل و بی‌مانع می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی انرژی فوتون فرودی افزایش یابد تا با انرژی پیوند الکترون‌های اوربیتال 1s جاذب برابر شود، احتمال جذب فوتوالکتریک به‌شدت بالا می‌رود و برخلاف انتظار شمار فوتون‌های جذب‌شده بسیار زیاد می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی انرژی فوتون از انرژی پیوند اوربیتال 2p بگذرد، جذب در اوربیتال‌های بیرونی ناگهان چند برابر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "078b47e7477d21b9bd42d00252229ec948e93f9889978c79443d179a2100467f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "وقتی انرژی فوتون به نصف انرژی پیوند اوربیتال 1s برسد، پراکندگی همدوس ناگهان غالب می‌شود و عبور را متوقف می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی انرژی فوتون به نصف انرژی پیوند اوربیتال 1s برسد، پراکندگی همدوس ناگهان غالب می‌شود و عبور را متوقف می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "1a39dd47825028e301e5f03b6db61e69551f7057d42562b051dfdfb786a01c65",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "وقتی انرژی فوتون از انرژی پیوند اوربیتال 1s بگذرد، فوتون دیگر نمی‌تواند با هیچ الکترونی برهم‌کنش کند؛ پس برخلاف انتظار، جذب فوتوالکتریک یکباره متوقف می‌شود و عبور پرتو از جاذب کامل و بی‌مانع می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی انرژی فوتون از انرژی پیوند اوربیتال 1s بگذرد، فوتون دیگر نمی‌تواند با هیچ الکترونی برهم‌کنش کند؛ پس برخلاف انتظار، جذب فوتوالکتریک یکباره متوقف می‌شود و عبور پرتو از جاذب کامل و بی‌مانع می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "c1493b7eeb0db6f210395ce70eb49a8bcfcfb9eee5647c8020d3f1cf6e684f22",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "وقتی انرژی فوتون فرودی افزایش یابد تا با انرژی پیوند الکترون‌های اوربیتال 1s جاذب برابر شود، احتمال جذب فوتوالکتریک به‌شدت بالا می‌رود و برخلاف انتظار شمار فوتون‌های جذب‌شده بسیار زیاد می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی انرژی فوتون فرودی افزایش یابد تا با انرژی پیوند الکترون‌های اوربیتال 1s جاذب برابر شود، احتمال جذب فوتوالکتریک به‌شدت بالا می‌رود و برخلاف انتظار شمار فوتون‌های جذب‌شده بسیار زیاد می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "1a8f960d0020488e0fb8abcc75c551b95b016e3504aecaf8dbbc03773144f09d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "وقتی انرژی فوتون از انرژی پیوند اوربیتال 2p بگذرد، جذب در اوربیتال‌های بیرونی ناگهان چند برابر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی انرژی فوتون از انرژی پیوند اوربیتال 2p بگذرد، جذب در اوربیتال‌های بیرونی ناگهان چند برابر می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c1493b7eeb0db6f210395ce70eb49a8bcfcfb9eee5647c8020d3f1cf6e684f22"
+        ],
+        "explanation": "در یک انرژی معین، روند نفوذ ناگهان معکوس می‌شود؛ و همین است که فیلترهای خاکی کمیاب را ممکن می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در یک انرژی معین، روند نفوذ ناگهان معکوس می‌شود؛ و همین است که فیلترهای خاکی کمیاب را ممکن می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-17T18:28:06.431Z"
+      }
+    },
+    {
+      "id": "question:29177",
+      "sourceId": "29177",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 52.381%;",
+      "contentKey": "b8ea4036fa961b39d89a465c0f867e4d98a9279535167f0a1a75213555e8b9cf",
+      "position": 12,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام دو کمیت با گری بیان می‌شوند و کدام دو با سیورت؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام دو کمیت با گری بیان می‌شوند و کدام دو با سیورت؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کرما و دوز جذبی با گری؛ دوز معادل و دوز مؤثر با سیورت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرتوگیری و کرما با گری؛ دوز جذبی و دوز معادل با سیورت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز جذبی و دوز معادل با گری؛ کرما و دوز مؤثر با سیورت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کرما و دوز معادل با گری؛ دوز جذبی و دوز مؤثر با سیورت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8dbbbc0bfdd3438d762d8f560626bdb63d1718c60ee91614cfb3ae5447b71f07",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کرما و دوز جذبی با گری؛ دوز معادل و دوز مؤثر با سیورت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کرما و دوز جذبی با گری؛ دوز معادل و دوز مؤثر با سیورت"
+            }
+          ]
+        },
+        {
+          "id": "aee9b7f3f95af54c0ad8702a255f280ca3ab932b4f294d3a14411dc8136d0be4",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "پرتوگیری و کرما با گری؛ دوز جذبی و دوز معادل با سیورت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پرتوگیری و کرما با گری؛ دوز جذبی و دوز معادل با سیورت"
+            }
+          ]
+        },
+        {
+          "id": "cf0adf38ff3c93a4f72b2af57d468806a9dc48c8a7fbaa857b0c09140f32cb23",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دوز جذبی و دوز معادل با گری؛ کرما و دوز مؤثر با سیورت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دوز جذبی و دوز معادل با گری؛ کرما و دوز مؤثر با سیورت"
+            }
+          ]
+        },
+        {
+          "id": "253d1ed19c58ce985ffbcbf60ccc78d206bde7afee2de7ef752730c0529a0a16",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کرما و دوز معادل با گری؛ دوز جذبی و دوز مؤثر با سیورت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کرما و دوز معادل با گری؛ دوز جذبی و دوز مؤثر با سیورت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8dbbbc0bfdd3438d762d8f560626bdb63d1718c60ee91614cfb3ae5447b71f07"
+        ],
+        "explanation": "قاعده‌ی ساده: گری برای انرژی است و سیورت برای اثر زیستی وزن‌داده‌شده.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "قاعده‌ی ساده: گری برای انرژی است و سیورت برای اثر زیستی وزن‌داده‌شده."
+          }
+        ],
+        "observedAt": "2026-11-17T18:28:53.983Z"
+      }
+    },
+    {
+      "id": "question:29182",
+      "sourceId": "29182",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 54.5455%;",
+      "contentKey": "35c5909d12503079edfc20f70a1ff3cd211bbd8463f28d56d62d50295db08eac",
+      "position": 13,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دستیاری می‌گوید: «تیروئید حساس‌ترین بافت در پرتوگیری دندانی است، پس باید بالاترین ضریب وزنی یعنی ۰٫۱۲ را داشته باشد.» ایراد کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دستیاری می‌گوید: «تیروئید حساس‌ترین بافت در پرتوگیری دندانی است، پس باید بالاترین ضریب وزنی یعنی ۰٫۱۲ را داشته باشد.» ایراد کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایرادی ندارد؛ تیروئید در فهرست بافت‌های باقی‌مانده است و بنابراین همراه مخاط دهان ضریب مشترک ۰٫۱۲ را می‌گیرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضریب وزنی تیروئید ۰٫۰۸ است، در همان رده‌ی گنادها، و ضریب ۰٫۱۲ تنها به مغز استخوان، ریه، پستان و معده تعلق دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضریب وزنی تیروئید ۰٫۰۱ است، در همان رده‌ی غدد بزاقی و پوست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضریب وزنی تیروئید ۰٫۰۴ است؛ ۰٫۱۲ به مغز استخوان، پستان، کولون، ریه، معده و بافت‌های باقی‌مانده تعلق دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b731d218fcd0dd30cbaba2bfc20eac447ce0d8a1e08168b2bb8d427cbea574b1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ایرادی ندارد؛ تیروئید در فهرست بافت‌های باقی‌مانده است و بنابراین همراه مخاط دهان ضریب مشترک ۰٫۱۲ را می‌گیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایرادی ندارد؛ تیروئید در فهرست بافت‌های باقی‌مانده است و بنابراین همراه مخاط دهان ضریب مشترک ۰٫۱۲ را می‌گیرد"
+            }
+          ]
+        },
+        {
+          "id": "9bbf07b3df4369b99fe3f88de9e7d38d11018af956e480056ea3dc9296524977",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ضریب وزنی تیروئید ۰٫۰۸ است، در همان رده‌ی گنادها، و ضریب ۰٫۱۲ تنها به مغز استخوان، ریه، پستان و معده تعلق دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ضریب وزنی تیروئید ۰٫۰۸ است، در همان رده‌ی گنادها، و ضریب ۰٫۱۲ تنها به مغز استخوان، ریه، پستان و معده تعلق دارد"
+            }
+          ]
+        },
+        {
+          "id": "ecbd33cd5128be464d39f22fa21c220402df721269abda75401892dc34410f38",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ضریب وزنی تیروئید ۰٫۰۱ است، در همان رده‌ی غدد بزاقی و پوست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ضریب وزنی تیروئید ۰٫۰۱ است، در همان رده‌ی غدد بزاقی و پوست"
+            }
+          ]
+        },
+        {
+          "id": "897d048d9f5e084fa777f2042e513bbb9a22dbc3fb52bc0dfa5a8bb9693a6c8d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ضریب وزنی تیروئید ۰٫۰۴ است؛ ۰٫۱۲ به مغز استخوان، پستان، کولون، ریه، معده و بافت‌های باقی‌مانده تعلق دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ضریب وزنی تیروئید ۰٫۰۴ است؛ ۰٫۱۲ به مغز استخوان، پستان، کولون، ریه، معده و بافت‌های باقی‌مانده تعلق دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "897d048d9f5e084fa777f2042e513bbb9a22dbc3fb52bc0dfa5a8bb9693a6c8d"
+        ],
+        "explanation": "ضریب وزنی بافت، حساسیت بافت را در سطح کل جمعیت وزن می‌دهد؛ اینکه بافتی در میدان پرتو دندانی باشد ضریبش را بالا نمی‌برد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "ضریب وزنی بافت، حساسیت بافت را در سطح کل جمعیت وزن می‌دهد؛ اینکه بافتی در میدان پرتو دندانی باشد ضریبش را بالا نمی‌برد."
+          }
+        ],
+        "observedAt": "2026-11-17T18:28:57.495Z"
+      }
+    },
+    {
+      "id": "question:29184",
+      "sourceId": "29184",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 56.5217%;",
+      "contentKey": "eb9ffbd263efebbd5416688233837a69670f71a5f7378a2a52425ba72a8585ea",
+      "position": 14,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه‌گزاره درباره‌ی برهم‌کنش‌ها و تضعیف کاملاً درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه‌گزاره درباره‌ی برهم‌کنش‌ها و تضعیف کاملاً درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فوتوالکتریک مستقل از Z و پایه‌ی تصویر، کامپتون با Z³ تقسیم بر E³، همدوس بدون یونیزاسیون، HVL ضخامتی که انرژی میانگین را نصف می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فوتوالکتریک با Z³ تقسیم بر E³ و پایه‌ی تصویر، کامپتون معکوس با انرژی و متناسب با عدد اتمی Z، همدوس بدون یونیزاسیون، HVL ضخامتی که شمار فوتون‌ها را ۵۰ درصد کم می‌کند و با انرژی میانگین بالاتر بزرگ‌تر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فوتوالکتریک با Z³ تقسیم بر E³ و پایه‌ی تصویر، کامپتون معکوس با انرژی و مستقل از Z، همدوس همراه با یونیزاسیون و انتقال انرژی، HVL ضخامتی که شمار فوتون‌ها را ۵۰ درصد کم می‌کند و با انرژی میانگین بالاتر کوچک‌تر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فوتوالکتریک با Z³ تقسیم بر E³ و پایه‌ی تصویر، کامپتون معکوس با انرژی و مستقل از Z، همدوس بدون یونیزاسیون، HVL ضخامتی که شمار فوتون‌ها را ۵۰ درصد کم می‌کند و با انرژی میانگین بالاتر بزرگ‌تر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e8b76e64498221bf3ee69a810a2929e2b7d64018c805659906bf0f7387e50436",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "فوتوالکتریک مستقل از Z و پایه‌ی تصویر، کامپتون با Z³ تقسیم بر E³، همدوس بدون یونیزاسیون، HVL ضخامتی که انرژی میانگین را نصف می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فوتوالکتریک مستقل از Z و پایه‌ی تصویر، کامپتون با Z³ تقسیم بر E³، همدوس بدون یونیزاسیون، HVL ضخامتی که انرژی میانگین را نصف می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "dfd2161428c3d52e50c5227f663c6ccb2cc6cfb589def6fee1ed714a7bcf32b9",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "فوتوالکتریک با Z³ تقسیم بر E³ و پایه‌ی تصویر، کامپتون معکوس با انرژی و متناسب با عدد اتمی Z، همدوس بدون یونیزاسیون، HVL ضخامتی که شمار فوتون‌ها را ۵۰ درصد کم می‌کند و با انرژی میانگین بالاتر بزرگ‌تر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فوتوالکتریک با Z³ تقسیم بر E³ و پایه‌ی تصویر، کامپتون معکوس با انرژی و متناسب با عدد اتمی Z، همدوس بدون یونیزاسیون، HVL ضخامتی که شمار فوتون‌ها را ۵۰ درصد کم می‌کند و با انرژی میانگین بالاتر بزرگ‌تر می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "54e0d3aa260694b635dd1e463d00ac55cc474196c7cc11793b6768118728c921",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "فوتوالکتریک با Z³ تقسیم بر E³ و پایه‌ی تصویر، کامپتون معکوس با انرژی و مستقل از Z، همدوس همراه با یونیزاسیون و انتقال انرژی، HVL ضخامتی که شمار فوتون‌ها را ۵۰ درصد کم می‌کند و با انرژی میانگین بالاتر کوچک‌تر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فوتوالکتریک با Z³ تقسیم بر E³ و پایه‌ی تصویر، کامپتون معکوس با انرژی و مستقل از Z، همدوس همراه با یونیزاسیون و انتقال انرژی، HVL ضخامتی که شمار فوتون‌ها را ۵۰ درصد کم می‌کند و با انرژی میانگین بالاتر کوچک‌تر می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "f1581f9f7a4442afb619f4ee66ce68417cbcedb7e96bdbcda2489bac7a002e68",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فوتوالکتریک با Z³ تقسیم بر E³ و پایه‌ی تصویر، کامپتون معکوس با انرژی و مستقل از Z، همدوس بدون یونیزاسیون، HVL ضخامتی که شمار فوتون‌ها را ۵۰ درصد کم می‌کند و با انرژی میانگین بالاتر بزرگ‌تر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فوتوالکتریک با Z³ تقسیم بر E³ و پایه‌ی تصویر، کامپتون معکوس با انرژی و مستقل از Z، همدوس بدون یونیزاسیون، HVL ضخامتی که شمار فوتون‌ها را ۵۰ درصد کم می‌کند و با انرژی میانگین بالاتر بزرگ‌تر می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f1581f9f7a4442afb619f4ee66ce68417cbcedb7e96bdbcda2489bac7a002e68"
+        ],
+        "explanation": "چهار گزاره درست، و آخری دو نکته دارد: HVL شمار فوتون‌ها را نصف می‌کند، نه انرژی؛ و با انرژی بالاتر بزرگ‌تر می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "چهار گزاره درست، و آخری دو نکته دارد: HVL شمار فوتون‌ها را نصف می‌کند، نه انرژی؛ و با انرژی بالاتر بزرگ‌تر می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-17T18:29:01.065Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:7b4cfb6a5696f2a8fe6bc448078ae92dd3b4cf720394f43474f777183fc7c10a",
+      "at": "2026-11-17T18:26:31.895Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "question:29147",
+      "at": "2026-11-17T18:26:33.506Z",
+      "progress": "width: 7.14286%;"
+    },
+    {
+      "stepId": "question:29152",
+      "at": "2026-11-17T18:26:55.490Z",
+      "progress": "width: 13.3333%;"
+    },
+    {
+      "stepId": "question:29154",
+      "at": "2026-11-17T18:27:02.215Z",
+      "progress": "width: 20%;"
+    },
+    {
+      "stepId": "question:29156",
+      "at": "2026-11-17T18:27:23.418Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:29160",
+      "at": "2026-11-17T18:27:30.131Z",
+      "progress": "width: 29.4118%;"
+    },
+    {
+      "stepId": "question:29164",
+      "at": "2026-11-17T18:27:36.197Z",
+      "progress": "width: 33.3333%;"
+    },
+    {
+      "stepId": "question:29167",
+      "at": "2026-11-17T18:27:42.258Z",
+      "progress": "width: 36.8421%;"
+    },
+    {
+      "stepId": "question:29168",
+      "at": "2026-11-17T18:27:49.180Z",
+      "progress": "width: 42.1053%;"
+    },
+    {
+      "stepId": "question:29171",
+      "at": "2026-11-17T18:27:55.139Z",
+      "progress": "width: 45%;"
+    },
+    {
+      "stepId": "question:29176",
+      "at": "2026-11-17T18:28:01.288Z",
+      "progress": "width: 47.619%;"
+    },
+    {
+      "stepId": "question:29177",
+      "at": "2026-11-17T18:28:08.045Z",
+      "progress": "width: 52.381%;"
+    },
+    {
+      "stepId": "question:29182",
+      "at": "2026-11-17T18:28:13.591Z",
+      "progress": "width: 54.5455%;"
+    },
+    {
+      "stepId": "question:29184",
+      "at": "2026-11-17T18:28:20.154Z",
+      "progress": "width: 56.5217%;"
+    },
+    {
+      "stepId": "question:29147",
+      "at": "2026-11-17T18:28:27.135Z",
+      "progress": "width: 58.3333%;"
+    },
+    {
+      "stepId": "question:29154",
+      "at": "2026-11-17T18:28:30.666Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:29156",
+      "at": "2026-11-17T18:28:34.246Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:29160",
+      "at": "2026-11-17T18:28:37.782Z",
+      "progress": "width: 70.8333%;"
+    },
+    {
+      "stepId": "question:29164",
+      "at": "2026-11-17T18:28:41.376Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:29168",
+      "at": "2026-11-17T18:28:44.949Z",
+      "progress": "width: 79.1667%;"
+    },
+    {
+      "stepId": "question:29171",
+      "at": "2026-11-17T18:28:48.489Z",
+      "progress": "width: 83.3333%;"
+    },
+    {
+      "stepId": "question:29177",
+      "at": "2026-11-17T18:28:52.034Z",
+      "progress": "width: 87.5%;"
+    },
+    {
+      "stepId": "question:29182",
+      "at": "2026-11-17T18:28:55.576Z",
+      "progress": "width: 91.6667%;"
+    },
+    {
+      "stepId": "question:29184",
+      "at": "2026-11-17T18:28:59.135Z",
+      "progress": "width: 95.8333%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

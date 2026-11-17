@@ -1,0 +1,2654 @@
+{
+  "schemaVersion": 3,
+  "id": "1563",
+  "sourceUrl": "https://app.dentigoapp.com/fa/lesson/1563",
+  "title": "درس سوم: واحد هانسفیلد",
+  "specialtyKey": "578cf1df5257e51f",
+  "specialtyName": "رادیولوژی دهان، فک و صورت",
+  "chapterId": "327",
+  "chapterTitle": "CBCT و تصویربرداری مقطعی، اصول توموگرافی رایانه‌ای و MDCT",
+  "chapterPosition": 21,
+  "lessonPosition": 3,
+  "runId": "2026-11-17T14-53-57-014Z",
+  "startedAt": "2026-11-17T17:16:43.671Z",
+  "updatedAt": "2026-11-17T17:17:41.898Z",
+  "status": "captured",
+  "steps": [
+    {
+      "id": "theory:2048cc6bb86ab4782ee7d363c34cde5edf046f075f461c95909295778918a713",
+      "position": 1,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 0%;",
+      "questionType": "unknown",
+      "title": "درس ۳: واحد هانسفیلد",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مقیاس، فرمول و جدول"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هر وکسل یک مقدار خاکستری می‌دهد که «مستقیماً با ضریب تضعیف خطی محاسبه‌شده‌ی آن بافت متناظر است». در MDCT این مقادیر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عدد CT"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شوند و بر مقیاسی از واحدهای قراردادی — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واحد هانسفیلد (HU)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، به افتخار گادفری هانسفیلد — بیان می‌گردند."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-22.webp",
+                  "alt": "اثر بهسازی تصویر بر نمایش داده",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/09fbf077d6217630e56b6fe369ff555f268f1ea058b7a3ad93214013d7d3defb.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اثر بهسازی تصویر بر نمایش داده "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.22)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو لنگر ثابت مقیاس: آب = صفر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هوا = −۱۰۰۰"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و فرمولش:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "HU = ۱۰۰۰ × (μ − μ"
+                    },
+                    {
+                      "tag": "sub",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ") ÷ μ"
+                    },
+                    {
+                      "tag": "sub",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آب"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "که در آن μ ضریب تضعیف خطی است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و توجه کن: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "HU یک واحد SI نیست و بدون بُعد است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و انتهای بالای مقیاس ثابت نیست —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با عمق بیت تعیین می‌شود: «معاینات CT با تصاویر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۲ بیتی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، مقیاسی می‌دهند با هوا در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "−۱۰۲۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و حد بالای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۰۷۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". با تصاویر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۶ بیتی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، دامنه‌ی بالا به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۴٬۵۱۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " افزایش می‌یابد.» و دامنه‌ی نمایش معمول تصویر مقطعی: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از −۱۰۰۰ تا +۳۰۰۰ HU"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»."
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بافت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "واحد هانسفیلد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مینا"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+۱۵۰۰ تا +۳۰۰۰"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "استخوان"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+۱۰۰۰ تا +۳۰۰۰"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (کورتیکال)، "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+۱۵۰ تا +۶۰۰"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (کانسلوس)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "عضله"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+۲۰ تا +۱۴۰"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "خون لخته‌شده"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+۱۳ تا +۳۰"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (مایع)، "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+۵۰ تا +۷۵"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (خون‌ریزی)، "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+۴ تا +۹۰"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (هماتوم)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مغز"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+۲۵"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (ماده‌ی سفید)، "
+                            },
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+۴۰"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (ماده‌ی خاکستری)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "چرک"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۰ تا +۴۵"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مایع مغزی-نخاعی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+۱۵"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "آب"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۰"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "چربی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "−۵۰ تا −۲۰۰"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ریه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "−۶۰۰ تا −۸۰۰"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هوا"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "−۱۰۰۰"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و قاعده‌ی نمایش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مقادیر HU "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بالاتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به‌صورت سایه‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روشن‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " خاکستری، و مقادیر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پایین‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به‌صورت سایه‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تیره‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دیده می‌شوند.» پس "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استخوان کورتیکال و فلز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، عدد CT بالا می‌دهند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:1bf06d3595b554f3bc6b11fa2c0a439f523c7fdf522e0f27f4f66048699b1b0a",
+      "position": 2,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 14.2857%;",
+      "questionType": "unknown",
+      "title": "درس ۳: واحد هانسفیلد",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چه چیزی HU را جابه‌جا می‌کند — و چرا به عدد CBCT اعتماد نکنی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "جز آب و هوا که مقادیر ثابتی روی مقیاس دارند، عدد CT هر ماده با سه چیز تغییر می‌کند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عدد اتمی مؤثر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چگالی فیزیکی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انرژی پرتو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-5.webp",
+                  "alt": "مواد حاجب: ید داخل‌وریدی برای افزایش کنتراست",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/336e41faf887aff1b99a754eb36b4332c24e6a1559cf66695500734f61be311c.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مواد حاجب: ید داخل‌وریدی برای افزایش کنتراست "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.5)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اثر انرژی جهت مشخصی دارد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «وقتی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انرژی پرتو (kVp) افزایش یابد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، اعداد CT "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش می‌یابند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — به‌ویژه برای بافت‌های با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عدد اتمی مؤثر بالا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مانند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مینا، عاج و استخوان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و حالا مهم‌ترین هشدار عملی این درس:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مقادیر شدت خاکستری تعیین‌شده از تصاویر CBCT، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نشانگرهای کم‌اعتمادتری از تضعیف بافت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هستند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چهار دلیلش:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خروجی دوز پایین‌تر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " منابع پرتو CBCT."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پرتو پراکنده‌ی بیشتری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " که به آشکارساز برخورد می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصویربرداری "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "حجم محدود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "محدودیت‌های ذاتی الگوریتم‌های بازسازی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در تصحیح این متغیرها."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک لایه‌ی دشواری افزوده:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برخلاف MDCT، تصویربرداری CBCT بر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جزئیات بافت سخت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " متمرکز است. تضعیف در این بافت‌های با عدد اتمی بالا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌شدت وابسته به انرژی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، و اندازه‌گیری این بافت‌ها برای استنتاج "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چگالی مواد معدنی بافت غیرقابل اعتماد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و هشدار پایانی، صریح:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بسیاری از سازندگان امکان اندازه‌گیری «HU» درون تصویر CBCT را فراهم می‌کنند، و کاربران باید محدودیت‌های استفاده از این مقادیر کمّی را در تصمیم‌گیری بالینی بشناسند.» پس عددی که دستگاه CBCT نشان می‌دهد، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک HU واقعی نیست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:27812",
+      "position": 3,
+      "kind": "question",
+      "sourceQuestionId": "27812",
+      "sourceStepId": null,
+      "sourceProgress": "width: 28.5714%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: واحد هانسفیلد",
+      "prompt": "مقدار خاکستری هر وکسل در CT با چه چیزی متناظر است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مقدار خاکستری هر وکسل در CT با چه چیزی متناظر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مستقیماً با عدد اتمی مؤثر بافت؛ و به همین دلیل مقدار آن مستقل از انرژی پرتو و پارامترهای اکسپوز باقی می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مستقیماً با چگالی فیزیکی بافت بر حسب گرم بر سانتی‌متر مکعب؛ و به همین دلیل می‌توان چگالی هر بافت را از روی تصویر مستقیماً گزارش کرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مستقیماً با ضریب تضعیف خطی محاسبه‌شده‌ی آن موقعیت بافتی، که خود به چگالی و عدد اتمی بافت بستگی دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مستقیماً با شمار فوتون‌های تابیده به آن ناحیه پیش از عبور از بیمار؛ و تضعیف بافت در محاسبه‌ی آن وارد نمی‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "مستقیماً با عدد اتمی مؤثر بافت؛ و به همین دلیل مقدار آن مستقل از انرژی پرتو و پارامترهای اکسپوز باقی می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مستقیماً با عدد اتمی مؤثر بافت؛ و به همین دلیل مقدار آن مستقل از انرژی پرتو و پارامترهای اکسپوز باقی می‌ماند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "مستقیماً با چگالی فیزیکی بافت بر حسب گرم بر سانتی‌متر مکعب؛ و به همین دلیل می‌توان چگالی هر بافت را از روی تصویر مستقیماً گزارش کرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مستقیماً با چگالی فیزیکی بافت بر حسب گرم بر سانتی‌متر مکعب؛ و به همین دلیل می‌توان چگالی هر بافت را از روی تصویر مستقیماً گزارش کرد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "مستقیماً با ضریب تضعیف خطی محاسبه‌شده‌ی آن موقعیت بافتی، که خود به چگالی و عدد اتمی بافت بستگی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مستقیماً با ضریب تضعیف خطی محاسبه‌شده‌ی آن موقعیت بافتی، که خود به چگالی و عدد اتمی بافت بستگی دارد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "مستقیماً با شمار فوتون‌های تابیده به آن ناحیه پیش از عبور از بیمار؛ و تضعیف بافت در محاسبه‌ی آن وارد نمی‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مستقیماً با شمار فوتون‌های تابیده به آن ناحیه پیش از عبور از بیمار؛ و تضعیف بافت در محاسبه‌ی آن وارد نمی‌شود"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "2"
+        ],
+        "correctOptionHashes": [
+          "4741c3da751de3676ba03fb74df5e380801bc54376f93a11cb144ffbac21e08f"
+        ],
+        "correctOptionTexts": [
+          "مستقیماً با ضریب تضعیف خطی محاسبه‌شده‌ی آن موقعیت بافتی، که خود به چگالی و عدد اتمی بافت بستگی دارد"
+        ],
+        "explanation": "درست گفتی. چگالی و عدد اتمی بر ضریب تضعیف اثر می‌گذارند، ولی خودشان مستقیماً اندازه‌گیری نمی‌شوند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست گفتی. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "چگالی و عدد اتمی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " بر ضریب تضعیف اثر می‌گذارند، ولی خودشان مستقیماً اندازه‌گیری نمی‌شوند."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "مستقیماً با عدد اتمی مؤثر بافت؛ و به همین دلیل مقدار آن مستقل از انرژی پرتو و پارامترهای اکسپوز باقی می‌ماند",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "مستقیماً با چگالی فیزیکی بافت بر حسب گرم بر سانتی‌متر مکعب؛ و به همین دلیل می‌توان چگالی هر بافت را از روی تصویر مستقیماً گزارش کرد",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "مستقیماً با ضریب تضعیف خطی محاسبه‌شده‌ی آن موقعیت بافتی، که خود به چگالی و عدد اتمی بافت بستگی دارد",
+            "isCorrect": true
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "مستقیماً با شمار فوتون‌های تابیده به آن ناحیه پیش از عبور از بیمار؛ و تضعیف بافت در محاسبه‌ی آن وارد نمی‌شود",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T17:17:13.680Z"
+      }
+    },
+    {
+      "id": "question:27817",
+      "position": 4,
+      "kind": "question",
+      "sourceQuestionId": "27817",
+      "sourceStepId": null,
+      "sourceProgress": "width: 42.8571%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: واحد هانسفیلد",
+      "prompt": "رابطه‌ی مقدار هانسفیلد با شدت خاکستری نمایش چیست؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "رابطه‌ی مقدار هانسفیلد با شدت خاکستری نمایش چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رابطه‌ی مقدار هانسفیلد با شدت نمایش در هر سامانه متفاوت است و هیچ قاعده‌ی عمومی برای آن وجود ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقادیر بالاتر به‌صورت سایه‌های تیره‌تر و مقادیر پایین‌تر به‌صورت سایه‌های روشن‌تر دیده می‌شوند، درست مانند نگاتیو فیلم رادیوگرافی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقادیر بالاتر به‌صورت سایه‌های روشن‌تر و مقادیر پایین‌تر به‌صورت سایه‌های تیره‌تر دیده می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها مقادیر مثبت روی مقیاس خاکستری نمایش داده می‌شوند و مقادیر منفی به‌صورت سیاه یکدست و بدون تفکیک ثبت می‌گردند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "رابطه‌ی مقدار هانسفیلد با شدت نمایش در هر سامانه متفاوت است و هیچ قاعده‌ی عمومی برای آن وجود ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رابطه‌ی مقدار هانسفیلد با شدت نمایش در هر سامانه متفاوت است و هیچ قاعده‌ی عمومی برای آن وجود ندارد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "مقادیر بالاتر به‌صورت سایه‌های تیره‌تر و مقادیر پایین‌تر به‌صورت سایه‌های روشن‌تر دیده می‌شوند، درست مانند نگاتیو فیلم رادیوگرافی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقادیر بالاتر به‌صورت سایه‌های تیره‌تر و مقادیر پایین‌تر به‌صورت سایه‌های روشن‌تر دیده می‌شوند، درست مانند نگاتیو فیلم رادیوگرافی"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "مقادیر بالاتر به‌صورت سایه‌های روشن‌تر و مقادیر پایین‌تر به‌صورت سایه‌های تیره‌تر دیده می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقادیر بالاتر به‌صورت سایه‌های روشن‌تر و مقادیر پایین‌تر به‌صورت سایه‌های تیره‌تر دیده می‌شوند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "تنها مقادیر مثبت روی مقیاس خاکستری نمایش داده می‌شوند و مقادیر منفی به‌صورت سیاه یکدست و بدون تفکیک ثبت می‌گردند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها مقادیر مثبت روی مقیاس خاکستری نمایش داده می‌شوند و مقادیر منفی به‌صورت سیاه یکدست و بدون تفکیک ثبت می‌گردند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "2"
+        ],
+        "correctOptionHashes": [
+          "ffb7b30615ad28c7a56c3dae643b5cc946e76104acbb936985a01baf05061adf"
+        ],
+        "correctOptionTexts": [
+          "مقادیر بالاتر به‌صورت سایه‌های روشن‌تر و مقادیر پایین‌تر به‌صورت سایه‌های تیره‌تر دیده می‌شوند"
+        ],
+        "explanation": "پس استخوان کورتیکال و فلز که تضعیف بالایی دارند، اعداد CT بالا و ظاهر روشن می‌دهند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پس "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "استخوان کورتیکال و فلز"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " که تضعیف بالایی دارند، اعداد CT بالا و ظاهر روشن می‌دهند."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "رابطه‌ی مقدار هانسفیلد با شدت نمایش در هر سامانه متفاوت است و هیچ قاعده‌ی عمومی برای آن وجود ندارد",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "مقادیر بالاتر به‌صورت سایه‌های تیره‌تر و مقادیر پایین‌تر به‌صورت سایه‌های روشن‌تر دیده می‌شوند، درست مانند نگاتیو فیلم رادیوگرافی",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "مقادیر بالاتر به‌صورت سایه‌های روشن‌تر و مقادیر پایین‌تر به‌صورت سایه‌های تیره‌تر دیده می‌شوند",
+            "isCorrect": true
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "تنها مقادیر مثبت روی مقیاس خاکستری نمایش داده می‌شوند و مقادیر منفی به‌صورت سیاه یکدست و بدون تفکیک ثبت می‌گردند",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T17:17:19.990Z"
+      }
+    },
+    {
+      "id": "question:27820",
+      "position": 5,
+      "kind": "question",
+      "sourceQuestionId": "27820",
+      "sourceStepId": null,
+      "sourceProgress": "width: 57.1429%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: واحد هانسفیلد",
+      "prompt": "کدام مجموعه درست است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماده‌ی سفید مغز مثبت ۲۵ و ماده‌ی خاکستری مثبت ۴۰؛ چرک صفر تا مثبت ۴۵؛ و خون لخته‌شده مثبت ۱۳ تا مثبت ۳۰ در حالت مایع و مثبت ۵۰ تا مثبت ۷۵ در خون‌ریزی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماده‌ی سفید مغز مثبت ۴۰ و ماده‌ی خاکستری مثبت ۲۵؛ چرک منفی ۴۵ تا صفر؛ و خون لخته‌شده همیشه مقادیر منفی دارد، حتی در هماتوم، چون مایع است و چگالی‌اش از آب کمتر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماده‌ی سفید و خاکستری مغز مقدار یکسانی دارند و روی CT از هم قابل تفکیک نیستند؛ و تفکیکشان تنها با MRI ممکن است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرک و خون لخته‌شده هر دو مقادیر بالای هزار دارند چون سلول و پروتئین فراوانی در خود دارند و تضعیف بالایی می‌سازند، هم‌تراز با استخوان کورتیکال و بسیار روشن‌تر از عضله"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "ماده‌ی سفید مغز مثبت ۲۵ و ماده‌ی خاکستری مثبت ۴۰؛ چرک صفر تا مثبت ۴۵؛ و خون لخته‌شده مثبت ۱۳ تا مثبت ۳۰ در حالت مایع و مثبت ۵۰ تا مثبت ۷۵ در خون‌ریزی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماده‌ی سفید مغز مثبت ۲۵ و ماده‌ی خاکستری مثبت ۴۰؛ چرک صفر تا مثبت ۴۵؛ و خون لخته‌شده مثبت ۱۳ تا مثبت ۳۰ در حالت مایع و مثبت ۵۰ تا مثبت ۷۵ در خون‌ریزی"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "ماده‌ی سفید مغز مثبت ۴۰ و ماده‌ی خاکستری مثبت ۲۵؛ چرک منفی ۴۵ تا صفر؛ و خون لخته‌شده همیشه مقادیر منفی دارد، حتی در هماتوم، چون مایع است و چگالی‌اش از آب کمتر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماده‌ی سفید مغز مثبت ۴۰ و ماده‌ی خاکستری مثبت ۲۵؛ چرک منفی ۴۵ تا صفر؛ و خون لخته‌شده همیشه مقادیر منفی دارد، حتی در هماتوم، چون مایع است و چگالی‌اش از آب کمتر است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "ماده‌ی سفید و خاکستری مغز مقدار یکسانی دارند و روی CT از هم قابل تفکیک نیستند؛ و تفکیکشان تنها با MRI ممکن است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماده‌ی سفید و خاکستری مغز مقدار یکسانی دارند و روی CT از هم قابل تفکیک نیستند؛ و تفکیکشان تنها با MRI ممکن است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "چرک و خون لخته‌شده هر دو مقادیر بالای هزار دارند چون سلول و پروتئین فراوانی در خود دارند و تضعیف بالایی می‌سازند، هم‌تراز با استخوان کورتیکال و بسیار روشن‌تر از عضله",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چرک و خون لخته‌شده هر دو مقادیر بالای هزار دارند چون سلول و پروتئین فراوانی در خود دارند و تضعیف بالایی می‌سازند، هم‌تراز با استخوان کورتیکال و بسیار روشن‌تر از عضله"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "0"
+        ],
+        "correctOptionHashes": [
+          "c5f1b189cebaabda0cc2eb307a9217ea7d77a6dda26abe388e1f9e17da86e833"
+        ],
+        "correctOptionTexts": [
+          "ماده‌ی سفید مغز مثبت ۲۵ و ماده‌ی خاکستری مثبت ۴۰؛ چرک صفر تا مثبت ۴۵؛ و خون لخته‌شده مثبت ۱۳ تا مثبت ۳۰ در حالت مایع و مثبت ۵۰ تا مثبت ۷۵ در خون‌ریزی"
+        ],
+        "explanation": "احسنت. هماتوم مثبت ۴ تا مثبت ۹۰؛ دامنه‌ی گسترده‌اش نشان می‌دهد که سن خون‌ریزی بر عدد اثر می‌گذارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "احسنت. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هماتوم مثبت ۴ تا مثبت ۹۰"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ دامنه‌ی گسترده‌اش نشان می‌دهد که سن خون‌ریزی بر عدد اثر می‌گذارد."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ماده‌ی سفید مغز مثبت ۲۵ و ماده‌ی خاکستری مثبت ۴۰؛ چرک صفر تا مثبت ۴۵؛ و خون لخته‌شده مثبت ۱۳ تا مثبت ۳۰ در حالت مایع و مثبت ۵۰ تا مثبت ۷۵ در خون‌ریزی",
+            "isCorrect": true
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ماده‌ی سفید مغز مثبت ۴۰ و ماده‌ی خاکستری مثبت ۲۵؛ چرک منفی ۴۵ تا صفر؛ و خون لخته‌شده همیشه مقادیر منفی دارد، حتی در هماتوم، چون مایع است و چگالی‌اش از آب کمتر است",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ماده‌ی سفید و خاکستری مغز مقدار یکسانی دارند و روی CT از هم قابل تفکیک نیستند؛ و تفکیکشان تنها با MRI ممکن است",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "چرک و خون لخته‌شده هر دو مقادیر بالای هزار دارند چون سلول و پروتئین فراوانی در خود دارند و تضعیف بالایی می‌سازند، هم‌تراز با استخوان کورتیکال و بسیار روشن‌تر از عضله",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T17:17:26.858Z"
+      }
+    },
+    {
+      "id": "question:27822",
+      "position": 6,
+      "kind": "question",
+      "sourceQuestionId": "27822",
+      "sourceStepId": null,
+      "sourceProgress": "width: 71.4286%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: واحد هانسفیلد",
+      "prompt": "با افزایش کیلوولتاژ، اعداد CT چه تغییری می‌کنند و در کدام بافت‌ها بیشتر؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "با افزایش کیلوولتاژ، اعداد CT چه تغییری می‌کنند و در کدام بافت‌ها بیشتر؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ تغییری نمی‌کنند؛ چون فرمول هانسفیلد بر پایه‌ی نسبت به آب تعریف شده و اثر انرژی در صورت و مخرج حذف می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش می‌یابند، به‌ویژه در بافت‌های با عدد اتمی مؤثر بالا؛ چون انرژی بیشتر به معنای تضعیف بیشتر در ماده‌ی متراکم است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش می‌یابند، ولی تنها در بافت‌های نرم با عدد اتمی پایین؛ و بافت‌های سخت در برابر تغییر کیلوولتاژ مقاوم‌اند و عددشان ثابت می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش می‌یابند، به‌ویژه در بافت‌های با عدد اتمی مؤثر بالا مانند مینا و عاج و استخوان"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "هیچ تغییری نمی‌کنند؛ چون فرمول هانسفیلد بر پایه‌ی نسبت به آب تعریف شده و اثر انرژی در صورت و مخرج حذف می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ تغییری نمی‌کنند؛ چون فرمول هانسفیلد بر پایه‌ی نسبت به آب تعریف شده و اثر انرژی در صورت و مخرج حذف می‌شود"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "افزایش می‌یابند، به‌ویژه در بافت‌های با عدد اتمی مؤثر بالا؛ چون انرژی بیشتر به معنای تضعیف بیشتر در ماده‌ی متراکم است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش می‌یابند، به‌ویژه در بافت‌های با عدد اتمی مؤثر بالا؛ چون انرژی بیشتر به معنای تضعیف بیشتر در ماده‌ی متراکم است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "کاهش می‌یابند، ولی تنها در بافت‌های نرم با عدد اتمی پایین؛ و بافت‌های سخت در برابر تغییر کیلوولتاژ مقاوم‌اند و عددشان ثابت می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش می‌یابند، ولی تنها در بافت‌های نرم با عدد اتمی پایین؛ و بافت‌های سخت در برابر تغییر کیلوولتاژ مقاوم‌اند و عددشان ثابت می‌ماند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "کاهش می‌یابند، به‌ویژه در بافت‌های با عدد اتمی مؤثر بالا مانند مینا و عاج و استخوان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش می‌یابند، به‌ویژه در بافت‌های با عدد اتمی مؤثر بالا مانند مینا و عاج و استخوان"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "3"
+        ],
+        "correctOptionHashes": [
+          "4db47713ed400287065d295fac1249a77c23e5d46d60addb3d2f9b0d198b099b"
+        ],
+        "correctOptionTexts": [
+          "کاهش می‌یابند، به‌ویژه در بافت‌های با عدد اتمی مؤثر بالا مانند مینا و عاج و استخوان"
+        ],
+        "explanation": "همین را می‌خواستیم. این دقیقاً همان بافت‌هایی‌اند که در دندانپزشکی اهمیت دارند؛ به همین دلیل کمی‌سازی در CBCT دشوار است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین را می‌خواستیم. این دقیقاً همان بافت‌هایی‌اند که در دندانپزشکی اهمیت دارند؛ به همین دلیل کمی‌سازی در CBCT دشوار است."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "هیچ تغییری نمی‌کنند؛ چون فرمول هانسفیلد بر پایه‌ی نسبت به آب تعریف شده و اثر انرژی در صورت و مخرج حذف می‌شود",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "افزایش می‌یابند، به‌ویژه در بافت‌های با عدد اتمی مؤثر بالا؛ چون انرژی بیشتر به معنای تضعیف بیشتر در ماده‌ی متراکم است",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "کاهش می‌یابند، ولی تنها در بافت‌های نرم با عدد اتمی پایین؛ و بافت‌های سخت در برابر تغییر کیلوولتاژ مقاوم‌اند و عددشان ثابت می‌ماند",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "کاهش می‌یابند، به‌ویژه در بافت‌های با عدد اتمی مؤثر بالا مانند مینا و عاج و استخوان",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-17T17:17:33.143Z"
+      }
+    },
+    {
+      "id": "question:27824",
+      "position": 7,
+      "kind": "question",
+      "sourceQuestionId": "27824",
+      "sourceStepId": null,
+      "sourceProgress": "width: 85.7143%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: واحد هانسفیلد",
+      "prompt": "چرا مقادیر خاکستری CBCT نشانگرهای کم‌اعتمادتری از تضعیف بافت‌اند؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا مقادیر خاکستری CBCT نشانگرهای کم‌اعتمادتری از تضعیف بافت‌اند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌دلیل خروجی دوز پایین‌تر منابع پرتو CBCT، پرتو پراکنده‌ی بیشتری که به آشکارساز می‌خورد، تصویربرداری حجم محدود، و محدودیت‌های ذاتی الگوریتم‌های بازسازی در تصحیح این متغیرها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌دلیل اندازه‌ی بزرگ‌تر وکسل در CBCT و ماتریکس کوچک‌تر آن؛ و با استفاده از پروتکل‌های تفکیک بالا و کوچک‌ترین وکسل دستگاه، این محدودیت به‌طور کامل برطرف می‌شود و مقادیر معادل MDCT می‌گردند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌دلیل نبود ماده‌ی حاجب در CBCT؛ و با تزریق ماده‌ی حاجب یددار پیش از اسکن CBCT، مقادیر خاکستری آن به‌اندازه‌ی MDCT قابل اعتماد و برای سنجش چگالی استخوان پیش از ایمپلنت کافی می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌دلیل زمان اسکن طولانی‌تر CBCT و احتمال حرکت بیمار؛ و با تثبیت بهتر سر بیمار، مقادیر خاکستری کاملاً قابل اعتماد می‌گردند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "به‌دلیل خروجی دوز پایین‌تر منابع پرتو CBCT، پرتو پراکنده‌ی بیشتری که به آشکارساز می‌خورد، تصویربرداری حجم محدود، و محدودیت‌های ذاتی الگوریتم‌های بازسازی در تصحیح این متغیرها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به‌دلیل خروجی دوز پایین‌تر منابع پرتو CBCT، پرتو پراکنده‌ی بیشتری که به آشکارساز می‌خورد، تصویربرداری حجم محدود، و محدودیت‌های ذاتی الگوریتم‌های بازسازی در تصحیح این متغیرها"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "به‌دلیل اندازه‌ی بزرگ‌تر وکسل در CBCT و ماتریکس کوچک‌تر آن؛ و با استفاده از پروتکل‌های تفکیک بالا و کوچک‌ترین وکسل دستگاه، این محدودیت به‌طور کامل برطرف می‌شود و مقادیر معادل MDCT می‌گردند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به‌دلیل اندازه‌ی بزرگ‌تر وکسل در CBCT و ماتریکس کوچک‌تر آن؛ و با استفاده از پروتکل‌های تفکیک بالا و کوچک‌ترین وکسل دستگاه، این محدودیت به‌طور کامل برطرف می‌شود و مقادیر معادل MDCT می‌گردند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "به‌دلیل نبود ماده‌ی حاجب در CBCT؛ و با تزریق ماده‌ی حاجب یددار پیش از اسکن CBCT، مقادیر خاکستری آن به‌اندازه‌ی MDCT قابل اعتماد و برای سنجش چگالی استخوان پیش از ایمپلنت کافی می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به‌دلیل نبود ماده‌ی حاجب در CBCT؛ و با تزریق ماده‌ی حاجب یددار پیش از اسکن CBCT، مقادیر خاکستری آن به‌اندازه‌ی MDCT قابل اعتماد و برای سنجش چگالی استخوان پیش از ایمپلنت کافی می‌شوند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "به‌دلیل زمان اسکن طولانی‌تر CBCT و احتمال حرکت بیمار؛ و با تثبیت بهتر سر بیمار، مقادیر خاکستری کاملاً قابل اعتماد می‌گردند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به‌دلیل زمان اسکن طولانی‌تر CBCT و احتمال حرکت بیمار؛ و با تثبیت بهتر سر بیمار، مقادیر خاکستری کاملاً قابل اعتماد می‌گردند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "0"
+        ],
+        "correctOptionHashes": [
+          "4b46014a163835b725eafb80e0579cbdf5018bc1de755f69acb7e6ac8428173b"
+        ],
+        "correctOptionTexts": [
+          "به‌دلیل خروجی دوز پایین‌تر منابع پرتو CBCT، پرتو پراکنده‌ی بیشتری که به آشکارساز می‌خورد، تصویربرداری حجم محدود، و محدودیت‌های ذاتی الگوریتم‌های بازسازی در تصحیح این متغیرها"
+        ],
+        "explanation": "درست — چهار دلیل، و هیچ‌کدام با تنظیم بهتر برطرف نمی‌شود؛ محدودیت‌ها ذاتی‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست — "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "چهار دلیل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، و هیچ‌کدام با تنظیم بهتر برطرف نمی‌شود؛ محدودیت‌ها "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ذاتی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "‌اند."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "به‌دلیل خروجی دوز پایین‌تر منابع پرتو CBCT، پرتو پراکنده‌ی بیشتری که به آشکارساز می‌خورد، تصویربرداری حجم محدود، و محدودیت‌های ذاتی الگوریتم‌های بازسازی در تصحیح این متغیرها",
+            "isCorrect": true
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "به‌دلیل اندازه‌ی بزرگ‌تر وکسل در CBCT و ماتریکس کوچک‌تر آن؛ و با استفاده از پروتکل‌های تفکیک بالا و کوچک‌ترین وکسل دستگاه، این محدودیت به‌طور کامل برطرف می‌شود و مقادیر معادل MDCT می‌گردند",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "به‌دلیل نبود ماده‌ی حاجب در CBCT؛ و با تزریق ماده‌ی حاجب یددار پیش از اسکن CBCT، مقادیر خاکستری آن به‌اندازه‌ی MDCT قابل اعتماد و برای سنجش چگالی استخوان پیش از ایمپلنت کافی می‌شوند",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "به‌دلیل زمان اسکن طولانی‌تر CBCT و احتمال حرکت بیمار؛ و با تثبیت بهتر سر بیمار، مقادیر خاکستری کاملاً قابل اعتماد می‌گردند",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T17:17:39.772Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:2048cc6bb86ab4782ee7d363c34cde5edf046f075f461c95909295778918a713",
+      "at": "2026-11-17T17:16:45.627Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:1bf06d3595b554f3bc6b11fa2c0a439f523c7fdf522e0f27f4f66048699b1b0a",
+      "at": "2026-11-17T17:16:47.710Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:27812",
+      "at": "2026-11-17T17:16:49.348Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:27817",
+      "at": "2026-11-17T17:17:15.276Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:27820",
+      "at": "2026-11-17T17:17:21.449Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:27822",
+      "at": "2026-11-17T17:17:28.478Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:27824",
+      "at": "2026-11-17T17:17:34.760Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "warnings": [],
+  "theoryPageCount": 2,
+  "questionCount": 5,
+  "completion": {
+    "heading": "تبریک به تو…!",
+    "at": "2026-11-17T17:17:41.897Z"
+  },
+  "validation": {
+    "issues": [],
+    "countsVerified": false,
+    "sourceFinished": true
+  }
+}

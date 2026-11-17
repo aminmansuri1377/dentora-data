@@ -1,0 +1,2765 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1581/lesson.json",
+  "id": "1581",
+  "title": "درس اول: MRI — تصویربرداری بدون یک فوتون پرتو",
+  "specialtyKey": "578cf1df5257e51f",
+  "chapter": {
+    "id": "331",
+    "title": "MRI، پزشکی هسته‌ای و سونوگرافی",
+    "position": 23
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:eb3aac9f0f328be197850caf50fc10df39ad17ba0536c540a2f0f1a332e0b353",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "c934c34eae0bf501ff27393e982cc8832691f082fd9578534d38d460d948da2f",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "از NMR تا MRI"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "MRI یک تکنیک تصویربرداری مقطعی است که بر اصل "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رزونانس مغناطیسی هسته‌ای (NMR)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کار می‌کند — و برخلاف هر چیزی که تا اینجا خوانده‌ای، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ پرتو یون‌سازی در آن نیست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-10-8.webp",
+                  "alt": "مختصات مرجع در تصویربرداری تشدید مغناطیسی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/db784e01ef7116fe7376c4d0e78a268763efedff1a672e1e3d864a391f1e111c.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مختصات مرجع در تصویربرداری تشدید مغناطیسی "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 10.8)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و زنجیره‌ی فیزیکی‌اش را در چهار جمله بگیر:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک ذره‌ی باردار در حرکت، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میدان مغناطیسی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تولید می‌کند.»، «وقتی هسته‌ای با اسپین هسته‌ای غیرصفر در میدان مغناطیسی قرار گیرد، شروع به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تقدیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌کند.»، «فرکانس تقدیم متناسب با چگالی شار مغناطیسی است.»، «وقتی با موج رادیویی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هم‌فرکانس با فرکانس تقدیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تابانده شود، هسته انرژی موج را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جذب می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ویژگی درخشان این پدیده:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «وقتی فرکانس‌ها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حتی اندکی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تفاوت داشته باشند، هسته "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ انرژی‌ای جذب نمی‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". این دریافت انرژی بسیار اختصاصی، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "NMR"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تاریخچه‌ی جوایز — چهار مرحله:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۹۴۶"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فلیکس بلاخ"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ادوارد میلز پرسل"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اصل NMR را بر مایعات و جامدات به کار بستند؛ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نوبل فیزیک ۱۹۵۲"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۹۷۱"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — آزمایش‌های "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ریموند دامادیان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " روی موش‌ها نشان داد «"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آسایش تومورها با بافت طبیعی متفاوت است"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "»."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۹۷۳"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پل لاتربر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تکنیک ثبت سیگنال از مکان‌های مختلف با «"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "میدان‌های مغناطیسی گرادیان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "» را پیشنهاد داد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سپس "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سر پیتر منسفیلد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تکنیک "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انتخاب برش"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را ساخت و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ریچارد ارنست"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بازسازی ریاضی تصویر با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تبدیل فوریه‌ی دوبعدی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را. «جز دامادیان، این سه دانشمند نوبل گرفتند.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و هسته‌ی هدف در MRI بالینی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هسته‌ی هیدروژن (پروتون)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". هسته‌هایی با شمار "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پروتون یا نوترون قابل استفاده‌اند، «ولی هیدروژن با توجه به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حساسیت بالا و فراوانی طبیعی‌اش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مناسب‌ترین است». و مهم‌تر: «هیدروژن در بدن انسان در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آب و چربی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به مقدار فراوان هست، پس منبع غنی سیگنال NMR فراهم می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ایزوتوپ"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فراوانی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نسبت ژیرومغناطیسی (MHz/T)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "هیدروژن-۱"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۹۹٪"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "۴۲٫۶"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کربن-۱۲"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۹۸٪"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "صفر"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اکسیژن-۱۶"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۹۹٪"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "صفر"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فلوئور-۱۹"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۱۰۰٪"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۴۰٫۰"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سدیم-۲۳"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۱۰۰٪"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۱۱٫۳"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فسفر-۳۱"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۱۰۰٪"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۱۷٫۲"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نکته‌ی کلیدی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «ایزوتوپ‌هایی با نسبت ژیرومغناطیسی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صفر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، سیگنال رزونانس مغناطیسی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تولید نمی‌کنند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» — پس کربن-۱۲ و اکسیژن-۱۶ با وجود فراوانی بالا، بی‌فایده‌اند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:4240bc8bf85139e8ceb5c581172e6ad730946e69d1835fbe8ce7d7146bc18297",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "0d784e022b110c678d84e5b5baa3b9b9b75ad981dc2dd2782237b60f64fa1e71",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "میدان، تقدیم و معادله‌ی لارمور"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در MRI بالینی، بیمار در یک میدان مغناطیسی قوی قرار می‌گیرد. چگالی شار مغناطیسی «از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۱ تا ۷ تسلا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱٫۵ و ۳ تسلا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به‌عنوان رایج‌ترین در تصویربرداری بالینی»."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-10-10.webp",
+                  "alt": "پر شدن فضای k برای ساخت یک ماتریکس تصویر MR",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/f5a5d25c6bf6fdd775c7da2ae70d347f396ba12381c248f101c33d73401d4719.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پر شدن فضای k برای ساخت یک ماتریکس تصویر MR "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 10.10)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پروتون‌ها دو حالت انرژی دارند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " حالت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انرژی پایین (اسپین-بالا)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که ممان مغناطیسی‌اش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هم‌جهت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " میدان خارجی است، و حالت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انرژی بالا (اسپین-پایین)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خلاف جهت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آن."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و در تعادل چه می‌شود؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «پروتون‌های بیشتری ممان مغناطیسی در جهت میدان خارجی دارند، چون پروتون‌ها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حالت انرژی پایین‌تر را ترجیح می‌دهند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". در این وضعیت، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مغناطش طولی خالص"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — جمع همه‌ی ممان‌های مغناطیسی — در جهت میدان است.» و رابطه‌اش مستقیم: «با افزایش قدرت میدان، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بزرگی مغناطش طولی افزایش می‌یابد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تقدیم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " افزون بر هم‌راستا شدن، ممان مغناطیسی پروتون‌ها «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گرد میدان مغناطیسی خارجی تقدیم می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "». تشبیهش: «فرفره‌ای که هنگام کند شدن، گرد وضعیت قائم می‌چرخد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و فرکانس این تقدیم، "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرکانس لارمور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یا "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرکانس رزونانس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شود و با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "معادله‌ی لارمور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تعریف می‌گردد:"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ν = γ × B₀"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "که در آن ν فرکانس لارمور، γ نسبت ژیرومغناطیسی، و B₀ قدرت میدان خارجی است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سه کاربرد عملی این معادله —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هر سه ارزش دانستن دارند:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«هسته‌های هیدروژن فراوان‌اند و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نسبت ژیرومغناطیسی بالا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و بنابراین "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فرکانس لارمور بالا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دارند، که تولید کارآمد سیگنال را ممکن می‌کند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«نسبت ژیرومغناطیسی هر هسته "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "یکتاست"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ". پس در یک قدرت میدان معین، فرکانس‌های لارمور هسته‌های مختلف هم یکتا هستند، و این "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تحریک انتخابی هسته‌های هیدروژن"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را ممکن می‌سازد.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«فرکانس لارمور "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مستقیماً متناسب با قدرت میدان خارجی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است. در MRI، یک "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "گرادیان مغناطیسی موضعی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " روی ناحیه‌ی آناتومیک اعمال می‌شود. این کار پروتون‌های بافت را به «"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "برش‌هایی با فرکانس‌های لارمور متفاوت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "» جدا می‌کند — پایه‌ی کدگذاری فضایی سیگنال به برش‌های تصویر.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک عدد به‌یادماندنی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «فرکانس چرخشی تقدیم پروتون در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳ تسلا حدود ۱۲۸ مگاهرتز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شبیه فرکانس یک رادیو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ست» — و به همین دلیل امواج فرستاده‌شده «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پالس‌های فرکانس رادیویی (RF)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» نامیده می‌شوند. و در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱٫۵ تسلا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، پروتون‌ها با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۴ مگاهرتز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تقدیم می‌کنند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و رزونانس:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «وقتی پروتون‌ها با امواج رادیویی هم‌فرکانس با لارمور تابانده شوند، انرژی را جذب می‌کنند. در نتیجه، برخی پروتون‌های حالت انرژی پایین به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حالت انرژی بالا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌روند. افزون بر این، فازهای تقدیم پروتون‌های منفرد هم‌راستا می‌شوند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پس از پالس RF، دو نوع آسایش: T1 (اسپین-شبکه)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بازیابی مغناطش طولی با انتقال انرژی گرمایی از پروتون‌های رزونان به مولکول‌های اطراف است و به‌صورت زمان بازگشت مغناطش طولی به ۶۳٪ مقدار اولیه تعریف می‌شود؛ انرژی درونی بالای آب این انتقال را مهار می‌کند (T1 بلند) و انرژی درونی پایین چربی آن را آسان می‌کند (T1 کوتاه). "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "T2 (اسپین-اسپین)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از دست رفتن مغناطش عرضی است، چون ممان‌های مجاور با هم تداخل می‌کنند و خارج از فاز تقدیم می‌کنند، و به‌صورت زمان افت مغناطش عرضی به ۳۷٪ تعریف می‌شود؛ در چربی مولکول‌ها فشرده‌اند و خارج‌فاز شدن قوی‌تر است (T2 کوتاه)، و در مایع آرایه‌ی مولکول‌ها گسترده‌تر است (T2 بلند)."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و رابطه‌ی این دو: هر حالت مستقل است؛ T2 همیشه همراه T1 رخ می‌دهد ولی بدون T1 هم رخ می‌دهد. T2 سریع‌تر است، پس T1 یک بافت معمولاً حدود ۵ برابر T2 آن است. دو قطب در ۱٫۵ تسلا (T1 / T2، میلی‌ثانیه): "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چربی ۲۴۰ تا ۲۵۰ / ۶۰ تا ۸۰"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و مایع مغزی-نخاعی ۲۲۰۰ تا ۲۴۰۰ / ۵۰۰ تا ۱۴۰۰؛ بقیه‌ی بافت‌ها میان این دو می‌نشینند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:28120",
+      "sourceId": "28120",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "0c338ade109998798690d8f36cf70b1ad0ef276810665b74c065625045f0be4b",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا هیدروژن هسته‌ی هدف MRI بالینی است و چرا کربن-۱۲ و اکسیژن-۱۶ با وجود فراوانی بالا بی‌فایده‌اند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا هیدروژن هسته‌ی هدف MRI بالینی است و چرا کربن-۱۲ و اکسیژن-۱۶ با وجود فراوانی بالا بی‌فایده‌اند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیدروژن حساسیت بالا و فراوانی طبیعی بالا دارد و در آب و چربی بدن فراوان است؛ و کربن-۱۲ و اکسیژن-۱۶ نسبت ژیرومغناطیسی صفر دارند و سیگنال رزونانس مغناطیسی تولید نمی‌کنند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیدروژن سبک‌ترین عنصر است و برای تحریک کمترین انرژی را می‌خواهد؛ و کربن-۱۲ و اکسیژن-۱۶ به‌دلیل جرم بالای هسته‌شان در میدان مغناطیسی نمی‌توانند تقدیم کنند و سیگنالی نمی‌دهند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیدروژن تنها عنصری است که در آب و چربی بدن به مقدار چشمگیر وجود دارد؛ و کربن-۱۲ و اکسیژن-۱۶ در بافت زنده به مقداری که سیگنال رزونانس مغناطیسی قابل ثبت بسازد یافت نمی‌شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیدروژن بالاترین عدد اتمی را میان عناصر بدن دارد و پرتو را بیشتر تضعیف می‌کند؛ و کربن-۱۲ و اکسیژن-۱۶ عدد اتمی پایینی دارند و در هیچ وزن‌دهی کنتراست کافی نمی‌سازند و در تصویر دیده نمی‌شوند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "91b21bdd4c29f764f4b155727b211c56fcdfdf53851b664a1ca8057e4ffb68c6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هیدروژن حساسیت بالا و فراوانی طبیعی بالا دارد و در آب و چربی بدن فراوان است؛ و کربن-۱۲ و اکسیژن-۱۶ نسبت ژیرومغناطیسی صفر دارند و سیگنال رزونانس مغناطیسی تولید نمی‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیدروژن حساسیت بالا و فراوانی طبیعی بالا دارد و در آب و چربی بدن فراوان است؛ و کربن-۱۲ و اکسیژن-۱۶ نسبت ژیرومغناطیسی صفر دارند و سیگنال رزونانس مغناطیسی تولید نمی‌کنند"
+            }
+          ]
+        },
+        {
+          "id": "d697e4fcf25aa8c34eb5c8d89346693c816cc9e3d9315dc1d632cf62d0fb050a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هیدروژن سبک‌ترین عنصر است و برای تحریک کمترین انرژی را می‌خواهد؛ و کربن-۱۲ و اکسیژن-۱۶ به‌دلیل جرم بالای هسته‌شان در میدان مغناطیسی نمی‌توانند تقدیم کنند و سیگنالی نمی‌دهند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیدروژن سبک‌ترین عنصر است و برای تحریک کمترین انرژی را می‌خواهد؛ و کربن-۱۲ و اکسیژن-۱۶ به‌دلیل جرم بالای هسته‌شان در میدان مغناطیسی نمی‌توانند تقدیم کنند و سیگنالی نمی‌دهند"
+            }
+          ]
+        },
+        {
+          "id": "9aba62d7341657e6d77bba2dc8dffeb070e9f9aa141d071b5020533b7b710f24",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هیدروژن تنها عنصری است که در آب و چربی بدن به مقدار چشمگیر وجود دارد؛ و کربن-۱۲ و اکسیژن-۱۶ در بافت زنده به مقداری که سیگنال رزونانس مغناطیسی قابل ثبت بسازد یافت نمی‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیدروژن تنها عنصری است که در آب و چربی بدن به مقدار چشمگیر وجود دارد؛ و کربن-۱۲ و اکسیژن-۱۶ در بافت زنده به مقداری که سیگنال رزونانس مغناطیسی قابل ثبت بسازد یافت نمی‌شوند"
+            }
+          ]
+        },
+        {
+          "id": "27393cb26169726d1e12799d58d391547ca7e569c46bddcb3fd8ae472f525c9a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هیدروژن بالاترین عدد اتمی را میان عناصر بدن دارد و پرتو را بیشتر تضعیف می‌کند؛ و کربن-۱۲ و اکسیژن-۱۶ عدد اتمی پایینی دارند و در هیچ وزن‌دهی کنتراست کافی نمی‌سازند و در تصویر دیده نمی‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیدروژن بالاترین عدد اتمی را میان عناصر بدن دارد و پرتو را بیشتر تضعیف می‌کند؛ و کربن-۱۲ و اکسیژن-۱۶ عدد اتمی پایینی دارند و در هیچ وزن‌دهی کنتراست کافی نمی‌سازند و در تصویر دیده نمی‌شوند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "91b21bdd4c29f764f4b155727b211c56fcdfdf53851b664a1ca8057e4ffb68c6"
+        ],
+        "explanation": "فراوانی به‌تنهایی کافی نیست؛ نسبت ژیرومغناطیسی هم باید غیرصفر باشد.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "فراوانی به‌تنهایی کافی نیست"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ نسبت ژیرومغناطیسی هم باید غیرصفر باشد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:29:20.160Z"
+      }
+    },
+    {
+      "id": "question:28123",
+      "sourceId": "28123",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "369d47a2398414db1831bfbdc6dc3364eada28b45f100d20463b1a9cf2e921c0",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "تقدیم پروتون در میدان مغناطیسی به چه چیزی شباهت دارد و فرکانسش چه نامیده می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تقدیم پروتون در میدان مغناطیسی به چه چیزی شباهت دارد و فرکانسش چه نامیده می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به پاندولی که در یک صفحه‌ی ثابت پس و پیش نوسان می‌کند؛ و فرکانس این نوسان، فرکانس فارادی یا فرکانس القا نامیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به فرفره‌ای که هنگام کند شدن گرد وضعیت قائم می‌چرخد؛ و فرکانسش فرکانس لارمور یا فرکانس رزونانس نامیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به موجی که روی سطح آب از مرکز به بیرون پیش می‌رود و دور می‌شود؛ و فرکانسش فرکانس داپلر یا فرکانس جابه‌جایی نامیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به الکترونی که در مداری ثابت گرد هسته‌ی اتم می‌چرخد؛ و فرکانس این چرخش فرکانس بور یا فرکانس مداری نامیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "03117d2692aedfad6e4ce00d83b9126c09520ac590a724019ab48b74abe78a5b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "به پاندولی که در یک صفحه‌ی ثابت پس و پیش نوسان می‌کند؛ و فرکانس این نوسان، فرکانس فارادی یا فرکانس القا نامیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به پاندولی که در یک صفحه‌ی ثابت پس و پیش نوسان می‌کند؛ و فرکانس این نوسان، فرکانس فارادی یا فرکانس القا نامیده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "e94b9cb3bc1ba439dd7f131dd27a0c89de10a75b2ade14c7f173b45b7521e1e7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "به فرفره‌ای که هنگام کند شدن گرد وضعیت قائم می‌چرخد؛ و فرکانسش فرکانس لارمور یا فرکانس رزونانس نامیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به فرفره‌ای که هنگام کند شدن گرد وضعیت قائم می‌چرخد؛ و فرکانسش فرکانس لارمور یا فرکانس رزونانس نامیده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "3c8d051958f3a6d4f30e81b08cdc5bed57a29ea3fe27628aec67da67fe55af39",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "به موجی که روی سطح آب از مرکز به بیرون پیش می‌رود و دور می‌شود؛ و فرکانسش فرکانس داپلر یا فرکانس جابه‌جایی نامیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به موجی که روی سطح آب از مرکز به بیرون پیش می‌رود و دور می‌شود؛ و فرکانسش فرکانس داپلر یا فرکانس جابه‌جایی نامیده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "377842e68770cddcfd2523f5f9654a92643dc7ad4e28e0782134d90aa8369a73",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "به الکترونی که در مداری ثابت گرد هسته‌ی اتم می‌چرخد؛ و فرکانس این چرخش فرکانس بور یا فرکانس مداری نامیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به الکترونی که در مداری ثابت گرد هسته‌ی اتم می‌چرخد؛ و فرکانس این چرخش فرکانس بور یا فرکانس مداری نامیده می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e94b9cb3bc1ba439dd7f131dd27a0c89de10a75b2ade14c7f173b45b7521e1e7"
+        ],
+        "explanation": "تشبیه فرفره، فرق چرخش گرد محور خود با تقدیم گرد محور میدان را خوب نشان می‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تشبیه فرفره، فرق "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "چرخش گرد محور خود"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " با "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "تقدیم گرد محور میدان"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " را خوب نشان می‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:29:27.040Z"
+      }
+    },
+    {
+      "id": "question:28124",
+      "sourceId": "28124",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "bc8db3e8d6c19c07e0469f9f563629acfe069a3cb72e14411feb3c5d70d03063",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "معادله‌ی لارمور چیست و اجزایش چه‌اند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "معادله‌ی لارمور چیست و اجزایش چه‌اند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرکانس لارمور برابر مجذور قدرت میدان تقسیم بر جرم هسته؛ و نسبت ژیرومغناطیسی در آن نقشی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرکانس لارمور برابر نسبت ژیرومغناطیسی تقسیم بر قدرت میدان خارجی؛ پس در میدان قوی‌تر، فرکانس کمتر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرکانس لارمور برابر چگالی پروتون ضرب در زمان آسایش T1؛ و به قدرت میدان بستگی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرکانس لارمور برابر نسبت ژیرومغناطیسی ضرب در قدرت میدان مغناطیسی خارجی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7cca77e20cd8b81f37971e9bff55d27baccc7ceb72965b27d6975723c965edb1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "فرکانس لارمور برابر مجذور قدرت میدان تقسیم بر جرم هسته؛ و نسبت ژیرومغناطیسی در آن نقشی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فرکانس لارمور برابر مجذور قدرت میدان تقسیم بر جرم هسته؛ و نسبت ژیرومغناطیسی در آن نقشی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "579bb7d3cf93418b4e695549936f72f39c8e12674aabc0d7a4f6436341c70f13",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "فرکانس لارمور برابر نسبت ژیرومغناطیسی تقسیم بر قدرت میدان خارجی؛ پس در میدان قوی‌تر، فرکانس کمتر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فرکانس لارمور برابر نسبت ژیرومغناطیسی تقسیم بر قدرت میدان خارجی؛ پس در میدان قوی‌تر، فرکانس کمتر می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "c5ab811c693acc9a16e51acab92b1e75d9fbb515463ee26466990549c72f3df5",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "فرکانس لارمور برابر چگالی پروتون ضرب در زمان آسایش T1؛ و به قدرت میدان بستگی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فرکانس لارمور برابر چگالی پروتون ضرب در زمان آسایش T1؛ و به قدرت میدان بستگی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "9e3df546b164982057173389207c5035c369585c992e6d633ba8889c0c82013a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فرکانس لارمور برابر نسبت ژیرومغناطیسی ضرب در قدرت میدان مغناطیسی خارجی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فرکانس لارمور برابر نسبت ژیرومغناطیسی ضرب در قدرت میدان مغناطیسی خارجی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9e3df546b164982057173389207c5035c369585c992e6d633ba8889c0c82013a"
+        ],
+        "explanation": "ν = γ × B₀؛ و تناسب مستقیم فرکانس با میدان، پایه‌ی کدگذاری فضایی است.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ν = γ × B₀"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ و تناسب "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مستقیم"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " فرکانس با میدان، پایه‌ی کدگذاری فضایی است."
+          }
+        ],
+        "observedAt": "2026-11-17T17:29:33.483Z"
+      }
+    },
+    {
+      "id": "question:28128",
+      "sourceId": "28128",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "0a525821d4f410279981a6f262fa4a6a9dd59dca10aa62374db07ba8abab8935",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا بافت‌های پرآب T1 بلند و بافت‌های پرچربی T1 کوتاه دارند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا بافت‌های پرآب T1 بلند و بافت‌های پرچربی T1 کوتاه دارند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون انرژی درونی بالای آب انتقال انرژی به شبکه را مهار می‌کند، ولی چربی انرژی درونی پایینی دارد و انتقال انرژی به شبکه نسبتاً آسان است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون مولکول‌های آب فشرده‌ترند و برهم‌کنش خارج‌فازکننده‌ی قوی‌تری میان پروتون‌های مجاور دارند، ولی مولکول‌های چربی آرایه‌ی گسترده‌تری دارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون آب چگالی پروتون بسیار بالاتری از چربی دارد و سیگنال قوی‌تری می‌دهد، و هرچه سیگنال قوی‌تر باشد بازیابی مغناطش طولی کندتر پیش می‌رود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون چربی عدد اتمی مؤثر بالاتری دارد و انرژی پالس RF را سریع‌تر جذب و دفع می‌کند؛ ولی آب عدد اتمی پایینی دارد و انرژی را دیرتر پس می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "892a1a727d8dc648eb79dbc1b02c126e5977acb4a2e1109c4f29d6ab4fc36d8a",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون انرژی درونی بالای آب انتقال انرژی به شبکه را مهار می‌کند، ولی چربی انرژی درونی پایینی دارد و انتقال انرژی به شبکه نسبتاً آسان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون انرژی درونی بالای آب انتقال انرژی به شبکه را مهار می‌کند، ولی چربی انرژی درونی پایینی دارد و انتقال انرژی به شبکه نسبتاً آسان است"
+            }
+          ]
+        },
+        {
+          "id": "a8e05ff8af4ea09eb173f217e7fb198c0b199984c54ab648b1e18177c4f54c70",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون مولکول‌های آب فشرده‌ترند و برهم‌کنش خارج‌فازکننده‌ی قوی‌تری میان پروتون‌های مجاور دارند، ولی مولکول‌های چربی آرایه‌ی گسترده‌تری دارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون مولکول‌های آب فشرده‌ترند و برهم‌کنش خارج‌فازکننده‌ی قوی‌تری میان پروتون‌های مجاور دارند، ولی مولکول‌های چربی آرایه‌ی گسترده‌تری دارند"
+            }
+          ]
+        },
+        {
+          "id": "6f93c5ba75189194aed4e3e2cb059dfb68ccf4d2b7fc475bdff058d58685af23",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون آب چگالی پروتون بسیار بالاتری از چربی دارد و سیگنال قوی‌تری می‌دهد، و هرچه سیگنال قوی‌تر باشد بازیابی مغناطش طولی کندتر پیش می‌رود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون آب چگالی پروتون بسیار بالاتری از چربی دارد و سیگنال قوی‌تری می‌دهد، و هرچه سیگنال قوی‌تر باشد بازیابی مغناطش طولی کندتر پیش می‌رود"
+            }
+          ]
+        },
+        {
+          "id": "695e9186cfcc020dce8c6f627a6054f483d4e8d27692b21dba3619c2e67fcc59",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون چربی عدد اتمی مؤثر بالاتری دارد و انرژی پالس RF را سریع‌تر جذب و دفع می‌کند؛ ولی آب عدد اتمی پایینی دارد و انرژی را دیرتر پس می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون چربی عدد اتمی مؤثر بالاتری دارد و انرژی پالس RF را سریع‌تر جذب و دفع می‌کند؛ ولی آب عدد اتمی پایینی دارد و انرژی را دیرتر پس می‌دهد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "892a1a727d8dc648eb79dbc1b02c126e5977acb4a2e1109c4f29d6ab4fc36d8a"
+        ],
+        "explanation": "T1 «توانایی پروتون در انتقال انرژی اضافی به مولکول‌های اطراف» را بازتاب می‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "T1 «توانایی پروتون در "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "انتقال انرژی اضافی به مولکول‌های اطراف"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "» را بازتاب می‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:29:40.513Z"
+      }
+    },
+    {
+      "id": "question:28131",
+      "sourceId": "28131",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "79c862e9fcf4c23e6ec8fbd6212f39bcdb0c7b472146dc569cc02a80e4b8f014",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا بافت‌های پرچربی T2 کوتاه و بافت‌های پرمایع T2 بلند دارند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا بافت‌های پرچربی T2 کوتاه و بافت‌های پرمایع T2 بلند دارند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون انرژی درونی بالای آب انتقال انرژی به شبکه را مهار می‌کند و مغناطش عرضی را دیرتر از بین می‌برد؛ ولی انرژی درونی چربی پایین است و انتقال انرژی به شبکه بسیار آسان، پس مغناطش عرضی چربی زودتر فرو می‌پاشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون در چربی مولکول‌ها فشرده‌اند و برهم‌کنش‌های خارج‌فازکننده‌ی قوی‌تری میان پروتون‌های مجاور رخ می‌دهد؛ ولی در مایع، آرایه‌ی مولکول‌های آب گسترده‌تر است و برهم‌کنش خارج‌فازکننده‌ی کمتری وجود دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون چربی چگالی پروتون بالاتری دارد و سیگنال سریع‌تری می‌دهد؛ و آب چگالی پروتون کمتری دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون مولکول‌های چربی در میدان مغناطیسی سریع‌تر از آب هم‌راستا می‌شوند و تقدیمشان زودتر متوقف می‌شود؛ ولی آب به‌دلیل قطبی بودن مولکول‌هایش دیرتر هم‌راستا می‌گردد و مغناطش عرضی‌اش مدت به‌مراتب بیشتری می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4a47705c8663fc45569033110838f902f9f2bcf17fb63ae0bd1c8c87ddd6e6cf",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون انرژی درونی بالای آب انتقال انرژی به شبکه را مهار می‌کند و مغناطش عرضی را دیرتر از بین می‌برد؛ ولی انرژی درونی چربی پایین است و انتقال انرژی به شبکه بسیار آسان، پس مغناطش عرضی چربی زودتر فرو می‌پاشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون انرژی درونی بالای آب انتقال انرژی به شبکه را مهار می‌کند و مغناطش عرضی را دیرتر از بین می‌برد؛ ولی انرژی درونی چربی پایین است و انتقال انرژی به شبکه بسیار آسان، پس مغناطش عرضی چربی زودتر فرو می‌پاشد"
+            }
+          ]
+        },
+        {
+          "id": "81b04eefc2712e955ca9ef6f645162e6bf4d49999bbc6382668006efcfa67564",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون در چربی مولکول‌ها فشرده‌اند و برهم‌کنش‌های خارج‌فازکننده‌ی قوی‌تری میان پروتون‌های مجاور رخ می‌دهد؛ ولی در مایع، آرایه‌ی مولکول‌های آب گسترده‌تر است و برهم‌کنش خارج‌فازکننده‌ی کمتری وجود دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون در چربی مولکول‌ها فشرده‌اند و برهم‌کنش‌های خارج‌فازکننده‌ی قوی‌تری میان پروتون‌های مجاور رخ می‌دهد؛ ولی در مایع، آرایه‌ی مولکول‌های آب گسترده‌تر است و برهم‌کنش خارج‌فازکننده‌ی کمتری وجود دارد"
+            }
+          ]
+        },
+        {
+          "id": "7d52f20674f8bfd95fe18aabeb11507fe83785a537e54d1caa26090523cfaffb",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون چربی چگالی پروتون بالاتری دارد و سیگنال سریع‌تری می‌دهد؛ و آب چگالی پروتون کمتری دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون چربی چگالی پروتون بالاتری دارد و سیگنال سریع‌تری می‌دهد؛ و آب چگالی پروتون کمتری دارد"
+            }
+          ]
+        },
+        {
+          "id": "7bb0ee5aeab4669494ac1eb8236b4c4d99b5dececd420e35a1e30e41d64d9236",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون مولکول‌های چربی در میدان مغناطیسی سریع‌تر از آب هم‌راستا می‌شوند و تقدیمشان زودتر متوقف می‌شود؛ ولی آب به‌دلیل قطبی بودن مولکول‌هایش دیرتر هم‌راستا می‌گردد و مغناطش عرضی‌اش مدت به‌مراتب بیشتری می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون مولکول‌های چربی در میدان مغناطیسی سریع‌تر از آب هم‌راستا می‌شوند و تقدیمشان زودتر متوقف می‌شود؛ ولی آب به‌دلیل قطبی بودن مولکول‌هایش دیرتر هم‌راستا می‌گردد و مغناطش عرضی‌اش مدت به‌مراتب بیشتری می‌ماند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "81b04eefc2712e955ca9ef6f645162e6bf4d49999bbc6382668006efcfa67564"
+        ],
+        "explanation": "چربی در هر دو نوع آسایش کوتاه‌تر است، ولی به دو دلیل کاملاً متفاوت.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "چربی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "در هر دو نوع آسایش کوتاه‌تر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است، ولی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "به دو دلیل کاملاً متفاوت"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-17T17:29:51.250Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:eb3aac9f0f328be197850caf50fc10df39ad17ba0536c540a2f0f1a332e0b353",
+      "at": "2026-11-17T17:28:45.676Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:4240bc8bf85139e8ceb5c581172e6ad730946e69d1835fbe8ce7d7146bc18297",
+      "at": "2026-11-17T17:28:47.777Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:28120",
+      "at": "2026-11-17T17:28:49.393Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:28123",
+      "at": "2026-11-17T17:29:21.739Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:28124",
+      "at": "2026-11-17T17:29:28.649Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:28128",
+      "at": "2026-11-17T17:29:35.104Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:28131",
+      "at": "2026-11-17T17:29:42.126Z",
+      "progress": "width: 85.7143%;"
+    },
+    {
+      "stepId": "question:28131",
+      "at": "2026-11-17T17:29:49.327Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

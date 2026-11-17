@@ -1,0 +1,2972 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1572/lesson.json",
+  "id": "1572",
+  "title": "درس دوم: میدان دید و تنظیمات اکسپوز",
+  "specialtyKey": "578cf1df5257e51f",
+  "chapter": {
+    "id": "329",
+    "title": "CBCT، آرتیفکت و انتخاب مودالیته",
+    "position": 22
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:d88d7e4ca7be9006eeb1f2991ca023d34384a4ef08acb44d95191e1b22593a78",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "e9f70ede5fc9ea0d25d28173a1d6c50ea320cb767a2ebd12e490aa9cd2d3ef3a",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "میدان دید — شکل، بزرگ کردن، و کولیماسیون"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل و اندازه‌ی FOV به سه چیز بستگی دارد: اندازه و شکل آشکارساز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هندسه‌ی پروجکشن پرتو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توانایی کولیمه کردن پرتو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-8.webp",
+                  "alt": "بزرگ کردن میدان دید با دوختن داده‌ی حجمی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/1715b4635e69bed324fc636117a8f1cf7036c94c8ad1ff5449b879f29fec9488.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بزرگ کردن میدان دید با دوختن داده‌ی حجمی "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.8)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و شکل معمولش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «شکل تقریباً همه‌ی حجم‌های اسکن "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استوانه‌ای"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است.» ولی یک استثنای هوشمندانه هست: «یک سازنده حجم اسکن "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مثلثی محدب (رولو)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای FOVهای متوسط تولید می‌کند که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با شکل قوس‌های دندانی نزدیک‌تر است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و در مقایسه با حجم استوانه‌ای، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرتوگیری را کاهش می‌دهد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و رده‌بندی CBCT بر پایه‌ی بیشترین FOV: کرانیوفاسیال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (کل اسکلت کرانیوفاسیال، امکان آنالیز سفالومتریک)، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماگزیلوفاسیال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (ماگزیلا یا مندیبل یا هر دو)، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محدود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (تصاویر با تفکیک بالا از نواحی محدود)، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوخته‌شده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (نواحی بزرگ‌تر از چند اسکن محدود)."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سه روش بزرگ کردن FOV فراتر از اندازه‌ی آشکارساز:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱) دوختن"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «نواحی هم‌پوشان حجم‌های مجاور با لندمارک‌های مرجع هم‌خوان "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ثبت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و به هم "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "جوش داده"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌شوند.» روالش: یک اسکن، جابه‌جایی فیزیکی گانتری (عمودی یا افقی) در حالی که بیمار در نگه‌دارنده مهار مانده، و اسکن دوم. "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عیبش روشن است:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " «نواحی هم‌پوشان "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دو بار"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تصویربرداری می‌شوند، که در آن نواحی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز را دو برابر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌کند.» و «تقریباً "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "یک‌چهارم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " همه‌ی دستگاه‌های CBCT از این روش استفاده می‌کنند»."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۲) آفست جانبی آشکارساز"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «موقعیت آشکارساز به‌طور جانبی جابه‌جا، پرتو "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نامتقارن"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " کولیمه، و در هر یک از دو اسکن آفست تنها "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نیمی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از ناحیه اسکن می‌شود.» عیبش: «تفاوت کیفیت تصویر — نویز، تفکیک کنتراستی، و تولید آرتیفکت — "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "میان نواحی مرکزی و پیرامونی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "»؛ پس «قرار دادن جسم به سمت "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مرکز FOV"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بحرانی‌تر می‌شود»."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۳) کولیماسیون"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — که در ادامه می‌آید."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو نوع کولیماسیون — با یک داوری روشن:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیشتر دستگاه‌ها از «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سپرهای فلزی قابل تنظیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به‌عنوان کولیماسیون اولیه در منبع» استفاده می‌کنند. و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کولیماسیون الکترونیکی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یعنی «برش داده‌ی ثبت‌شده روی آشکارساز که پیرامون ناحیه‌ی مورد نظر است». و حکم روشن است: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کولیماسیون الکترونیکی نامطلوب است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، چون به پرتوگیری بیشتر بیمار از آنچه برای وظیفه‌ی تصویربرداری لازم است می‌انجامد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا کوچک کردن FOV سه‌گانه سود می‌رساند:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«کیفیت تصویر بهتر می‌شود چون "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پرتو پراکنده‌ی کمتری ثبت می‌شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ".»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«FOVهای کوچک‌تر "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "واگرایی پرتو کمتری در لبه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دارند، که به "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کیفیت بهتر تصویر پیرامونی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌انجامد.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«و مهم‌تر: کاهش FOV معمولاً با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کاهش دوز بیمار از ۲۵٪ تا ۶۶٪"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " همراه است» — بسته به دستگاه، نوع کولیماسیون، میزان کولیماسیون مکانیکی، و محل (ماگزیلا در برابر مندیبل؛ قدامی در برابر خلفی)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و قاعده‌ی طلایی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مطلوب است میدان به کوچک‌ترین حجمی که ناحیه‌ی مورد نظر را در بر می‌گیرد محدود شود. و این اندازه باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برای هر بیمار بر پایه‌ی نیازهای فردی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " انتخاب شود.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:422d4dd851b4afd8f0889b3028f930cac4b7feb9dd2987e6c35df9153c389a36",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "6ef048a081a85bc44b19d14634a82a753301be74aa893b76b1c86328e441e5c7",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "kVp و mA، اندازه‌ی وکسل، و حالت‌های اسکن"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عوامل تعیین‌کننده‌ی پرتو دو دسته‌اند: وابسته به دستگاه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (اندازه‌ی لکه‌ی کانونی، فاصله‌ی منبع تا جسم، فاصله‌ی جسم تا آشکارساز، فیلتراسیون، فرکانس پرتو)، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وابسته به اپراتور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ("
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "mA، kVp، و زمان اکسپوز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ")."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-29.webp",
+                  "alt": "تصویربرداری CBCT برای ارزیابی محل ایمپلنت",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/23dbc6524ab031eb3183234195e3b7614139e40030433d555b62857c9c9b34d9.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصویربرداری CBCT برای ارزیابی محل ایمپلنت "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.29)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دامنه‌ی کاری:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بیشتر دستگاه‌های CBCT در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۹۰ kVp یا کمتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کار می‌کنند، و اندکی می‌توانند تا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۲۰ kV"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بروند. عموماً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دستگاه‌های kVp پایین با mA بالاتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کار می‌کنند.» و تنظیمات: برخی دستگاه‌ها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثابت و غیرقابل تنظیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "اند، برخی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش‌تنظیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای اندازه‌های مختلف بدن دارند، و برخی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنظیم دستی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " kVp یا mA یا هر دو را می‌دهند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اصل حاکم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اپراتورها «باید بدانند این پارامترها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هم کیفیت تصویر و هم دوز بیمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را تحت تأثیر قرار می‌دهند و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتخاب دقیق برای برآوردن اصل ALARA"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " لازم است». اصل بهینه‌سازی دوز ایجاب می‌کند «عوامل اکسپوز طوری تنظیم شوند که تصویری تشخیصی-پذیرفتنی بر پایه‌ی اندازه‌ی بیمار و وظیفه‌ی تشخیصی خاص» بسازند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و حالا سه قاعده‌ی عملی که باید حفظ کنی:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱) mA بر kVp ترجیح دارد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «در عمل بالینی، وقتی کاهش اکسپوز برای جبران تفاوت اندازه‌ی بیمار لازم است، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تغییر mA بر تغییر kVp ترجیح دارد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ". چون افزایش نویز برای یک کاهش دوز معین، در mA کمتر از kVp است.» و «تنظیم mA "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز مؤثر را متناسب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تغییر می‌دهد»."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۲) اثر kVp بر دوز بسیار بزرگ‌تر است"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «تنظیم kVp "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اثری حتی بزرگ‌تر از mA بر دوز"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دارد؛ هر افزایش "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۰ kVp"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تقریباً "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دوز را دو برابر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌کند، اگر بقیه‌ی پارامترها ثابت بمانند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۳) ولی گاهی kVp بالاتر توجیه دارد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «kVp بالاتر می‌تواند در بیماران با اجسام پرچگالی — مانند دندان‌های با پرکردگی کانال یا ایمپلنت دندانی — «برای "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کاهش آرتیفکت سخت‌شدگی پرتو"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "» در نظر گرفته شود.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و AEC در CBCT؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «هرچند در MDCT رایج است، کنترل خودکار اکسپوز در دستگاه‌های CBCT ماگزیلوفاسیال "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در حال حاضر بسیار محدود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است.» و اگر فراگیر می‌شد، «نیاز به تطبیق دستی پارامترها بر پایه‌ی اندازه‌ی بیمار را برطرف و پرتوگیری را کمینه می‌کرد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اندازه‌ی دکسل و وکسل —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یک زنجیره‌ی مهم: «اندازه‌ی اسمی دکسل آشکارساز "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تفکیک فضایی نهایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تصویر CBCT را تحت تأثیر قرار می‌دهد.» و تعیین‌کننده‌های اصلی اندازه‌ی وکسل: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ابعاد ماتریکس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌ی هر دکسل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پیامدش که به‌آسانی نادیده گرفته می‌شود:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «آشکارسازهایی با دکسل‌های کوچک‌تر، فوتون‌های کمتری در هر وکسل می‌گیرند و به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نویز بیشتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌انجامند. در نتیجه، تصویربرداری CBCT با تفکیک بالاتر ممکن است به دوز بالاتری نیاز داشته باشد تا نسبت سیگنال به نویز معقولی برای کیفیت تشخیصی بهتر به دست آید.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و بینینگ در CBCT:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برخی دستگاه‌ها انتخاب اندازه‌ی وکسل می‌دهند؛ در این حالت آشکارساز «اطلاعات را روی مجموعه‌ای از دکسل‌ها در جهت افقی و عمودی جمع و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میانگین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌گیرد». نتیجه: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش چشمگیر پردازش داده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کوتاه شدن زمان بازسازی ثانویه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "». و به همین دلیل «اندازه‌ی وکسل باید مشخص شود که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اکتساب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بازسازی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و حالت‌های اسکن —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سه عامل شمار تصاویر پایه: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نرخ فریم آشکارساز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گستره‌ی کمان چرخشی (۱۸۰ تا ۳۶۰ درجه)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سرعت چرخش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نرخ فریم بالاتر، هم سود دارد هم زیان:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «نسبت سیگنال به نویز را افزایش می‌دهد، تصاویر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کم‌نویزتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌سازد و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیفکت‌های فلزی را کم می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". ولی نرخ فریم بالاتر به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز بیشتر بیمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌انجامد» و «چون داده‌ی بیشتری به دست می‌آید، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان بازسازی اولیه افزایش می‌یابد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و در برابرش، پروتکل‌های «اسکن سریع»:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «نرخ فریم به‌مراتب پایین‌تری به کار می‌برند با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش قابل توجه دوز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". ولی تفکیک تصویر این اسکن‌ها ممکن است برای همه‌ی وظایف تشخیصی کافی نباشد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کمان چرخش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بیشتر دستگاه‌های CBCT "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زاویه‌ی اسکن ثابت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارند» — چرخش کامل "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۶۰ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یا کمان‌های جزئی ("
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰۰ تا ۲۷۰ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "). «تصویربرداری با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمان کامل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، داده‌ی پروجکشن کافی برای بازسازی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باوفا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌دهد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و بهای کمان جزئی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «هرچند زمان اسکن و دوز کاهش می‌یابد، تصاویر ممکن است "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نویز بیشتر و آرتیفکت درون‌یابی بازسازی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " داشته باشند.» و تصاویر بازسازی‌شده از مسیرهای کمتر از ۳۶۰ درجه «ممکن است "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیفکت زاویه‌ی محدود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به‌دلیل اطلاعات غایب داشته باشند» — شامل «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خط‌خطی یک‌جهته‌ی پیرامونی بیشتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و آرتیفکت کاپینگ میان‌صفحه‌ای و گرسنگی فوتونی بارزتر»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کوتاه کردن زمان اسکن —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سه راه با کیفیت متفاوت: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش نرخ فریم آشکارساز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، کاهش شمار پروجکشن‌ها، یا کاهش کمان اسکن. روش نخست تصاویری با بالاترین کیفیت می‌دهد، در حالی که دو روش دیگر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نویز تصویر را افزایش می‌دهند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کرنل‌های CBCT — تفاوتی مهم با MDCT:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «در بیشتر دستگاه‌های CBCT، مجموعه‌داده با یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الگوریتم بازسازی اولیه‌ی پیش‌فرض"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بازسازی می‌شود که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاربر نمی‌تواند آن را کنترل کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» ولی تازه‌ها در راه‌اند: روش‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکراری یا مبتنی بر یادگیری عمیق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که «تصاویری با نویز کمتر و آرتیفکت‌های فلزی و حرکتی کمتر» می‌دهند؛ و ابزارهای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش آرتیفکت فلز (MAR)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصحیح آرتیفکت حرکت (MAC)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:27898",
+      "sourceId": "27898",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "9d275ff86ca0797815664ac975c4b129275faf9ce6ee152428fdab32ab5ae7fa",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "روش دوختن چگونه کار می‌کند و چه عیبی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "روش دوختن چگونه کار می‌کند و چه عیبی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک اسکن منفرد با کمان بزرگ‌تر از ۳۶۰ درجه و با جابه‌جایی تدریجی عمودی گانتری گرفته و داده‌ی افزوده برای گسترش حجم استفاده می‌شود؛ و عیبش کاهش تفکیک و افزایش نویز در نواحی پیرامونی بالا و پایین حجم است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو آشکارساز مجاور هم‌زمان داده می‌گیرند و نرم‌افزار آن‌ها را ترکیب می‌کند؛ و عیبش تنها افزایش بهای دستگاه است بدون هیچ اثری بر دوز بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نواحی هم‌پوشان حجم‌های مجاور با لندمارک‌های مرجع هم‌خوان ثبت و به هم جوش داده می‌شوند؛ و عیبش این است که نواحی هم‌پوشان دو بار تصویربرداری می‌شوند و دوز آن نواحی دو برابر می‌گردد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داده‌ی یک اسکن با درون‌یابی و الگوریتم تکمیل پروجکشن به فراتر از مرز فیزیکی آشکارساز گسترش می‌یابد؛ و عیبش این است که نواحی گسترش‌یافته داده‌ی واقعی ندارند و برای اندازه‌گیری قابل اعتماد نیستند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "88ed7da955b65d5ca32e0861f6114087950e340e052528a2abd80c05cad4d43c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "یک اسکن منفرد با کمان بزرگ‌تر از ۳۶۰ درجه و با جابه‌جایی تدریجی عمودی گانتری گرفته و داده‌ی افزوده برای گسترش حجم استفاده می‌شود؛ و عیبش کاهش تفکیک و افزایش نویز در نواحی پیرامونی بالا و پایین حجم است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک اسکن منفرد با کمان بزرگ‌تر از ۳۶۰ درجه و با جابه‌جایی تدریجی عمودی گانتری گرفته و داده‌ی افزوده برای گسترش حجم استفاده می‌شود؛ و عیبش کاهش تفکیک و افزایش نویز در نواحی پیرامونی بالا و پایین حجم است"
+            }
+          ]
+        },
+        {
+          "id": "348d9201c636abbb730172f1945685f3a8ce3cbbb28a4735f30c37da6b6ab718",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دو آشکارساز مجاور هم‌زمان داده می‌گیرند و نرم‌افزار آن‌ها را ترکیب می‌کند؛ و عیبش تنها افزایش بهای دستگاه است بدون هیچ اثری بر دوز بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دو آشکارساز مجاور هم‌زمان داده می‌گیرند و نرم‌افزار آن‌ها را ترکیب می‌کند؛ و عیبش تنها افزایش بهای دستگاه است بدون هیچ اثری بر دوز بیمار"
+            }
+          ]
+        },
+        {
+          "id": "cfc37b776232baf76e784ef8219a2ba4185333e4492f5595886995fe4f21346b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نواحی هم‌پوشان حجم‌های مجاور با لندمارک‌های مرجع هم‌خوان ثبت و به هم جوش داده می‌شوند؛ و عیبش این است که نواحی هم‌پوشان دو بار تصویربرداری می‌شوند و دوز آن نواحی دو برابر می‌گردد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نواحی هم‌پوشان حجم‌های مجاور با لندمارک‌های مرجع هم‌خوان ثبت و به هم جوش داده می‌شوند؛ و عیبش این است که نواحی هم‌پوشان دو بار تصویربرداری می‌شوند و دوز آن نواحی دو برابر می‌گردد"
+            }
+          ]
+        },
+        {
+          "id": "c094876cd29d5fa0d7a170e1f2ec83d1e1e6583c3b735fd278a9a5dec41ae6ee",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "داده‌ی یک اسکن با درون‌یابی و الگوریتم تکمیل پروجکشن به فراتر از مرز فیزیکی آشکارساز گسترش می‌یابد؛ و عیبش این است که نواحی گسترش‌یافته داده‌ی واقعی ندارند و برای اندازه‌گیری قابل اعتماد نیستند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "داده‌ی یک اسکن با درون‌یابی و الگوریتم تکمیل پروجکشن به فراتر از مرز فیزیکی آشکارساز گسترش می‌یابد؛ و عیبش این است که نواحی گسترش‌یافته داده‌ی واقعی ندارند و برای اندازه‌گیری قابل اعتماد نیستند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "cfc37b776232baf76e784ef8219a2ba4185333e4492f5595886995fe4f21346b"
+        ],
+        "explanation": "صحیح است — «تقریباً یک‌چهارم همه‌ی دستگاه‌های CBCT» از این روش استفاده می‌کنند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "صحیح است — «تقریباً "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "یک‌چهارم"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " همه‌ی دستگاه‌های CBCT» از این روش استفاده می‌کنند."
+          }
+        ],
+        "observedAt": "2026-11-17T17:22:44.585Z"
+      }
+    },
+    {
+      "id": "question:27899",
+      "sourceId": "27899",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "54eba957107b91f56b5762b9307dfdfe5826a003d63041348f995848d57a05ad",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دو نوع کولیماسیون CBCT چیستند و کدام‌یک نامطلوب است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دو نوع کولیماسیون CBCT چیستند و کدام‌یک نامطلوب است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مکانیکی با سپرهای فلزی قابل تنظیم در منبع، و الکترونیکی با برش داده‌ی ثبت‌شده‌ی پیرامون ناحیه‌ی مورد نظر؛ و الکترونیکی نامطلوب است چون به پرتوگیری بیشتر از آنچه لازم است می‌انجامد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مکانیکی با سپرهای فلزی در منبع، و الکترونیکی با برش داده‌ی ثبت‌شده؛ و مکانیکی نامطلوب است چون سپرهای فلزی سربی خود پرتو پراکنده و تابش ثانویه تولید می‌کنند و کیفیت تصویر ناحیه‌ی مورد نظر را کاهش می‌دهند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اولیه و ثانویه، هر دو در منبع پرتو؛ و هیچ‌کدام نامطلوب نیست و انتخاب میانشان به ترجیح اپراتور بستگی دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دستی و خودکار؛ و دستی نامطلوب است چون خطای اپراتور را وارد می‌کند و در دستگاه‌های امروزی حذف شده است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5abc332c30a7a21c33957dbec37783a4567b401de123c3f25baa7e896d5eb452",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مکانیکی با سپرهای فلزی قابل تنظیم در منبع، و الکترونیکی با برش داده‌ی ثبت‌شده‌ی پیرامون ناحیه‌ی مورد نظر؛ و الکترونیکی نامطلوب است چون به پرتوگیری بیشتر از آنچه لازم است می‌انجامد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مکانیکی با سپرهای فلزی قابل تنظیم در منبع، و الکترونیکی با برش داده‌ی ثبت‌شده‌ی پیرامون ناحیه‌ی مورد نظر؛ و الکترونیکی نامطلوب است چون به پرتوگیری بیشتر از آنچه لازم است می‌انجامد"
+            }
+          ]
+        },
+        {
+          "id": "c4352377d45cc0027ccdca80e63162efd6e7b496ab9f465d6f203a681c1278e5",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مکانیکی با سپرهای فلزی در منبع، و الکترونیکی با برش داده‌ی ثبت‌شده؛ و مکانیکی نامطلوب است چون سپرهای فلزی سربی خود پرتو پراکنده و تابش ثانویه تولید می‌کنند و کیفیت تصویر ناحیه‌ی مورد نظر را کاهش می‌دهند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مکانیکی با سپرهای فلزی در منبع، و الکترونیکی با برش داده‌ی ثبت‌شده؛ و مکانیکی نامطلوب است چون سپرهای فلزی سربی خود پرتو پراکنده و تابش ثانویه تولید می‌کنند و کیفیت تصویر ناحیه‌ی مورد نظر را کاهش می‌دهند"
+            }
+          ]
+        },
+        {
+          "id": "e216777f9e5278ca8c946f71f5cea61775c93fc16890d64f6b8506be2b6c5990",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اولیه و ثانویه، هر دو در منبع پرتو؛ و هیچ‌کدام نامطلوب نیست و انتخاب میانشان به ترجیح اپراتور بستگی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اولیه و ثانویه، هر دو در منبع پرتو؛ و هیچ‌کدام نامطلوب نیست و انتخاب میانشان به ترجیح اپراتور بستگی دارد"
+            }
+          ]
+        },
+        {
+          "id": "64131445e3204a7047e3d24931e2461291e0f5e25c0ebed4ff4eb8b18d90bcab",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دستی و خودکار؛ و دستی نامطلوب است چون خطای اپراتور را وارد می‌کند و در دستگاه‌های امروزی حذف شده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دستی و خودکار؛ و دستی نامطلوب است چون خطای اپراتور را وارد می‌کند و در دستگاه‌های امروزی حذف شده است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5abc332c30a7a21c33957dbec37783a4567b401de123c3f25baa7e896d5eb452"
+        ],
+        "explanation": "منطقش ساده است: کولیماسیون الکترونیکی داده را دور می‌ریزد، ولی پرتو پیش‌تر به بیمار خورده است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "منطقش ساده است: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کولیماسیون الکترونیکی داده را دور می‌ریزد، ولی پرتو پیش‌تر به بیمار خورده است"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-17T17:22:51.769Z"
+      }
+    },
+    {
+      "id": "question:27904",
+      "sourceId": "27904",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "346e76ee3e52015a8fed466ed7e7ef2c89bbef15ea54ff7aae2def920a7a0554",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "وضعیت کنترل خودکار اکسپوز در دستگاه‌های CBCT ماگزیلوفاسیال چگونه است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "وضعیت کنترل خودکار اکسپوز در دستگاه‌های CBCT ماگزیلوفاسیال چگونه است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در حال حاضر بسیار محدود است؛ و فراگیر شدنش نیاز به تطبیق دستی پارامترها بر پایه‌ی اندازه‌ی بیمار را برطرف و پرتوگیری را کمینه می‌کرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در همه‌ی دستگاه‌های CBCT استاندارد و فعال است و با یک اسکات پیش از اسکن کار می‌کند؛ و به همین دلیل تنظیم دستی پارامترها در CBCT هرگز لازم نمی‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در CBCT از نظر فنی ناممکن است چون پرتو پالسی و آند ثابت با سازوکار AEC ناسازگارند؛ و در هیچ دستگاه ماگزیلوفاسیالی پیاده‌سازی نشده و نخواهد شد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در CBCT ممنوع است چون در بیماران کوچک‌جثه به افزایش دوز می‌انجامد؛ و مراجع نظارتی استفاده از آن را در دستگاه‌های دندانی به‌طور رسمی منع کرده‌اند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "82fd3159e2a87e84bd5b0e8f24596b35a8a28ed59f62c9795e0a64bcda8239ff",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "در حال حاضر بسیار محدود است؛ و فراگیر شدنش نیاز به تطبیق دستی پارامترها بر پایه‌ی اندازه‌ی بیمار را برطرف و پرتوگیری را کمینه می‌کرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در حال حاضر بسیار محدود است؛ و فراگیر شدنش نیاز به تطبیق دستی پارامترها بر پایه‌ی اندازه‌ی بیمار را برطرف و پرتوگیری را کمینه می‌کرد"
+            }
+          ]
+        },
+        {
+          "id": "da7df6a7f42c6796af4aa3295ca9e9a1171bd2198c03086fe1d3f7af76a446f1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "در همه‌ی دستگاه‌های CBCT استاندارد و فعال است و با یک اسکات پیش از اسکن کار می‌کند؛ و به همین دلیل تنظیم دستی پارامترها در CBCT هرگز لازم نمی‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در همه‌ی دستگاه‌های CBCT استاندارد و فعال است و با یک اسکات پیش از اسکن کار می‌کند؛ و به همین دلیل تنظیم دستی پارامترها در CBCT هرگز لازم نمی‌شود"
+            }
+          ]
+        },
+        {
+          "id": "eed50cbe03811f560026f59774e0844d0586d7c88b8ab207ba3f9b588134ed18",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "در CBCT از نظر فنی ناممکن است چون پرتو پالسی و آند ثابت با سازوکار AEC ناسازگارند؛ و در هیچ دستگاه ماگزیلوفاسیالی پیاده‌سازی نشده و نخواهد شد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در CBCT از نظر فنی ناممکن است چون پرتو پالسی و آند ثابت با سازوکار AEC ناسازگارند؛ و در هیچ دستگاه ماگزیلوفاسیالی پیاده‌سازی نشده و نخواهد شد"
+            }
+          ]
+        },
+        {
+          "id": "e050f990f5da4a620c39c7a82841b7997f5169267eb4ab27102d0672623470ad",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "در CBCT ممنوع است چون در بیماران کوچک‌جثه به افزایش دوز می‌انجامد؛ و مراجع نظارتی استفاده از آن را در دستگاه‌های دندانی به‌طور رسمی منع کرده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در CBCT ممنوع است چون در بیماران کوچک‌جثه به افزایش دوز می‌انجامد؛ و مراجع نظارتی استفاده از آن را در دستگاه‌های دندانی به‌طور رسمی منع کرده‌اند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "82fd3159e2a87e84bd5b0e8f24596b35a8a28ed59f62c9795e0a64bcda8239ff"
+        ],
+        "explanation": "همین است — به همین دلیل مسئولیت تطبیق پارامترها با اندازه‌ی بیمار همچنان بر دوش اپراتور است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است — به همین دلیل "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مسئولیت تطبیق پارامترها با اندازه‌ی بیمار همچنان بر دوش اپراتور"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است."
+          }
+        ],
+        "observedAt": "2026-11-17T17:22:58.947Z"
+      }
+    },
+    {
+      "id": "question:27905",
+      "sourceId": "27905",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "eb6e38a054e0723b6696a8aa73c6d9f6b3a4b698534a60e82d2680ffa3cee671",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اندازه‌ی دکسل چه زنجیره‌ی پیامدی می‌سازد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اندازه‌ی دکسل چه زنجیره‌ی پیامدی می‌سازد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دکسل‌های کوچک‌تر فوتون‌های بیشتری می‌گیرند و نویز کمتری می‌سازند؛ پس تفکیک بالاتر همیشه با دوز کمتر همراه است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌ی دکسل تنها بر حجم داده و زمان بازسازی اثر دارد؛ دکسل‌های کوچک‌تر داده‌ی بیشتری می‌دهند، فضای ذخیره‌سازی بیشتری می‌خواهند و بازسازی را کند می‌کنند، ولی نویز و دوز بی‌تغییر می‌مانند چون شمار فوتون‌های رسیده به کل آشکارساز ثابت است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌ی اسمی دکسل تفکیک فضایی نهایی را تحت تأثیر قرار می‌دهد؛ دکسل‌های کوچک‌تر فوتون‌های کمتری در هر وکسل می‌گیرند و به نویز بیشتر می‌انجامند؛ پس تصویربرداری با تفکیک بالاتر ممکن است به دوز بالاتری نیاز داشته باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌ی دکسل هیچ ارتباطی با تفکیک فضایی ندارد؛ تفکیک تنها با ماتریکس نمایش نرم‌افزار تعیین می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "17beac0db560ac82e4a41813e7ecbe06f1a34528b0987bc3f1ca197eeefbecbe",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دکسل‌های کوچک‌تر فوتون‌های بیشتری می‌گیرند و نویز کمتری می‌سازند؛ پس تفکیک بالاتر همیشه با دوز کمتر همراه است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دکسل‌های کوچک‌تر فوتون‌های بیشتری می‌گیرند و نویز کمتری می‌سازند؛ پس تفکیک بالاتر همیشه با دوز کمتر همراه است"
+            }
+          ]
+        },
+        {
+          "id": "6211a97fb9a9f7f1825f08f156fab7530db13ebf65936ac065d43df3ad05925a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اندازه‌ی دکسل تنها بر حجم داده و زمان بازسازی اثر دارد؛ دکسل‌های کوچک‌تر داده‌ی بیشتری می‌دهند، فضای ذخیره‌سازی بیشتری می‌خواهند و بازسازی را کند می‌کنند، ولی نویز و دوز بی‌تغییر می‌مانند چون شمار فوتون‌های رسیده به کل آشکارساز ثابت است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندازه‌ی دکسل تنها بر حجم داده و زمان بازسازی اثر دارد؛ دکسل‌های کوچک‌تر داده‌ی بیشتری می‌دهند، فضای ذخیره‌سازی بیشتری می‌خواهند و بازسازی را کند می‌کنند، ولی نویز و دوز بی‌تغییر می‌مانند چون شمار فوتون‌های رسیده به کل آشکارساز ثابت است"
+            }
+          ]
+        },
+        {
+          "id": "f5e744cf8b534f2f06d66853e7b535bc5d0a69e0436ae31d21271ff3d947f600",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اندازه‌ی اسمی دکسل تفکیک فضایی نهایی را تحت تأثیر قرار می‌دهد؛ دکسل‌های کوچک‌تر فوتون‌های کمتری در هر وکسل می‌گیرند و به نویز بیشتر می‌انجامند؛ پس تصویربرداری با تفکیک بالاتر ممکن است به دوز بالاتری نیاز داشته باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندازه‌ی اسمی دکسل تفکیک فضایی نهایی را تحت تأثیر قرار می‌دهد؛ دکسل‌های کوچک‌تر فوتون‌های کمتری در هر وکسل می‌گیرند و به نویز بیشتر می‌انجامند؛ پس تصویربرداری با تفکیک بالاتر ممکن است به دوز بالاتری نیاز داشته باشد"
+            }
+          ]
+        },
+        {
+          "id": "36a7ce93a5ffa097e214bc7949314aeb49115706747c85b1670e0b81bc2a7d32",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اندازه‌ی دکسل هیچ ارتباطی با تفکیک فضایی ندارد؛ تفکیک تنها با ماتریکس نمایش نرم‌افزار تعیین می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندازه‌ی دکسل هیچ ارتباطی با تفکیک فضایی ندارد؛ تفکیک تنها با ماتریکس نمایش نرم‌افزار تعیین می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f5e744cf8b534f2f06d66853e7b535bc5d0a69e0436ae31d21271ff3d947f600"
+        ],
+        "explanation": "این نکته خلاف انتظار ولی مهم است: تفکیک بالاتر می‌تواند گران‌تر از نظر دوز تمام شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این نکته "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "خلاف انتظار"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " ولی مهم است: تفکیک بالاتر می‌تواند "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "گران‌تر از نظر دوز"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " تمام شود."
+          }
+        ],
+        "observedAt": "2026-11-17T17:23:06.239Z"
+      }
+    },
+    {
+      "id": "question:27909",
+      "sourceId": "27909",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "c12df686b3505a0e721ab7547f5fff731711e5fb24a93af13779ef4ad68db14d",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کمان اسکن جزئی چه پیامدهایی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کمان اسکن جزئی چه پیامدهایی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ اثری بر دوز یا کیفیت ندارد و تنها بر زمان کل معاینه اثر می‌گذارد؛ چون داده‌ی غایب با درون‌یابی و الگوریتم‌های تکمیل پروجکشن به‌طور کامل جبران می‌شود، بازسازی از کمان جزئی با بازسازی کمان کامل عملاً یکسان است و آرتیفکت زاویه‌ی محدود پدید نمی‌آید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان اسکن را کاهش ولی دوز را افزایش می‌دهد، چون mA هر پروجکشن برای جبران زوایای غایب بالا می‌رود؛ و کیفیت تصویر را بهتر می‌کند، چون داده‌ها در زاویه‌های نزدیک‌تر جمع‌آوری می‌شوند و آرتیفکت درون‌یابی و گرسنگی فوتونی کمتری پدید می‌آید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان اسکن و دوز را کاهش می‌دهد، ولی تصاویر ممکن است نویز بیشتر و آرتیفکت درون‌یابی بازسازی داشته باشند؛ و آرتیفکت زاویه‌ی محدود شامل خط‌خطی یک‌جهته‌ی پیرامونی بیشتر و کاپینگ میان‌صفحه‌ای و گرسنگی فوتونی بارزتر پدید می‌آید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها بر تفکیک کنتراستی بافت نرم اثر می‌گذارد و بر بافت سخت بی‌اثر است؛ پس در دندانپزشکی استفاده از آن بدون هزینه است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7c1df36c8e5e68953e883131868a8e189cc69592e61d2a41f26f9f936187b3ac",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هیچ اثری بر دوز یا کیفیت ندارد و تنها بر زمان کل معاینه اثر می‌گذارد؛ چون داده‌ی غایب با درون‌یابی و الگوریتم‌های تکمیل پروجکشن به‌طور کامل جبران می‌شود، بازسازی از کمان جزئی با بازسازی کمان کامل عملاً یکسان است و آرتیفکت زاویه‌ی محدود پدید نمی‌آید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ اثری بر دوز یا کیفیت ندارد و تنها بر زمان کل معاینه اثر می‌گذارد؛ چون داده‌ی غایب با درون‌یابی و الگوریتم‌های تکمیل پروجکشن به‌طور کامل جبران می‌شود، بازسازی از کمان جزئی با بازسازی کمان کامل عملاً یکسان است و آرتیفکت زاویه‌ی محدود پدید نمی‌آید"
+            }
+          ]
+        },
+        {
+          "id": "cf95676b606e1e8488d5d32c66df745ba1960e68a17f0c293a56031aa80f1eb7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "زمان اسکن را کاهش ولی دوز را افزایش می‌دهد، چون mA هر پروجکشن برای جبران زوایای غایب بالا می‌رود؛ و کیفیت تصویر را بهتر می‌کند، چون داده‌ها در زاویه‌های نزدیک‌تر جمع‌آوری می‌شوند و آرتیفکت درون‌یابی و گرسنگی فوتونی کمتری پدید می‌آید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان اسکن را کاهش ولی دوز را افزایش می‌دهد، چون mA هر پروجکشن برای جبران زوایای غایب بالا می‌رود؛ و کیفیت تصویر را بهتر می‌کند، چون داده‌ها در زاویه‌های نزدیک‌تر جمع‌آوری می‌شوند و آرتیفکت درون‌یابی و گرسنگی فوتونی کمتری پدید می‌آید"
+            }
+          ]
+        },
+        {
+          "id": "829b90a7257b3761c95798e929163d141fc0b90dcb524a8dde7fd6fb60aecbe0",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "زمان اسکن و دوز را کاهش می‌دهد، ولی تصاویر ممکن است نویز بیشتر و آرتیفکت درون‌یابی بازسازی داشته باشند؛ و آرتیفکت زاویه‌ی محدود شامل خط‌خطی یک‌جهته‌ی پیرامونی بیشتر و کاپینگ میان‌صفحه‌ای و گرسنگی فوتونی بارزتر پدید می‌آید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان اسکن و دوز را کاهش می‌دهد، ولی تصاویر ممکن است نویز بیشتر و آرتیفکت درون‌یابی بازسازی داشته باشند؛ و آرتیفکت زاویه‌ی محدود شامل خط‌خطی یک‌جهته‌ی پیرامونی بیشتر و کاپینگ میان‌صفحه‌ای و گرسنگی فوتونی بارزتر پدید می‌آید"
+            }
+          ]
+        },
+        {
+          "id": "a0dd7b43c9fff9a791f6cfe8fc71c4d098a774e5337bcf679c52d060af2aa285",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تنها بر تفکیک کنتراستی بافت نرم اثر می‌گذارد و بر بافت سخت بی‌اثر است؛ پس در دندانپزشکی استفاده از آن بدون هزینه است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها بر تفکیک کنتراستی بافت نرم اثر می‌گذارد و بر بافت سخت بی‌اثر است؛ پس در دندانپزشکی استفاده از آن بدون هزینه است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "829b90a7257b3761c95798e929163d141fc0b90dcb524a8dde7fd6fb60aecbe0"
+        ],
+        "explanation": "خوب تشخیص دادی — در برابرش، «تصویربرداری با کمان کامل، داده‌ی پروجکشن کافی برای بازسازی باوفا» می‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خوب تشخیص دادی — در برابرش، «تصویربرداری با "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کمان کامل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، داده‌ی پروجکشن کافی برای بازسازی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "باوفا"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "» می‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:23:13.845Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:d88d7e4ca7be9006eeb1f2991ca023d34384a4ef08acb44d95191e1b22593a78",
+      "at": "2026-11-17T17:22:06.754Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:422d4dd851b4afd8f0889b3028f930cac4b7feb9dd2987e6c35df9153c389a36",
+      "at": "2026-11-17T17:22:08.904Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:27898",
+      "at": "2026-11-17T17:22:10.515Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:27899",
+      "at": "2026-11-17T17:22:46.181Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:27904",
+      "at": "2026-11-17T17:22:53.401Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:27905",
+      "at": "2026-11-17T17:23:00.558Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:27909",
+      "at": "2026-11-17T17:23:07.877Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

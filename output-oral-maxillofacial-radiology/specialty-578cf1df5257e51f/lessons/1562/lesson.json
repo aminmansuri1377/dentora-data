@@ -1,0 +1,2514 @@
+{
+  "schemaVersion": 3,
+  "id": "1562",
+  "sourceUrl": "https://app.dentigoapp.com/fa/lesson/1562",
+  "title": "درس دوم: از سینوگرام تا وکسل",
+  "specialtyKey": "578cf1df5257e51f",
+  "specialtyName": "رادیولوژی دهان، فک و صورت",
+  "chapterId": "327",
+  "chapterTitle": "CBCT و تصویربرداری مقطعی، اصول توموگرافی رایانه‌ای و MDCT",
+  "chapterPosition": 21,
+  "lessonPosition": 2,
+  "runId": "2026-11-17T14-53-57-014Z",
+  "startedAt": "2026-11-17T17:15:38.453Z",
+  "updatedAt": "2026-11-17T17:16:40.603Z",
+  "status": "captured",
+  "steps": [
+    {
+      "id": "theory:7b5e0e9180b8226995b9a095a097b1ccb1d97a9d5ec71d8252158ad696a46865",
+      "position": 1,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 0%;",
+      "questionType": "unknown",
+      "title": "درس ۲: از سینوگرام تا وکسل",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "زنجیره‌ی بازسازی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پس از اکتساب داده‌ی تضعیف، یک زنجیره‌ی ریاضی آن را به تصویر تبدیل می‌کند. گام‌به‌گام:"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-24.webp",
+                  "alt": "بازآرایی چندصفحه‌ای (MPR) از داده‌ی حجمی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/ec898fd9268a063d9afe96a322738db0a330b355470294f44adfed2a8f6ed3fb.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بازآرایی چندصفحه‌ای (MPR) از داده‌ی حجمی "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.24)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱) تبدیل رادون"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — نام‌گرفته از ریاضی‌دان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یوهان رادون"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". داده‌ی ثبت‌شده «جذب فوتون در طول یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسیر پروجکشن پرتو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» را نشان می‌دهد؛ و تبدیل رادون «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتگرال‌های خطی شدت پرتو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را در مسیرهای مختلف تا آشکارساز، در هر زاویه‌ی پروجکشن محاسبه می‌کند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲) سینوگرام"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — خروجی تبدیل رادون: «یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمودار دوبعدی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زاویه‌ی چرخش منبع روی محور x"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و موقعیت در طول آرایه‌ی آشکارساز روی محور y»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳) فیلترهای افزوده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «به سینوگرام اعمال می‌شوند تا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیفکت را کم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تفکیک فضایی و کنتراستی را تقویت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کنند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۴) تبدیل فوریه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «سینوگرام فیلترشده با تبدیل فوریه تغییر شکل می‌دهد. این عمل، سیگنال‌های درون سینوگرام را به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرکانس‌های بنیادی‌شان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌شکند، که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنترل بهتر کنتراست و تفکیک تصویر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را ممکن می‌سازد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵) بک‌پروجکشن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «هر انتگرال خطی در سینوگرام به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک پیکسل منفرد در ماتریکس تصویر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بازپروجکت می‌شود، و برای هر زاویه‌ی پروجکشن، مقداری عددی به آن پیکسل افزوده می‌شود. با ادامه‌ی بک‌پروجکشن، سهم هر زاویه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جمع می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جمع تجمعی همه‌ی زوایا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مقدار عددی هر پیکسل را می‌دهد.» و سپس داده می‌تواند «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نرمال‌سازی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " شود تا تفاوت شمار پروجکشن‌های سهیم در هر پیکسل جبران گردد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و حاصل این زنجیره: بک‌پروجکشن فیلترشده (FBP)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «از نظر محاسباتی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کارآمد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است و بازسازی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سریع"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تصاویر CT را فراهم می‌کند»."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:590447b204aaf436be3c41ea0d67e354bf465c392932ae9a55e3fdb84afcb25f",
+      "position": 2,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 14.2857%;",
+      "questionType": "unknown",
+      "title": "درس ۲: از سینوگرام تا وکسل",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تفاوت الگوریتم‌ها و مجموعه‌داده‌ی حجمی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "MDCT و CBCT هندسه‌ی پرتو متفاوتی دارند، پس الگوریتم‌هایشان هم فرق می‌کند:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-19.webp",
+                  "alt": "حالت‌های استاندارد نمایش داده‌ی حجمی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/490b273619901019135b39e2b286f308ccd546557ac78640d02c568340eb823e.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حالت‌های استاندارد نمایش داده‌ی حجمی "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.19)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "MDCT"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «هندسه‌ی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پرتو بادبزنی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "چند ردیف آشکارساز"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " که هنگام چرخش گرد بیمار به‌ترتیب داده می‌گیرند. داده‌ی ردیف‌های جداگانه "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "به‌موازات"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اکتساب می‌شود، و این به "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "توان محاسباتی بالا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " نیاز دارد.» و «در گام فیلترینگ، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فیلترهای بازسازی ویژه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌توانند برای برجسته کردن ویژگی‌های "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "استخوان یا بافت نرم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اعمال شوند»."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "CBCT"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — «هندسه‌ی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پرتو مخروطی پهن‌تر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " با یک "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آشکارساز دوبعدی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کل حجم تصویر در یک چرخش"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اکتساب می‌شود». افزون بر FBP، روش‌های دیگری هم به کار می‌روند: الگوریتم "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فلدکمپ-دیویس-کرس (FDK)"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک خانواده‌ی سوم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «روش‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بازسازی تکراری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از چند تکرار استفاده می‌کنند تا اختلاف میان سینوگرام اکتساب‌شده و پروجکشن رو به جلوی تصویر کنونی را کمینه کنند. چنین روش‌هایی می‌توانند نویز و آرتیفکت را کم کنند و دوز را بهینه سازند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو اصطلاح که باید از هم جدا شوند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فرایند بازسازی توصیف‌شده «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بازسازی اولیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» نامیده می‌شود؛ و پردازش بعدی حجم تصویر — «مثلاً برای ساخت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صفحات ارتوگونال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یا تصاویر منحنی «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پانورامیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»» — «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بازسازی ثانویه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» نام دارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ویژگی کلیدی مجموعه‌داده —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که همه‌چیز از آن می‌آید: «MDCT و CBCT مجموعه‌داده‌هایی با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وکسل‌های ایزومتریک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تولید می‌کنند، پس وکسل‌ها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مکعبی با ابعاد برابر در هر سه صفحه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "اند.» و پیامدش: «با وکسل‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایزوتروپیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، بازسازی‌های ثانویه‌ی داده‌ی حجمی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تقریباً در هر صفحه‌ای و بدون اعوجاج"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قابل انجام است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و بزرگ‌ترین مزیت CT، درست از همین‌جا می‌آید:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برخلاف تصویربرداری داخل‌دهانی، پانورامیک و سفالومتریک، تصویر بازسازی‌شده‌ی CT "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اعوجاج هندسی کمینه‌ای"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارد و بنابراین اندازه‌گیری‌های خطی و زاویه‌ای روی تصاویر CT دقیق و قابل اعتمادند. این یک مزیت عمده‌ی تصویربرداری CT است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ماتریکس‌ها:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " MDCT معمول (تفکیک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۵ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") معمولاً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵۱۲×۵۱۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "HRCT"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (تفکیک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۲۳–۰٫۳۵ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۰۲۴×۱۰۲۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "U-HRCT"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (تفکیک تا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۱۵ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ") "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰۴۸×۲۰۴۸"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و DICOM چیست و چه چیزی در خود دارد؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " استانداردی که «مدیریت، ذخیره، انتقال و نمایش تصاویر پزشکی» را مشخص می‌کند. فایل‌های DICOM افزون بر خود تصویر، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فراداده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داده‌ی تصویر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (اطلاعات شناسایی دستگاه، عوامل اکسپوز، ضخامت برش، مودالیته) و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داده‌ی بیمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (جمعیت‌شناختی مانند نام و سن و جنس، و گاهی اطلاعات محافظت‌شده‌ی سلامت و شناسایی‌کننده‌ی فردی)."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا این هم‌کنش‌پذیری مهم است؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «به‌ویژه هنگام استفاده از نرم‌افزارهای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شخص ثالث"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای مشاهده‌ی مجموعه‌داده، انجام "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شبیه‌سازی درمان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و ساخت فایل برای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چاپ راهنماهای جراحی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:27698",
+      "position": 3,
+      "kind": "question",
+      "sourceQuestionId": "27698",
+      "sourceStepId": null,
+      "sourceProgress": "width: 28.5714%;",
+      "questionType": "single-choice",
+      "title": "درس ۲: از سینوگرام تا وکسل",
+      "prompt": "تبدیل رادون چه چیزی را محاسبه می‌کند؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تبدیل رادون چه چیزی را محاسبه می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عدد هانسفیلد هر بافت را از روی چگالی فیزیکی و عدد اتمی مؤثر آن؛ و نتیجه به‌صورت مقیاس خاکستری نمایش می‌یابد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضریب تضعیف خطی هر وکسل را به‌طور مستقیم و بدون نیاز به گام‌های بعدی؛ و خروجی آن همان تصویر نهایی مقطعی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرکانس‌های بنیادی سیگنال‌ها را با شکستن آن‌ها به مؤلفه‌های سینوسی؛ و همین امکان کنترل کنتراست و تفکیک را می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتگرال‌های خطی شدت پرتو ایکس را در مسیرهای مختلف تا آشکارساز، در هر زاویه‌ی پروجکشن"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "عدد هانسفیلد هر بافت را از روی چگالی فیزیکی و عدد اتمی مؤثر آن؛ و نتیجه به‌صورت مقیاس خاکستری نمایش می‌یابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عدد هانسفیلد هر بافت را از روی چگالی فیزیکی و عدد اتمی مؤثر آن؛ و نتیجه به‌صورت مقیاس خاکستری نمایش می‌یابد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "ضریب تضعیف خطی هر وکسل را به‌طور مستقیم و بدون نیاز به گام‌های بعدی؛ و خروجی آن همان تصویر نهایی مقطعی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ضریب تضعیف خطی هر وکسل را به‌طور مستقیم و بدون نیاز به گام‌های بعدی؛ و خروجی آن همان تصویر نهایی مقطعی است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "فرکانس‌های بنیادی سیگنال‌ها را با شکستن آن‌ها به مؤلفه‌های سینوسی؛ و همین امکان کنترل کنتراست و تفکیک را می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فرکانس‌های بنیادی سیگنال‌ها را با شکستن آن‌ها به مؤلفه‌های سینوسی؛ و همین امکان کنترل کنتراست و تفکیک را می‌دهد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "انتگرال‌های خطی شدت پرتو ایکس را در مسیرهای مختلف تا آشکارساز، در هر زاویه‌ی پروجکشن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انتگرال‌های خطی شدت پرتو ایکس را در مسیرهای مختلف تا آشکارساز، در هر زاویه‌ی پروجکشن"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "3"
+        ],
+        "correctOptionHashes": [
+          "fa431db5ba2e121d30364344bbe726881f9c13d261f65ee299f53400c632128d"
+        ],
+        "correctOptionTexts": [
+          "انتگرال‌های خطی شدت پرتو ایکس را در مسیرهای مختلف تا آشکارساز، در هر زاویه‌ی پروجکشن"
+        ],
+        "explanation": "کاملاً درست. شکستن سیگنال به فرکانس‌های بنیادی کار تبدیل فوریه است، نه رادون.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کاملاً درست. شکستن سیگنال به فرکانس‌های بنیادی کار "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "تبدیل فوریه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است، نه رادون."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "عدد هانسفیلد هر بافت را از روی چگالی فیزیکی و عدد اتمی مؤثر آن؛ و نتیجه به‌صورت مقیاس خاکستری نمایش می‌یابد",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ضریب تضعیف خطی هر وکسل را به‌طور مستقیم و بدون نیاز به گام‌های بعدی؛ و خروجی آن همان تصویر نهایی مقطعی است",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "فرکانس‌های بنیادی سیگنال‌ها را با شکستن آن‌ها به مؤلفه‌های سینوسی؛ و همین امکان کنترل کنتراست و تفکیک را می‌دهد",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "انتگرال‌های خطی شدت پرتو ایکس را در مسیرهای مختلف تا آشکارساز، در هر زاویه‌ی پروجکشن",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-17T17:16:11.129Z"
+      }
+    },
+    {
+      "id": "question:27702",
+      "position": 4,
+      "kind": "question",
+      "sourceQuestionId": "27702",
+      "sourceStepId": null,
+      "sourceProgress": "width: 42.8571%;",
+      "questionType": "single-choice",
+      "title": "درس ۲: از سینوگرام تا وکسل",
+      "prompt": "بک‌پروجکشن چگونه مقدار هر پیکسل را می‌سازد؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بک‌پروجکشن چگونه مقدار هر پیکسل را می‌سازد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر انتگرال خطی سینوگرام به یک پیکسل بازپروجکت می‌شود و برای هر زاویه مقداری عددی به آن افزوده می‌گردد؛ سهم همه‌ی زوایا جمع می‌شود و جمع تجمعی، مقدار نهایی پیکسل را می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقدار هر پیکسل مستقیماً از یک اندازه‌گیری منفرد آشکارساز در زاویه‌ی متناظر خوانده می‌شود؛ و هیچ جمعی روی زوایا انجام نمی‌گیرد، چون هر زاویه تنها به یک ردیف از پیکسل‌های ماتریکس مربوط است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقدار هر پیکسل از میانگین‌گیری میان پیکسل‌های مجاور به دست می‌آید؛ و داده‌ی زاویه‌ای تنها برای تعیین مرزهای تصویر و جهت‌یابی آن روی نمایشگر به کار می‌رود، نه برای محاسبه‌ی خود پیکسل"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقدار هر پیکسل با مقایسه‌ی سیگنال آشکارساز با یک فانتوم مرجع کالیبراسیون تعیین می‌شود؛ و بدون این فانتوم، که پیش از هر اسکن کنار سر بیمار قرار می‌گیرد، بازسازی داده ممکن نیست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "هر انتگرال خطی سینوگرام به یک پیکسل بازپروجکت می‌شود و برای هر زاویه مقداری عددی به آن افزوده می‌گردد؛ سهم همه‌ی زوایا جمع می‌شود و جمع تجمعی، مقدار نهایی پیکسل را می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر انتگرال خطی سینوگرام به یک پیکسل بازپروجکت می‌شود و برای هر زاویه مقداری عددی به آن افزوده می‌گردد؛ سهم همه‌ی زوایا جمع می‌شود و جمع تجمعی، مقدار نهایی پیکسل را می‌دهد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "مقدار هر پیکسل مستقیماً از یک اندازه‌گیری منفرد آشکارساز در زاویه‌ی متناظر خوانده می‌شود؛ و هیچ جمعی روی زوایا انجام نمی‌گیرد، چون هر زاویه تنها به یک ردیف از پیکسل‌های ماتریکس مربوط است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقدار هر پیکسل مستقیماً از یک اندازه‌گیری منفرد آشکارساز در زاویه‌ی متناظر خوانده می‌شود؛ و هیچ جمعی روی زوایا انجام نمی‌گیرد، چون هر زاویه تنها به یک ردیف از پیکسل‌های ماتریکس مربوط است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "مقدار هر پیکسل از میانگین‌گیری میان پیکسل‌های مجاور به دست می‌آید؛ و داده‌ی زاویه‌ای تنها برای تعیین مرزهای تصویر و جهت‌یابی آن روی نمایشگر به کار می‌رود، نه برای محاسبه‌ی خود پیکسل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقدار هر پیکسل از میانگین‌گیری میان پیکسل‌های مجاور به دست می‌آید؛ و داده‌ی زاویه‌ای تنها برای تعیین مرزهای تصویر و جهت‌یابی آن روی نمایشگر به کار می‌رود، نه برای محاسبه‌ی خود پیکسل"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "مقدار هر پیکسل با مقایسه‌ی سیگنال آشکارساز با یک فانتوم مرجع کالیبراسیون تعیین می‌شود؛ و بدون این فانتوم، که پیش از هر اسکن کنار سر بیمار قرار می‌گیرد، بازسازی داده ممکن نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقدار هر پیکسل با مقایسه‌ی سیگنال آشکارساز با یک فانتوم مرجع کالیبراسیون تعیین می‌شود؛ و بدون این فانتوم، که پیش از هر اسکن کنار سر بیمار قرار می‌گیرد، بازسازی داده ممکن نیست"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "0"
+        ],
+        "correctOptionHashes": [
+          "1931116b4ea58eb0de16ab1de603332c50b842bce595c1086f3918f00035eb15"
+        ],
+        "correctOptionTexts": [
+          "هر انتگرال خطی سینوگرام به یک پیکسل بازپروجکت می‌شود و برای هر زاویه مقداری عددی به آن افزوده می‌گردد؛ سهم همه‌ی زوایا جمع می‌شود و جمع تجمعی، مقدار نهایی پیکسل را می‌دهد"
+        ],
+        "explanation": "خوب استدلال کردی. سپس داده می‌تواند نرمال‌سازی شود «تا تفاوت شمار پروجکشن‌های سهیم در هر پیکسل جبران گردد».",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خوب استدلال کردی. سپس داده می‌تواند "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "نرمال‌سازی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " شود «تا تفاوت شمار پروجکشن‌های سهیم در هر پیکسل جبران گردد»."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "هر انتگرال خطی سینوگرام به یک پیکسل بازپروجکت می‌شود و برای هر زاویه مقداری عددی به آن افزوده می‌گردد؛ سهم همه‌ی زوایا جمع می‌شود و جمع تجمعی، مقدار نهایی پیکسل را می‌دهد",
+            "isCorrect": true
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "مقدار هر پیکسل مستقیماً از یک اندازه‌گیری منفرد آشکارساز در زاویه‌ی متناظر خوانده می‌شود؛ و هیچ جمعی روی زوایا انجام نمی‌گیرد، چون هر زاویه تنها به یک ردیف از پیکسل‌های ماتریکس مربوط است",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "مقدار هر پیکسل از میانگین‌گیری میان پیکسل‌های مجاور به دست می‌آید؛ و داده‌ی زاویه‌ای تنها برای تعیین مرزهای تصویر و جهت‌یابی آن روی نمایشگر به کار می‌رود، نه برای محاسبه‌ی خود پیکسل",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "مقدار هر پیکسل با مقایسه‌ی سیگنال آشکارساز با یک فانتوم مرجع کالیبراسیون تعیین می‌شود؛ و بدون این فانتوم، که پیش از هر اسکن کنار سر بیمار قرار می‌گیرد، بازسازی داده ممکن نیست",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T17:16:18.074Z"
+      }
+    },
+    {
+      "id": "question:27705",
+      "position": 5,
+      "kind": "question",
+      "sourceQuestionId": "27705",
+      "sourceStepId": null,
+      "sourceProgress": "width: 57.1429%;",
+      "questionType": "single-choice",
+      "title": "درس ۲: از سینوگرام تا وکسل",
+      "prompt": "افزون بر FBP، چه الگوریتم‌هایی به کار می‌روند و هرکدام چه می‌کنند؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "افزون بر FBP، چه الگوریتم‌هایی به کار می‌روند و هرکدام چه می‌کنند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الگوریتم‌های یادگیری ماشین که بدون هیچ مدل فیزیکی و تنها از روی داده‌های آموزشی تصویر می‌سازند؛ و امروز جایگزین کامل FBP شده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الگوریتم فلدکمپ-دیویس-کرس برای هندسه‌ی بادبزنی چندردیفه؛ و روش‌های بازسازی تکراری که با چند بار تکرار محاسبه تنها سرعت بازسازی را افزایش می‌دهند، بی‌آنکه اثری بر نویز، آرتیفکت یا دوز بیمار داشته باشند، و از این رو جایگزین FBP شده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها تبدیل فوریه و تبدیل رادون؛ و هیچ الگوریتم بازسازی دیگری در CT به کار نمی‌رود چون این دو برای همه‌ی هندسه‌ها کافی‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الگوریتم فلدکمپ-دیویس-کرس برای هندسه‌ی مخروطی؛ و روش‌های بازسازی تکراری که با چند تکرار، اختلاف میان سینوگرام اکتساب‌شده و پروجکشن رو به جلوی تصویر کنونی را کمینه می‌کنند و می‌توانند نویز و آرتیفکت را کم و دوز را بهینه کنند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "الگوریتم‌های یادگیری ماشین که بدون هیچ مدل فیزیکی و تنها از روی داده‌های آموزشی تصویر می‌سازند؛ و امروز جایگزین کامل FBP شده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "الگوریتم‌های یادگیری ماشین که بدون هیچ مدل فیزیکی و تنها از روی داده‌های آموزشی تصویر می‌سازند؛ و امروز جایگزین کامل FBP شده‌اند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "الگوریتم فلدکمپ-دیویس-کرس برای هندسه‌ی بادبزنی چندردیفه؛ و روش‌های بازسازی تکراری که با چند بار تکرار محاسبه تنها سرعت بازسازی را افزایش می‌دهند، بی‌آنکه اثری بر نویز، آرتیفکت یا دوز بیمار داشته باشند، و از این رو جایگزین FBP شده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "الگوریتم فلدکمپ-دیویس-کرس برای هندسه‌ی بادبزنی چندردیفه؛ و روش‌های بازسازی تکراری که با چند بار تکرار محاسبه تنها سرعت بازسازی را افزایش می‌دهند، بی‌آنکه اثری بر نویز، آرتیفکت یا دوز بیمار داشته باشند، و از این رو جایگزین FBP شده‌اند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "تنها تبدیل فوریه و تبدیل رادون؛ و هیچ الگوریتم بازسازی دیگری در CT به کار نمی‌رود چون این دو برای همه‌ی هندسه‌ها کافی‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها تبدیل فوریه و تبدیل رادون؛ و هیچ الگوریتم بازسازی دیگری در CT به کار نمی‌رود چون این دو برای همه‌ی هندسه‌ها کافی‌اند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "الگوریتم فلدکمپ-دیویس-کرس برای هندسه‌ی مخروطی؛ و روش‌های بازسازی تکراری که با چند تکرار، اختلاف میان سینوگرام اکتساب‌شده و پروجکشن رو به جلوی تصویر کنونی را کمینه می‌کنند و می‌توانند نویز و آرتیفکت را کم و دوز را بهینه کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "الگوریتم فلدکمپ-دیویس-کرس برای هندسه‌ی مخروطی؛ و روش‌های بازسازی تکراری که با چند تکرار، اختلاف میان سینوگرام اکتساب‌شده و پروجکشن رو به جلوی تصویر کنونی را کمینه می‌کنند و می‌توانند نویز و آرتیفکت را کم و دوز را بهینه کنند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "3"
+        ],
+        "correctOptionHashes": [
+          "a48d0e25f6fbe292b2d70d2992c9251335c2830359111ee72e18ab4266549f86"
+        ],
+        "correctOptionTexts": [
+          "الگوریتم فلدکمپ-دیویس-کرس برای هندسه‌ی مخروطی؛ و روش‌های بازسازی تکراری که با چند تکرار، اختلاف میان سینوگرام اکتساب‌شده و پروجکشن رو به جلوی تصویر کنونی را کمینه می‌کنند و می‌توانند نویز و آرتیفکت را کم و دوز را بهینه کنند"
+        ],
+        "explanation": "همین را می‌خواستیم. روش تکراری منطق زیبایی دارد: حدس بزن، پروجکشن بگیر، با داده‌ی واقعی بسنج، اصلاح کن، تکرار کن.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین را می‌خواستیم. روش تکراری منطق زیبایی دارد: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "حدس بزن، پروجکشن بگیر، با داده‌ی واقعی بسنج، اصلاح کن، تکرار کن"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "الگوریتم‌های یادگیری ماشین که بدون هیچ مدل فیزیکی و تنها از روی داده‌های آموزشی تصویر می‌سازند؛ و امروز جایگزین کامل FBP شده‌اند",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "الگوریتم فلدکمپ-دیویس-کرس برای هندسه‌ی بادبزنی چندردیفه؛ و روش‌های بازسازی تکراری که با چند بار تکرار محاسبه تنها سرعت بازسازی را افزایش می‌دهند، بی‌آنکه اثری بر نویز، آرتیفکت یا دوز بیمار داشته باشند، و از این رو جایگزین FBP شده‌اند",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "تنها تبدیل فوریه و تبدیل رادون؛ و هیچ الگوریتم بازسازی دیگری در CT به کار نمی‌رود چون این دو برای همه‌ی هندسه‌ها کافی‌اند",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "الگوریتم فلدکمپ-دیویس-کرس برای هندسه‌ی مخروطی؛ و روش‌های بازسازی تکراری که با چند تکرار، اختلاف میان سینوگرام اکتساب‌شده و پروجکشن رو به جلوی تصویر کنونی را کمینه می‌کنند و می‌توانند نویز و آرتیفکت را کم و دوز را بهینه کنند",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-17T17:16:25.173Z"
+      }
+    },
+    {
+      "id": "question:27709",
+      "position": 6,
+      "kind": "question",
+      "sourceQuestionId": "27709",
+      "sourceStepId": null,
+      "sourceProgress": "width: 71.4286%;",
+      "questionType": "single-choice",
+      "title": "درس ۲: از سینوگرام تا وکسل",
+      "prompt": "برای اندازه‌گیری ارتفاع استخوان پیش از ایمپلنت، چرا CT بر پانورامیک برتری دارد؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای اندازه‌گیری ارتفاع استخوان پیش از ایمپلنت، چرا CT بر پانورامیک برتری دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون CT تفکیک فضایی بالاتری از پانورامیک دارد و تنها همین تفکیک بالاتر است که اندازه‌گیری را ممکن می‌کند، نه هندسه‌ی آن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون CT دوز کمتری به بیمار می‌رساند و به همین دلیل می‌توان آن را چند بار تکرار کرد و از میانگین اندازه‌گیری‌ها استفاده نمود؛ و میانگین‌گیری خطای بزرگ‌نمایی را حذف می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون تصویر بازسازی‌شده‌ی CT اعوجاج هندسی کمینه‌ای دارد و اندازه‌گیری‌های خطی و زاویه‌ای روی آن دقیق و قابل اعتمادند، در حالی که پانورامیک بزرگ‌نمایی نابرابر دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون CT ماده‌ی حاجب به کار می‌برد و مرزهای استخوان کورتیکال را دقیق‌تر مشخص می‌کند؛ بدون ماده‌ی حاجب، برتری اندازه‌گیری آن بر پانورامیک معمولی به‌کلی از میان می‌رود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "چون CT تفکیک فضایی بالاتری از پانورامیک دارد و تنها همین تفکیک بالاتر است که اندازه‌گیری را ممکن می‌کند، نه هندسه‌ی آن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون CT تفکیک فضایی بالاتری از پانورامیک دارد و تنها همین تفکیک بالاتر است که اندازه‌گیری را ممکن می‌کند، نه هندسه‌ی آن"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "چون CT دوز کمتری به بیمار می‌رساند و به همین دلیل می‌توان آن را چند بار تکرار کرد و از میانگین اندازه‌گیری‌ها استفاده نمود؛ و میانگین‌گیری خطای بزرگ‌نمایی را حذف می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون CT دوز کمتری به بیمار می‌رساند و به همین دلیل می‌توان آن را چند بار تکرار کرد و از میانگین اندازه‌گیری‌ها استفاده نمود؛ و میانگین‌گیری خطای بزرگ‌نمایی را حذف می‌کند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "چون تصویر بازسازی‌شده‌ی CT اعوجاج هندسی کمینه‌ای دارد و اندازه‌گیری‌های خطی و زاویه‌ای روی آن دقیق و قابل اعتمادند، در حالی که پانورامیک بزرگ‌نمایی نابرابر دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون تصویر بازسازی‌شده‌ی CT اعوجاج هندسی کمینه‌ای دارد و اندازه‌گیری‌های خطی و زاویه‌ای روی آن دقیق و قابل اعتمادند، در حالی که پانورامیک بزرگ‌نمایی نابرابر دارد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "چون CT ماده‌ی حاجب به کار می‌برد و مرزهای استخوان کورتیکال را دقیق‌تر مشخص می‌کند؛ بدون ماده‌ی حاجب، برتری اندازه‌گیری آن بر پانورامیک معمولی به‌کلی از میان می‌رود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون CT ماده‌ی حاجب به کار می‌برد و مرزهای استخوان کورتیکال را دقیق‌تر مشخص می‌کند؛ بدون ماده‌ی حاجب، برتری اندازه‌گیری آن بر پانورامیک معمولی به‌کلی از میان می‌رود"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "2"
+        ],
+        "correctOptionHashes": [
+          "368de641c057350c145634ab045f7c2ee0da009815797d0dba2fd03a2f13159e"
+        ],
+        "correctOptionTexts": [
+          "چون تصویر بازسازی‌شده‌ی CT اعوجاج هندسی کمینه‌ای دارد و اندازه‌گیری‌های خطی و زاویه‌ای روی آن دقیق و قابل اعتمادند، در حالی که پانورامیک بزرگ‌نمایی نابرابر دارد"
+        ],
+        "explanation": "پاسخ درست همین است. ریشه‌ی این برتری وکسل ایزوتروپیک است. دوز CT هم بیشتر است نه کمتر.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پاسخ درست همین است. ریشه‌ی این برتری "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "وکسل ایزوتروپیک"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است. دوز CT هم "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بیشتر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است نه کمتر."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "چون CT تفکیک فضایی بالاتری از پانورامیک دارد و تنها همین تفکیک بالاتر است که اندازه‌گیری را ممکن می‌کند، نه هندسه‌ی آن",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "چون CT دوز کمتری به بیمار می‌رساند و به همین دلیل می‌توان آن را چند بار تکرار کرد و از میانگین اندازه‌گیری‌ها استفاده نمود؛ و میانگین‌گیری خطای بزرگ‌نمایی را حذف می‌کند",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "چون تصویر بازسازی‌شده‌ی CT اعوجاج هندسی کمینه‌ای دارد و اندازه‌گیری‌های خطی و زاویه‌ای روی آن دقیق و قابل اعتمادند، در حالی که پانورامیک بزرگ‌نمایی نابرابر دارد",
+            "isCorrect": true
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "چون CT ماده‌ی حاجب به کار می‌برد و مرزهای استخوان کورتیکال را دقیق‌تر مشخص می‌کند؛ بدون ماده‌ی حاجب، برتری اندازه‌گیری آن بر پانورامیک معمولی به‌کلی از میان می‌رود",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T17:16:32.065Z"
+      }
+    },
+    {
+      "id": "question:27710",
+      "position": 7,
+      "kind": "question",
+      "sourceQuestionId": "27710",
+      "sourceStepId": null,
+      "sourceProgress": "width: 85.7143%;",
+      "questionType": "single-choice",
+      "title": "درس ۲: از سینوگرام تا وکسل",
+      "prompt": "استاندارد DICOM چه چیزهایی را مشخص می‌کند؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "استاندارد DICOM چه چیزهایی را مشخص می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها الگوریتم‌های بازسازی مجاز در دستگاه‌های CT؛ و سازندگان موظف‌اند تنها از الگوریتم‌های تأییدشده در این استاندارد استفاده کنند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها فشرده‌سازی تصاویر پزشکی برای کاهش حجم فایل؛ و مدیریت و انتقال آن‌ها بر عهده‌ی استانداردهای جداگانه‌ای است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها پروتکل‌های اکسپوز و پارامترهای اسکن دستگاه‌های تصویربرداری؛ و هیچ ارتباطی با فایل تصویر یا انتقال آن ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مدیریت، ذخیره‌سازی، انتقال و نمایش تصاویر پزشکی، تا فایل هر دستگاهی در نرم‌افزار دیگری هم باز شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "تنها الگوریتم‌های بازسازی مجاز در دستگاه‌های CT؛ و سازندگان موظف‌اند تنها از الگوریتم‌های تأییدشده در این استاندارد استفاده کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها الگوریتم‌های بازسازی مجاز در دستگاه‌های CT؛ و سازندگان موظف‌اند تنها از الگوریتم‌های تأییدشده در این استاندارد استفاده کنند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "تنها فشرده‌سازی تصاویر پزشکی برای کاهش حجم فایل؛ و مدیریت و انتقال آن‌ها بر عهده‌ی استانداردهای جداگانه‌ای است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها فشرده‌سازی تصاویر پزشکی برای کاهش حجم فایل؛ و مدیریت و انتقال آن‌ها بر عهده‌ی استانداردهای جداگانه‌ای است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "تنها پروتکل‌های اکسپوز و پارامترهای اسکن دستگاه‌های تصویربرداری؛ و هیچ ارتباطی با فایل تصویر یا انتقال آن ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها پروتکل‌های اکسپوز و پارامترهای اسکن دستگاه‌های تصویربرداری؛ و هیچ ارتباطی با فایل تصویر یا انتقال آن ندارد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "مدیریت، ذخیره‌سازی، انتقال و نمایش تصاویر پزشکی، تا فایل هر دستگاهی در نرم‌افزار دیگری هم باز شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مدیریت، ذخیره‌سازی، انتقال و نمایش تصاویر پزشکی، تا فایل هر دستگاهی در نرم‌افزار دیگری هم باز شود"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "3"
+        ],
+        "correctOptionHashes": [
+          "b47ce5dda17ebc24980435c23adb2ddacafb102b86161819bdc49b2b5a16b909"
+        ],
+        "correctOptionTexts": [
+          "مدیریت، ذخیره‌سازی، انتقال و نمایش تصاویر پزشکی، تا فایل هر دستگاهی در نرم‌افزار دیگری هم باز شود"
+        ],
+        "explanation": "همین است. چهار کار، و همه درباره‌ی چرخه‌ی زندگی یک تصویر، نه ساختنش.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. چهار کار، و همه درباره‌ی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "چرخه‌ی زندگی یک تصویر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، نه ساختنش."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "تنها الگوریتم‌های بازسازی مجاز در دستگاه‌های CT؛ و سازندگان موظف‌اند تنها از الگوریتم‌های تأییدشده در این استاندارد استفاده کنند",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "تنها فشرده‌سازی تصاویر پزشکی برای کاهش حجم فایل؛ و مدیریت و انتقال آن‌ها بر عهده‌ی استانداردهای جداگانه‌ای است",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "تنها پروتکل‌های اکسپوز و پارامترهای اسکن دستگاه‌های تصویربرداری؛ و هیچ ارتباطی با فایل تصویر یا انتقال آن ندارد",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "مدیریت، ذخیره‌سازی، انتقال و نمایش تصاویر پزشکی، تا فایل هر دستگاهی در نرم‌افزار دیگری هم باز شود",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-17T17:16:38.509Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:7b5e0e9180b8226995b9a095a097b1ccb1d97a9d5ec71d8252158ad696a46865",
+      "at": "2026-11-17T17:15:40.373Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:590447b204aaf436be3c41ea0d67e354bf465c392932ae9a55e3fdb84afcb25f",
+      "at": "2026-11-17T17:15:42.480Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:27698",
+      "at": "2026-11-17T17:15:44.101Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:27702",
+      "at": "2026-11-17T17:16:12.752Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:27705",
+      "at": "2026-11-17T17:16:19.708Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:27709",
+      "at": "2026-11-17T17:16:26.786Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:27710",
+      "at": "2026-11-17T17:16:33.680Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "warnings": [],
+  "theoryPageCount": 2,
+  "questionCount": 5,
+  "completion": {
+    "heading": "تبریک به تو…!",
+    "at": "2026-11-17T17:16:40.602Z"
+  },
+  "validation": {
+    "issues": [],
+    "countsVerified": false,
+    "sourceFinished": true
+  }
+}

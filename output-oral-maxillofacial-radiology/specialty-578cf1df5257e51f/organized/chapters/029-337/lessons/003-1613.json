@@ -1,0 +1,2233 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1613/lesson.json",
+  "id": "1613",
+  "title": "درس سوم: چگونه پرتو ایکس ساخته می‌شود",
+  "specialtyKey": "578cf1df5257e51f",
+  "chapter": {
+    "id": "337",
+    "title": "حالا بفهم چرا، ماهیت پرتو و دستگاه پرتو ایکس",
+    "position": 29
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:39d8583e6a76db1fe63e75498ba0e2f1ab81a2c6f886b10488b79e3376ca9a07",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "1df5d49bdf4eb47f8090a36dc01edc64ca6f4dbb974a7183e2faffd34ddc2dfa",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برمس‌اشترالونگ — پرتو ترمزی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نخست یک واقعیت ناخوشایند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بیشتر الکترون‌های پرسرعتی که از فیلامان به هدف می‌روند، با الکترون‌های هدف برهم‌کنش می‌کنند و انرژی‌شان را به‌صورت گرما رها می‌کنند. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گاهی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، انرژی جنبشی الکترون به فوتون پرتو ایکس تبدیل می‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-1-10.webp",
+                  "alt": "اتوترانسفورمر، انتخابگر mA، و ترانسفورمرهای فیلامان و ولتاژ بالا",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/93a9eba5841f68b6d2ebc2a80131b8a91aea8272c511c77a0135e2e2c1aebdb3.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اتوترانسفورمر، انتخابگر mA، و ترانسفورمرهای فیلامان و ولتاژ بالا "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 1.10)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و این تبدیل از دو راه رخ می‌دهد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تشکیل پرتو برمس‌اشترالونگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرتو مشخصه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "معنای نام و سازوکار"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "«برمس‌اشترالونگ در آلمانی یعنی "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرتو ترمزی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»، و این فوتون‌ها «با توقف یا کند شدن ناگهانی الکترون‌های پرسرعت توسط هسته‌های تنگستن در هدف» تولید می‌شوند. و جایگاهشان: «فوتون‌های برمس‌اشترالونگ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "منبع اصلی پرتو از یک لوله‌ی پرتو ایکس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "اند.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "برهم‌کنش نزدیک‌گذر"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و این حالت غالب است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بیشتر الکترون‌های پرسرعت با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاصله‌ی نزدیک یا دور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از کنار هسته‌های تنگستن می‌گذرند. در این برهم‌کنش‌ها، الکترون به سمت هسته‌های مثبت جذب می‌شود، مسیرش به سمت هسته تغییر می‌کند، و بخشی از سرعتش را از دست می‌دهد. این کندشدگی باعث می‌شود الکترون انرژی جنبشی از دست بدهد که به شکل فوتون پرتو ایکس داده می‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و قاعده‌ی طلایی این برهم‌کنش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «هرچه الکترون پرسرعت به هسته نزدیک‌تر شود، جاذبه‌ی الکترواستاتیک میان هسته و الکترون بیشتر است، و فوتون‌های برمس‌اشترالونگ حاصل انرژی بالاتری دارند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا تنگستن؟ یک دلیل تازه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «کارایی این فرایند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "متناسب با مربع عدد اتمی هدف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است؛ فلزات با Z بالا در منحرف کردن مسیر الکترون‌های فرودی مؤثرترند، و این یکی از دلایل انتخاب تنگستن (Z=۷۴) به‌عنوان ماده‌ی هدف است.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "برهم‌کنش برخورد مستقیم — و سقف انرژی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و حالت نادر:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گاهی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، الکترون‌های فیلامان مستقیماً به هسته‌ی یک اتم هدف برخورد می‌کنند. وقتی این رخ دهد، همه‌ی انرژی جنبشی الکترون به یک فوتون پرتو ایکس منفرد تبدیل می‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و این همان چیزی است که سقف طیف را تعیین می‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «انرژی فوتون حاصل (بر حسب keV) "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عدداً برابر با انرژی الکترون است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — یعنی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ولتاژ اعمال‌شده بر لوله در آن لحظه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا طیف پیوسته است — سه دلیل"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "«برهم‌کنش‌های برمس‌اشترالونگ فوتون‌هایی با "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طیف پیوسته‌ی انرژی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌سازند.» و مثالش: «یک دستگاه دندانی که در ولتاژ پیک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۷۰ کیلوولت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کار می‌کند، ولتاژی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تا ۷۰ کیلوولت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بر لوله اعمال می‌کند. این لوله بنابراین طیف پیوسته‌ای از فوتون‌ها با انرژی تا بیشینه‌ی ۷۰ keV تولید می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سه دلیل این پیوستگی:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اختلاف ولتاژ پیوسته متغیر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " میان هدف و فیلامان باعث می‌شود الکترون‌های برخوردکننده به هدف "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سطوح متفاوتی از انرژی جنبشی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " داشته باشند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«الکترون‌های بمباران‌کننده "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در فاصله‌های متفاوتی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از کنار هسته‌های تنگستن می‌گذرند و بنابراین "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "به میزان‌های متفاوتی منحرف"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌شوند. در نتیجه، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مقادیر متفاوتی از انرژی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " به شکل فوتون برمس‌اشترالونگ می‌دهند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«بیشتر الکترون‌ها در چند برهم‌کنش برمس‌اشترالونگ در هدف شرکت می‌کنند پیش از آنکه همه‌ی انرژی جنبشی‌شان را از دست بدهند. در نتیجه، یک الکترون پس از هر برهم‌کنش پیاپی مقدار متفاوتی انرژی حمل می‌کند.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و این سه دلیل را کنار هم بگذار:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ولتاژ متغیر است، فاصله‌ی گذر متغیر است، و شمار برهم‌کنش‌ها متغیر است. سه منبع تصادفی بودن، و نتیجه‌اش یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیوستار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، نه چند خط مجزا."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:3bbe41c83ca7a51ce7c11abe623d013a528e99d841ab52800227e0e4e645c145",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "66a735c217e4c2a82d463c1fd6d50c705da52591d0ddd470b42856375c346bf9",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پرتو مشخصه و شکل طیف"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سهمش کوچک است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «پرتو مشخصه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها کسر کوچکی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از فوتون‌های یک پرتو ایکس را می‌سازد.»"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-1-25.webp",
+                  "alt": "کاهش نمایی شدت پرتو تک‌انرژی هنگام عبور از جاذب",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/301cf961c72527929589d3b22106a285b3203a1703a608c442420b47cb047921.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش نمایی شدت پرتو تک‌انرژی هنگام عبور از جاذب "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 1.25)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سازوکارش گام‌به‌گام:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«یک الکترون فرودی، یک الکترون درونی را از اتم تنگستن بیرون می‌راند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«وقتی این رخ دهد، یک الکترون از یک اوربیتال بیرونی به‌سرعت به خلأ در اوربیتال درونی کمبوددار جذب می‌شود.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«وقتی الکترون اوربیتال بیرونی جایگزین الکترون جابه‌جاشده شود، یک فوتون با انرژی معادل اختلاف انرژی‌های پیوند دو اوربیتال تابیده می‌شود.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا «مشخصه» نامیده می‌شود؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «انرژی‌های فوتون‌های مشخصه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گسسته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "اند، چون نماینده‌ی اختلاف سطوح انرژی اوربیتال‌های الکترونی مشخص‌اند و مشخصه‌ی اتم‌های هدفاند.» — یعنی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر عنصر امضای انرژی خودش را دارد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نکته‌ی صریح که باید بدانی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تولید پرتو مشخصه هیچ پیامد عملی برای رادیوگرافی دندان‌وفک‌وصورت ندارد.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "شکل طیف — آنچه واقعاً از لوله بیرون می‌آید"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نمودار طیف را در ذهنت بساز:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در یک دستگاه ۷۰ کیلوولتی، «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلبه‌ی قاطع پرتو با برمس‌اشترالونگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزوده‌ی کوچکی از پرتو مشخصه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» که به‌صورت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قله‌های باریک و مجزا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " روی منحنی پیوسته ظاهر می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سه ویژگی طیف را با هم بشناس:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انرژی بیشینه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " = عدد kVp — چون بیشترین انرژی ممکن، همان انرژی یک الکترون در برخورد مستقیم است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انرژی میانگین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — که برای یک دستگاه ۷۰ کیلوولتی تقریباً "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۲۹ keV"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است؛ یعنی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کمتر از نصف انرژی بیشینه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شمار کل فوتون‌ها"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — که سطح زیر منحنی است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اصطلاح‌های کلیدی که در درس بعد لازمت می‌شوند:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«اصطلاح "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کمیت پرتو"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " به "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شمار فوتون‌ها"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در یک پرتو ایکس اشاره دارد.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«اصطلاح "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کیفیت پرتو"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " به "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انرژی میانگین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " یک پرتو ایکس اشاره دارد.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و همین دو اصطلاح، کل درس کنترل پرتو را سازمان می‌دهند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برخی اهرم‌ها تنها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمیت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را تغییر می‌دهند، برخی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هم کمیت و هم کیفیت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:29018",
+      "sourceId": "29018",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "46b9abb5f12fa21fe3a5cd5de8cf686e489c8d87928a1f4ef1764b846aaf1b84",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "واژه‌ی برمس‌اشترالونگ در آلمانی به چه معناست و این فوتون‌ها چه جایگاهی در پرتو خروجی لوله دارند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "واژه‌ی برمس‌اشترالونگ در آلمانی به چه معناست و این فوتون‌ها چه جایگاهی در پرتو خروجی لوله دارند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«پرتو شکافتی»؛ و تنها در ولتاژهای بالای ۹۰ کیلوولت سهم معناداری پیدا می‌کنند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«پرتو ترمزی»؛ و تنها کسر کوچکی از فوتون‌های پرتو را می‌سازند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«پرتو مشخصه»؛ و منبع اصلی پرتو یک لوله‌ی پرتو ایکس‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«پرتو ترمزی»؛ و منبع اصلی پرتو یک لوله‌ی پرتو ایکس‌اند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "f3c671b56e62377c78510f23eec3e469ba831978304573a984e43c9319ebdc9f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "«پرتو شکافتی»؛ و تنها در ولتاژهای بالای ۹۰ کیلوولت سهم معناداری پیدا می‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "«پرتو شکافتی»؛ و تنها در ولتاژهای بالای ۹۰ کیلوولت سهم معناداری پیدا می‌کنند"
+            }
+          ]
+        },
+        {
+          "id": "e5fd789f0a6d3aab22a1b2f82f29874efcef6d13558e8a39613c447077941f90",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "«پرتو ترمزی»؛ و تنها کسر کوچکی از فوتون‌های پرتو را می‌سازند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "«پرتو ترمزی»؛ و تنها کسر کوچکی از فوتون‌های پرتو را می‌سازند"
+            }
+          ]
+        },
+        {
+          "id": "6c7254ece74f0531bea54776be15ec72853469b5567d1dab4b85eb8df060a95f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "«پرتو مشخصه»؛ و منبع اصلی پرتو یک لوله‌ی پرتو ایکس‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "«پرتو مشخصه»؛ و منبع اصلی پرتو یک لوله‌ی پرتو ایکس‌اند"
+            }
+          ]
+        },
+        {
+          "id": "f25dea7677ef57d7763afbc76d2b5099856d050b0041664ba46dab1f4b51a61e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "«پرتو ترمزی»؛ و منبع اصلی پرتو یک لوله‌ی پرتو ایکس‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "«پرتو ترمزی»؛ و منبع اصلی پرتو یک لوله‌ی پرتو ایکس‌اند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f25dea7677ef57d7763afbc76d2b5099856d050b0041664ba46dab1f4b51a61e"
+        ],
+        "explanation": "نام و سهم، هر دو درست. سهم کوچک مال پرتو مشخصه است، نه برمس‌اشترالونگ.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نام و سهم، هر دو درست. سهم کوچک مال پرتو مشخصه است، نه برمس‌اشترالونگ."
+          }
+        ],
+        "observedAt": "2026-11-17T18:15:24.416Z"
+      }
+    },
+    {
+      "id": "question:29023",
+      "sourceId": "29023",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "db80acc9d2e798d530f8b42326ed98e39063059bd3b502b11f91c7a73abb9f08",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دانشجویی می‌گوید: «الکترون‌هایی که از فیلامان به هدف می‌روند، هرکدام سرانجام یک فوتون پرتو ایکس می‌سازند؛ فقط انرژی فوتون‌ها فرق می‌کند.» ایراد کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دانشجویی می‌گوید: «الکترون‌هایی که از فیلامان به هدف می‌روند، هرکدام سرانجام یک فوتون پرتو ایکس می‌سازند؛ فقط انرژی فوتون‌ها فرق می‌کند.» ایراد کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الکترون‌ها به‌جای فوتون، الکترون‌های ثانویه تولید می‌کنند و این الکترون‌های ثانویه‌اند که در ساقه‌ی مسی به فوتون تبدیل می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی الکترون‌ها فوتون می‌سازند ولی بیشتر فوتون‌ها درون خود هدف تنگستنی دوباره جذب می‌شوند و هرگز از لوله بیرون نمی‌آیند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیشتر الکترون‌ها انرژی‌شان را در برهم‌کنش با الکترون‌های هدف به‌صورت گرما از دست می‌دهند؛ تنها گاهی فوتون ساخته می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایرادی ندارد؛ گزاره درست است و همین است که طیف پیوسته‌ی برمس‌اشترالونگ را می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ebfcdb29fc9d4c86c42159d4c564ee8d22f8446f315650a9fecaf043dffe1c8a",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "الکترون‌ها به‌جای فوتون، الکترون‌های ثانویه تولید می‌کنند و این الکترون‌های ثانویه‌اند که در ساقه‌ی مسی به فوتون تبدیل می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "الکترون‌ها به‌جای فوتون، الکترون‌های ثانویه تولید می‌کنند و این الکترون‌های ثانویه‌اند که در ساقه‌ی مسی به فوتون تبدیل می‌شوند"
+            }
+          ]
+        },
+        {
+          "id": "f12ee7b0745a815d0e325b5a651065df65b632d6b929f17b5f59f3b494642096",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "همه‌ی الکترون‌ها فوتون می‌سازند ولی بیشتر فوتون‌ها درون خود هدف تنگستنی دوباره جذب می‌شوند و هرگز از لوله بیرون نمی‌آیند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی الکترون‌ها فوتون می‌سازند ولی بیشتر فوتون‌ها درون خود هدف تنگستنی دوباره جذب می‌شوند و هرگز از لوله بیرون نمی‌آیند"
+            }
+          ]
+        },
+        {
+          "id": "3ba51aefb112dda6e6f1abe4f0918a39bfe630606e0730d1ebe090957a2d7e89",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "بیشتر الکترون‌ها انرژی‌شان را در برهم‌کنش با الکترون‌های هدف به‌صورت گرما از دست می‌دهند؛ تنها گاهی فوتون ساخته می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیشتر الکترون‌ها انرژی‌شان را در برهم‌کنش با الکترون‌های هدف به‌صورت گرما از دست می‌دهند؛ تنها گاهی فوتون ساخته می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "6b80b4d2aa4db0acf45ae77089877e4fe519b0ed956feecc728c57b7391df3d9",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ایرادی ندارد؛ گزاره درست است و همین است که طیف پیوسته‌ی برمس‌اشترالونگ را می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایرادی ندارد؛ گزاره درست است و همین است که طیف پیوسته‌ی برمس‌اشترالونگ را می‌سازد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3ba51aefb112dda6e6f1abe4f0918a39bfe630606e0730d1ebe090957a2d7e89"
+        ],
+        "explanation": "همین گزاره است که عدد «بیش از ۹۹ درصد به گرما» را می‌سازد. تولید فوتون استثناست، نه قاعده.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین گزاره است که عدد «بیش از ۹۹ درصد به گرما» را می‌سازد. تولید فوتون استثناست، نه قاعده."
+          }
+        ],
+        "observedAt": "2026-11-17T18:15:00.080Z"
+      }
+    },
+    {
+      "id": "question:29024",
+      "sourceId": "29024",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "a726e7f429d9b00fd3cba46cb994e4c593b666847649a190a8e98c0ad130222a",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه، سه دلیل پیوسته بودن طیف برمس‌اشترالونگ را به‌درستی فهرست می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه، سه دلیل پیوسته بودن طیف برمس‌اشترالونگ را به‌درستی فهرست می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اختلاف ولتاژ پیوسته متغیر، تفاوت عدد اتمی اتم‌های مختلف هدف، تفاوت ضخامت فیلتراسیون در بخش‌های مختلف باریکه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اختلاف ولتاژ پیوسته متغیر میان هدف و فیلامان، گذر الکترون‌ها از فاصله‌های متفاوت از هسته‌ها، چند برهم‌کنش پیاپی برای بیشتر الکترون‌ها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تفاوت دمای نقاط مختلف نقطه‌ی کانونی، گذشتن الکترون‌ها از فاصله‌های متفاوت از هسته‌ها، جذب انتخابی فوتون‌ها در روغن هد و پنجره‌ی شیشه‌ای لوله"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تفاوت انرژی پیوند اوربیتال‌های K و L و M، گذشتن الکترون‌ها از فاصله‌های متفاوت از هسته‌ها، شرکت الکترون‌ها در چند برهم‌کنش پیاپی در هدف"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "788d57d11a2c282a8c1f2ee0477c26d3d51a0b2ec9672c5591ee130d7406246a",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اختلاف ولتاژ پیوسته متغیر، تفاوت عدد اتمی اتم‌های مختلف هدف، تفاوت ضخامت فیلتراسیون در بخش‌های مختلف باریکه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اختلاف ولتاژ پیوسته متغیر، تفاوت عدد اتمی اتم‌های مختلف هدف، تفاوت ضخامت فیلتراسیون در بخش‌های مختلف باریکه"
+            }
+          ]
+        },
+        {
+          "id": "8a7c049e618d8522c4093c3b564ec9fd413170ea0077e6b1eba28252d6a16e1e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اختلاف ولتاژ پیوسته متغیر میان هدف و فیلامان، گذر الکترون‌ها از فاصله‌های متفاوت از هسته‌ها، چند برهم‌کنش پیاپی برای بیشتر الکترون‌ها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اختلاف ولتاژ پیوسته متغیر میان هدف و فیلامان، گذر الکترون‌ها از فاصله‌های متفاوت از هسته‌ها، چند برهم‌کنش پیاپی برای بیشتر الکترون‌ها"
+            }
+          ]
+        },
+        {
+          "id": "43123942ecf0011daa4b9e7f222879dc7d65cf1d8af54e00ed2e59d909149cd2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تفاوت دمای نقاط مختلف نقطه‌ی کانونی، گذشتن الکترون‌ها از فاصله‌های متفاوت از هسته‌ها، جذب انتخابی فوتون‌ها در روغن هد و پنجره‌ی شیشه‌ای لوله",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تفاوت دمای نقاط مختلف نقطه‌ی کانونی، گذشتن الکترون‌ها از فاصله‌های متفاوت از هسته‌ها، جذب انتخابی فوتون‌ها در روغن هد و پنجره‌ی شیشه‌ای لوله"
+            }
+          ]
+        },
+        {
+          "id": "8e5b826e0593b59ab83cdeda61714b0f2053fc2d5221ff9a97ac1d5be2d794af",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تفاوت انرژی پیوند اوربیتال‌های K و L و M، گذشتن الکترون‌ها از فاصله‌های متفاوت از هسته‌ها، شرکت الکترون‌ها در چند برهم‌کنش پیاپی در هدف",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تفاوت انرژی پیوند اوربیتال‌های K و L و M، گذشتن الکترون‌ها از فاصله‌های متفاوت از هسته‌ها، شرکت الکترون‌ها در چند برهم‌کنش پیاپی در هدف"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8a7c049e618d8522c4093c3b564ec9fd413170ea0077e6b1eba28252d6a16e1e"
+        ],
+        "explanation": "سه منبع تصادفی بودن را داری، و هر سه از جنس فیزیک برهم‌کنش با هسته‌اند، نه از جنس فیلتراسیون یا انرژی پیوند اوربیتال.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "سه منبع تصادفی بودن را داری، و هر سه از جنس فیزیک برهم‌کنش با هسته‌اند، نه از جنس فیلتراسیون یا انرژی پیوند اوربیتال."
+          }
+        ],
+        "observedAt": "2026-11-17T18:15:07.014Z"
+      }
+    },
+    {
+      "id": "question:29029",
+      "sourceId": "29029",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "7da4d8673d9405071e66d3af917752ec95bc7ed28849f36ae1f1c6021cb17f84",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "روی نمودار طیف یک لوله، قله‌های باریک و مجزایی روی منحنی پیوسته دیده می‌شود. چرا این انرژی‌ها گسسته‌اند و اگر ماده‌ی هدف عوض شود چه می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "روی نمودار طیف یک لوله، قله‌های باریک و مجزایی روی منحنی پیوسته دیده می‌شود. چرا این انرژی‌ها گسسته‌اند و اگر ماده‌ی هدف عوض شود چه می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون نماینده‌ی اختلاف سطوح انرژی اوربیتال‌های الکترونی مشخص‌اند و مشخصه‌ی اتم‌های هدف‌اند؛ پس با تغییر ماده‌ی هدف، انرژی قله‌ها تغییر می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون نماینده‌ی ولتاژهای لحظه‌ای پرتکرار در چرخه‌ی جریان متناوب‌اند؛ پس با تغییر ماده‌ی هدف، جای قله‌ها ثابت می‌ماند و تنها با kVp جابه‌جا می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون فیلتراسیون آلومینیومی تنها چند باند انرژی مشخص را عبور می‌دهد؛ پس با تغییر ماده‌ی هدف، جای قله‌ها ثابت می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون تنها الکترون‌هایی با زاویه‌ی برخورد مشخص می‌توانند فوتون بسازند؛ پس با تغییر ماده‌ی هدف تنها ارتفاع قله‌ها تغییر می‌کند نه جایشان روی محور انرژی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "076d068269e748819640897566e48f506b5dc6f68e84441d1ef0d82118e304e6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون نماینده‌ی اختلاف سطوح انرژی اوربیتال‌های الکترونی مشخص‌اند و مشخصه‌ی اتم‌های هدف‌اند؛ پس با تغییر ماده‌ی هدف، انرژی قله‌ها تغییر می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون نماینده‌ی اختلاف سطوح انرژی اوربیتال‌های الکترونی مشخص‌اند و مشخصه‌ی اتم‌های هدف‌اند؛ پس با تغییر ماده‌ی هدف، انرژی قله‌ها تغییر می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "2024fbe03c8786ac5150d931694bb046c8caa36d7d052cbf45dc49b14354f103",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون نماینده‌ی ولتاژهای لحظه‌ای پرتکرار در چرخه‌ی جریان متناوب‌اند؛ پس با تغییر ماده‌ی هدف، جای قله‌ها ثابت می‌ماند و تنها با kVp جابه‌جا می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون نماینده‌ی ولتاژهای لحظه‌ای پرتکرار در چرخه‌ی جریان متناوب‌اند؛ پس با تغییر ماده‌ی هدف، جای قله‌ها ثابت می‌ماند و تنها با kVp جابه‌جا می‌شوند"
+            }
+          ]
+        },
+        {
+          "id": "1b7ff80f278377efb018a71ce230f85e3943a1b9a235bc37dc1e45aeeb462b6b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون فیلتراسیون آلومینیومی تنها چند باند انرژی مشخص را عبور می‌دهد؛ پس با تغییر ماده‌ی هدف، جای قله‌ها ثابت می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون فیلتراسیون آلومینیومی تنها چند باند انرژی مشخص را عبور می‌دهد؛ پس با تغییر ماده‌ی هدف، جای قله‌ها ثابت می‌ماند"
+            }
+          ]
+        },
+        {
+          "id": "f6bf9549227918526986077687320c923f0c59123bb71bc7b1312864154673a5",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون تنها الکترون‌هایی با زاویه‌ی برخورد مشخص می‌توانند فوتون بسازند؛ پس با تغییر ماده‌ی هدف تنها ارتفاع قله‌ها تغییر می‌کند نه جایشان روی محور انرژی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون تنها الکترون‌هایی با زاویه‌ی برخورد مشخص می‌توانند فوتون بسازند؛ پس با تغییر ماده‌ی هدف تنها ارتفاع قله‌ها تغییر می‌کند نه جایشان روی محور انرژی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "076d068269e748819640897566e48f506b5dc6f68e84441d1ef0d82118e304e6"
+        ],
+        "explanation": "نام «مشخصه» را همین‌جا می‌فهمی: این انرژی‌ها امضای عنصر هدف‌اند و با عوض شدن عنصر عوض می‌شوند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نام «مشخصه» را همین‌جا می‌فهمی: این انرژی‌ها امضای عنصر هدف‌اند و با عوض شدن عنصر عوض می‌شوند."
+          }
+        ],
+        "observedAt": "2026-11-17T18:15:13.990Z"
+      }
+    },
+    {
+      "id": "question:29032",
+      "sourceId": "29032",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "a815ee26177670ffceb3c3a0ff643f8e3f2257e264daebea7fbcb7ceca900451",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دستیاری روی نمودار طیف می‌گوید: «دستگاه روی ۷۰ تنظیم شده، پس فوتون‌های این پرتو حدوداً ۷۰ کیلوالکترون‌ولت انرژی دارند.» خطای مفهومی کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دستیاری روی نمودار طیف می‌گوید: «دستگاه روی ۷۰ تنظیم شده، پس فوتون‌های این پرتو حدوداً ۷۰ کیلوالکترون‌ولت انرژی دارند.» خطای مفهومی کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عدد kVp انرژی میانگین را تعیین می‌کند و انرژی بیشینه در عمل حدود دو برابر آن، یعنی نزدیک ۱۴۰ کیلوالکترون‌ولت در دستگاه‌های دندانی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عدد kVp تنها انرژی بیشینه را تعیین می‌کند، در حالی که انرژی میانگین طیف حدود ۲۹ کیلوالکترون‌ولت است، یعنی کمتر از نصف"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عدد kVp هیچ ارتباطی با انرژی فوتون‌ها ندارد و تنها شمار فوتون‌های تولیدشده در واحد زمان را، درست مانند mA، تعیین می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطایی ندارد؛ پس از فیلتراسیون کل، طیف چنان باریک می‌شود که عملاً همه‌ی فوتون‌ها نزدیک عدد kVp قرار می‌گیرند و میانگین با بیشینه یکی است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a6ed7ba86731484f4b8ae17c8fb2fd2527a4b3961a8a6d2b345f28c895d1c828",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "عدد kVp انرژی میانگین را تعیین می‌کند و انرژی بیشینه در عمل حدود دو برابر آن، یعنی نزدیک ۱۴۰ کیلوالکترون‌ولت در دستگاه‌های دندانی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عدد kVp انرژی میانگین را تعیین می‌کند و انرژی بیشینه در عمل حدود دو برابر آن، یعنی نزدیک ۱۴۰ کیلوالکترون‌ولت در دستگاه‌های دندانی است"
+            }
+          ]
+        },
+        {
+          "id": "3742bd630e14e6456321a973c14e15c6d27c56fc2fe1273453c27a41cf00795a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "عدد kVp تنها انرژی بیشینه را تعیین می‌کند، در حالی که انرژی میانگین طیف حدود ۲۹ کیلوالکترون‌ولت است، یعنی کمتر از نصف",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عدد kVp تنها انرژی بیشینه را تعیین می‌کند، در حالی که انرژی میانگین طیف حدود ۲۹ کیلوالکترون‌ولت است، یعنی کمتر از نصف"
+            }
+          ]
+        },
+        {
+          "id": "270733efa141e8cecdab57c8908b3f30dfb44580fde5291a5fa084cb6ce96036",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "عدد kVp هیچ ارتباطی با انرژی فوتون‌ها ندارد و تنها شمار فوتون‌های تولیدشده در واحد زمان را، درست مانند mA، تعیین می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عدد kVp هیچ ارتباطی با انرژی فوتون‌ها ندارد و تنها شمار فوتون‌های تولیدشده در واحد زمان را، درست مانند mA، تعیین می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "4614888d1eb3a2b7b63d70ff402e85568e13a2271fc293e344d3186dce63e7af",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "خطایی ندارد؛ پس از فیلتراسیون کل، طیف چنان باریک می‌شود که عملاً همه‌ی فوتون‌ها نزدیک عدد kVp قرار می‌گیرند و میانگین با بیشینه یکی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطایی ندارد؛ پس از فیلتراسیون کل، طیف چنان باریک می‌شود که عملاً همه‌ی فوتون‌ها نزدیک عدد kVp قرار می‌گیرند و میانگین با بیشینه یکی است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3742bd630e14e6456321a973c14e15c6d27c56fc2fe1273453c27a41cf00795a"
+        ],
+        "explanation": "این یکی از رایج‌ترین خطاهای خواندن طیف است. عدد روی پنل، لبه‌ی راست نمودار است، نه مرکز جرم آن.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این یکی از رایج‌ترین خطاهای خواندن طیف است. عدد روی پنل، لبه‌ی راست نمودار است، نه مرکز جرم آن."
+          }
+        ],
+        "observedAt": "2026-11-17T18:15:20.897Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:39d8583e6a76db1fe63e75498ba0e2f1ab81a2c6f886b10488b79e3376ca9a07",
+      "at": "2026-11-17T18:14:28.915Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:3bbe41c83ca7a51ce7c11abe623d013a528e99d841ab52800227e0e4e645c145",
+      "at": "2026-11-17T18:14:30.964Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:29018",
+      "at": "2026-11-17T18:14:32.524Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:29023",
+      "at": "2026-11-17T18:14:55.058Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:29024",
+      "at": "2026-11-17T18:15:01.701Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:29029",
+      "at": "2026-11-17T18:15:08.624Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:29032",
+      "at": "2026-11-17T18:15:15.593Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:29018",
+      "at": "2026-11-17T18:15:22.499Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

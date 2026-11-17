@@ -1,0 +1,2351 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1573/lesson.json",
+  "id": "1573",
+  "title": "درس سوم: آرتیفکت‌ها — چهار خانواده",
+  "specialtyKey": "578cf1df5257e51f",
+  "chapter": {
+    "id": "329",
+    "title": "CBCT، آرتیفکت و انتخاب مودالیته",
+    "position": 22
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:51a5220aea21c6f50c9ed20a81584fc8a8431e2993c750ddab1de2ef88323f6e",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "5ee0212ccd6252897f7a95047ab51c1521da36bc57f9ddbd780391ad690f9203",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آرتیفکت‌های ذاتی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سه آرتیفکت ذاتی از خود فیزیک CBCT می‌آیند — «هندسه‌ی پروجکشن پرتو CBCT، کمان‌های چرخشی کاهش‌یافته، و روش‌های بازسازی تصویر» این سه را می‌سازند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پراکندگی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میانگین‌گیری حجم جزئی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اثر پرتو مخروطی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-14.webp",
+                  "alt": "شماتیک آرتیفکت مخروطی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/616754a5d4a42d217a9a8db57c0ed045d0fcedb36caa445152e80d8e800f9866.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شماتیک آرتیفکت مخروطی "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.14)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱) پراکندگی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «از فوتون‌هایی می‌آید که پس از برهم‌کنش با ماده از مسیر اصلی‌شان منحرف شده‌اند. چون CBCT از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آشکارسازهای سطحی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " استفاده می‌کند، فوتون‌های پراکنده را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "می‌گیرد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و این به تخریب کلی تصویر یا «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نویز کوانتومی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» در مقایسه با MDCT می‌انجامد.» و نشانه‌اش: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیفکت خط‌خطی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، شبیه آرتیفکت سخت‌شدگی پرتو»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲) میانگین‌گیری حجم جزئی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — این یکی «ویژگی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " MDCT و CBCT» است. «وقتی رخ می‌دهد که اندازه‌ی وکسل انتخابی بزرگ‌تر از اندازه‌ی جسم مورد تصویربرداری باشد.» یک مثال: «وکسلی با ضلع "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ممکن است هم استخوان و هم بافت نرم مجاور را در خود داشته باشد. در این حالت، پیکسل نمایش‌داده‌شده نماینده‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ‌کدام"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نیست بلکه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میانگین مقادیر روشنایی بافت‌های مختلف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نشانه‌هایش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مرزها در تصویر ممکن است ظاهر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پله‌ای"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یکنواختی سطوح شدت پیکسل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیدا کنند.» و کجا رخ می‌دهد؟ «در نواحی‌ای که سطوح "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌سرعت در جهت Z تغییر می‌کنند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، مثلاً در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استخوان تمپورال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» و در بالین: «ممکن است به‌صورت گسست جزئی یک لایه‌ی نازک استخوان کورتیکال دیده شود — مثلاً دیواره‌های استخوانی سلول‌های اتموئید یا استخوان تمپورال.» راه‌حل: «انتخاب "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کوچک‌ترین وکسل اکتساب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳) اثر پرتو مخروطی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «به‌ویژه در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بخش‌های پیرامونی حجم اسکن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "». علتش «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واگرایی پرتو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هنگام چرخش گرد بیمار در صفحه‌ی افقی» است. نتیجه: «اعوجاج تصویر، آرتیفکت خط‌خطی، و نویز پیرامونی بیشتر.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و منطق هندسی‌اش زیباست:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " داده‌ی بهینه در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مرکز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیشینه است و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در پیرامون به‌مراتب کمتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ و درون‌یابی الگوریتم بازسازی برای جبران داده‌ی ناکافی، یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیفکت «V» پیرامونی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با نویز افزوده، اعوجاج، و کنتراست کاهش‌یافته می‌سازد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و راه‌حل بالینی‌اش ساده است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «این اثر با قرار دادن ناحیه‌ی مورد نظر در صفحه‌ی افقی پرتو کاهش می‌یابد.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:a7de628a382386a64d2beb1ed4ed3431a590cfa78100d1797721dfdf349af81e",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "d8b176f734600772b86fae937adbb081f2224ad38daeea0797f70730ac19aead",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آرتیفکت‌های روال، القاشده و حرکتی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آرتیفکت‌های مربوط به روال"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱) کم‌نمونه‌برداری و الگوی موآره"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «وقتی رخ می‌دهد که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پروجکشن‌های پایه‌ی بسیار کم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای بازسازی فراهم شود یا کمان‌های چرخشی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناقص"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشند.» نتیجه: «ثبت نادرست، لبه‌های تیز، و تصاویر نویزی‌تر در نتیجه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الیاسینگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، که به‌صورت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خط‌خطی‌های ظریف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در تصویر ظاهر می‌شود» — به‌ویژه در پیرامون، با ظاهر مشخص «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موآره"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/rad-fig-9-13.webp",
+                  "alt": "آرتیفکت نویز کوانتومی در CBCT",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/6f0283e6cb62b8f1c3e0a179279d76d2a945609e397e1eb509bcbe9cc2960549.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیفکت نویز کوانتومی در CBCT "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(White & Pharoah. Oral Radiology, 9th ed. — Fig. 9.13)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نکته‌ی تصمیم‌گیری مهم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «چون افزایش زمان اسکن (شمار پروجکشن‌های پایه) یا کاهش کمان چرخش به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش یا کاهش متناسب پرتوگیری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌انجامد، اهمیت این آرتیفکت باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در نسبت با اطلاعات تشخیصی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سنجیده شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲) آرتیفکت حلقه‌ای"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «آرتیفکت‌های مربوط به اسکنر معمولاً به‌صورت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خط‌خطی دایره‌ای یا حلقوی در صفحه‌ی محوری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، مرکز شده حول "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محل محور چرخش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، ظاهر می‌شوند» و از «نقص در آشکارسازی اسکنر یا کالیبراسیون ضعیف» می‌آیند. سازوکارش: «هر یک از این مشکلات به یک قرائت پیوسته و تکراری در هر موقعیت زاویه‌ای آشکارساز می‌انجامد، که آرتیفکت دایره‌ای می‌سازد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳) آرتیفکت کانتور دوگانه از ناهم‌ترازی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «ناهم‌ترازی منبع پرتو با آشکارساز، آرتیفکت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کانتور دوگانه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌سازد، شبیه آنچه حرکت بیمار می‌سازد.» و علتش تدریجی است: «استفاده‌ی مکرر از تجهیزات CBCT در طول زمان ممکن است به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییرات جزئی پیکربندی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بینجامد، و اجزا ممکن است نیاز به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هم‌ترازی هندسی دوره‌ای"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " داشته باشند.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آرتیفکت‌های القاشده — سخت‌شدگی پرتو"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سازوکار:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «هنگام عبور پرتو از یک جسم، فوتون‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کم‌انرژی‌تر ترجیحاً جذب می‌شوند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» این پدیده — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سخت‌شدگی پرتو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — دو نوع آرتیفکت می‌سازد:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اعوجاج ساختارهای فلزی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در نتیجه‌ی جذب تفاضلی، که "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آرتیفکت کاپینگ"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " نامیده می‌شود.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«"
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خط‌خطی و نوارهای تیره"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، که وقتی میان دو جسم متراکم باشند، اکستینکشن، گرسنگی فوتونی، یا آرتیفکت مقدار غایب می‌سازند.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سه توصیه‌ی بالینی برای مهارش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش اندازه‌ی میدان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییر وضعیت بیمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جدا کردن قوس‌های دندانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» تا از اسکن نواحی مستعد سخت‌شدگی پرتو (ترمیم‌های فلزی، ایمپلنت‌ها) پرهیز شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نکته‌ی مهم درباره‌ی FOV محدود:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «هنگام انجام CBCT با FOV محدود، ترمیم‌ها یا پروتزهای فلزی و سخت‌افزار جراحی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیرون از ناحیه‌ی مورد نظر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، سخت‌شدگی پرتو "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیرامون حجم تصویر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ایجاد می‌کنند و می‌توانند کیفیت را تخریب کنند.» و یادآوری همیشگی: «برداشتن اجسام فلزی مانند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جواهرات"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیش از اسکن مهم است.»"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آرتیفکت حرکت بیمار"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "«یکی از شایع‌ترین آرتیفکت‌ها در تصویربرداری CBCT از حرکت بیمار می‌آید.» نشانه‌اش: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثبت نادرست داده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، که به‌صورت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کانتورهای دوگانه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در تصویر بازسازی‌شده ظاهر می‌شود»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک رابطه‌ی ظریف که در انتخاب پروتکل تعیین‌کننده است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هرچه اندازه‌ی وکسل کوچک‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (یعنی تفکیک فضایی بالاتر)، حرکت کمتری برای ایجاد ناهم‌ترازی ساختارها لازم است.» پس پروتکل تفکیک بالا، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حساس‌تر به حرکت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و راه‌حلش دو بخش دارد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مهار کردن سر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و استفاده از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کوتاه‌ترین زمان اسکن ممکن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:28049",
+      "sourceId": "28049",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "1db92901c81ebbcb31cfb7c504114e5c17f6c31f6a351052e84684a198935e4a",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام سه آرتیفکت از محدودیت‌های ذاتی فرایند فیزیکی اکتساب داده‌ی CBCT می‌آیند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام سه آرتیفکت از محدودیت‌های ذاتی فرایند فیزیکی اکتساب داده‌ی CBCT می‌آیند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نویز الکترونیکی، پیکسل‌های خراب آشکارساز، و آرتیفکت‌های فشرده‌سازی فایل هنگام ذخیره‌سازی DICOM"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سخت‌شدگی پرتو، حرکت بیمار، و آرتیفکت حلقه‌ای ناشی از کالیبراسیون"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کم‌نمونه‌برداری، ناهم‌ترازی منبع و آشکارساز، و کاپینگ ناشی از ترمیم‌های فلزی درون میدان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پراکندگی، میانگین‌گیری حجم جزئی، و اثر پرتو مخروطی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "315dc6d9f13d82e3366ddb3758ed3edc8dfd4dfae356d57130ffaba22d48c026",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نویز الکترونیکی، پیکسل‌های خراب آشکارساز، و آرتیفکت‌های فشرده‌سازی فایل هنگام ذخیره‌سازی DICOM",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نویز الکترونیکی، پیکسل‌های خراب آشکارساز، و آرتیفکت‌های فشرده‌سازی فایل هنگام ذخیره‌سازی DICOM"
+            }
+          ]
+        },
+        {
+          "id": "130a8ee5e08507cab92d1c8b6b9727eea76741ab53259b792ad5c92820c8c38b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سخت‌شدگی پرتو، حرکت بیمار، و آرتیفکت حلقه‌ای ناشی از کالیبراسیون",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سخت‌شدگی پرتو، حرکت بیمار، و آرتیفکت حلقه‌ای ناشی از کالیبراسیون"
+            }
+          ]
+        },
+        {
+          "id": "bcc68213b2449da8bd0129f87e3199286de7bacb7117b6efc535a7333ae649a9",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کم‌نمونه‌برداری، ناهم‌ترازی منبع و آشکارساز، و کاپینگ ناشی از ترمیم‌های فلزی درون میدان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کم‌نمونه‌برداری، ناهم‌ترازی منبع و آشکارساز، و کاپینگ ناشی از ترمیم‌های فلزی درون میدان"
+            }
+          ]
+        },
+        {
+          "id": "296e8b17c28b4524093b6c260c0684e2db402c6505cc07c8918565b6e114930c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "پراکندگی، میانگین‌گیری حجم جزئی، و اثر پرتو مخروطی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پراکندگی، میانگین‌گیری حجم جزئی، و اثر پرتو مخروطی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "296e8b17c28b4524093b6c260c0684e2db402c6505cc07c8918565b6e114930c"
+        ],
+        "explanation": "هر سه از «هندسه‌ی پروجکشن پرتو CBCT، کمان‌های چرخشی کاهش‌یافته، و روش‌های بازسازی» می‌آیند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هر سه از «"
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هندسه‌ی پروجکشن پرتو CBCT، کمان‌های چرخشی کاهش‌یافته، و روش‌های بازسازی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "» می‌آیند."
+          }
+        ],
+        "observedAt": "2026-11-17T17:23:53.009Z"
+      }
+    },
+    {
+      "id": "question:28054",
+      "sourceId": "28054",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "811e790b3052c4677ed0b0db6f1e033bf2d05d73a585290980ea4f055111ec40",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اثر پرتو مخروطی چگونه پدید می‌آید، کجا بروز می‌کند، و راه‌حل بالینی‌اش چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اثر پرتو مخروطی چگونه پدید می‌آید، کجا بروز می‌کند، و راه‌حل بالینی‌اش چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از ناهمگنی پاسخ دکسل‌های لبه‌ی آشکارساز هنگام چرخش گرد بیمار می‌آید؛ به‌ویژه در بخش‌های بالایی و پایینی حجم به‌صورت حلقه‌های متحدالمرکز و نویز پیرامونی بیشتر بروز می‌کند؛ و با کالیبراسیون دوره‌ای آشکارساز و قرار دادن ناحیه‌ی مورد نظر در مرکز میدان برطرف می‌گردد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از هم‌گرایی پرتوها در مرکز حجم و هم‌پوشانی بیش از حد داده در آنجا می‌آید؛ به‌ویژه در مرکز اسکن با نوارهای روشن و اعوجاج و نویز مرکزی بیشتر و یک آرتیفکت ستاره‌ای بروز می‌کند؛ و با قرار دادن ناحیه‌ی مورد نظر در پیرامون حجم و دور از محور چرخش کاهش می‌یابد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از حرکت بیمار در طول چرخش می‌آید؛ در سراسر حجم به‌طور یکنواخت بروز می‌کند؛ و با مهار سر بیمار به‌طور کامل حذف می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از واگرایی پرتو هنگام چرخش گرد بیمار در صفحه‌ی افقی می‌آید؛ به‌ویژه در بخش‌های پیرامونی حجم اسکن با اعوجاج و خط‌خطی و نویز پیرامونی بیشتر و یک آرتیفکت V پیرامونی بروز می‌کند؛ و با قرار دادن ناحیه‌ی مورد نظر در صفحه‌ی افقی پرتو کاهش می‌یابد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "aa28c6c01ed1fe038881eba64f97b409dc4e08e6c74cc7e279216a30788566eb",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "از ناهمگنی پاسخ دکسل‌های لبه‌ی آشکارساز هنگام چرخش گرد بیمار می‌آید؛ به‌ویژه در بخش‌های بالایی و پایینی حجم به‌صورت حلقه‌های متحدالمرکز و نویز پیرامونی بیشتر بروز می‌کند؛ و با کالیبراسیون دوره‌ای آشکارساز و قرار دادن ناحیه‌ی مورد نظر در مرکز میدان برطرف می‌گردد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از ناهمگنی پاسخ دکسل‌های لبه‌ی آشکارساز هنگام چرخش گرد بیمار می‌آید؛ به‌ویژه در بخش‌های بالایی و پایینی حجم به‌صورت حلقه‌های متحدالمرکز و نویز پیرامونی بیشتر بروز می‌کند؛ و با کالیبراسیون دوره‌ای آشکارساز و قرار دادن ناحیه‌ی مورد نظر در مرکز میدان برطرف می‌گردد"
+            }
+          ]
+        },
+        {
+          "id": "270181f4d938df3920863c90a07a4e45773f591ebf220e532c3546332d0e5b35",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "از هم‌گرایی پرتوها در مرکز حجم و هم‌پوشانی بیش از حد داده در آنجا می‌آید؛ به‌ویژه در مرکز اسکن با نوارهای روشن و اعوجاج و نویز مرکزی بیشتر و یک آرتیفکت ستاره‌ای بروز می‌کند؛ و با قرار دادن ناحیه‌ی مورد نظر در پیرامون حجم و دور از محور چرخش کاهش می‌یابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از هم‌گرایی پرتوها در مرکز حجم و هم‌پوشانی بیش از حد داده در آنجا می‌آید؛ به‌ویژه در مرکز اسکن با نوارهای روشن و اعوجاج و نویز مرکزی بیشتر و یک آرتیفکت ستاره‌ای بروز می‌کند؛ و با قرار دادن ناحیه‌ی مورد نظر در پیرامون حجم و دور از محور چرخش کاهش می‌یابد"
+            }
+          ]
+        },
+        {
+          "id": "4654a7cfeb22fa5fd32dadb1d89096c8754a9df709da08c1cbf26bf09b874923",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "از حرکت بیمار در طول چرخش می‌آید؛ در سراسر حجم به‌طور یکنواخت بروز می‌کند؛ و با مهار سر بیمار به‌طور کامل حذف می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از حرکت بیمار در طول چرخش می‌آید؛ در سراسر حجم به‌طور یکنواخت بروز می‌کند؛ و با مهار سر بیمار به‌طور کامل حذف می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "bd61e91c5b00c061965c36046434d21ae4571ceebf6cbed635349f1def04c227",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "از واگرایی پرتو هنگام چرخش گرد بیمار در صفحه‌ی افقی می‌آید؛ به‌ویژه در بخش‌های پیرامونی حجم اسکن با اعوجاج و خط‌خطی و نویز پیرامونی بیشتر و یک آرتیفکت V پیرامونی بروز می‌کند؛ و با قرار دادن ناحیه‌ی مورد نظر در صفحه‌ی افقی پرتو کاهش می‌یابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از واگرایی پرتو هنگام چرخش گرد بیمار در صفحه‌ی افقی می‌آید؛ به‌ویژه در بخش‌های پیرامونی حجم اسکن با اعوجاج و خط‌خطی و نویز پیرامونی بیشتر و یک آرتیفکت V پیرامونی بروز می‌کند؛ و با قرار دادن ناحیه‌ی مورد نظر در صفحه‌ی افقی پرتو کاهش می‌یابد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "bd61e91c5b00c061965c36046434d21ae4571ceebf6cbed635349f1def04c227"
+        ],
+        "explanation": "منطق هندسی‌اش زیباست: داده در مرکز بیشینه و در پیرامون به‌مراتب کمتر است، و درون‌یابی الگوریتم برای جبران، آرتیفکت می‌سازد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "منطق هندسی‌اش زیباست: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "داده در مرکز بیشینه و در پیرامون به‌مراتب کمتر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است، و درون‌یابی الگوریتم برای جبران، آرتیفکت می‌سازد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:24:00.526Z"
+      }
+    },
+    {
+      "id": "question:28056",
+      "sourceId": "28056",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "905334ac14efae7aa04c5d5189bea2c08a5bdd181f11fa8c751730125f943004",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "آرتیفکت حلقه‌ای چه ظاهری دارد، از کجا می‌آید، و سازوکارش چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آرتیفکت حلقه‌ای چه ظاهری دارد، از کجا می‌آید، و سازوکارش چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خط‌خطی دایره‌ای یا حلقوی در صفحه‌ی محوری، مرکز شده حول محل محور چرخش؛ از نقص در آشکارسازی اسکنر یا کالیبراسیون ضعیف؛ و سازوکارش این است که هر یک از این مشکلات به یک قرائت پیوسته و تکراری در هر موقعیت زاویه‌ای آشکارساز می‌انجامد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خط‌خطی‌های خطی و موازی در صفحه‌ی ساژیتال، هم‌جهت با محور حرکت؛ از حرکت بیمار یا لرزش گانتری در طول اسکن؛ و سازوکارش این است که جابه‌جایی تدریجی ساختارها میان پروجکشن‌های متوالی، یک خطای خطی و فزاینده در همه‌ی زوایای آشکارساز می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نوارهای تیره میان اجسام متراکم؛ از ترمیم‌های فلزی؛ و سازوکارش جذب ترجیحی فوتون‌های کم‌انرژی در مسیر عبور از فلز است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محوشدگی یکنواخت و هاله‌ی دایره‌ای در سراسر تصویر، بدون مرکز مشخص؛ از اندازه‌ی بزرگ لکه‌ی کانونی یا فرسودگی آند ثابت؛ و سازوکارش نیم‌سایه‌ی هندسی ناشی از منبع غیرنقطه‌ای است که در هر موقعیت زاویه‌ای آشکارساز به یک اندازه تکرار می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "082cd9795d68c120daf7772be44e39cccfe14a34978caa63912dfafe258e1d1c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "خط‌خطی دایره‌ای یا حلقوی در صفحه‌ی محوری، مرکز شده حول محل محور چرخش؛ از نقص در آشکارسازی اسکنر یا کالیبراسیون ضعیف؛ و سازوکارش این است که هر یک از این مشکلات به یک قرائت پیوسته و تکراری در هر موقعیت زاویه‌ای آشکارساز می‌انجامد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خط‌خطی دایره‌ای یا حلقوی در صفحه‌ی محوری، مرکز شده حول محل محور چرخش؛ از نقص در آشکارسازی اسکنر یا کالیبراسیون ضعیف؛ و سازوکارش این است که هر یک از این مشکلات به یک قرائت پیوسته و تکراری در هر موقعیت زاویه‌ای آشکارساز می‌انجامد"
+            }
+          ]
+        },
+        {
+          "id": "d4b117abe1ffed4021bf202bc9480d9a7258b07dc8c1042dcf7c197020a97924",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "خط‌خطی‌های خطی و موازی در صفحه‌ی ساژیتال، هم‌جهت با محور حرکت؛ از حرکت بیمار یا لرزش گانتری در طول اسکن؛ و سازوکارش این است که جابه‌جایی تدریجی ساختارها میان پروجکشن‌های متوالی، یک خطای خطی و فزاینده در همه‌ی زوایای آشکارساز می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خط‌خطی‌های خطی و موازی در صفحه‌ی ساژیتال، هم‌جهت با محور حرکت؛ از حرکت بیمار یا لرزش گانتری در طول اسکن؛ و سازوکارش این است که جابه‌جایی تدریجی ساختارها میان پروجکشن‌های متوالی، یک خطای خطی و فزاینده در همه‌ی زوایای آشکارساز می‌سازد"
+            }
+          ]
+        },
+        {
+          "id": "ad9aa19491b48ca19a97829e2a620aa16afc68814f6035e40c3fca7b3ad2768a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نوارهای تیره میان اجسام متراکم؛ از ترمیم‌های فلزی؛ و سازوکارش جذب ترجیحی فوتون‌های کم‌انرژی در مسیر عبور از فلز است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نوارهای تیره میان اجسام متراکم؛ از ترمیم‌های فلزی؛ و سازوکارش جذب ترجیحی فوتون‌های کم‌انرژی در مسیر عبور از فلز است"
+            }
+          ]
+        },
+        {
+          "id": "96963b646600f8c5b36847fa201cae5c134817bc5eb765a20b67b5653ae91cf8",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "محوشدگی یکنواخت و هاله‌ی دایره‌ای در سراسر تصویر، بدون مرکز مشخص؛ از اندازه‌ی بزرگ لکه‌ی کانونی یا فرسودگی آند ثابت؛ و سازوکارش نیم‌سایه‌ی هندسی ناشی از منبع غیرنقطه‌ای است که در هر موقعیت زاویه‌ای آشکارساز به یک اندازه تکرار می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "محوشدگی یکنواخت و هاله‌ی دایره‌ای در سراسر تصویر، بدون مرکز مشخص؛ از اندازه‌ی بزرگ لکه‌ی کانونی یا فرسودگی آند ثابت؛ و سازوکارش نیم‌سایه‌ی هندسی ناشی از منبع غیرنقطه‌ای است که در هر موقعیت زاویه‌ای آشکارساز به یک اندازه تکرار می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "082cd9795d68c120daf7772be44e39cccfe14a34978caa63912dfafe258e1d1c"
+        ],
+        "explanation": "به منطقش دقت کن: خطای ثابت یک دکسل، در چرخش کامل یک دایره ترسیم می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "به منطقش دقت کن: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "خطای ثابت یک دکسل، در چرخش کامل یک دایره ترسیم می‌کند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-17T17:24:07.702Z"
+      }
+    },
+    {
+      "id": "question:28059",
+      "sourceId": "28059",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "e3a9a27a9134df368c4fd6735be5ddb3eee6e1054d16778fb63f83de602f63be",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برای مهار سخت‌شدگی پرتو چه توصیه‌های بالینی‌ای هست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای مهار سخت‌شدگی پرتو چه توصیه‌های بالینی‌ای هست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش کیلوولتاژ تا نفوذ پرتو از فلز کمتر و کنتراست بیشتر شود؛ بستن کامل قوس‌های دندانی تا فاصله‌ی میان ترمیم‌ها کمینه گردد؛ و بزرگ کردن میدان تا فلز در مرکز بیفتد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش اندازه‌ی میدان تا فلز در مرکز حجم بیفتد و اثرش یکنواخت شود؛ و نگه داشتن جواهرات و پروتز متحرک به‌عنوان نقطه‌ی مرجع هندسی برای تصحیح نرم‌افزاری آرتیفکت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش اندازه‌ی میدان، تغییر وضعیت بیمار، یا جدا کردن قوس‌های دندانی تا از اسکن نواحی مستعد پرهیز شود؛ و برداشتن اجسام فلزی مانند جواهرات پیش از اسکن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ اقدام بالینی مؤثری پیش از اسکن وجود ندارد و تنها راه، بازسازی دوباره با الگوریتم کاهش آرتیفکت فلز یا کرنل نرم‌تر پس از اسکن است، چون آرتیفکت در داده‌ی خام نیست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "1bed4d9c9237c6b1da0db59975f300384bc5f8f5d756bba8c945d25ce54759e1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کاهش کیلوولتاژ تا نفوذ پرتو از فلز کمتر و کنتراست بیشتر شود؛ بستن کامل قوس‌های دندانی تا فاصله‌ی میان ترمیم‌ها کمینه گردد؛ و بزرگ کردن میدان تا فلز در مرکز بیفتد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش کیلوولتاژ تا نفوذ پرتو از فلز کمتر و کنتراست بیشتر شود؛ بستن کامل قوس‌های دندانی تا فاصله‌ی میان ترمیم‌ها کمینه گردد؛ و بزرگ کردن میدان تا فلز در مرکز بیفتد"
+            }
+          ]
+        },
+        {
+          "id": "7aae27ae7bae81916d0a3b1d40e66e38f7cae93e0c2874753d54092b60566378",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "افزایش اندازه‌ی میدان تا فلز در مرکز حجم بیفتد و اثرش یکنواخت شود؛ و نگه داشتن جواهرات و پروتز متحرک به‌عنوان نقطه‌ی مرجع هندسی برای تصحیح نرم‌افزاری آرتیفکت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش اندازه‌ی میدان تا فلز در مرکز حجم بیفتد و اثرش یکنواخت شود؛ و نگه داشتن جواهرات و پروتز متحرک به‌عنوان نقطه‌ی مرجع هندسی برای تصحیح نرم‌افزاری آرتیفکت"
+            }
+          ]
+        },
+        {
+          "id": "a57b761ce57eba5996b95c4b990cf402c6e7d4c21f93f22b85a6de811a41bcdc",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کاهش اندازه‌ی میدان، تغییر وضعیت بیمار، یا جدا کردن قوس‌های دندانی تا از اسکن نواحی مستعد پرهیز شود؛ و برداشتن اجسام فلزی مانند جواهرات پیش از اسکن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش اندازه‌ی میدان، تغییر وضعیت بیمار، یا جدا کردن قوس‌های دندانی تا از اسکن نواحی مستعد پرهیز شود؛ و برداشتن اجسام فلزی مانند جواهرات پیش از اسکن"
+            }
+          ]
+        },
+        {
+          "id": "7fed040e2f70f0285fae8d24881fd339368acf47f0a501a3ddbee98dd2ece41b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هیچ اقدام بالینی مؤثری پیش از اسکن وجود ندارد و تنها راه، بازسازی دوباره با الگوریتم کاهش آرتیفکت فلز یا کرنل نرم‌تر پس از اسکن است، چون آرتیفکت در داده‌ی خام نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ اقدام بالینی مؤثری پیش از اسکن وجود ندارد و تنها راه، بازسازی دوباره با الگوریتم کاهش آرتیفکت فلز یا کرنل نرم‌تر پس از اسکن است، چون آرتیفکت در داده‌ی خام نیست"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a57b761ce57eba5996b95c4b990cf402c6e7d4c21f93f22b85a6de811a41bcdc"
+        ],
+        "explanation": "همین است — جدا کردن قوس‌ها ترفند ساده‌ای است که دو ردیف ترمیم فلزی را از یک مسیر پرتو بیرون می‌برد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است — "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "جدا کردن قوس‌ها"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " ترفند ساده‌ای است که دو ردیف ترمیم فلزی را از یک مسیر پرتو بیرون می‌برد."
+          }
+        ],
+        "observedAt": "2026-11-17T17:24:14.820Z"
+      }
+    },
+    {
+      "id": "question:28063",
+      "sourceId": "28063",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "ec34de8deed4168082c8bcbc035717c092a02ad65bd97ced3200c14e6769ad2f",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در تصویر CBCT یک بیمار، کانتورهای دوگانه در هر سه صفحه دیده می‌شود. کلیشه‌های بیماران دیگر همان روز طبیعی بوده‌اند. محتمل‌ترین علت و اقدام چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در تصویر CBCT یک بیمار، کانتورهای دوگانه در هر سه صفحه دیده می‌شود. کلیشه‌های بیماران دیگر همان روز طبیعی بوده‌اند. محتمل‌ترین علت و اقدام چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حرکت بیمار در طول اسکن؛ و اقدام، مهار بهتر سر و انتخاب کوتاه‌ترین زمان اسکن در تکرار احتمالی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناهم‌ترازی منبع و آشکارساز؛ و اقدام، فراخواندن مهندس برای هم‌ترازی هندسی دستگاه پیش از هر اسکن دیگر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کالیبراسیون ضعیف آشکارساز؛ و اقدام، اجرای برنامه‌ی کالیبراسیون دستگاه و تکرار اسکن بیمار پس از آن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سخت‌شدگی پرتو از ترمیم‌های فلزی؛ و اقدام، افزایش کیلوولتاژ و تکرار اسکن با همان پروتکل و همان FOV"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e592e4b06d9a26c293608c0da438be00369154ac982e9dc4826972452802ff8b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حرکت بیمار در طول اسکن؛ و اقدام، مهار بهتر سر و انتخاب کوتاه‌ترین زمان اسکن در تکرار احتمالی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حرکت بیمار در طول اسکن؛ و اقدام، مهار بهتر سر و انتخاب کوتاه‌ترین زمان اسکن در تکرار احتمالی"
+            }
+          ]
+        },
+        {
+          "id": "d379ca439667e81501c0bdbf9a138408330691952d2003a66d50712ae0a866c8",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ناهم‌ترازی منبع و آشکارساز؛ و اقدام، فراخواندن مهندس برای هم‌ترازی هندسی دستگاه پیش از هر اسکن دیگر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ناهم‌ترازی منبع و آشکارساز؛ و اقدام، فراخواندن مهندس برای هم‌ترازی هندسی دستگاه پیش از هر اسکن دیگر"
+            }
+          ]
+        },
+        {
+          "id": "f5ad7cb92c8d44f42e21efb36b603b2cd3b0ee5d2863067fbb4f4c124f55918a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کالیبراسیون ضعیف آشکارساز؛ و اقدام، اجرای برنامه‌ی کالیبراسیون دستگاه و تکرار اسکن بیمار پس از آن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کالیبراسیون ضعیف آشکارساز؛ و اقدام، اجرای برنامه‌ی کالیبراسیون دستگاه و تکرار اسکن بیمار پس از آن"
+            }
+          ]
+        },
+        {
+          "id": "2358abcf10232d8fc828759d135dd34bf66bdf8122ea18e2b793fc1eaedcdc2b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سخت‌شدگی پرتو از ترمیم‌های فلزی؛ و اقدام، افزایش کیلوولتاژ و تکرار اسکن با همان پروتکل و همان FOV",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سخت‌شدگی پرتو از ترمیم‌های فلزی؛ و اقدام، افزایش کیلوولتاژ و تکرار اسکن با همان پروتکل و همان FOV"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e592e4b06d9a26c293608c0da438be00369154ac982e9dc4826972452802ff8b"
+        ],
+        "explanation": "کلید تفکیک، همان کلیشه‌های طبیعی بیماران دیگر است: اگر دستگاه ناهم‌تراز بود، همه‌ی کلیشه‌ها کانتور دوگانه می‌داشتند.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کلید تفکیک، همان کلیشه‌های طبیعی بیماران دیگر است"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ": اگر دستگاه ناهم‌تراز بود، همه‌ی کلیشه‌ها کانتور دوگانه می‌داشتند."
+          }
+        ],
+        "observedAt": "2026-11-17T17:24:24.820Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:51a5220aea21c6f50c9ed20a81584fc8a8431e2993c750ddab1de2ef88323f6e",
+      "at": "2026-11-17T17:23:21.208Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:a7de628a382386a64d2beb1ed4ed3431a590cfa78100d1797721dfdf349af81e",
+      "at": "2026-11-17T17:23:23.323Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:28049",
+      "at": "2026-11-17T17:23:24.936Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:28054",
+      "at": "2026-11-17T17:23:54.582Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:28056",
+      "at": "2026-11-17T17:24:02.123Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:28059",
+      "at": "2026-11-17T17:24:09.309Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:28063",
+      "at": "2026-11-17T17:24:16.285Z",
+      "progress": "width: 85.7143%;"
+    },
+    {
+      "stepId": "question:28063",
+      "at": "2026-11-17T17:24:22.957Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
