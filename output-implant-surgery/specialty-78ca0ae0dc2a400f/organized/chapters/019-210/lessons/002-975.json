@@ -1,0 +1,2898 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/975/lesson.json",
+  "id": "975",
+  "title": "درس دوم: کنترااندیکاسیون‌ها و ریسک پزشکی بیمار",
+  "specialtyKey": "78ca0ae0dc2a400f",
+  "chapter": {
+    "id": "210",
+    "title": "بخش ۶: عوارض جراحی ایمپلنت، طبقه‌بندی عوارض و مشکلات حین عمل",
+    "position": 19
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:f2788a243b0a1d2c9bdde47facd6d07055078e45350605bf1b5daf106c476d84",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "a36ab9af82dba768c796fc1d99f7654a87fa9ca4136840d44f13210de72192ac",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کنترااندیکاسیون: مطلق، نسبی و سه دسته"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دو تعریف پایه را باید دقیق بدانی:"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنترااندیکاسیون مطلق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " = وضعیتی که پروسیجر را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاملاً غیرقابل‌توصیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنترااندیکاسیون نسبی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " = وضعیتی که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "احتیاط لازم دارد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و تا وقتی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "منافع بر خطرات بچربد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پذیرفتنی است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "توجه کن که تعریف دوم یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سنجش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، نه یک برچسب. یعنی همان بیمار در دو طرح درمان متفاوت می‌تواند دو حکم بگیرد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "برای روشن‌تر شدن، کنترااندیکاسیون‌ها را در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه دسته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هم می‌چینند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جراحی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — بیمار را حین عمل در خطر اورژانس پزشکی می‌گذارد ولی بر موفقیت ایمپلنت اثری ندارد (مثل بیماری قلبی پیشرفته)؛ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایمپلنت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — ترمیم و موفقیت ایمپلنت را به خطر می‌اندازد ولی خطر پزشکی حین عمل نمی‌سازد (مثل بیس‌فسفونات وریدی)؛ و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جراحی-ایمپلنت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — هر دو خطر با هم."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مثال‌های مطلق:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• ایمپلنت در ناحیه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضایعه‌ی فعال دیسپلازی فیبروز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استئومیلیت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — مگر عوامل سبب‌ساز اصلاح شوند و خون‌رسانی کافی به ناحیه بازگردد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• مصرف هم‌زمان بیشتر داروهای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شیمی‌درمانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• بیس‌فسفونات "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وریدی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، به‌دلیل نگرانی از افزایش خطر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استئونکروز فک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مثال‌هایی که مطلق نیستند: افزایش سن کنترااندیکاسیون مطلق نیست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استئوپروز یک عارضه‌ی نسبی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است — بیشتر مطالعات بالینی نرخ شکست بیشتری در بیماران استئوپروتیک نشان نداده‌اند، هرچند بیمار باید درباره‌ی عوارض ناشی از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کیفیت پایین‌تر استخوان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کاملاً آگاه شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قلب — عددی که باید بدانی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " حدود "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۸ تا ۲۰ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیماران با سابقه‌ی اخیر انفارکتوس میوکارد دچار افزایش عوارض می‌شوند، و این عوارض "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مرگ‌ومیر بالایی — ۴۰ تا ۷۰ درصد —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارند. راه پیشگیری: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مشاوره‌ی پزشکی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یک نکته‌ی فیزیولوژیک: درد و استرس، کاتکول‌آمین‌های درون‌زاد (آدرنالین و نورآدرنالین) را آزاد می‌کنند؛ کاتکول‌آمین‌ها فشار خون و برون‌ده قلبی را بالا می‌برند و بیمار را در معرض "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سکته یا ایست قلبی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قرار می‌دهند. پس در بیمار پرفشار، کنترل درد و اضطراب اولویت دارد و بی‌حسی حاوی اپی‌نفرین را آهسته و با آسپیراسیون تزریق کن."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضدانعقاد — سنجش دو ریسک در برابر هم."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قطع کوتاه‌مدت وارفارین در دوره‌ی پیرامون عمل با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر ترومبوآمبولی ۰٫۷ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر خون‌ریزی بالینی معنادار ۱٫۷ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " همراه است. عوامل ضدپلاکتی مانند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آسپیرین یا کلوپیدوگرل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نیز ممکن است به‌تنهایی یا ترکیبی به‌عنوان بخشی از پیشگیری از سکته مصرف شوند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ببین چه اتفاقی می‌افتد: هر دو عدد کوچک‌اند، ولی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیامدهایشان هم‌وزن نیستند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". تصمیم درباره‌ی قطع دارو، سنجش دو ریسک نامتقارن است — و این سنجش کار پزشک بیمار است، نه تو به‌تنهایی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فشار خون —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دسته‌بندی‌ای که باید در اتاق جراحی حفظ باشی. بر پایه‌ی راهنمای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "JNC8 (فوریه‌ی ۲۰۱۴)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پروتکل روشنی وجود دارد:"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایده‌آل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (زیر ۱۲۰ / زیر ۸۰): بدون اقدام."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش‌پرفشاری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (۱۲۰–۱۳۹ / ۸۰–۸۹): تکرار اندازه‌گیری، احتمال مشاوره‌ی پزشکی؛ حین عمل پروتکل کاهش استرس."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرفشاری درجه ۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (۱۴۰–۱۵۹ / ۹۰–۹۹): تکرار، احتمال مشاوره — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسبی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ حین عمل پایش و کاهش استرس."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرفشاری درجه ۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (۱۶۰–۱۷۹ / ۱۰۰–۱۰۹): تکرار و مشاوره‌ی پزشکی — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مطلق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ حین عمل پایش، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قطع پروسیجر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و احتمال ارجاع اورژانس."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بحران پرفشاری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (بالای ۱۸۰ / بالای ۱۱۰): تکرار و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مراقبت اورژانسی — مطلق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ حین عمل "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توقف فوری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و مراقبت اورژانسی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یک قاعده‌ی عملی: خوانش‌های بالا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "(بیش از ۱۶۰/۱۰۰)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باید با روش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دستی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تأیید شوند و پروسیجر تا بازگشت فشار به نزدیک پایه‌ی بیمار متوقف بماند. اگر از دستگاه خودکار استفاده می‌کنی، باید یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فشارسنج دستی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هم در دسترس باشد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرا این‌قدر جدی؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پرفشاری سالانه حدود "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۷٫۱ میلیون مرگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در جهان و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۲ درصد بیماری‌های عروق مغزی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۴۹ درصد بیماری ایسکمیک قلب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را به خود اختصاص می‌دهد. حدود "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۰ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بزرگسالان مبتلا نمی‌دانند مبتلا هستند و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو سوم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " درمان‌شدگان به زیر ۱۴۰/۹۰ کنترل نشده‌اند. یعنی احتمال اینکه بیمار پرفشارِ کنترل‌نشده روی صندلی تو بنشیند، بالاست."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو نکته‌ی همراه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیماران پرفشار مستعد "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیپوتانسیون ارتواستاتیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هنگام بلند شدن از حالت خوابیده‌اند — راه‌حل: بلند کردن آهسته و توصیه به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیدراتاسیون پیش از جراحی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (مگر کنترااندیکاسیون جدی مانند نارسایی احتقانی قلب یا ادم مزمن). و NSAIDها اثر بسیاری از داروهای ضدفشار خون را کم می‌کنند و می‌توانند به اپیزود پرفشاری حین عمل بینجامند."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/if147-f26708b05d52768e.webp",
+                  "alt": "جدول راهنمای درمان فشار خون با پنج دسته و اقدام پیش از عمل و حین عمل برای هر دسته",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/03000e6c6b953540b9bdcf6f9c0446dbc523864c07b64e77efe3f73d37ac3a21.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جدول ۲٫۱ — راهنمای درمان فشار خون بر پایه‌ی JNC8؛ توجه کن که درجه‌ی ۲ (۱۶۰–۱۷۹ / ۱۰۰–۱۰۹) مشاوره‌ی پزشکی را «مطلق» می‌کند و حین عمل قطع پروسیجر را می‌طلبد، و بحران پرفشاری توقف فوری. رفرنس تصویر: Resnik & Misch, Avoiding Complications in Oral Implantology, Ch.2 (Medical/Medication Complications in Oral Implantology), Table 2.1, p.14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:a8e329897a60832490cae732005ee3ce1f99c7c41a206f93e5d59f2b6b498af2",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "27bca8537d420cc50802e084e8f4dc569bbe7bf18ded1e893ef5e48c33fa3dc3",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیس‌فسفونات، کورتیکواستروئید، سیگار، گیاهان"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیس‌فسفونات و تست CTx."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مقادیر CTx و خطر استئونکروز مرتبط با دارو این‌گونه دسته‌بندی می‌شوند:"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳۰۰ تا ۶۰۰ pg/ml"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (نرمال) → خطر: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۵۰ تا ۲۹۹ pg/ml"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " → خطر: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ تا حداقلی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۰۱ تا ۱۴۹ pg/ml"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " → خطر: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "متوسط"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمتر از ۱۰۰ pg/ml"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " → خطر: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بالا"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اما — و این «اما» مهم است —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " امروز استفاده از تست CTx برای تعیین احتمال استئونکروز "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مورد مناقشه است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". یعنی این دسته‌بندی را به‌عنوان یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ورودی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به تصمیم به کار ببر، نه به‌عنوان حکم نهایی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بسته به مقادیر آزمایشگاهی، ممکن است "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«تعطیلی دارویی» (drug holiday)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — قطع موقت درمان بیس‌فسفونات — اندیکاسیون پیدا کند؛ تصمیمی که با پزشک تجویزکننده گرفته می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پروتکل تعطیلی دارویی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قطع دارو "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۹ ماه پیش از جراحی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳ ماه پس از جراحی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". اما یک هشدار مهم: بهبود سطح بیس‌فسفونات ممکن است اصلاً دیده نشود، چون نشان داده شده مقادیر قابل‌اندازه‌گیری تا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۲ سال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پس از قطع درمان در استخوان باقی می‌مانند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ریکلست (زولدرونات وریدی)."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با دوز "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵ میلی‌گرم وریدی سالی یک بار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تجویز می‌شود و مطالعات نشان داده‌اند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر معنادار پس از چهارمین دوز سالانه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " رخ می‌دهد — به‌دلیل تجمع دارو و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیمه‌عمر ۱۱ ساله"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". بهترین زمان‌بندی جراحی انتخابی ایمپلنت یا پیوند استخوان: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۹ ماه پس از آخرین دوز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳ ماه پیش از دوز بعدی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و معیارهای تشخیص DIONJ:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ۱) درمان فعلی یا قبلی با دارویی سیستمیک که هومئوستاز استخوان را تحت تأثیر قرار می‌دهد، ۲) استخوان آلوئولار اکسپوز در فک‌ها که بیش از ۸ هفته باقی می‌ماند، ۳) نبود سابقه‌ی رادیوتراپی فک، ۴) نبود تشخیص شناخته‌شده‌ی استئوپتروزیس یا دیسپلازی سمنتو-اُسئوس."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و نکته‌ای که در انتخاب بیمار مهم است: بیس‌فسفونات‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خوراکی حاوی نیتروژن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — مانند ریزدرونات، ایباندرونات و آلندرونات — که رایج‌ترین مواجهه‌ی دندانپزشک ایمپلنت‌اند، طبق جدیدترین مطالعات "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "احتمال بسیار پایینی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای ایجاد استئونکروز دارند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اما چون نیمه‌عمر طولانی است و مطالعات کوتاه (حدود سه سال) بوده‌اند، عوارض بلندمدت ممکن است هنوز آشکار نشده باشند. توصیه‌ی استاندارد: اگر بیمار بیش از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳ سال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " این دارو را مصرف کرده، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرم رضایت مستند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " همراه با مشاوره‌ی پزشکی احتمالی توصیه می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کورتیکواستروئید سیستمیک."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مطالعات حیوانی نشان داده‌اند استئواینتگریشن مختل می‌شود؛ اما تا امروز هیچ مطالعه‌ای افزایش موربیدیتی یا شکست ایمپلنت را در بیماران تحت کورتیکواستروئید سیستمیک نشان نداده است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "خطر واقعی جای دیگری است: در بیماری که دوز بالای کورتیکواستروئید گرفته، محور هیپوتالاموس-هیپوفیز-آدرنال ممکن است سرکوب شده باشد و جراحی او را در معرض "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بحران آدرنال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بگذارد؛ پیشگیری‌اش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پوشش استروئیدی مکمل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با هماهنگی پزشک است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این تفاوت میان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داده‌ی حیوانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داده‌ی بالینی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را جدی بگیر؛ یکی از رایج‌ترین خطاهای استدلالی در این حوزه، تعمیم مستقیم اولی به دومی است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیگار."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یک آمار: در ایالات متحده حدود "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۴۲٫۱ میلیون نفر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — یعنی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۸٫۱ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بزرگسالان بالای ۱۸ سال — سیگار می‌کشند. یعنی این پرسش در پرسش‌نامه، برای حدود یک نفر از هر پنج بیمار پاسخ مثبت خواهد داشت."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گیاهان دارویی —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فهرستی که معمولاً پرسیده نمی‌شود. این گیاهان تداخل‌های مشخصی با بیهوشی دارند:"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چای سبز:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کاهش اثر آتروپین خوراکی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دانگ‌کوای:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " افزایش سداسیون و پایین آوردن آستانه‌ی تشنج"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاوا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سنبل‌الطیب:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " افزایش سداسیون — سنبل‌الطیب با اوپیوئیدها هم تداخل دارد"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ویتامین C"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در دوز بالا: تضعیف بیهوشی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یوهیمبه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تداخل با برخی مسکن‌ها مانند مورفین"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرا این فهرست مهم است؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " چون بیماران معمولاً مکمل گیاهی را «دارو» نمی‌دانند و در پرسش‌نامه ننویسند. اگر نپرسی، نمی‌دانی."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/if148-b9ad22bde10a0659.webp",
+                  "alt": "جدول مقادیر CTx و سطح خطر استئونکروز فک مرتبط با دارو",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/706538e67bcc4a621a198fcb6a8f29f71e287855e527f37b8de9d46e1dce18e1.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جدول CTx و خطر DIONJ: ۳۰۰ تا ۶۰۰ (نرمال) بدون خطر، ۱۵۰ تا ۲۹۹ هیچ تا حداقلی، ۱۰۱ تا ۱۴۹ متوسط، زیر ۱۰۰ بالا. اما کاربرد این تست امروز مورد مناقشه است. رفرنس تصویر: Resnik & Misch, Avoiding Complications in Oral Implantology, Ch.2, p.39"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:14823",
+      "sourceId": "14823",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "112e3bb2f299692f71c04aa903e5206ac543eb5c7086d653453f6afc2fd6abb6",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مورد کنترااندیکاسیون مطلق نیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مورد کنترااندیکاسیون مطلق نیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایمپلنت در ناحیه‌ی ضایعه‌ی فعال دیسپلازی فیبروز"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مصرف هم‌زمان بیشتر داروهای شیمی‌درمانی با کاشت ایمپلنت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش سن بیمار، بدون بیماری سیستمیک همراه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دریافت بیس‌فسفونات وریدی برای درمان سرطان متاستاتیک"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "2df64d78a1e2d3902fc1d26c6a5df961cf20cbe297ccba958221a281c25597e5",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ایمپلنت در ناحیه‌ی ضایعه‌ی فعال دیسپلازی فیبروز",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایمپلنت در ناحیه‌ی ضایعه‌ی فعال دیسپلازی فیبروز"
+            }
+          ]
+        },
+        {
+          "id": "d70185f2e232de74370732021ace4b2a50019c4d3bb8fb899b16aacd3e26587a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مصرف هم‌زمان بیشتر داروهای شیمی‌درمانی با کاشت ایمپلنت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مصرف هم‌زمان بیشتر داروهای شیمی‌درمانی با کاشت ایمپلنت"
+            }
+          ]
+        },
+        {
+          "id": "4c804ac1f0c09dedd114f8a453b0508b05776530c883ffa779fe6e347d0ccad4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "افزایش سن بیمار، بدون بیماری سیستمیک همراه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش سن بیمار، بدون بیماری سیستمیک همراه"
+            }
+          ]
+        },
+        {
+          "id": "ee1a9dbf8d13dbe83bc910b0a848a80c70bccfd81ccb3a7396d38135a0c71bf6",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دریافت بیس‌فسفونات وریدی برای درمان سرطان متاستاتیک",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دریافت بیس‌فسفونات وریدی برای درمان سرطان متاستاتیک"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "4c804ac1f0c09dedd114f8a453b0508b05776530c883ffa779fe6e347d0ccad4"
+        ],
+        "explanation": "همین است: افزایش سن کنترااندیکاسیون مطلق نیست. سن عامل پیش‌آگهی است، ولی با تعدیل دارو، تکنیک جراحی و زمان ترمیم مدیریت می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "افزایش سن کنترااندیکاسیون مطلق نیست"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". سن عامل پیش‌آگهی است، ولی با تعدیل دارو، تکنیک جراحی و زمان ترمیم مدیریت می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-17T07:48:53.961Z"
+      }
+    },
+    {
+      "id": "question:14826",
+      "sourceId": "14826",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "42c29d1c149756a29303331bb86d908c839140ccd56fe62615c9aea01b2baddd",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "قطع کوتاه‌مدت وارفارین در دوره‌ی پیرامون عمل چه ریسک‌هایی دارد و چرا تصمیم‌گیری درباره‌اش ساده نیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قطع کوتاه‌مدت وارفارین در دوره‌ی پیرامون عمل چه ریسک‌هایی دارد و چرا تصمیم‌گیری درباره‌اش ساده نیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترومبوآمبولی حدود ۱٫۷ و خون‌ریزی معنادار حدود ۰٫۷ درصد؛ پس خطر لخته بیش از دو برابر خطر خون‌ریزی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قطع کوتاه‌مدت وارفارین ریسکی ندارد، چون INR در عرض چند ساعت به حد طبیعی برمی‌گردد و لخته‌ای شکل نمی‌گیرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو ریسک حدود ۱۰ تا ۱۵ درصد است، پس قطع دارو در عمل برای هیچ بیمار ایمپلنتی توصیه نمی‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر ترومبوآمبولی حدود ۰٫۷ و خون‌ریزی معنادار حدود ۱٫۷ درصد؛ هر دو کوچک ولی با پیامدهای ناهم‌وزن"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "2838a410cab087f1d4602120c3716cafd9bfa1847b6432411256f5ea140c23ee",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ترومبوآمبولی حدود ۱٫۷ و خون‌ریزی معنادار حدود ۰٫۷ درصد؛ پس خطر لخته بیش از دو برابر خطر خون‌ریزی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ترومبوآمبولی حدود ۱٫۷ و خون‌ریزی معنادار حدود ۰٫۷ درصد؛ پس خطر لخته بیش از دو برابر خطر خون‌ریزی است"
+            }
+          ]
+        },
+        {
+          "id": "5df5e8cb5d85818163a17d4881c0ba5d31d530dfe52737c9567625d34e42397c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "قطع کوتاه‌مدت وارفارین ریسکی ندارد، چون INR در عرض چند ساعت به حد طبیعی برمی‌گردد و لخته‌ای شکل نمی‌گیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "قطع کوتاه‌مدت وارفارین ریسکی ندارد، چون INR در عرض چند ساعت به حد طبیعی برمی‌گردد و لخته‌ای شکل نمی‌گیرد"
+            }
+          ]
+        },
+        {
+          "id": "a5ff6f5b2c636a544733e57b1182f2b51c6c8090ac38a0ea80d20c7c6173e701",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هر دو ریسک حدود ۱۰ تا ۱۵ درصد است، پس قطع دارو در عمل برای هیچ بیمار ایمپلنتی توصیه نمی‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو ریسک حدود ۱۰ تا ۱۵ درصد است، پس قطع دارو در عمل برای هیچ بیمار ایمپلنتی توصیه نمی‌شود"
+            }
+          ]
+        },
+        {
+          "id": "38cc2406273a509c508e2ce0c880e8578e129fa8bc30bbde0e7da9907c12a44e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "خطر ترومبوآمبولی حدود ۰٫۷ و خون‌ریزی معنادار حدود ۱٫۷ درصد؛ هر دو کوچک ولی با پیامدهای ناهم‌وزن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطر ترومبوآمبولی حدود ۰٫۷ و خون‌ریزی معنادار حدود ۱٫۷ درصد؛ هر دو کوچک ولی با پیامدهای ناهم‌وزن"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "38cc2406273a509c508e2ce0c880e8578e129fa8bc30bbde0e7da9907c12a44e"
+        ],
+        "explanation": "سنجش دو ریسک نامتقارن: خون‌ریزی معمولاً قابل مدیریت است، ترومبوآمبولی نه. و به همین دلیل این تصمیم کار پزشک بیمار است، نه تو به‌تنهایی.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "سنجش دو ریسک نامتقارن"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ": خون‌ریزی معمولاً قابل مدیریت است، ترومبوآمبولی نه. و به همین دلیل این تصمیم کار پزشک بیمار است، نه تو به‌تنهایی."
+          }
+        ],
+        "observedAt": "2026-11-17T07:48:57.513Z"
+      }
+    },
+    {
+      "id": "question:14828",
+      "sourceId": "14828",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 44.4444%;",
+      "contentKey": "fd3bb3f1e7f04354999cdc8f530efa42e2a726d5b0f77f5b5aad4ea3e2769b18",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "استفاده از تست CTx برای تعیین احتمال استئونکروز امروز قطعی و بدون مناقشه است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "استفاده از تست CTx برای تعیین احتمال استئونکروز امروز قطعی و بدون مناقشه است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست تشخیص دادی — این کاربرد مورد مناقشه است. پس دسته‌بندی CTx یک ورودی به تصمیم است، نه حکم نهایی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی — این کاربرد "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مورد مناقشه است"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". پس دسته‌بندی CTx یک "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ورودی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " به تصمیم است، نه حکم نهایی."
+          }
+        ],
+        "observedAt": "2026-11-17T07:48:37.687Z"
+      }
+    },
+    {
+      "id": "question:14830",
+      "sourceId": "14830",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 55.5556%;",
+      "contentKey": "b167c30a8168743c52e132b01add6cbd4c0ad814fd6778c6db5765315e2c9c69",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "درباره‌ی کورتیکواستروئید سیستمیک و ایمپلنت، وضعیت شواهد چگونه است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "درباره‌ی کورتیکواستروئید سیستمیک و ایمپلنت، وضعیت شواهد چگونه است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مطالعات انسانی افزایش شکست را نشان داده‌اند، ولی در مطالعات حیوانی استئواینتگریشن مختل نشده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هم مطالعات حیوانی و هم کارآزمایی‌های بالینی انسانی افزایش شکست ایمپلنت را در مصرف طولانی‌مدت نشان داده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در حیوان استئواینتگریشن مختل شده، ولی هیچ مطالعه‌ای افزایش شکست ایمپلنت را در انسان نشان نداده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ مطالعه‌ای در این باره وجود ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "c4dcc687f75ef4947908a5cefe58d1af0cb0e8d49f174d9204173927d0107737",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مطالعات انسانی افزایش شکست را نشان داده‌اند، ولی در مطالعات حیوانی استئواینتگریشن مختل نشده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مطالعات انسانی افزایش شکست را نشان داده‌اند، ولی در مطالعات حیوانی استئواینتگریشن مختل نشده"
+            }
+          ]
+        },
+        {
+          "id": "8d78ca3c191c58f07ad9943dabe2af0bd5f3cbc8091a52d814920f947a83adf6",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هم مطالعات حیوانی و هم کارآزمایی‌های بالینی انسانی افزایش شکست ایمپلنت را در مصرف طولانی‌مدت نشان داده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هم مطالعات حیوانی و هم کارآزمایی‌های بالینی انسانی افزایش شکست ایمپلنت را در مصرف طولانی‌مدت نشان داده‌اند"
+            }
+          ]
+        },
+        {
+          "id": "e5dc0d858b7049f7a16baa2d8158f22f209539ad36f2e07edae81a8998c6d8a1",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "در حیوان استئواینتگریشن مختل شده، ولی هیچ مطالعه‌ای افزایش شکست ایمپلنت را در انسان نشان نداده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در حیوان استئواینتگریشن مختل شده، ولی هیچ مطالعه‌ای افزایش شکست ایمپلنت را در انسان نشان نداده است"
+            }
+          ]
+        },
+        {
+          "id": "2a9b013b5df60d04ef68860987483be5361f4d4ba2b7a0f4c36dd664d78fd8f5",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هیچ مطالعه‌ای در این باره وجود ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ مطالعه‌ای در این باره وجود ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e5dc0d858b7049f7a16baa2d8158f22f209539ad36f2e07edae81a8998c6d8a1"
+        ],
+        "explanation": "به نکته‌ی اصلی رسیدی. تفاوت میان داده‌ی حیوانی و داده‌ی بالینی را جدی بگیر؛ تعمیم مستقیم اولی به دومی از رایج‌ترین خطاهای استدلالی است. خطر واقعی در این بیماران بحران آدرنال است که با پوشش استروئیدی مکمل پیشگیری می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "به نکته‌ی اصلی رسیدی. تفاوت میان "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "داده‌ی حیوانی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " و "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "داده‌ی بالینی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " را جدی بگیر؛ تعمیم مستقیم اولی به دومی از رایج‌ترین خطاهای استدلالی است. خطر واقعی در این بیماران "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بحران آدرنال"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است که با "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پوشش استروئیدی مکمل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " پیشگیری می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-17T07:48:44.629Z"
+      }
+    },
+    {
+      "id": "question:14834",
+      "sourceId": "14834",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 66.6667%;",
+      "contentKey": "ac418424beedbf8d851ca250febf8b9e66d641fa3b7b368320858bb5e45e09ff",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیماران معمولاً مکمل‌های گیاهی را در بخش داروهای پرسش‌نامه ذکر نمی‌کنند، پس باید جداگانه پرسیده شوند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماران معمولاً مکمل‌های گیاهی را در بخش داروهای پرسش‌نامه ذکر نمی‌کنند، پس باید جداگانه پرسیده شوند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "همین است. اهمیتش از فهرست تداخل‌ها می‌آید: از تضعیف بیهوشی تا پایین آمدن آستانه‌ی تشنج. اگر نپرسی، نمی‌دانی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. اهمیتش از فهرست تداخل‌ها می‌آید: از "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "تضعیف بیهوشی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " تا "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پایین آمدن آستانه‌ی تشنج"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "اگر نپرسی، نمی‌دانی."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T07:48:50.474Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:f2788a243b0a1d2c9bdde47facd6d07055078e45350605bf1b5daf106c476d84",
+      "at": "2026-11-17T07:47:48.998Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:a8e329897a60832490cae732005ee3ce1f99c7c41a206f93e5d59f2b6b498af2",
+      "at": "2026-11-17T07:47:51.093Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:14823",
+      "at": "2026-11-17T07:47:52.706Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:14826",
+      "at": "2026-11-17T07:48:26.088Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:14828",
+      "at": "2026-11-17T07:48:33.364Z",
+      "progress": "width: 44.4444%;"
+    },
+    {
+      "stepId": "question:14830",
+      "at": "2026-11-17T07:48:39.302Z",
+      "progress": "width: 55.5556%;"
+    },
+    {
+      "stepId": "question:14834",
+      "at": "2026-11-17T07:48:46.211Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:14823",
+      "at": "2026-11-17T07:48:52.056Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:14826",
+      "at": "2026-11-17T07:48:55.593Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

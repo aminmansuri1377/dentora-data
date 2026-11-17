@@ -1,0 +1,1738 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/798/lesson.json",
+  "id": "798",
+  "title": "درس سوم: طراحی ماکرو — شکل بدنه، رزوه، کرست ماژول",
+  "specialtyKey": "78ca0ae0dc2a400f",
+  "chapter": {
+    "id": "175",
+    "title": "رابط بافت نرم و اجزای ایمپلنت",
+    "position": 2
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:d83c1a077a2d410b236ed39b38f46cb1c073992fd0b5f0d33a51d2370a86a1cf",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "950579331f3a919185482bd260218d271ea50360420c2c4879078609ac5ecd0b",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شکل بدنه و رزوه: نیرو چگونه به استخوان می‌رسد"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/if13-cfac2a2b300ee83d.webp",
+                  "alt": "مقایسه ایمپلنت استوانه‌ای و ایمپلنت تیپر",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/8c500105a9425851e9a98865df499267a94d878099682df70d18b9acdcecc235.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایمپلنت پیچی استوانه‌ای (راست) در برابر طراحی تیپر (چپ). مأخذ: Misch’s Contemporary Implant Dentistry، ویرایش ۴، فصل ۲، شکل ۲٫۱۳"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بدنه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تیپر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در برابر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استوانه‌ای"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دو مزیت دارد: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثبات اولیه‌ی بهتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و هم‌خوانی بیشتر با آناتومی محل. مطالعات تجربی، برتری ثبات اولیه‌ی تیپر را نشان داده‌اند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "رزوه‌ها را با سه ویژگی توصیف می‌کنند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گام"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (فاصله‌ی نقطه‌ای از یک رزوه تا نقطه‌ی متناظر در رزوه‌ی بعدی، موازی با محور) و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "شکل رزوه تعیین می‌کند نیرو چگونه منتقل شود: رزوه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وی‌شکل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قوی است ولی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی برشی بیشتری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به استخوان می‌دهد؛ رزوه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مربعی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نیرو را بیشتر فشاری منتقل می‌کند و برش کمتری می‌سازد؛ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باتِرِس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برش کم را با ثبات اولیه‌ی عالی جمع می‌کند. و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گام کوچک‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سطح تماس را زیاد و توزیع تنش را بهتر می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 880 420",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "856",
+                        "y": "32"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شکل رزوه، سرنوشت نیرو را عوض می‌کند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "720",
+                        "y": "76"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رزوه‌ی وی‌شکل"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "2.4",
+                        "x1": "672",
+                        "y1": "100",
+                        "x2": "672",
+                        "y2": "300"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M672,120 L716,140 L672,160 M672,170 L716,190 L672,210 M672,220 L716,240 L672,260",
+                        "fill": "none",
+                        "stroke": "currentColor",
+                        "stroke-width": "2"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#E4572E",
+                        "stroke-width": "2.4",
+                        "x1": "718",
+                        "y1": "140",
+                        "x2": "770",
+                        "y2": "118"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#E4572E",
+                        "stroke-width": "2.4",
+                        "x1": "718",
+                        "y1": "190",
+                        "x2": "770",
+                        "y2": "168"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#E4572E",
+                        "stroke-width": "2.4",
+                        "x1": "718",
+                        "y1": "240",
+                        "x2": "770",
+                        "y2": "218"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#E4572E",
+                        "x": "720",
+                        "y": "332"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نیروی برشی بیشتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "720",
+                        "y": "356"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قوی، ولی برش بیشتری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "720",
+                        "y": "376"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "به استخوان منتقل می‌کند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "440",
+                        "y": "76"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رزوه‌ی مربعی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "2.4",
+                        "x1": "392",
+                        "y1": "100",
+                        "x2": "392",
+                        "y2": "300"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M392,126 L436,126 L436,150 L392,150 M392,176 L436,176 L436,200 L392,200 M392,226 L436,226 L436,250 L392,250",
+                        "fill": "none",
+                        "stroke": "currentColor",
+                        "stroke-width": "2"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#2E9E6B",
+                        "stroke-width": "2.4",
+                        "x1": "440",
+                        "y1": "138",
+                        "x2": "492",
+                        "y2": "138"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#2E9E6B",
+                        "stroke-width": "2.4",
+                        "x1": "440",
+                        "y1": "188",
+                        "x2": "492",
+                        "y2": "188"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#2E9E6B",
+                        "stroke-width": "2.4",
+                        "x1": "440",
+                        "y1": "238",
+                        "x2": "492",
+                        "y2": "238"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#2E9E6B",
+                        "x": "440",
+                        "y": "332"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نیروی برشی کمتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "440",
+                        "y": "356"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نیرو را بیشتر به‌صورت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "440",
+                        "y": "376"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فشاری منتقل می‌کند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "160",
+                        "y": "76"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رزوه‌ی باتِرِس"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "currentColor",
+                        "stroke-width": "2.4",
+                        "x1": "112",
+                        "y1": "100",
+                        "x2": "112",
+                        "y2": "300"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M112,126 L156,126 L112,152 M112,176 L156,176 L112,202 M112,226 L156,226 L112,252",
+                        "fill": "none",
+                        "stroke": "currentColor",
+                        "stroke-width": "2"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#2E9E6B",
+                        "stroke-width": "2.4",
+                        "x1": "158",
+                        "y1": "128",
+                        "x2": "210",
+                        "y2": "128"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#2E9E6B",
+                        "stroke-width": "2.4",
+                        "x1": "158",
+                        "y1": "178",
+                        "x2": "210",
+                        "y2": "178"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "line",
+                      "attributes": {
+                        "stroke": "#2E9E6B",
+                        "stroke-width": "2.4",
+                        "x1": "158",
+                        "y1": "228",
+                        "x2": "210",
+                        "y2": "228"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#2E9E6B",
+                        "x": "160",
+                        "y": "332"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "برش کم و گیر خوب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "160",
+                        "y": "356"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ثبات اولیه‌ی عالی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "160",
+                        "y": "376"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "با کمترین نیروی برشی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "440",
+                        "y": "410"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "گام رزوه‌ی کوچک‌تر، سطح بیشتر و توزیع بهتر تنش می‌دهد"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه شکل رایج رزوه و جهت نیرویی که به استخوان منتقل می‌کنند. بر پایه‌ی Misch’s Contemporary Implant Dentistry، ویرایش ۴، فصل ۳ و شکل ۲٫۱۵"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:88cc926b1bdc0fe2bbbc7d8da7bec6169a455130b13022489956508bb30fb1ac",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "1b0ceabb73333fa64aa59fda14608700e40c07506b71de949a0d4870271a186e",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قطر یا طول؟ و چرا کرست ماژول مهم است"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یک قاعده‌ی کلیدی: پس از آنکه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حداقل طول لازم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای تثبیت اولیه تأمین شد، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قطر مهم‌تر از طول اضافه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است. دلیلش ساده است — بیشترین تنش در ناحیه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کرستال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " متمرکز می‌شود و افزایش قطر، سطح تماس با همان ناحیه‌ی پرتنش را زیاد می‌کند. برای طول و هندسه‌ی ثابت، ایمپلنت پهن‌تر تنش کمتری تولید می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کرست ماژول"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — بخش بالایی بدنه — نقشی فراتر از ظاهرش دارد. کالر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صاف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در این ناحیه می‌تواند نیروی برشی به استخوان منتقل کند، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باریک شدن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کرست ماژول با کم کردن قطر و سطح تماس با کورتیکال، تنش کرستال را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌دهد. در مقابل، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میکروثرد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — رزوه‌های ریز با گام کوچک در ناحیه‌ی کالر — نیرو را در کرست پخش می‌کند و به حفظ ارتفاع استخوان کرستال کمک می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و نکته‌ای که تا انتهای این تخصص همراهت خواهد بود: تحلیل استخوانِ ناشی از فضای زیستی ظرف "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک ماه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " رخ می‌دهد، چه ایمپلنت بارگذاری شود چه نشود، و به طراحی کرست ماژول و موقعیت اتصال اباتمنت نسبت به استخوان بستگی دارد — نه به تراکم استخوان."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:10381",
+      "sourceId": "10381",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "a8adc08bb78f8b5bfaf72f44c21543dcde598269fae3317e89ce77478edeba93",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری می‌گوید: «چون ایمپلنت تیپر ثبات اولیه‌ی بهتری می‌دهد، در استخوان بسیار متراکم هم انتخاب بهتری است و می‌توان با تورک بالاتر نشاندش.» ایراد کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری می‌گوید: «چون ایمپلنت تیپر ثبات اولیه‌ی بهتری می‌دهد، در استخوان بسیار متراکم هم انتخاب بهتری است و می‌توان با تورک بالاتر نشاندش.» ایراد کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایمپلنت تیپر در استخوان متراکم اصلاً قابل درج نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایرادش این است که تیپر بودن فقط بر طراحی پروتز و امرجنس پروفایل اثر دارد و بر تصمیم جراحی بی‌اثر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حق با اوست؛ هرچه ثبات اولیه و تورک درج بیشتر باشد، استئواینتگریشن سریع‌تر و نتیجه‌ی نهایی بهتر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در استخوان متراکم ثبات اولیه کم نیست؛ هندسه‌ی فشارنده خطر آسیب فشاری به کرست را بالا می‌برد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9c31b88e9687edd48304b133e7a8923d8bd47512e2373ea2fb7b1a3c4d9ee65d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ایمپلنت تیپر در استخوان متراکم اصلاً قابل درج نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایمپلنت تیپر در استخوان متراکم اصلاً قابل درج نیست"
+            }
+          ]
+        },
+        {
+          "id": "39751dab4b123f768506af40fa7762680ffb8f53736cf1fb1eed3a88f9dcb32a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ایرادش این است که تیپر بودن فقط بر طراحی پروتز و امرجنس پروفایل اثر دارد و بر تصمیم جراحی بی‌اثر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایرادش این است که تیپر بودن فقط بر طراحی پروتز و امرجنس پروفایل اثر دارد و بر تصمیم جراحی بی‌اثر است"
+            }
+          ]
+        },
+        {
+          "id": "e0a93f23d081dabd935002a67c924ff426c7e1271c3f497306b26c173332fc61",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "حق با اوست؛ هرچه ثبات اولیه و تورک درج بیشتر باشد، استئواینتگریشن سریع‌تر و نتیجه‌ی نهایی بهتر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حق با اوست؛ هرچه ثبات اولیه و تورک درج بیشتر باشد، استئواینتگریشن سریع‌تر و نتیجه‌ی نهایی بهتر است"
+            }
+          ]
+        },
+        {
+          "id": "d2534b110efc2898efdfde800b948e61e897bcb94d0eff19f811c8f22238bd50",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "در استخوان متراکم ثبات اولیه کم نیست؛ هندسه‌ی فشارنده خطر آسیب فشاری به کرست را بالا می‌برد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در استخوان متراکم ثبات اولیه کم نیست؛ هندسه‌ی فشارنده خطر آسیب فشاری به کرست را بالا می‌برد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d2534b110efc2898efdfde800b948e61e897bcb94d0eff19f811c8f22238bd50"
+        ],
+        "explanation": "دقیقاً. مزیت را باید جایی خرج کرد که کمبود هست. در استخوان نرم، ثبات اولیه گلوگاه است و تیپر کمک می‌کند؛ در استخوان متراکم، گلوگاه ترمیم و آسیب فشاری است و افزودن فشار بیشتر، همان نوار استخوان کرستال را تهدید می‌کند — همان‌جایی که کندترین ترمیم و بیشترین تنش را دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً. مزیت را باید جایی خرج کرد که "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کمبود"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " هست. در استخوان نرم، ثبات اولیه گلوگاه است و تیپر کمک می‌کند؛ در استخوان متراکم، گلوگاه "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ترمیم و آسیب فشاری"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است و افزودن فشار بیشتر، همان نوار استخوان کرستال را تهدید می‌کند — همان‌جایی که کندترین ترمیم و بیشترین تنش را دارد."
+          }
+        ],
+        "observedAt": "2026-11-17T06:05:17.933Z"
+      }
+    },
+    {
+      "id": "question:10383",
+      "sourceId": "10383",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "55908d990ef5fb55c17026a26c9e9e922bcc426bbe15bcdc63ba802a3b68c4c7",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مقایسه درباره‌ی انتقال نیرو توسط شکل‌های رزوه درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مقایسه درباره‌ی انتقال نیرو توسط شکل‌های رزوه درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رزوه‌ی وی‌شکل نیروی برشی بیشتری به استخوان منتقل می‌کند؛ رزوه‌ی مربعی برش کمتری می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رزوه‌ی مربعی بیشترین نیروی برشی و وی‌شکل کمترین را منتقل می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل رزوه بر نوع نیروی منتقل‌شده اثری ندارد و فقط بر سرعت درج مؤثر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رزوه‌ی باترس بیشترین نیروی برشی را ایجاد می‌کند و به همین دلیل در طراحی‌های امروزی کنار گذاشته شده است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e72f5c2c4eb355ae5f9f3e7092e0f8719d94b5c5258b7a2e1e1ab2523d42ae43",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "رزوه‌ی وی‌شکل نیروی برشی بیشتری به استخوان منتقل می‌کند؛ رزوه‌ی مربعی برش کمتری می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رزوه‌ی وی‌شکل نیروی برشی بیشتری به استخوان منتقل می‌کند؛ رزوه‌ی مربعی برش کمتری می‌سازد"
+            }
+          ]
+        },
+        {
+          "id": "0d35fab1787129e7ac00bd66ef692c6f26e0acf47edfda9ddd9a09e00a9552e4",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "رزوه‌ی مربعی بیشترین نیروی برشی و وی‌شکل کمترین را منتقل می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رزوه‌ی مربعی بیشترین نیروی برشی و وی‌شکل کمترین را منتقل می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "f02594044340639d287f451135665cb47bf598badfdd67ce57f19cd105a04e52",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "شکل رزوه بر نوع نیروی منتقل‌شده اثری ندارد و فقط بر سرعت درج مؤثر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شکل رزوه بر نوع نیروی منتقل‌شده اثری ندارد و فقط بر سرعت درج مؤثر است"
+            }
+          ]
+        },
+        {
+          "id": "652662ac39110ef2b19f8217ef13988ce1ae4171501b2001b7bc999ad330cc61",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "رزوه‌ی باترس بیشترین نیروی برشی را ایجاد می‌کند و به همین دلیل در طراحی‌های امروزی کنار گذاشته شده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رزوه‌ی باترس بیشترین نیروی برشی را ایجاد می‌کند و به همین دلیل در طراحی‌های امروزی کنار گذاشته شده است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e72f5c2c4eb355ae5f9f3e7092e0f8719d94b5c5258b7a2e1e1ab2523d42ae43"
+        ],
+        "explanation": "هندسه، نوع نیرو را تعیین می‌کند: سطح شیب‌دار وی‌شکل بخشی از نیروی محوری را به برش تبدیل می‌کند؛ سطح تخت مربعی آن را بیشتر به‌صورت فشاری منتقل می‌کند. و این مهم است چون استخوان در برابر فشار مقاوم‌تر از برش است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هندسه، نوع نیرو را تعیین می‌کند: سطح شیب‌دار "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "وی‌شکل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " بخشی از نیروی محوری را به برش تبدیل می‌کند؛ سطح تخت "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مربعی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " آن را بیشتر به‌صورت فشاری منتقل می‌کند. و این مهم است چون استخوان در برابر فشار مقاوم‌تر از برش است."
+          }
+        ],
+        "observedAt": "2026-11-17T06:05:23.948Z"
+      }
+    },
+    {
+      "id": "question:10388",
+      "sourceId": "10388",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "cfd47ab60c38b88120a93c260729e0c42b68b0060d72e1a07eb5d30d3d3e4f40",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ایمپلنت‌های با قطر کوچک و طول کوتاه، سطح به‌مراتب کمتری برای توزیع نیرو به استخوان حامی در اختیار می‌گذارند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ایمپلنت‌های با قطر کوچک و طول کوتاه، سطح به‌مراتب کمتری برای توزیع نیرو به استخوان حامی در اختیار می‌گذارند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "سطح مؤثر با هر دو بُعد تغییر می‌کند و وقتی هر دو کوچک باشند، افت سطح چشمگیر است. پیامد بالینی‌اش این است که چنین ایمپلنت‌هایی به مدیریت دقیق‌تر نیرو نیاز دارند: کانتی‌لور کوتاه‌تر، اکلوژن محافظه‌کارانه‌تر، و توجه ویژه به پارافانکشن.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "سطح مؤثر با هر دو بُعد تغییر می‌کند و وقتی هر دو کوچک باشند، افت سطح چشمگیر است. پیامد بالینی‌اش این است که چنین ایمپلنت‌هایی به "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مدیریت دقیق‌تر نیرو"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " نیاز دارند: کانتی‌لور کوتاه‌تر، اکلوژن محافظه‌کارانه‌تر، و توجه ویژه به پارافانکشن."
+          }
+        ],
+        "observedAt": "2026-11-17T06:05:29.430Z"
+      }
+    },
+    {
+      "id": "question:10391",
+      "sourceId": "10391",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "b272041f98061fff3a044bd3c2242aac05c8332a1b862d905cf33e48d59e3cc4",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کالر کاملاً صاف در ناحیه‌ی کرست ماژول، چون گیر مکانیکی ندارد، نیروی چندانی به استخوان مجاور منتقل نمی‌کند و همین ناحیه‌ی کرستال را از تنش در امان نگه می‌دارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کالر کاملاً صاف در ناحیه‌ی کرست ماژول، چون گیر مکانیکی ندارد، نیروی چندانی به استخوان مجاور منتقل نمی‌کند و همین ناحیه‌ی کرستال را از تنش در امان نگه می‌دارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "نبود گیر، نیرو را حذف نمی‌کند؛ نوع آن را عوض می‌کند. بار محوری در فصل مشترکِ صاف به نیروی برشی تبدیل می‌شود و استخوان دقیقاً در برابر برش ضعیف‌ترین است. به همین دلیل بسیاری از طراحی‌های امروزی در کرست ماژول میکروثرد یا زبری سطحی دارند تا بخشی از بار به فشاری تبدیل شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نبود گیر، نیرو را حذف نمی‌کند؛ "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "نوع"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " آن را عوض می‌کند. بار محوری در فصل مشترکِ صاف به "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "نیروی برشی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " تبدیل می‌شود و استخوان دقیقاً در برابر برش ضعیف‌ترین است. به همین دلیل بسیاری از طراحی‌های امروزی در کرست ماژول میکروثرد یا زبری سطحی دارند تا بخشی از بار به فشاری تبدیل شود."
+          }
+        ],
+        "observedAt": "2026-11-17T06:05:44.193Z"
+      }
+    },
+    {
+      "id": "question:10394",
+      "sourceId": "10394",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "a93b58d5a2344f6404f51940bd5ec65dc7967d32650d36092f9c1f0f99e4fdd7",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کاهش گام رزوه با هدف بهبود توزیع تنش در استخوان اطراف پیشنهاد شده است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کاهش گام رزوه با هدف بهبود توزیع تنش در استخوان اطراف پیشنهاد شده است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "بله. گام کوچک‌تر، سطح تماس بیشتری می‌سازد و انتظار می‌رود توزیع تنش را بهبود دهد — یکی از راهکارهایی که در طراحی ایمپلنت‌های مخصوص استخوان نرم دنبال می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بله. گام کوچک‌تر، سطح تماس بیشتری می‌سازد و انتظار می‌رود توزیع تنش را بهبود دهد — یکی از راهکارهایی که در طراحی ایمپلنت‌های مخصوص استخوان نرم دنبال می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-17T06:05:40.708Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:d83c1a077a2d410b236ed39b38f46cb1c073992fd0b5f0d33a51d2370a86a1cf",
+      "at": "2026-11-17T06:05:00.790Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:88cc926b1bdc0fe2bbbc7d8da7bec6169a455130b13022489956508bb30fb1ac",
+      "at": "2026-11-17T06:05:02.385Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:10381",
+      "at": "2026-11-17T06:05:03.995Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:10383",
+      "at": "2026-11-17T06:05:19.526Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:10388",
+      "at": "2026-11-17T06:05:25.565Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:10391",
+      "at": "2026-11-17T06:05:31.023Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:10394",
+      "at": "2026-11-17T06:05:36.692Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:10391",
+      "at": "2026-11-17T06:05:42.309Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

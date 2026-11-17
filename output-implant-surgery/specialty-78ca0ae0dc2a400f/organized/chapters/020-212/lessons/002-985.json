@@ -1,0 +1,2298 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/985/lesson.json",
+  "id": "985",
+  "title": "درس دوم: بیمار پرخطر — آزمایش‌ها و داروها",
+  "specialtyKey": "78ca0ae0dc2a400f",
+  "chapter": {
+    "id": "212",
+    "title": "عوارض خون‌ریزی",
+    "position": 20
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:26d71040314f0a43213dcba57bbc3e5620d53b6ece1661c50a65ed595dfa0f34",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "a91e111dba0e6ea7d64e63e896d49c9ed4feb1a47fb0acc4a144fa0b6ee6f65a",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اعداد آزمایشگاهی — و مرزهایشان"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ارزیابی خطر خون‌ریزی سه لایه دارد: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هموستاز اولیه (پلاکت)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثانویه (فاکتورهای انعقادی)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثالثیه (فیبرینولیز)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". هر دارو در یکی از این لایه‌ها اثر می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "INR — عدد و مرز تصمیم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در بیماران تحت ضدانعقاد، INR بالاتر است و معمولاً در محدوده‌ی درمانی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲٫۰ تا ۳٫۵"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قرار می‌گیرد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و مرز عملی: INR بالای ۳٫۰ باید کنترااندیکاسیون نسبی برای پروسیجر جراحی تلقی شود و مشاوره‌ی پزشکی لازم دارد. INR بیمار وارفارینی را در ۴۸ ساعت پیش از جراحی بسنج، مگر مقادیرش پایدار باشد؛ و تا وقتی INR زیر ۳٫۰ است، وارفارین قطع نمی‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دقت کن که این "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسبی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، نه مطلق — یعنی همان سنجش منافع در برابر خطرات که در یونیت پیش دیدی، اینجا با یک عدد مشخص فعال می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمارش پلاکت:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مقدار طبیعی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۰۰٬۰۰۰ تا ۴۰۰٬۰۰۰ سلول در میلی‌متر مکعب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است؛ شمار کمتر از ۱۰۰٬۰۰۰ را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترومبوسیتوپنی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌نامند که با خون‌ریزی قابل‌توجه حین و پس از عمل همراه است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان خون‌ریزی (Bleeding Time):"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " روشی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسبتاً قدیمی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای تعیین عملکرد پلاکت است. یعنی نتیجه‌ی آن را با احتیاط و در کنار بقیه‌ی داده‌ها بخوان، نه به‌عنوان معیار اصلی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه لایه‌ی هموستاز و داروهایشان:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هموستاز ثانویه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وارفارین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مهارکننده‌های مستقیم ترومبین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هپارین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هموستاز ثالثیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترانگزامیک اسید"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که آن را مهار می‌کند (و دقیقاً به همین دلیل به‌عنوان دارو برای کنترل خون‌ریزی به کار می‌رود)."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هموستاز اولیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — عوامل ضدپلاکتی مانند آسپیرین و کلوپیدوگرل."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نکته‌ی فارماکولوژیک که زمان‌بندی را تعیین می‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آسپیرین و کلوپیدوگرل عملکرد پلاکت را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برای تمام طول عمر پلاکت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مختل می‌کنند — یعنی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۷ تا ۱۰ روز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". پس «دیروز قطع کردم» عملاً بی‌معناست."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/if155-78314f6b361a925c.webp",
+                  "alt": "جدول داروهایی که عملکرد پلاکت را مختل می‌کنند به تفکیک دسته‌ی دارویی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/eb1793230b88134e1c7fa13a7f6ab84e5c60aacd6647c46f54a5eac49809e8b7.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جدول ۷٫۳ — داروهایی که عملکرد پلاکت را مختل می‌کنند؛ فهرست آنتی‌بیوتیک‌ها و NSAIDها را ببین تا روشن شود چرا ارزیابی دارویی بیمار پیش از جراحی، فهرستی طولانی‌تر از «ضدانعقادها» دارد. رفرنس تصویر: Resnik & Misch, Avoiding Complications in Oral Implantology, Ch.7, Table 7.3, p.270"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:851a23c1486b856c94ebe5a9a73775e6c1e22d048e453279b827ffff67714cdd",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "49acdc479cb7c58a221382f943168c1785565d0ffc04bf19283ebacc4f59fe39",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام دارو قطع نشود، و کدام تجویز نشود"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یک توصیه‌ی مهم، برخلاف تصور رایج:"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "«در بیشتر موارد، مهارکننده‌های تجمع پلاکتی (مانند آسپیرین و کلوپیدوگرل) را قطع نکنید.» — البته "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بر پایه‌ی توصیه‌ی پزشک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "منطقش را با یونیت پیش کنار هم بگذار: خون‌ریزی موضعی معمولاً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قابل مدیریت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، ولی رخداد ترومبوآمبولیک ناشی از قطع دارو "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قابل جبران نیست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". دو ریسک نامتقارن."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرا پزشکان به‌ندرت اجازه‌ی قطع می‌دهند؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ترکیب "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آسپیرین و کلوپیدوگرل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اثر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایشی و احتمالاً هم‌افزا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارد، چون دو مسیر مکمل در آبشار تجمع پلاکتی را می‌بندند — و به‌ندرت پزشکان اجازه‌ی قطع کامل هر دو را می‌دهند، چون منافع محافظت قلبی بر احتمال اپیزودهای خون‌ریزی در بیماران پرخطر قلبی-عروقی می‌چربد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سازوکارها متفاوت‌اند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آسپیرین سیکلواکسیژناز را به‌طور برگشت‌ناپذیر استیله می‌کند و تولید ترومبوکسان A₂ را مهار می‌کند؛ کلوپیدوگرل به‌طور انتخابی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ADP"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را مهار می‌کند. نتیجه‌ی هر دو یکی است: کاهش تجمع پلاکتی. و ساخت پلاکت‌های تازه این اختلال را جبران می‌کند — در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵۰ تا ۸۰ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " موارد تجمع پلاکتی به حالت طبیعی برمی‌گردد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اینجا یک تمایز مهم که نباید با ضدپلاکتی‌ها قاطی شود: NSAIDها اثر برگشت‌پذیر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بر تجمع پلاکتی دارند و عملکرد پلاکت پس از پایان اثر دارو بازمی‌گردد. به همین دلیل پروسیجرهای جزئی جراحی ایمپلنت را می‌توان با خیال آسوده و بدون تغییر دوز NSAID انجام داد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پس دو حکم متفاوت برای دو دسته: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضدپلاکتی درمانی را قطع نکن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (برگشت‌ناپذیر و محافظ قلب)، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز NSAID را برای جراحی جزئی تغییر نده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (برگشت‌پذیر). البته در انتخاب مسکن برای بیمار پرخطر خون‌ریزی همچنان باید منافع را در برابر افزایش خطر سنجید؛ برای همین، در بیمار تحت ضدانعقاد، تجویز آسپیرین و NSAID به‌عنوان مسکن پس از عمل را به حداقل برسان."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک هشدار درباره‌ی ضدانعقادهای جدید:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " این داروهای هدفمند مستقیماً به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترومبین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " متصل می‌شوند و تعامل آن با سوبستراهایش را می‌بندند. پاسخشان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بسیار قابل‌پیش‌بینی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است و آزمایش خون روتین را غیرضروری می‌کند — اما در حال حاضر هیچ عامل معکوس‌کننده یا پادزهری برای خنثی کردن اثرشان وجود ندارد، که می‌تواند در خون‌ریزی کنترل‌نشده مسئله‌ساز شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تداخل‌های دارویی که خون‌ریزی را بدتر می‌کنند:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آمپی‌سیلین و آموکسی‌سیلین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ممکن است خون‌ریزی را افزایش دهند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• اثر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وارفارین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آزول‌ها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — از جمله "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میکونازول موضعی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — تقویت می‌شود. یعنی حتی یک ژل موضعی می‌تواند INR را جابه‌جا کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• خون‌ریزی با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فعالیت ضدپلاکتی NSAIDها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تشدید می‌شود و اثر وارفارین هم ممکن است تقویت گردد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• مترونیدازول نباید برای بیمار تحت درمان با وارفارین (کومادین) تجویز شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و برای کامل شدن فهرست: اثر وارفارین با سفالوسپورین‌ها، اریترومایسین و مترونیدازول تقویت می‌شود، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الکل به مقدار زیاد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هم آن را تشدید می‌کند، و کورتیکواستروئیدها می‌توانند فعالیت وارفارین را تغییر دهند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این فهرست را جدی بگیر: بیشتر موارد بالا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داروهایی هستند که خودت تجویز می‌کنی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". یعنی خطر از نسخه‌ی تو می‌آید، نه از پرونده‌ی بیمار."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مکمل‌های گیاهی —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دو عددی که رفتار تو را باید عوض کند: مطالعات نشان داده‌اند تا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۷۰ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیماران "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افشا نمی‌کنند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که مکمل گیاهی مصرف می‌کنند، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۴۰ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ظرف "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲ هفته پیش از جراحی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مکمل گیاهی مصرف خواهند کرد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دلیلش هم روشن است: بسیاری از بیماران چون دارویی «طبیعی» نامیده می‌شود آن را ایمن می‌پندارند، در حالی که اکثر مکمل‌ها هیچ پژوهشی درباره‌ی ایمنی و اثربخشی‌شان ندارند. مکمل‌های مؤثر بر هموستاز باید دست‌کم ۲ هفته پیش از جراحی کنار گذاشته شوند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک آنتی‌بیوتیک رایج — پنی‌سیلین V:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " این دارو "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باکتریسیدال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، جذب خوبی دارد، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ظرف ۳۰ دقیقه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پس از تجویز به اوج سطح سرمی می‌رسد و تا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۴ ساعت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سطح خونی قابل‌تشخیص دارد. قاعده‌ی کلی پیشگیری هم این است که دوز پیش از عمل "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دست‌کم یک ساعت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیش از جراحی داده شود تا هنگام برش غلظت بافتی کافی باشد؛ یعنی زمان دادن دوز به‌اندازه‌ی خودِ دوز مهم است."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/if156-a77a48c880e9794c.webp",
+                  "alt": "جدول داروهایی که خون‌ریزی را افزایش می‌دهند به تفکیک دسته‌ی دارویی و اثر",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/6e844778a12f6b5c4b3a9d8681ee96737561650e5cb6cc08fa8bf10430ffa783.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جدول ۷٫۲ — داروهایی که خون‌ریزی را افزایش می‌دهند؛ توجه کن که بیشتر ردیف‌های این جدول داروهایی‌اند که خودِ دندانپزشک تجویز می‌کند: مسکن، آنتی‌باکتریال، ضدقارچ و ضدالتهاب. رفرنس تصویر: Resnik & Misch, Avoiding Complications in Oral Implantology, Ch.7, Table 7.2, p.270"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:15021",
+      "sourceId": "15021",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "248c6cedafd98150cf18279b0f4949b792200ab6c86ac63525451dcd5fb8c916",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام جفت‌سازی لایه‌ی هموستاز و داروی مؤثر بر آن درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام جفت‌سازی لایه‌ی هموستاز و داروی مؤثر بر آن درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثانویه: وارفارین، مهارکننده‌های مستقیم ترومبین و هپارین، ثالثیه: ترانگزامیک اسید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اولیه: وارفارین و هپارین، ثانویه: آسپیرین و کلوپیدوگرل، ثالثیه: ترانگزامیک اسید و ویتامین K"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثالثیه: هپارین و مهارکننده‌های ترومبین، اولیه: ترانگزامیک اسید و وارفارین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی این داروها بر یک لایه، یعنی آبشار انعقادی ثانویه، اثر می‌کنند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "913f048b9637d3fff7ff6d7b199fd905d574062985719e36396e27854cba2b78",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ثانویه: وارفارین، مهارکننده‌های مستقیم ترومبین و هپارین، ثالثیه: ترانگزامیک اسید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ثانویه: وارفارین، مهارکننده‌های مستقیم ترومبین و هپارین، ثالثیه: ترانگزامیک اسید"
+            }
+          ]
+        },
+        {
+          "id": "62d0641bf8a261010447e157d4b550fa1d8efc76b566e5dbe93052fb0353ac82",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اولیه: وارفارین و هپارین، ثانویه: آسپیرین و کلوپیدوگرل، ثالثیه: ترانگزامیک اسید و ویتامین K",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اولیه: وارفارین و هپارین، ثانویه: آسپیرین و کلوپیدوگرل، ثالثیه: ترانگزامیک اسید و ویتامین K"
+            }
+          ]
+        },
+        {
+          "id": "59c2d9468cbb9a5e696ba51b8ac083e7cd344792127d554ae1017bad2e7c3931",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ثالثیه: هپارین و مهارکننده‌های ترومبین، اولیه: ترانگزامیک اسید و وارفارین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ثالثیه: هپارین و مهارکننده‌های ترومبین، اولیه: ترانگزامیک اسید و وارفارین"
+            }
+          ]
+        },
+        {
+          "id": "f6fc7f02b513399cf125f4b40627902eb7bd3b221e12d7106a188ec065b99bbf",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همه‌ی این داروها بر یک لایه، یعنی آبشار انعقادی ثانویه، اثر می‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی این داروها بر یک لایه، یعنی آبشار انعقادی ثانویه، اثر می‌کنند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "913f048b9637d3fff7ff6d7b199fd905d574062985719e36396e27854cba2b78"
+        ],
+        "explanation": "پاسخ درست همین است. هموستاز اولیه لایه‌ی پلاکتی است که آسپیرین و کلوپیدوگرل بر آن اثر می‌کنند. نکته‌ی جالب: ترانگزامیک اسید هموستاز ثالثیه (فیبرینولیز) را مهار می‌کند و دقیقاً به همین دلیل به‌عنوان دارویی برای کنترل خون‌ریزی به کار می‌رود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پاسخ درست همین است. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هموستاز اولیه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " لایه‌ی پلاکتی است که آسپیرین و کلوپیدوگرل بر آن اثر می‌کنند. نکته‌ی جالب: ترانگزامیک اسید هموستاز ثالثیه (فیبرینولیز) را "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مهار"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌کند و دقیقاً به همین دلیل به‌عنوان دارویی برای "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کنترل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " خون‌ریزی به کار می‌رود."
+          }
+        ],
+        "observedAt": "2026-11-17T07:55:31.181Z"
+      }
+    },
+    {
+      "id": "question:15024",
+      "sourceId": "15024",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "5621881c4432dc487bffc2b273eaf1a00e086202b90868970b60a7f1d117c84f",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری می‌گوید «چون NSAID بر پلاکت اثر می‌گذارد، در همه‌ی بیماران باید دوزش را پیش از جراحی ایمپلنت قطع یا کم کنم». این را ارزیابی کن.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری می‌گوید «چون NSAID بر پلاکت اثر می‌گذارد، در همه‌ی بیماران باید دوزش را پیش از جراحی ایمپلنت قطع یا کم کنم». این را ارزیابی کن."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نادرست است؛ اثر NSAID بر پلاکت برگشت‌پذیر است و پروسیجر جزئی ایمپلنت بدون تغییر دوز NSAID انجام می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درست است؛ NSAID هم مانند آسپیرین سیکلواکسیژناز پلاکت را برگشت‌ناپذیر مهار می‌کند و باید ۷ تا ۱۰ روز قطع شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درست است، چون NSAID تنها داروی مؤثر بر پلاکت است که بیمار بدون نسخه مصرف می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نادرست است، چون NSAID اصلاً بر پلاکت اثری ندارد و فقط سیکلواکسیژناز بافت ملتهب را مهار می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7c0544709f0087d80d667dac08af879531004a0e39caf3475132c88bac732acb",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نادرست است؛ اثر NSAID بر پلاکت برگشت‌پذیر است و پروسیجر جزئی ایمپلنت بدون تغییر دوز NSAID انجام می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نادرست است؛ اثر NSAID بر پلاکت برگشت‌پذیر است و پروسیجر جزئی ایمپلنت بدون تغییر دوز NSAID انجام می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "8574a9779c32d4e480974840babce943fbe0ef8372c103d89f066b1d4ae552a8",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "درست است؛ NSAID هم مانند آسپیرین سیکلواکسیژناز پلاکت را برگشت‌ناپذیر مهار می‌کند و باید ۷ تا ۱۰ روز قطع شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "درست است؛ NSAID هم مانند آسپیرین سیکلواکسیژناز پلاکت را برگشت‌ناپذیر مهار می‌کند و باید ۷ تا ۱۰ روز قطع شود"
+            }
+          ]
+        },
+        {
+          "id": "169a9cc95c718818381f9a191803b0a5e5f8debdf7bf166ecb2d48a0c8e68e77",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "درست است، چون NSAID تنها داروی مؤثر بر پلاکت است که بیمار بدون نسخه مصرف می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "درست است، چون NSAID تنها داروی مؤثر بر پلاکت است که بیمار بدون نسخه مصرف می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "986da96f31f44f57fb0c52099fed83d3add676e77366602469b9844113fa9c06",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نادرست است، چون NSAID اصلاً بر پلاکت اثری ندارد و فقط سیکلواکسیژناز بافت ملتهب را مهار می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نادرست است، چون NSAID اصلاً بر پلاکت اثری ندارد و فقط سیکلواکسیژناز بافت ملتهب را مهار می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "7c0544709f0087d80d667dac08af879531004a0e39caf3475132c88bac732acb"
+        ],
+        "explanation": "درست گفتی. تمایز کلیدی همین است: برگشت‌پذیر در برابر برگشت‌ناپذیر. عملکرد پلاکت پس از پایان اثر NSAID بازمی‌گردد، برخلاف آسپیرین و کلوپیدوگرل.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست گفتی. تمایز کلیدی همین است: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "برگشت‌پذیر در برابر برگشت‌ناپذیر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". عملکرد پلاکت پس از پایان اثر NSAID بازمی‌گردد، برخلاف آسپیرین و کلوپیدوگرل."
+          }
+        ],
+        "observedAt": "2026-11-17T07:55:06.954Z"
+      }
+    },
+    {
+      "id": "question:15025",
+      "sourceId": "15025",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "6c14c55569870138bd89b5f81256f01c39ba782098b3a1d046533b68146c6656",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه از تداخل‌های دارویی مؤثر بر خون‌ریزی درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه از تداخل‌های دارویی مؤثر بر خون‌ریزی درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میکونازول فقط در فرم خوراکی با وارفارین تداخل دارد و ژل موضعی آن، چون جذب سیستمیک ندارد، کاملاً بی‌خطر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از آنتی‌بیوتیک‌ها فقط پنی‌سیلین‌ها با وارفارین تداخل دارند و سفالوسپورین‌ها و ماکرولیدها اثری بر INR ندارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفالوسپورین، اریترومایسین، مترونیدازول و آزول‌ها (حتی میکونازول موضعی) اثر وارفارین را تقویت می‌کنند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الکل به مقدار زیاد اثر وارفارین را کاهش می‌دهد و کورتیکواستروئیدها هیچ تغییری در فعالیت آن ایجاد نمی‌کنند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3fa7605236ec91e4394f8ef9e35c4810bc8a9e34a800d013c9e06c3050b31f47",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "میکونازول فقط در فرم خوراکی با وارفارین تداخل دارد و ژل موضعی آن، چون جذب سیستمیک ندارد، کاملاً بی‌خطر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "میکونازول فقط در فرم خوراکی با وارفارین تداخل دارد و ژل موضعی آن، چون جذب سیستمیک ندارد، کاملاً بی‌خطر است"
+            }
+          ]
+        },
+        {
+          "id": "fc85cd18428cddc3deaf61b399d3fbb17a097ef9588a3e5b0258f0d02a844f0e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "از آنتی‌بیوتیک‌ها فقط پنی‌سیلین‌ها با وارفارین تداخل دارند و سفالوسپورین‌ها و ماکرولیدها اثری بر INR ندارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از آنتی‌بیوتیک‌ها فقط پنی‌سیلین‌ها با وارفارین تداخل دارند و سفالوسپورین‌ها و ماکرولیدها اثری بر INR ندارند"
+            }
+          ]
+        },
+        {
+          "id": "a7dc4085bfc72786ace7daf023e4371f43cd9a1e016ff29ecc170c00f63f5c91",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "سفالوسپورین، اریترومایسین، مترونیدازول و آزول‌ها (حتی میکونازول موضعی) اثر وارفارین را تقویت می‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفالوسپورین، اریترومایسین، مترونیدازول و آزول‌ها (حتی میکونازول موضعی) اثر وارفارین را تقویت می‌کنند"
+            }
+          ]
+        },
+        {
+          "id": "d7949d88e1a6c23c73323276d02b982eeaf1a87385c18af87ac9581b0562721c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "الکل به مقدار زیاد اثر وارفارین را کاهش می‌دهد و کورتیکواستروئیدها هیچ تغییری در فعالیت آن ایجاد نمی‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "الکل به مقدار زیاد اثر وارفارین را کاهش می‌دهد و کورتیکواستروئیدها هیچ تغییری در فعالیت آن ایجاد نمی‌کنند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a7dc4085bfc72786ace7daf023e4371f43cd9a1e016ff29ecc170c00f63f5c91"
+        ],
+        "explanation": "بسیار خوب. کلمه‌ی «موضعی» در مورد میکونازول را جدی بگیر: حتی یک ژل موضعی می‌تواند INR را جابه‌جا کند. همچنین الکل به مقدار زیاد اثر وارفارین را تشدید می‌کند و کورتیکواستروئیدها می‌توانند فعالیت آن را تغییر دهند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بسیار خوب. کلمه‌ی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "«موضعی»"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " در مورد میکونازول را جدی بگیر: حتی یک ژل موضعی می‌تواند INR را جابه‌جا کند. همچنین "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "الکل به مقدار زیاد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " اثر وارفارین را تشدید می‌کند و "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کورتیکواستروئیدها"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌توانند فعالیت آن را تغییر دهند."
+          }
+        ],
+        "observedAt": "2026-11-17T07:55:13.766Z"
+      }
+    },
+    {
+      "id": "question:15030",
+      "sourceId": "15030",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "37c3a836d6f6c459aee68e586d37a6020cd07e4aef4b9757e6375321a97b6266",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار با INR برابر ۲٫۸ تحت وارفارین، مصرف روزانه‌ی آسپیرین، و نیاز به آنتی‌بیوتیک و مسکن پس از کاشت یک ایمپلنت. کدام برنامه درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار با INR برابر ۲٫۸ تحت وارفارین، مصرف روزانه‌ی آسپیرین، و نیاز به آنتی‌بیوتیک و مسکن پس از کاشت یک ایمپلنت. کدام برنامه درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جراحی به‌کلی لغو شود، چون مصرف هم‌زمان وارفارین و آسپیرین هر جراحی ایمپلنت را در مطب ممنوع می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وارفارین و آسپیرین (با نظر پزشک) ادامه، بدون مترونیدازول، مسکن پس از عمل تا حد امکان بدون NSAID و آسپیرین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وارفارین ادامه یابد، آسپیرین قطع شود، و مترونیدازول به‌دلیل پوشش خوب بی‌هوازی‌ها همراه با ایبوپروفن منظم تجویز شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وارفارین و آسپیرین هر دو یک هفته پیش از جراحی قطع شوند تا INR به ۱٫۰ برسد و پس از عمل NSAID بدون هیچ محدودیتی داده شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ca804195c854670881ebb3dd12949e2490c048fecafe1cab2d72112badb35353",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "جراحی به‌کلی لغو شود، چون مصرف هم‌زمان وارفارین و آسپیرین هر جراحی ایمپلنت را در مطب ممنوع می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جراحی به‌کلی لغو شود، چون مصرف هم‌زمان وارفارین و آسپیرین هر جراحی ایمپلنت را در مطب ممنوع می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "35f73d944ed0650b95ae0c9d40e0045b8144394c87c617fc727953313ea9faa1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "وارفارین و آسپیرین (با نظر پزشک) ادامه، بدون مترونیدازول، مسکن پس از عمل تا حد امکان بدون NSAID و آسپیرین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وارفارین و آسپیرین (با نظر پزشک) ادامه، بدون مترونیدازول، مسکن پس از عمل تا حد امکان بدون NSAID و آسپیرین"
+            }
+          ]
+        },
+        {
+          "id": "ba9a8e00a2f19bc3e95a0a2532b70225f51f13b4242bd4bb3d4deccd910287e6",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "وارفارین ادامه یابد، آسپیرین قطع شود، و مترونیدازول به‌دلیل پوشش خوب بی‌هوازی‌ها همراه با ایبوپروفن منظم تجویز شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وارفارین ادامه یابد، آسپیرین قطع شود، و مترونیدازول به‌دلیل پوشش خوب بی‌هوازی‌ها همراه با ایبوپروفن منظم تجویز شود"
+            }
+          ]
+        },
+        {
+          "id": "83377fa4bcbedbbe2d01d71f8ced03097cd7d57f3cc0c000e2be1573ee52f301",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "وارفارین و آسپیرین هر دو یک هفته پیش از جراحی قطع شوند تا INR به ۱٫۰ برسد و پس از عمل NSAID بدون هیچ محدودیتی داده شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وارفارین و آسپیرین هر دو یک هفته پیش از جراحی قطع شوند تا INR به ۱٫۰ برسد و پس از عمل NSAID بدون هیچ محدودیتی داده شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "35f73d944ed0650b95ae0c9d40e0045b8144394c87c617fc727953313ea9faa1"
+        ],
+        "explanation": "پاسخ کامل است. INR زیر ۳٫۰ یعنی وارفارین قطع نمی‌شود، و ضدپلاکتی را هم فقط پزشک بیمار می‌تواند قطع کند. دو تصمیم دیگر در دست خودت است: مترونیدازول نه، و مسکنی که خون‌ریزی را تشدید نکند — در بیمار ضدانعقادی، آسپیرین و NSAID به‌عنوان مسکن به حداقل می‌رسند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پاسخ کامل است. INR زیر ۳٫۰ یعنی وارفارین قطع نمی‌شود، و ضدپلاکتی را هم فقط پزشک بیمار می‌تواند قطع کند. دو تصمیم دیگر در دست خودت است: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مترونیدازول نه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، و مسکنی که خون‌ریزی را تشدید نکند — در بیمار ضدانعقادی، آسپیرین و NSAID به‌عنوان مسکن به حداقل می‌رسند."
+          }
+        ],
+        "observedAt": "2026-11-17T07:55:34.713Z"
+      }
+    },
+    {
+      "id": "question:15063",
+      "sourceId": "15063",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 66.6667%;",
+      "contentKey": "29d05a1ac05c6e505118e73035b281d660d932e3a8d8862df38937238871a212",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار وارفارین می‌گیرد و همکار برای کاهش تورم پس از عمل، یک دوره کورتیکواستروئید تجویز می‌کند بدون هیچ ملاحظه‌ای. ایراد کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار وارفارین می‌گیرد و همکار برای کاهش تورم پس از عمل، یک دوره کورتیکواستروئید تجویز می‌کند بدون هیچ ملاحظه‌ای. ایراد کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایرادی ندارد؛ کورتیکواستروئید با وارفارین تداخلی ندارد و تورم را بی‌خطر کم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کورتیکواستروئیدها می‌توانند فعالیت وارفارین را تغییر دهند، پس این تجویز نیازمند هماهنگی و پایش است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایراد فقط این است که دوز باید بالاتر می‌بود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایراد این است که کورتیکواستروئید پس از جراحی ایمپلنت، به‌دلیل تأخیر در ترمیم استخوان، هرگز تجویز نمی‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d7b626482595eb9a77fd86a357c5278a37f09e454a876ba8f3def313ace825fb",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ایرادی ندارد؛ کورتیکواستروئید با وارفارین تداخلی ندارد و تورم را بی‌خطر کم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایرادی ندارد؛ کورتیکواستروئید با وارفارین تداخلی ندارد و تورم را بی‌خطر کم می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "fc467bb541756debd5eba0f4576a2499bdeab73612685a9d70ff3ce6ba98d566",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کورتیکواستروئیدها می‌توانند فعالیت وارفارین را تغییر دهند، پس این تجویز نیازمند هماهنگی و پایش است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کورتیکواستروئیدها می‌توانند فعالیت وارفارین را تغییر دهند، پس این تجویز نیازمند هماهنگی و پایش است"
+            }
+          ]
+        },
+        {
+          "id": "7b8e438a2ccfde5f81d6871d994ba741f7896fb2c5d21fa94d7f4e926b82aefe",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ایراد فقط این است که دوز باید بالاتر می‌بود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایراد فقط این است که دوز باید بالاتر می‌بود"
+            }
+          ]
+        },
+        {
+          "id": "7830d0380e50f75fb6ddd69f0accff5548a73f8388e37f1f296a880f2d772514",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ایراد این است که کورتیکواستروئید پس از جراحی ایمپلنت، به‌دلیل تأخیر در ترمیم استخوان، هرگز تجویز نمی‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایراد این است که کورتیکواستروئید پس از جراحی ایمپلنت، به‌دلیل تأخیر در ترمیم استخوان، هرگز تجویز نمی‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "fc467bb541756debd5eba0f4576a2499bdeab73612685a9d70ff3ce6ba98d566"
+        ],
+        "explanation": "به نکته‌ی اصلی رسیدی. این هم خطری است که از نسخه‌ی خودت می‌آید: کورتیکواستروئید، مثل NSAID و چند آنتی‌بیوتیک، از داروهایی است که بر فعالیت وارفارین اثر می‌گذارند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "به نکته‌ی اصلی رسیدی. این هم "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "خطری است که از نسخه‌ی خودت می‌آید"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ": کورتیکواستروئید، مثل NSAID و چند آنتی‌بیوتیک، از داروهایی است که بر فعالیت وارفارین اثر می‌گذارند."
+          }
+        ],
+        "observedAt": "2026-11-17T07:55:27.648Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:26d71040314f0a43213dcba57bbc3e5620d53b6ece1661c50a65ed595dfa0f34",
+      "at": "2026-11-17T07:54:27.482Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:851a23c1486b856c94ebe5a9a73775e6c1e22d048e453279b827ffff67714cdd",
+      "at": "2026-11-17T07:54:29.599Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:15021",
+      "at": "2026-11-17T07:54:31.182Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:15024",
+      "at": "2026-11-17T07:55:01.841Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:15025",
+      "at": "2026-11-17T07:55:08.548Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:15030",
+      "at": "2026-11-17T07:55:15.358Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:15063",
+      "at": "2026-11-17T07:55:22.478Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:15021",
+      "at": "2026-11-17T07:55:29.246Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:15030",
+      "at": "2026-11-17T07:55:32.796Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

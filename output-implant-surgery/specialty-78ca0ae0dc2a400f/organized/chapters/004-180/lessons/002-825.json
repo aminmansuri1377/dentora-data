@@ -1,0 +1,1523 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/825/lesson.json",
+  "id": "825",
+  "title": "درس دوم: CBCT — ووکسل، FOV، دوز و آرتیفکت",
+  "specialtyKey": "78ca0ae0dc2a400f",
+  "chapter": {
+    "id": "180",
+    "title": "تصویربرداری و CBCT",
+    "position": 4
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:8b142fa492ce60eaf926a6a1526060a0b8473cee255f1626ea5db4fbd000986a",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "c222527e9a46e18c45d77278d4a7ccde9b3fabf6d2bf4d7640f94f708d3e9b51",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ووکسل و FOV: دو انتخاب پیش از اسکن"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "داده‌ی خام CBCT به حجمی از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ووکسل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تبدیل می‌شود — همان پیکسل، ولی سه‌بعدی. وقتی ابعاد ووکسل در هر سه جهت برابر باشد، به آن "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایزوتروپیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌گویند؛ یعنی اندازه‌گیری در هر صفحه‌ای به یک اندازه معتبر است. این ویژگی، دلیل اصلی برتری CBCT بر تصویربرداری دوبعدی در اندازه‌گیری است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هر ووکسل عددی دارد که چگالی را توصیف می‌کند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واحد هانسفیلد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". مقیاس استاندارد شده و مقدار "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صفر برای آب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تعریف می‌شود. ولی مقادیر خاکستری CBCT لزوماً با واحد هانسفیلد سی‌تی پزشکی هم‌مقیاس نیستند؛ پس عدد چگالی CBCT را نسبی بخوان."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "FOV"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یا میدان دید، حجم اسکن‌شده را تعیین می‌کند و به اندازه و شکل دتکتور، هندسه‌ی پرتو و کولیماسیون بستگی دارد. دستگاه‌ها به سه دسته‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کوچک، متوسط و بزرگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تقسیم می‌شوند — و انتخاب FOV، هم‌زمان تصمیمی درباره‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پوشش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است. هر ساختاری هم که وارد FOV شود، دیدن و گزارشش — حتی اگر خارج از پرسش اولیه باشد — بر عهده‌ی توست؛ پس کوچک‌ترین FOV کافی را انتخاب کن."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/if27-4cc9e0ce7f6e2ec7.webp",
+                  "alt": "مقایسه حجم داده ایزوتروپیک و آنیزوتروپیک و شکل ووکسل در هرکدام",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/6a5e917ea7d294fb7533134b8b6e2ac8c231435ef2dec1edbc018d90277f4e1a.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ووکسل ایزوتروپیک (چپ) در برابر آنیزوتروپیک (راست): در ایزوتروپیک ابعاد در هر سه جهت برابر است. مأخذ: Misch’s Contemporary Implant Dentistry، ویرایش ۴، فصل ۱۱، شکل ۱۱٫۱۲"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:c9d619af9af34bb97e94eadc78a78b3c3e6592ce349d6ece8f77c49cf29dc04b",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "0e483afc837e5ab525a6d22ec22f047fb7eeadd9cd258f9836dfebe58bbc06a1",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دوز را تو کنترل می‌کنی، آرتیفکت را باید بشناسی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز مؤثر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بر حسب میکروسیورت، پذیرفته‌شده‌ترین راه سنجش ریسک پرتو برای بیمار است. و خبر خوب: چهار اهرمش در دست اپراتور است — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "FOV"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "kVp"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "mA"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان اسکن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". یعنی «CBCT بگیرم یا نه» تنها تصمیم نیست؛ «چطور بگیرم» هم هست."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و چهار آرتیفکت که باید در نگاه اول بشناسی: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سخت‌شدگی پرتو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که نواحی رادیولوسنت کاذب کنار ایمپلنت می‌سازد و می‌تواند با تحلیل استخوان اشتباه شود، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطوط streak"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ناشی از ترمیم‌های فلزی که گاهی کل ناحیه را غیرقابل تفسیر می‌کند، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیفکت حرکتی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ناشی از تکان خوردن بیمار، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نویز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که تصویر را دانه‌دانه می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یک اشتباه رایج: دهیسنس استخوانی که در تصاویر سه‌بعدی دیده می‌شود، گاهی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناشی از خود آرتیفکت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است نه واقعیت آناتومیک. تصویر سه‌بعدی هم می‌تواند دروغ بگوید."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/if28-b7b36281e63ae952.webp",
+                  "alt": "مقطع اگزیال با خطوط streak شدید ناشی از ترمیم‌های فلزی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/d8f6f19663a25094469d572a2e750e7d85211ff6bf26ac5b3a1c14a296ced8ca.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطوط streak ناشی از ترمیم‌های فلزی که می‌تواند ناحیه را کاملاً غیرقابل تفسیر کند. مأخذ: Misch’s Contemporary Implant Dentistry، ویرایش ۴، فصل ۱۱، شکل‌های ۱۱٫۱۶ و ۱۱٫۱۷"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:10921",
+      "sourceId": "10921",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "acbe8f5144bab0dbe7081f05700c199063b9a414e8a9b6a05115e4bb37fb2064",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ووکسل ایزوتروپیک چه ویژگی‌ای دارد و چرا مهم است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ووکسل ایزوتروپیک چه ویژگی‌ای دارد و چرا مهم است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ابعادش در هر سه جهت برابر است، پس اندازه‌گیری در هر صفحه‌ای معتبر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در جهت عمودی کشیده‌تر است تا فاصله‌ی کرست تا کانال دقیق‌تر اندازه‌گیری شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رنگی است و چگالی را با رنگ نشان می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط در دستگاه‌های با FOV بزرگ وجود دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "de48a701ac0bcdcdd03740b87cfcac6f7b1f16b686fb90c490980ef812f9ea35",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ابعادش در هر سه جهت برابر است، پس اندازه‌گیری در هر صفحه‌ای معتبر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ابعادش در هر سه جهت برابر است، پس اندازه‌گیری در هر صفحه‌ای معتبر است"
+            }
+          ]
+        },
+        {
+          "id": "50f53df1d7719afd6c3925d9dac642595a26ef98d47f08cf5b2c0f9b3d2adc95",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "در جهت عمودی کشیده‌تر است تا فاصله‌ی کرست تا کانال دقیق‌تر اندازه‌گیری شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در جهت عمودی کشیده‌تر است تا فاصله‌ی کرست تا کانال دقیق‌تر اندازه‌گیری شود"
+            }
+          ]
+        },
+        {
+          "id": "91a59eadb84ab654c052f820a4f4f541b98542f51882e234ed9c49c1c2419ca2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "رنگی است و چگالی را با رنگ نشان می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رنگی است و چگالی را با رنگ نشان می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "9d7faacd1ee8d0228e85cb26c0e5e25ee7d48f66e84a988635a2a0d358977ca3",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فقط در دستگاه‌های با FOV بزرگ وجود دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط در دستگاه‌های با FOV بزرگ وجود دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "de48a701ac0bcdcdd03740b87cfcac6f7b1f16b686fb90c490980ef812f9ea35"
+        ],
+        "explanation": "ایزوتروپیک یعنی طول، عرض و ارتفاع ووکسل برابرند. پیامدش این است که می‌توانی حجم را در هر صفحه‌ای برش بزنی و اندازه‌گیری‌ات همان اعتبار را داشته باشد — دقیقاً همان چیزی که تصویربرداری دوبعدی نمی‌دهد.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ایزوتروپیک"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " یعنی طول، عرض و ارتفاع ووکسل برابرند. پیامدش این است که می‌توانی حجم را در هر صفحه‌ای برش بزنی و اندازه‌گیری‌ات همان اعتبار را داشته باشد — دقیقاً همان چیزی که تصویربرداری دوبعدی نمی‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-17T06:14:22.307Z"
+      }
+    },
+    {
+      "id": "question:10924",
+      "sourceId": "10924",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "0bb26b1f7cc386d184eac2b5d087be8292349f6c8b47803cd864801517e0515a",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "FOV در دستگاه CBCT چه چیزی را توصیف می‌کند و به چه عواملی بستگی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "FOV در دستگاه CBCT چه چیزی را توصیف می‌کند و به چه عواملی بستگی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعداد برش‌های خروجی؛ وابسته به نرم‌افزار ویوئر و ضخامت برش انتخابی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میزان روشنایی تصویر؛ وابسته به تنظیمات مانیتور و کنتراست نرم‌افزار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حجم اسکن‌شده؛ وابسته به دتکتور، هندسه‌ی پرتو و کولیماسیون"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضخامت کورتکس استخوان در ناحیه‌ی اسکن؛ وابسته به آناتومی و سن بیمار"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "6c279b91aab872b44440091c2b3a20acc94b1a64bcc1e12d1d746c19b7675b30",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تعداد برش‌های خروجی؛ وابسته به نرم‌افزار ویوئر و ضخامت برش انتخابی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تعداد برش‌های خروجی؛ وابسته به نرم‌افزار ویوئر و ضخامت برش انتخابی"
+            }
+          ]
+        },
+        {
+          "id": "b0beeb8135dcd4b6f63630004be14af84fd3f7dc684a3bf8d0921643636d955b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "میزان روشنایی تصویر؛ وابسته به تنظیمات مانیتور و کنتراست نرم‌افزار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "میزان روشنایی تصویر؛ وابسته به تنظیمات مانیتور و کنتراست نرم‌افزار"
+            }
+          ]
+        },
+        {
+          "id": "1d87b707576b45cbb9e596102848ecc25db60dfdfc87f46ce812ce80064f50cd",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "حجم اسکن‌شده؛ وابسته به دتکتور، هندسه‌ی پرتو و کولیماسیون",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حجم اسکن‌شده؛ وابسته به دتکتور، هندسه‌ی پرتو و کولیماسیون"
+            }
+          ]
+        },
+        {
+          "id": "986dbd1df4f526fd10ca7f2ec1c44757afcf60ade8b9d02b85c1339884bdc3b8",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ضخامت کورتکس استخوان در ناحیه‌ی اسکن؛ وابسته به آناتومی و سن بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ضخامت کورتکس استخوان در ناحیه‌ی اسکن؛ وابسته به آناتومی و سن بیمار"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1d87b707576b45cbb9e596102848ecc25db60dfdfc87f46ce812ce80064f50cd"
+        ],
+        "explanation": "FOV یعنی حجم اسکن — چقدر از بیمار در تصویر می‌آید. دستگاه‌ها به سه دسته‌ی کوچک، متوسط و بزرگ تقسیم می‌شوند، و انتخابش هم‌زمان تصمیمی درباره‌ی پوشش و دوز است.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "FOV"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " یعنی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "حجم اسکن"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " — چقدر از بیمار در تصویر می‌آید. دستگاه‌ها به سه دسته‌ی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کوچک، متوسط و بزرگ"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " تقسیم می‌شوند، و انتخابش هم‌زمان تصمیمی درباره‌ی پوشش و "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دوز"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است."
+          }
+        ],
+        "observedAt": "2026-11-17T06:14:28.521Z"
+      }
+    },
+    {
+      "id": "question:10928",
+      "sourceId": "10928",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "3609d16ab5383ec6137d600e0b0b4184f99a7fde1d3fd2d6c3180bf9dad3a6cb",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دهیسنس استخوانی که در تصاویر سه‌بعدی دیده می‌شود، همیشه نمایانگر یک نقص واقعی آناتومیک است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دهیسنس استخوانی که در تصاویر سه‌بعدی دیده می‌شود، همیشه نمایانگر یک نقص واقعی آناتومیک است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست تشخیص دادی. دهیسنس دیده‌شده در تصاویر سه‌بعدی می‌تواند ناشی از خود آرتیفکت باشد. درس مهمش این است: سه‌بعدی بودن تصویر، تضمین درستی آن نیست. رندر سه‌بعدی محصول پردازش است و پردازش می‌تواند چیزی بسازد که وجود ندارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. دهیسنس دیده‌شده در تصاویر سه‌بعدی می‌تواند "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ناشی از خود آرتیفکت"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " باشد. درس مهمش این است: سه‌بعدی بودن تصویر، تضمین درستی آن نیست. رندر سه‌بعدی محصول پردازش است و پردازش می‌تواند چیزی بسازد که وجود ندارد."
+          }
+        ],
+        "observedAt": "2026-11-17T06:14:34.141Z"
+      }
+    },
+    {
+      "id": "question:10932",
+      "sourceId": "10932",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "ac902898c5c341788fbd2bc60a950e31309cfbd8b6cb13d348a2b19ad97f6bb8",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری می‌گوید: «چون CBCT دوز پایینی دارد، برای هر بیماری در هر ویزیت می‌گیرم؛ اطلاعات بیشتر همیشه بهتر است.» ایراد کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری می‌گوید: «چون CBCT دوز پایینی دارد، برای هر بیماری در هر ویزیت می‌گیرم؛ اطلاعات بیشتر همیشه بهتر است.» ایراد کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایرادش این است که CBCT برای برنامه‌ریزی ایمپلنت اندیکاسیون ثابت‌شده‌ای ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز پایین با دوز صفر یکی نیست؛ هر اسکن توجیه بالینی می‌خواهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایرادش این است که CBCT دوز بسیار بالاتری از سی‌تی چندبرشی پزشکی دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایرادی ندارد؛ دوز CBCT آن‌قدر پایین است که تکرار آن هیچ اهمیتی ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3bbc6046f04fefad64aa40f23b02edc3aad5d2518b8e81eff8120379771d4856",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ایرادش این است که CBCT برای برنامه‌ریزی ایمپلنت اندیکاسیون ثابت‌شده‌ای ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایرادش این است که CBCT برای برنامه‌ریزی ایمپلنت اندیکاسیون ثابت‌شده‌ای ندارد"
+            }
+          ]
+        },
+        {
+          "id": "d6e7682255b2b89a8916a73cb338eed04ef423f56c0627bb1e758871405eb39a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دوز پایین با دوز صفر یکی نیست؛ هر اسکن توجیه بالینی می‌خواهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دوز پایین با دوز صفر یکی نیست؛ هر اسکن توجیه بالینی می‌خواهد"
+            }
+          ]
+        },
+        {
+          "id": "c2d5349f0896ab3474559b62eee0b0ad8e7aef9915efde9e4a875a0023fa1372",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ایرادش این است که CBCT دوز بسیار بالاتری از سی‌تی چندبرشی پزشکی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایرادش این است که CBCT دوز بسیار بالاتری از سی‌تی چندبرشی پزشکی دارد"
+            }
+          ]
+        },
+        {
+          "id": "67fbe77f99aabe73387fadb33b23eccc362371c5b971e69c58d9913c5c8e108d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ایرادی ندارد؛ دوز CBCT آن‌قدر پایین است که تکرار آن هیچ اهمیتی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایرادی ندارد؛ دوز CBCT آن‌قدر پایین است که تکرار آن هیچ اهمیتی ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d6e7682255b2b89a8916a73cb338eed04ef423f56c0627bb1e758871405eb39a"
+        ],
+        "explanation": "دقیقاً — همان الگوی «کمتر یعنی هیچ» که در MRONJ و پروفیلاکسی هم دیدیم. دوز CBCT نسبت به سی‌تی پزشکی پایین است، ولی صفر نیست و تکرار بی‌دلیل انباشته می‌شود. دو اصل باقی می‌مانند: هر اسکن توجیه بالینی داشته باشد، و پارامترها برای کمترین دوز ممکن تنظیم شوند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً — همان الگوی «کمتر یعنی هیچ» که در MRONJ و پروفیلاکسی هم دیدیم. دوز CBCT نسبت به سی‌تی پزشکی پایین است، ولی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "صفر نیست"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " و تکرار بی‌دلیل انباشته می‌شود. دو اصل باقی می‌مانند: هر اسکن "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "توجیه بالینی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " داشته باشد، و پارامترها برای کمترین دوز ممکن تنظیم شوند."
+          }
+        ],
+        "observedAt": "2026-11-17T06:14:40.524Z"
+      }
+    },
+    {
+      "id": "question:10933",
+      "sourceId": "10933",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "44410d8233e3c72f758f30927db536912c600679eccd4bd0244b8d085a488559",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مورد جزو چهار پارامتری نیست که اپراتور برای کاهش دوز مؤثر در اختیار دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مورد جزو چهار پارامتری نیست که اپراتور برای کاهش دوز مؤثر در اختیار دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ولتاژ لوله (kVp)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌ی میدان دید (FOV) انتخاب‌شده پیش از اسکن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنتراست و روشنایی در نرم‌افزار ویوئر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان اسکن و تعداد تصاویر خام در هر چرخش"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "523d277282ae8d304f802d41679770a582d942b1d7ffce0e50a7c2ae46c5d0ed",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ولتاژ لوله (kVp)",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ولتاژ لوله (kVp)"
+            }
+          ]
+        },
+        {
+          "id": "ab3cfcc23895e77ef0153d3bf92905efa8f20b74b0b34536d61bb9613960911c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اندازه‌ی میدان دید (FOV) انتخاب‌شده پیش از اسکن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندازه‌ی میدان دید (FOV) انتخاب‌شده پیش از اسکن"
+            }
+          ]
+        },
+        {
+          "id": "ad33ac65e9f92cd60bd3310408339f86a83d9ab98fdaaec8001569ab0431d499",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کنتراست و روشنایی در نرم‌افزار ویوئر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کنتراست و روشنایی در نرم‌افزار ویوئر"
+            }
+          ]
+        },
+        {
+          "id": "12ead0261618ae0f6feeb1adea6307d77d8438deec36433d36298396adf18ef4",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "زمان اسکن و تعداد تصاویر خام در هر چرخش",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان اسکن و تعداد تصاویر خام در هر چرخش"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ad33ac65e9f92cd60bd3310408339f86a83d9ab98fdaaec8001569ab0431d499"
+        ],
+        "explanation": "درست گفتی. چهار اهرم کنترل دوز عبارت‌اند از FOV، ولتاژ (kVp)، جریان (mA) و زمان اسکن — همگی پارامترهای اکتساب. آنچه در نرم‌افزار ویوئر بعد از اسکن تنظیم می‌شود، دیگر بر پرتو دریافتی بیمار اثری ندارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست گفتی. چهار اهرم کنترل دوز عبارت‌اند از "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "FOV، ولتاژ (kVp)، جریان (mA) و زمان اسکن"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " — همگی پارامترهای "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "اکتساب"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". آنچه در نرم‌افزار ویوئر بعد از اسکن تنظیم می‌شود، دیگر بر پرتو دریافتی بیمار اثری ندارد."
+          }
+        ],
+        "observedAt": "2026-11-17T06:14:50.014Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:8b142fa492ce60eaf926a6a1526060a0b8473cee255f1626ea5db4fbd000986a",
+      "at": "2026-11-17T06:13:56.872Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:c9d619af9af34bb97e94eadc78a78b3c3e6592ce349d6ece8f77c49cf29dc04b",
+      "at": "2026-11-17T06:13:58.942Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:10921",
+      "at": "2026-11-17T06:14:00.385Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:10924",
+      "at": "2026-11-17T06:14:23.923Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:10928",
+      "at": "2026-11-17T06:14:30.122Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:10932",
+      "at": "2026-11-17T06:14:35.755Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:10933",
+      "at": "2026-11-17T06:14:42.138Z",
+      "progress": "width: 85.7143%;"
+    },
+    {
+      "stepId": "question:10933",
+      "at": "2026-11-17T06:14:48.133Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

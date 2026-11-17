@@ -1,0 +1,2995 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/898/lesson.json",
+  "id": "898",
+  "title": "درس پنجم: مرور یونیت ۱۱",
+  "specialtyKey": "78ca0ae0dc2a400f",
+  "chapter": {
+    "id": "193",
+    "title": "پروتکل کاشت",
+    "position": 10
+  },
+  "position": 5,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "question:12422",
+      "sourceId": "12422",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "4174932ddea582e23771de9b7ead917d9b5f35d724e6c57a4fe932f2ca061eab",
+      "position": 1,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دمای ۴۰ درجه بی‌خطر است، چون آستانه‌ی مرگ سلول استخوانی ۴۷ درجه است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دمای ۴۰ درجه بی‌خطر است، چون آستانه‌ی مرگ سلول استخوانی ۴۷ درجه است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست تشخیص دادی. ۴۰ درجه به مدت ۷ دقیقه هم به مرگ سلول می‌انجامد. آسیب حرارتی یک آستانه‌ی تک‌عددی نیست — حاصل ترکیب دما و مدت است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۴۰ درجه به مدت ۷ دقیقه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " هم به مرگ سلول می‌انجامد. آسیب حرارتی یک آستانه‌ی تک‌عددی نیست — حاصل ترکیب "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دما و مدت"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است."
+          }
+        ],
+        "observedAt": "2026-11-17T06:52:27.876Z"
+      }
+    },
+    {
+      "id": "question:12425",
+      "sourceId": "12425",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 7.69231%;",
+      "contentKey": "7c86caf3985bab41efa7d1f87c974332ddac0619c7524b4409b9dce51ac2369a",
+      "position": 2,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "مسیر اصلاح‌شده باید ۱ تا ۲ میلی‌متر ______ از عمق استئوتومی اولیه برده شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مسیر اصلاح‌شده باید ۱ تا ۲ میلی‌متر ______ از عمق استئوتومی اولیه برده شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "م"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ع"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "عمیقتر",
+        "explanation": "عمیق‌تر — وگرنه مته‌ی بعدی به مسیر قدیمی سُر می‌خورد و اصلاحی که انجام دادی باطل می‌شود.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "عمیق‌تر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " — وگرنه مته‌ی بعدی به "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مسیر قدیمی سُر می‌خورد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " و اصلاحی که انجام دادی باطل می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-17T06:52:33.270Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 6,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ت"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ی"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "م"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ر"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "ق"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "ع"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:12427",
+      "sourceId": "12427",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 15.3846%;",
+      "contentKey": "0d6dcc227a489cb5a3e9aa4ceff352c9dd6748499fa0d8d2316de651b5daf88f",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا تپ در D1 لازم و در D3 ممنوع است، در حالی که ابزار یکی است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا تپ در D1 لازم و در D3 ممنوع است، در حالی که ابزار یکی است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون در D3 از ایمپلنت‌های بدون رزوه استفاده می‌شود که نیازی به ساختن رزوه در استخوان ندارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون تپ در D3 در دسترس نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون تپ در D1 سریع‌تر عمل می‌کند، ولی در D3 رزوه‌هایش فوراً فرو می‌ریزد و حرارت می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون در D1 از ایمپلنت محافظت می‌کند و در D3 فشردگی سازنده‌ی پایداری را حذف می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "daae72877cb80fd4dc3023deaece3bf8d0fe8954e0c994fcda5e7a71a2a0a063",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون در D3 از ایمپلنت‌های بدون رزوه استفاده می‌شود که نیازی به ساختن رزوه در استخوان ندارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون در D3 از ایمپلنت‌های بدون رزوه استفاده می‌شود که نیازی به ساختن رزوه در استخوان ندارند"
+            }
+          ]
+        },
+        {
+          "id": "b1f576bfef67ca249fcdaf7572fa6471c06c670f33ed814cbda9428c0eb94649",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون تپ در D3 در دسترس نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون تپ در D3 در دسترس نیست"
+            }
+          ]
+        },
+        {
+          "id": "759be6c9b24800ecee44e84770bfbe3876ab61b37fc967f3013b2ad26e7da00e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون تپ در D1 سریع‌تر عمل می‌کند، ولی در D3 رزوه‌هایش فوراً فرو می‌ریزد و حرارت می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون تپ در D1 سریع‌تر عمل می‌کند، ولی در D3 رزوه‌هایش فوراً فرو می‌ریزد و حرارت می‌سازد"
+            }
+          ]
+        },
+        {
+          "id": "5ae7650a20f2bd6cfce881b5e1c95c4b1b61b9fdcb00e4e2c66bfd396b5b5d8b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون در D1 از ایمپلنت محافظت می‌کند و در D3 فشردگی سازنده‌ی پایداری را حذف می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون در D1 از ایمپلنت محافظت می‌کند و در D3 فشردگی سازنده‌ی پایداری را حذف می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5ae7650a20f2bd6cfce881b5e1c95c4b1b61b9fdcb00e4e2c66bfd396b5b5d8b"
+        ],
+        "explanation": "درست. در D1 استخوان آن‌قدر سخت است که می‌تواند به جزء ضدچرخشی ایمپلنت آسیب بزند؛ تپ فضا را از پیش می‌سازد. در D3 که ترابکول‌ها ۵۰ درصد ضعیف‌تر از D2 هستند، فشردگی ناشی از خود ایمپلنت همان چیزی است که پایداری می‌سازد — و تپ آن را حذف می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. در "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "D1"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " استخوان آن‌قدر سخت است که می‌تواند به "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "جزء ضدچرخشی ایمپلنت"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " آسیب بزند؛ تپ فضا را از پیش می‌سازد. در "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "D3"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " که ترابکول‌ها "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۵۰ درصد ضعیف‌تر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " از D2 هستند، فشردگی ناشی از خود ایمپلنت همان چیزی است که "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پایداری می‌سازد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " — و تپ آن را حذف می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-17T06:52:38.814Z"
+      }
+    },
+    {
+      "id": "question:12430",
+      "sourceId": "12430",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 23.0769%;",
+      "contentKey": "4240a0cf80ab8db5f5c90ae73264e36f4db8f2f1a6dc3a6f481235dd845a96cf",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "با حرکت از D1 به سمت D4، دو الگوی کلی در پروتکل دیده می‌شود. کدام‌اند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "با حرکت از D1 به سمت D4، دو الگوی کلی در پروتکل دیده می‌شود. کدام‌اند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمتر برداشتن استخوان، و بالاتر نشستن نسبت به کرست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمتر برداشتن استخوان، و عمیق‌تر نشستن نسبت به کرست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیشتر برداشتن استخوان، و بالاتر نشستن نسبت به کرست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الگوی مشخصی وجود ندارد و هر تراکم پروتکل کاملاً مستقل خودش را دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "73467d562d32532155907520f9ac5d917434083ee1d70ed7a8a1e4998378fff1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کمتر برداشتن استخوان، و بالاتر نشستن نسبت به کرست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کمتر برداشتن استخوان، و بالاتر نشستن نسبت به کرست"
+            }
+          ]
+        },
+        {
+          "id": "1c79c524eb0d12db6dc3ad683c8de60d56f3143d6d186af82fa06bf5786b5046",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کمتر برداشتن استخوان، و عمیق‌تر نشستن نسبت به کرست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کمتر برداشتن استخوان، و عمیق‌تر نشستن نسبت به کرست"
+            }
+          ]
+        },
+        {
+          "id": "88b59734c0b566b5738f736e4f4463611006eb8baaf572475cfa01caec4dbb51",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "بیشتر برداشتن استخوان، و بالاتر نشستن نسبت به کرست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیشتر برداشتن استخوان، و بالاتر نشستن نسبت به کرست"
+            }
+          ]
+        },
+        {
+          "id": "725d044634a2b75972f94d9d83cc383d096f4566672c791bbfe9260905131de0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "الگوی مشخصی وجود ندارد و هر تراکم پروتکل کاملاً مستقل خودش را دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "الگوی مشخصی وجود ندارد و هر تراکم پروتکل کاملاً مستقل خودش را دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1c79c524eb0d12db6dc3ad683c8de60d56f3143d6d186af82fa06bf5786b5046"
+        ],
+        "explanation": "دو الگو با دو منطق. کمتر برداشتن چون در استخوان کم‌تراکم، هر مته استخوانی را می‌برد که به آن نیاز داری. عمیق‌تر نشستن چون استخوان کرستال نرم پشتیبانی کمتری می‌دهد. از «تمام مته‌ها به‌علاوه‌ی تپ» در D1 تا «یک تا دو مته و بعد استئوتوم» در D4.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دو الگو با دو منطق. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کمتر برداشتن"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " چون در استخوان کم‌تراکم، هر مته استخوانی را می‌برد که به آن نیاز داری. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "عمیق‌تر نشستن"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " چون استخوان کرستال نرم پشتیبانی کمتری می‌دهد. از «تمام مته‌ها به‌علاوه‌ی تپ» در D1 تا «یک تا دو مته و بعد استئوتوم» در D4."
+          }
+        ],
+        "observedAt": "2026-11-17T06:53:39.746Z"
+      }
+    },
+    {
+      "id": "question:12435",
+      "sourceId": "12435",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "c3c141224d7cf12ee9d2752c0480996603f291104df4bb96b5418251e8a997f6",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری می‌گوید بیماران با استخوان D4 را نمی‌پذیرد چون «شانس موفقیت پایینی دارند». با داده‌های این یونیت چگونه پاسخ می‌دهی؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری می‌گوید بیماران با استخوان D4 را نمی‌پذیرد چون «شانس موفقیت پایینی دارند». با داده‌های این یونیت چگونه پاسخ می‌دهی؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در مطالعه‌ی چندمرکزی، D4 با پروتکل متناسب ۱۰۰ درصد بقای جراحی داشت؛ پس مشکل پروتکل است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استدلال درست است؛ BIC کمتر از ۲۵ درصد در D4 یعنی شکست حتمی، هر پروتکلی که جراح به کار ببرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید به بیمار D4 ایمپلنت باریک‌تر داد تا استخوان کمتری برداشته شود و شانس موفقیت او بالا برود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید همه‌ی بیماران D4 را پیش از کاشت برای پیوند استخوان و افزایش تراکم ارجاع داد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5ab8001568d9c694a283ac4fe6fc096c696cf4f4f8bfdb31e8cd62e1ae61d740",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "در مطالعه‌ی چندمرکزی، D4 با پروتکل متناسب ۱۰۰ درصد بقای جراحی داشت؛ پس مشکل پروتکل است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در مطالعه‌ی چندمرکزی، D4 با پروتکل متناسب ۱۰۰ درصد بقای جراحی داشت؛ پس مشکل پروتکل است"
+            }
+          ]
+        },
+        {
+          "id": "98bc66b76512b8aa57d55ca38f47b280dea2bcf68efe60a92b395c29c29bb22f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "استدلال درست است؛ BIC کمتر از ۲۵ درصد در D4 یعنی شکست حتمی، هر پروتکلی که جراح به کار ببرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استدلال درست است؛ BIC کمتر از ۲۵ درصد در D4 یعنی شکست حتمی، هر پروتکلی که جراح به کار ببرد"
+            }
+          ]
+        },
+        {
+          "id": "df0cbca4bedeaa7820a8c5795495dac95de504c7a93de7c59aa5e77c9a756022",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "باید به بیمار D4 ایمپلنت باریک‌تر داد تا استخوان کمتری برداشته شود و شانس موفقیت او بالا برود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید به بیمار D4 ایمپلنت باریک‌تر داد تا استخوان کمتری برداشته شود و شانس موفقیت او بالا برود"
+            }
+          ]
+        },
+        {
+          "id": "954c15c60982458dc78c0c5bb025280dc9451e4291ce67afb84d098cb7d7b226",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "باید همه‌ی بیماران D4 را پیش از کاشت برای پیوند استخوان و افزایش تراکم ارجاع داد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید همه‌ی بیماران D4 را پیش از کاشت برای پیوند استخوان و افزایش تراکم ارجاع داد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5ab8001568d9c694a283ac4fe6fc096c696cf4f4f8bfdb31e8cd62e1ae61d740"
+        ],
+        "explanation": "در مطالعه‌ی ۳۶۴ ایمپلنت، بقا چنین بود: D1: ۱۰۰٪، D2: ۹۸٫۴٪، D3: ۹۹٫۸٪، D4: ۱۰۰٪. این تفاوت‌های کوچک را رتبه‌بندی نخوان؛ پیام این است که با پروتکل متناسب، حتی D4 نتیجه‌ی عالی می‌دهد. گزارش‌هایی که در D4 شکست بیشتری دیده‌اند، اغلب همه‌ی تراکم‌ها را با یک پروتکل درمان کرده بودند. خطر واقعی، استخوان ضعیف نیست؛ پروتکل نامتناسب است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در مطالعه‌ی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۳۶۴ ایمپلنت"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، بقا چنین بود: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "D1: ۱۰۰٪، D2: ۹۸٫۴٪، D3: ۹۹٫۸٪، D4: ۱۰۰٪"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". این تفاوت‌های کوچک را رتبه‌بندی نخوان؛ پیام این است که با پروتکل متناسب، حتی D4 نتیجه‌ی عالی می‌دهد. گزارش‌هایی که در D4 شکست بیشتری دیده‌اند، اغلب همه‌ی تراکم‌ها را با یک پروتکل درمان کرده بودند. خطر واقعی، استخوان ضعیف نیست؛ "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پروتکل نامتناسب"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است."
+          }
+        ],
+        "observedAt": "2026-11-17T06:53:43.278Z"
+      }
+    },
+    {
+      "id": "question:12438",
+      "sourceId": "12438",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 33.3333%;",
+      "contentKey": "26e863324087a175b8bcf89e0b45dda34483fae646c9604ecc87af7f4529caa4",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری از موفقیت استئودنسیفیکیشن در D4 نتیجه می‌گیرد که «فشردگی همیشه بهتر است» و در مندیبل قدامی با استخوان D1 هم مته‌ی کانترسینک را حذف می‌کند. ایراد کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری از موفقیت استئودنسیفیکیشن در D4 نتیجه می‌گیرد که «فشردگی همیشه بهتر است» و در مندیبل قدامی با استخوان D1 هم مته‌ی کانترسینک را حذف می‌کند. ایراد کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایراد این است که استئودنسیفیکیشن در D4 مؤثر نیست و موفقیت ظاهری‌اش فقط حاصل ترمیم طولانی‌ترِ آن ناحیه است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اصل استخوان نرم را به کورتیکال متراکم تعمیم داده؛ در D1 فشار کرست مدول تحلیل کرستال می‌آورد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایراد فقط این است که کانترسینک زمان جراحی را کم می‌کند و حذفش مراحل درج را طولانی‌تر و دشوارتر می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایرادی ندارد؛ نتیجه‌گیری منطقی است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "6d697a23e11e3c73d12247aaa6682bd97af7890efeb3257c0e7a4786e6fbaf25",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ایراد این است که استئودنسیفیکیشن در D4 مؤثر نیست و موفقیت ظاهری‌اش فقط حاصل ترمیم طولانی‌ترِ آن ناحیه است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایراد این است که استئودنسیفیکیشن در D4 مؤثر نیست و موفقیت ظاهری‌اش فقط حاصل ترمیم طولانی‌ترِ آن ناحیه است"
+            }
+          ]
+        },
+        {
+          "id": "c97aef8db9a34f9dd5f25b64a63f274a2127e18c2bdfa20be4cd1da591754151",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اصل استخوان نرم را به کورتیکال متراکم تعمیم داده؛ در D1 فشار کرست مدول تحلیل کرستال می‌آورد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اصل استخوان نرم را به کورتیکال متراکم تعمیم داده؛ در D1 فشار کرست مدول تحلیل کرستال می‌آورد"
+            }
+          ]
+        },
+        {
+          "id": "e9869f4da36a368644a5474ff95a1a569722162478f9488f561a18f2b844a7b9",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ایراد فقط این است که کانترسینک زمان جراحی را کم می‌کند و حذفش مراحل درج را طولانی‌تر و دشوارتر می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایراد فقط این است که کانترسینک زمان جراحی را کم می‌کند و حذفش مراحل درج را طولانی‌تر و دشوارتر می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "8a86a0dd833513b22b7c567d0b24d29700adb8679517a99ef6576e75f7383767",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ایرادی ندارد؛ نتیجه‌گیری منطقی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایرادی ندارد؛ نتیجه‌گیری منطقی است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c97aef8db9a34f9dd5f25b64a63f274a2127e18c2bdfa20be4cd1da591754151"
+        ],
+        "explanation": "یک قاعده‌ی درست، بی‌قید تعمیم داده شده. در D3 و D4 مته‌ی کرستال به کار نمی‌رود و فشرده شدن کرست نازک به کرست مدول ثبات می‌سازد؛ ولی کورتیکال متراکم D1 این فشار را تحمل نمی‌کند و مته‌ی کرستال آخرین مرحله‌ی آماده‌سازی آن است — حذفش در یک مطالعه حدود ۱٫۵ میلی‌متر تحلیل کرستال بیشتر ساخت.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "یک قاعده‌ی درست، "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بی‌قید تعمیم داده شده"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". در D3 و D4 مته‌ی کرستال به کار نمی‌رود و فشرده شدن کرست نازک به کرست مدول ثبات می‌سازد؛ ولی کورتیکال متراکم D1 این فشار را تحمل نمی‌کند و مته‌ی کرستال آخرین مرحله‌ی آماده‌سازی آن است — حذفش در یک مطالعه حدود ۱٫۵ میلی‌متر تحلیل کرستال بیشتر ساخت."
+          }
+        ],
+        "observedAt": "2026-11-17T06:53:46.806Z"
+      }
+    },
+    {
+      "id": "question:12439",
+      "sourceId": "12439",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "7751d055500e677572406389ccd30cfe8e0aa1a1a54bb73959cf66aae2d56cde",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا تصمیم تک‌مرحله‌ای یا دو مرحله‌ای را نمی‌توان به‌طور قطعی پیش از جراحی گرفت؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا تصمیم تک‌مرحله‌ای یا دو مرحله‌ای را نمی‌توان به‌طور قطعی پیش از جراحی گرفت؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون ثبات اولیه‌ی به‌دست‌آمده فقط پس از درج ایمپلنت معلوم می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون بیمار ممکن است در طول جراحی نظرش درباره‌ی نیاز به جلسه‌ی دوم عوض شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون تجهیزات لازم برای هر دو روش ممکن است در همه‌ی مطب‌ها در دسترس نباشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "می‌توان گرفت؛ این تصمیم فقط به برنامه‌ی زمانی بیمار و ترجیح جراح بستگی دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8cd0fbbc90ecbd54580f26b6e2c7cefdabbe4319c66eeaccb25a8611a1a29f1a",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون ثبات اولیه‌ی به‌دست‌آمده فقط پس از درج ایمپلنت معلوم می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون ثبات اولیه‌ی به‌دست‌آمده فقط پس از درج ایمپلنت معلوم می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "7307d6f157300f3586564a9ef7ec3eb648fe3df872665cab657d9df611b30d90",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون بیمار ممکن است در طول جراحی نظرش درباره‌ی نیاز به جلسه‌ی دوم عوض شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون بیمار ممکن است در طول جراحی نظرش درباره‌ی نیاز به جلسه‌ی دوم عوض شود"
+            }
+          ]
+        },
+        {
+          "id": "da63947bccec347d4d3d90940c7d5c548f4dd450d4f580f766f984056fb74925",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون تجهیزات لازم برای هر دو روش ممکن است در همه‌ی مطب‌ها در دسترس نباشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون تجهیزات لازم برای هر دو روش ممکن است در همه‌ی مطب‌ها در دسترس نباشد"
+            }
+          ]
+        },
+        {
+          "id": "140275172ca7e6af32f5551d9d13182343a731226ce2638a1c1f56dfd1897028",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "می‌توان گرفت؛ این تصمیم فقط به برنامه‌ی زمانی بیمار و ترجیح جراح بستگی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "می‌توان گرفت؛ این تصمیم فقط به برنامه‌ی زمانی بیمار و ترجیح جراح بستگی دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8cd0fbbc90ecbd54580f26b6e2c7cefdabbe4319c66eeaccb25a8611a1a29f1a"
+        ],
+        "explanation": "برنامه‌ریزی پیش از جراحی ارزشمند است، ولی این تصمیم خاص داده‌ای می‌خواهد که هنوز وجود ندارد. راه‌حل عملی: هر دو مسیر را آماده داشتن — هم کاور اسکرو و هم اباتمنت هیلینگ.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "برنامه‌ریزی پیش از جراحی ارزشمند است، ولی این تصمیم خاص "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "داده‌ای می‌خواهد که هنوز وجود ندارد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". راه‌حل عملی: هر دو مسیر را آماده داشتن — هم کاور اسکرو و هم اباتمنت هیلینگ."
+          }
+        ],
+        "observedAt": "2026-11-17T06:53:01.425Z"
+      }
+    },
+    {
+      "id": "question:12444",
+      "sourceId": "12444",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 43.75%;",
+      "contentKey": "9b13100d3322627ae9ae782a847e793c4e638e495ded529c72c7d456fb317f0f",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "جراحی دو ایمپلنت در یک جلسه: یکی در مندیبل قدامی D1 و یکی در ماگزیلای خلفی D4. کامل‌ترین برنامه‌ی مدیریت این جلسه کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "جراحی دو ایمپلنت در یک جلسه: یکی در مندیبل قدامی D1 و یکی در ماگزیلای خلفی D4. کامل‌ترین برنامه‌ی مدیریت این جلسه کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو پروتکل جدا، دور و ابزار درج متناسب با هر محل، مراقبت حرارتی بیشتر در D4، و بارگذاری هم‌زمان هر دو پس از چهار ماه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک پروتکل واحد با دور ۲۰۰۰ برای هر دو محل، راچت دستی در هر دو، شست‌وشوی خنک، و زمان ترمیم یکسان برای ساده‌تر شدن کار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو پروتکل جدا، دور و ابزار درج متناسب با هر محل، مراقبت حرارتی بیشتر در D1، زمان ترمیم متفاوت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو پروتکل جدا، تپ در هر دو محل برای درج راحت، هندپیس در هر دو محل، و انتظار زمان ترمیم متفاوت برای دو ایمپلنت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "789c9a26320666767f59812038185251ba26d78bdf4838800a30e62a42def084",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دو پروتکل جدا، دور و ابزار درج متناسب با هر محل، مراقبت حرارتی بیشتر در D4، و بارگذاری هم‌زمان هر دو پس از چهار ماه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دو پروتکل جدا، دور و ابزار درج متناسب با هر محل، مراقبت حرارتی بیشتر در D4، و بارگذاری هم‌زمان هر دو پس از چهار ماه"
+            }
+          ]
+        },
+        {
+          "id": "475e62eaf89fa0ee4ac8c85b4c551b6943eda97d4e246ab8e4b30f9da26edb10",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "یک پروتکل واحد با دور ۲۰۰۰ برای هر دو محل، راچت دستی در هر دو، شست‌وشوی خنک، و زمان ترمیم یکسان برای ساده‌تر شدن کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک پروتکل واحد با دور ۲۰۰۰ برای هر دو محل، راچت دستی در هر دو، شست‌وشوی خنک، و زمان ترمیم یکسان برای ساده‌تر شدن کار"
+            }
+          ]
+        },
+        {
+          "id": "c5dfd8feda366250b518671add483bb314f5df5d6f435615f0f095d605b9ea1a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دو پروتکل جدا، دور و ابزار درج متناسب با هر محل، مراقبت حرارتی بیشتر در D1، زمان ترمیم متفاوت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دو پروتکل جدا، دور و ابزار درج متناسب با هر محل، مراقبت حرارتی بیشتر در D1، زمان ترمیم متفاوت"
+            }
+          ]
+        },
+        {
+          "id": "f242760d876e0b556d13a3d64078b5f1c8fe22028ee0f286692948d167764bbd",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دو پروتکل جدا، تپ در هر دو محل برای درج راحت، هندپیس در هر دو محل، و انتظار زمان ترمیم متفاوت برای دو ایمپلنت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دو پروتکل جدا، تپ در هر دو محل برای درج راحت، هندپیس در هر دو محل، و انتظار زمان ترمیم متفاوت برای دو ایمپلنت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c5dfd8feda366250b518671add483bb314f5df5d6f435615f0f095d605b9ea1a"
+        ],
+        "explanation": "نکته‌ی کلیدی این است که یک بیمار می‌تواند دو پروتکل کاملاً متفاوت لازم داشته باشد. تراکم ویژگی محل است نه بیمار. و بند آخر پیامد عملی مهمی دارد: زمان بارگذاری این دو ایمپلنت یکی نیست — ۳ تا ۴ ماه برای D1 و ۵ تا ۶ ماه برای D4.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نکته‌ی کلیدی این است که "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "یک بیمار می‌تواند دو پروتکل کاملاً متفاوت لازم داشته باشد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". تراکم ویژگی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "محل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است نه بیمار. و بند آخر پیامد عملی مهمی دارد: زمان بارگذاری این دو ایمپلنت یکی نیست — "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۳ تا ۴ ماه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " برای D1 و "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۵ تا ۶ ماه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " برای D4."
+          }
+        ],
+        "observedAt": "2026-11-17T06:53:50.349Z"
+      }
+    },
+    {
+      "id": "question:12447",
+      "sourceId": "12447",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 47.0588%;",
+      "contentKey": "36ade24823ff3e766a4713ce545048a2cdb212f445138cfd98f4fb650be74f43",
+      "position": 9,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری در جراحی فلپ‌لس همان حجم شست‌وشوی معمول را به کار می‌برد. چه چیزی را نادیده گرفته؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری در جراحی فلپ‌لس همان حجم شست‌وشوی معمول را به کار می‌برد. چه چیزی را نادیده گرفته؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چیزی نادیده نگرفته؛ حجم شست‌وشو فقط به تراکم استخوان و دور مته بستگی دارد و به باز یا بسته بودن فلپ ربطی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایراد این است که در فلپ‌لس اصلاً شست‌وشو لازم نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایراد فقط این است که فلپ‌لس زمان بیشتری می‌برد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بدون فلپ، رساندن شست‌وشوی کافی به استئوتومی دشوارتر است و خطر گرم شدن استخوان بیشتر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "f60cbfa8ec2e99e6b76436f160c8567eda760c6c4b61dc2f8f79b81581390ba4",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چیزی نادیده نگرفته؛ حجم شست‌وشو فقط به تراکم استخوان و دور مته بستگی دارد و به باز یا بسته بودن فلپ ربطی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چیزی نادیده نگرفته؛ حجم شست‌وشو فقط به تراکم استخوان و دور مته بستگی دارد و به باز یا بسته بودن فلپ ربطی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "e386b1ac3d5c398f6afd7b1b06c506c0da986d26120726189b6c5344cefa9999",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ایراد این است که در فلپ‌لس اصلاً شست‌وشو لازم نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایراد این است که در فلپ‌لس اصلاً شست‌وشو لازم نیست"
+            }
+          ]
+        },
+        {
+          "id": "8d60d5c42087abd1d03ec62ed7c36b01bab3e31f0576dacf91d196c003bcc2d9",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ایراد فقط این است که فلپ‌لس زمان بیشتری می‌برد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایراد فقط این است که فلپ‌لس زمان بیشتری می‌برد"
+            }
+          ]
+        },
+        {
+          "id": "9354cbbb7320473af38c59b67814a59505964e2f629613dfad93ac666c2f915a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بدون فلپ، رساندن شست‌وشوی کافی به استئوتومی دشوارتر است و خطر گرم شدن استخوان بیشتر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بدون فلپ، رساندن شست‌وشوی کافی به استئوتومی دشوارتر است و خطر گرم شدن استخوان بیشتر می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9354cbbb7320473af38c59b67814a59505964e2f629613dfad93ac666c2f915a"
+        ],
+        "explanation": "این یکی از عیوب شناخته‌شده‌ی فلپ‌لس است، به‌ویژه با گاید متکی بر بافت نرم. روش کم‌تهاجم‌تر برای بافت نرم، در سمت استخوان ریسک تازه‌ای می‌سازد. پاسخ درست حذف فلپ‌لس نیست؛ افزایش شست‌وشو و کاهش زمان تماس مته است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این یکی از عیوب شناخته‌شده‌ی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "فلپ‌لس"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است، به‌ویژه با گاید متکی بر بافت نرم. روش کم‌تهاجم‌تر برای بافت نرم، در سمت "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "استخوان"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " ریسک تازه‌ای می‌سازد. پاسخ درست حذف فلپ‌لس نیست؛ "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "افزایش شست‌وشو و کاهش زمان تماس مته"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است."
+          }
+        ],
+        "observedAt": "2026-11-17T06:53:53.742Z"
+      }
+    },
+    {
+      "id": "question:12448",
+      "sourceId": "12448",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "c9b4d0eb64e72bdf71870a18286d5b815533f6f8b89533d3f947b950998c0bf0",
+      "position": 10,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا در D1 راچت دستی بر هندپیس ترجیح دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا در D1 راچت دستی بر هندپیس ترجیح دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون راچت سریع‌تر است و زمان تماس ایمپلنت با کورتیکال داغ را کوتاه می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون هندپیس در D1 ایمپلنت را به سمت فاسیال می‌راند و از کورتیکال لینگوال دور می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون درج در این تراکم دشوارتر است و راچت کنترل و بازخورد بهتری می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون در D1 از ایمپلنت‌های بدون رزوه استفاده می‌شود که با هندپیس جا نمی‌افتند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "49cc9927e7519072998adadb319df1fcf5b2966b5150e1c52c4b5a4d1e052792",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون راچت سریع‌تر است و زمان تماس ایمپلنت با کورتیکال داغ را کوتاه می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون راچت سریع‌تر است و زمان تماس ایمپلنت با کورتیکال داغ را کوتاه می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "01afaec39c8318ad771b6008740c25005b3593cbbe78284d0b8c599b54c6b2f9",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون هندپیس در D1 ایمپلنت را به سمت فاسیال می‌راند و از کورتیکال لینگوال دور می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون هندپیس در D1 ایمپلنت را به سمت فاسیال می‌راند و از کورتیکال لینگوال دور می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "47e61284e019c51241e67f82eaafca43ec2994d9497d02b48a3d1383824c1524",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون درج در این تراکم دشوارتر است و راچت کنترل و بازخورد بهتری می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون درج در این تراکم دشوارتر است و راچت کنترل و بازخورد بهتری می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "8dea31c58c44847508949b30cf1817cbe949b075ed16955f3e9e29701b466001",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون در D1 از ایمپلنت‌های بدون رزوه استفاده می‌شود که با هندپیس جا نمی‌افتند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون در D1 از ایمپلنت‌های بدون رزوه استفاده می‌شود که با هندپیس جا نمی‌افتند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "47e61284e019c51241e67f82eaafca43ec2994d9497d02b48a3d1383824c1524"
+        ],
+        "explanation": "آفرین. در استخوان باکیفیت‌تر، به‌ویژه D1، ورود ایمپلنت می‌تواند دشوار شود — و راچت به دست جراح حس مقاومت می‌دهد، چیزی که هندپیس نمی‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. در استخوان "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "باکیفیت‌تر، به‌ویژه D1"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، ورود ایمپلنت می‌تواند دشوار شود — و راچت به دست جراح "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "حس مقاومت"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌دهد، چیزی که هندپیس نمی‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-17T06:53:57.277Z"
+      }
+    },
+    {
+      "id": "question:12452",
+      "sourceId": "12452",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 52.6316%;",
+      "contentKey": "b4c9a6e6841e739b1c62e88b70badf960f3a6712e788a2e33859ce937e3c058c",
+      "position": 11,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در استخوان D1، اگر ایمپلنتی با کرست مدول پهن‌تر بدون مته‌ی کانترسینک وارد شود، ثبات اولیه‌ی بهتری به دست می‌آید.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در استخوان D1، اگر ایمپلنتی با کرست مدول پهن‌تر بدون مته‌ی کانترسینک وارد شود، ثبات اولیه‌ی بهتری به دست می‌آید."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "در کورتیکال متراکم D1 این کار استخوان کرستال را فشرده می‌کند — و فشار بیش‌ازحد در پرتنش‌ترین ناحیه به تحلیل کرستال می‌انجامد، نه پایداری بیشتر. در D3 و D4 ماجرا فرق دارد: آنجا فشرده شدن کرست نازک به کرست مدول ثبات را بیشتر می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در کورتیکال متراکم D1 این کار "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "استخوان کرستال را فشرده می‌کند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " — و فشار بیش‌ازحد در پرتنش‌ترین ناحیه به "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "تحلیل کرستال"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌انجامد، نه پایداری بیشتر. در D3 و D4 ماجرا فرق دارد: آنجا فشرده شدن کرست نازک به کرست مدول ثبات را بیشتر می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-17T06:53:24.273Z"
+      }
+    },
+    {
+      "id": "question:12454",
+      "sourceId": "12454",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.8947%;",
+      "contentKey": "65e390c69424097a3912558dc1dce4dc7cfdaaea88aa3bcf509c06e754cacd01",
+      "position": 12,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار می‌پرسد چرا دوستش دو ماه زودتر پروتز گرفته در حالی که هر دو در یک زمان ایمپلنت کاشته‌اند. بهترین پاسخ کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار می‌پرسد چرا دوستش دو ماه زودتر پروتز گرفته در حالی که هر دو در یک زمان ایمپلنت کاشته‌اند. بهترین پاسخ کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«چون جراح دوستتان عجله داشته و پیش از محکم شدن کامل ایمپلنت پروتز را گذاشته»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«چون ایمپلنت دوستتان مارک بهتری داشته و سطحش زودتر و محکم‌تر با استخوان یکی می‌شود»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«زمان‌ها باید یکسان باشد؛ حتماً در یکی از دو درمان اشتباهی رخ داده که باید پیگیری شود»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«تراکم استخوان در هر ناحیه و هر فرد فرق دارد و زمان محکم شدن ایمپلنت هم»"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ac3bfb5ef18d31e164f716b349570b6bb5db5ebefc12303003c57a0cd884af3d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "«چون جراح دوستتان عجله داشته و پیش از محکم شدن کامل ایمپلنت پروتز را گذاشته»",
+          "content": [
+            {
+              "tag": "text",
+              "text": "«چون جراح دوستتان عجله داشته و پیش از محکم شدن کامل ایمپلنت پروتز را گذاشته»"
+            }
+          ]
+        },
+        {
+          "id": "822f114f4d6bf714aca751817b5f6615bced2fe9a667abbe05788369f459a251",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "«چون ایمپلنت دوستتان مارک بهتری داشته و سطحش زودتر و محکم‌تر با استخوان یکی می‌شود»",
+          "content": [
+            {
+              "tag": "text",
+              "text": "«چون ایمپلنت دوستتان مارک بهتری داشته و سطحش زودتر و محکم‌تر با استخوان یکی می‌شود»"
+            }
+          ]
+        },
+        {
+          "id": "ffee30c3782f63b2884411952965b12ea0d7ba6d299d7335c33c2caf7ebeb296",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "«زمان‌ها باید یکسان باشد؛ حتماً در یکی از دو درمان اشتباهی رخ داده که باید پیگیری شود»",
+          "content": [
+            {
+              "tag": "text",
+              "text": "«زمان‌ها باید یکسان باشد؛ حتماً در یکی از دو درمان اشتباهی رخ داده که باید پیگیری شود»"
+            }
+          ]
+        },
+        {
+          "id": "b09eba0ed922e1946293b8a8d365ef9b373e76d7be51f88aa760a62944ee715c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "«تراکم استخوان در هر ناحیه و هر فرد فرق دارد و زمان محکم شدن ایمپلنت هم»",
+          "content": [
+            {
+              "tag": "text",
+              "text": "«تراکم استخوان در هر ناحیه و هر فرد فرق دارد و زمان محکم شدن ایمپلنت هم»"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "b09eba0ed922e1946293b8a8d365ef9b373e76d7be51f88aa760a62944ee715c"
+        ],
+        "explanation": "درست. پاسخ خوب مقایسه را بی‌اثر می‌کند با توضیح اینکه دو مورد از ابتدا قابل مقایسه نبوده‌اند. تفاوت ۳ تا ۴ ماه در D1 تا ۵ تا ۶ ماه در D4، تفاوت واقعی و مستندی است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. پاسخ خوب "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مقایسه را بی‌اثر می‌کند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " با توضیح اینکه دو مورد از ابتدا قابل مقایسه نبوده‌اند. تفاوت "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۳ تا ۴ ماه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " در D1 تا "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۵ تا ۶ ماه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " در D4، تفاوت واقعی و مستندی است."
+          }
+        ],
+        "observedAt": "2026-11-17T06:53:30.104Z"
+      }
+    },
+    {
+      "id": "question:12459",
+      "sourceId": "12459",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 63.1579%;",
+      "contentKey": "7d38e9d3d3e5410d6be33462d53626d33ee7d1e032c67d23156e7243635bbca7",
+      "position": 13,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اگر بخواهی کل این یونیت را در سه اصل خلاصه کنی، کدام مجموعه دقیق‌تر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اگر بخواهی کل این یونیت را در سه اصل خلاصه کنی، کدام مجموعه دقیق‌تر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دور پایین حرارت کمتری می‌سازد، گاید جای ارزیابی حین جراحی را می‌گیرد، و پروتکل واحد برای همه‌ی تراکم‌ها ساده‌تر و امن‌تر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط ابعاد ایمپلنت اهمیت دارد، پروتکل دریل جزئیات است، و تجربه‌ی جراح جای تطبیق پروتکل با تراکم را می‌گیرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حرارت فقط به دمای لحظه‌ای بستگی دارد، اصلاح مسیر در هر مرحله به یک اندازه ممکن است، و تراکم بر پروتکل اثری ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حرارت حاصل دما و زمان است، اصلاح مسیر فقط در ابتدای توالی ارزان است، پروتکل باید با تراکم تطبیق یابد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a3a35a7253a1a044030125840638626688558b2373eaa0289b7236eae0ba17bd",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دور پایین حرارت کمتری می‌سازد، گاید جای ارزیابی حین جراحی را می‌گیرد، و پروتکل واحد برای همه‌ی تراکم‌ها ساده‌تر و امن‌تر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دور پایین حرارت کمتری می‌سازد، گاید جای ارزیابی حین جراحی را می‌گیرد، و پروتکل واحد برای همه‌ی تراکم‌ها ساده‌تر و امن‌تر است"
+            }
+          ]
+        },
+        {
+          "id": "d12f6a6f2182b2362087d11e206ee651d4da40ddb0d8399438d5be98a32320b5",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "فقط ابعاد ایمپلنت اهمیت دارد، پروتکل دریل جزئیات است، و تجربه‌ی جراح جای تطبیق پروتکل با تراکم را می‌گیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط ابعاد ایمپلنت اهمیت دارد، پروتکل دریل جزئیات است، و تجربه‌ی جراح جای تطبیق پروتکل با تراکم را می‌گیرد"
+            }
+          ]
+        },
+        {
+          "id": "52e5adf980777752459ed1bb4ad93900f0c7cc6bbb09b9712df6744093b98794",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "حرارت فقط به دمای لحظه‌ای بستگی دارد، اصلاح مسیر در هر مرحله به یک اندازه ممکن است، و تراکم بر پروتکل اثری ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حرارت فقط به دمای لحظه‌ای بستگی دارد، اصلاح مسیر در هر مرحله به یک اندازه ممکن است، و تراکم بر پروتکل اثری ندارد"
+            }
+          ]
+        },
+        {
+          "id": "bb6be935c05265ef5f921f854c189b33b8bc97233d46613aef25bd6a3fc99832",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "حرارت حاصل دما و زمان است، اصلاح مسیر فقط در ابتدای توالی ارزان است، پروتکل باید با تراکم تطبیق یابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حرارت حاصل دما و زمان است، اصلاح مسیر فقط در ابتدای توالی ارزان است، پروتکل باید با تراکم تطبیق یابد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "bb6be935c05265ef5f921f854c189b33b8bc97233d46613aef25bd6a3fc99832"
+        ],
+        "explanation": "هر سه اصل یک ویژگی مشترک دارند: هیچ‌کدام یک عدد یا یک قاعده‌ی مطلق نیستند. هر سه درباره‌ی رابطه‌اند: رابطه‌ی دما و زمان، رابطه‌ی خطا و لحظه‌ی کشفش، و رابطه‌ی پروتکل و تراکم.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هر سه اصل یک ویژگی مشترک دارند: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هیچ‌کدام یک عدد یا یک قاعده‌ی مطلق نیستند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". هر سه درباره‌ی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "رابطه‌اند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ": رابطه‌ی دما و زمان، رابطه‌ی خطا و لحظه‌ی کشفش، و رابطه‌ی پروتکل و تراکم."
+          }
+        ],
+        "observedAt": "2026-11-17T06:54:00.863Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "question:12422",
+      "at": "2026-11-17T06:52:23.643Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "question:12425",
+      "at": "2026-11-17T06:52:29.478Z",
+      "progress": "width: 7.69231%;"
+    },
+    {
+      "stepId": "question:12427",
+      "at": "2026-11-17T06:52:34.890Z",
+      "progress": "width: 15.3846%;"
+    },
+    {
+      "stepId": "question:12430",
+      "at": "2026-11-17T06:52:40.420Z",
+      "progress": "width: 23.0769%;"
+    },
+    {
+      "stepId": "question:12435",
+      "at": "2026-11-17T06:52:45.842Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:12438",
+      "at": "2026-11-17T06:52:51.588Z",
+      "progress": "width: 33.3333%;"
+    },
+    {
+      "stepId": "question:12439",
+      "at": "2026-11-17T06:52:57.217Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:12444",
+      "at": "2026-11-17T06:53:03.025Z",
+      "progress": "width: 43.75%;"
+    },
+    {
+      "stepId": "question:12447",
+      "at": "2026-11-17T06:53:08.782Z",
+      "progress": "width: 47.0588%;"
+    },
+    {
+      "stepId": "question:12448",
+      "at": "2026-11-17T06:53:14.790Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:12452",
+      "at": "2026-11-17T06:53:20.316Z",
+      "progress": "width: 52.6316%;"
+    },
+    {
+      "stepId": "question:12454",
+      "at": "2026-11-17T06:53:25.889Z",
+      "progress": "width: 57.8947%;"
+    },
+    {
+      "stepId": "question:12459",
+      "at": "2026-11-17T06:53:31.708Z",
+      "progress": "width: 63.1579%;"
+    },
+    {
+      "stepId": "question:12430",
+      "at": "2026-11-17T06:53:37.850Z",
+      "progress": "width: 65%;"
+    },
+    {
+      "stepId": "question:12435",
+      "at": "2026-11-17T06:53:41.363Z",
+      "progress": "width: 70%;"
+    },
+    {
+      "stepId": "question:12438",
+      "at": "2026-11-17T06:53:44.891Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:12444",
+      "at": "2026-11-17T06:53:48.420Z",
+      "progress": "width: 80%;"
+    },
+    {
+      "stepId": "question:12447",
+      "at": "2026-11-17T06:53:51.965Z",
+      "progress": "width: 85%;"
+    },
+    {
+      "stepId": "question:12448",
+      "at": "2026-11-17T06:53:55.353Z",
+      "progress": "width: 90%;"
+    },
+    {
+      "stepId": "question:12459",
+      "at": "2026-11-17T06:53:58.908Z",
+      "progress": "width: 95%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
