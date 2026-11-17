@@ -1,0 +1,1925 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1071/lesson.json",
+  "id": "1071",
+  "title": "درس سوم: کانتی‌لور و A-P spread — قاعده‌ی ۲.۵",
+  "specialtyKey": "9a0c07a2467762f6",
+  "chapter": {
+    "id": "229",
+    "title": "بخش ۱: بیومکانیک و نیرو، بیومکانیک بالینی ایمپلنت",
+    "position": 1
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:1a51d121fc7b2247828d765fa866c22aa32189570f2d3d4bf310d755bb07972f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "a0dcc71efcfbebe250eec5160e2c6cf00982d51c4161e4bb5746e4b1219f7a10",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "یک محاسبه که همه‌چیز را روشن می‌کند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این درس یک محاسبه دارد که اگر آن را بفهمی، تصمیم‌های کانتی‌لور برایت دیگر شهودی نخواهد بود بلکه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قابل حساب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "صورت مسئله این است: «اگر دو ایمپلنت با فاصله‌ی ۱۰ میلی‌متر به هم اسپلینت شوند، و یک کانتی‌لور دیستالی ۲۰ میلی‌متری با بار ۱۰۰ نیوتن طراحی شود، نیروهای زیر حاصل می‌شوند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و پاسخ دقیق را کپشن همان شکل می‌دهد: «یک بار ۱۰۰ نیوتنی با نیروی ۲۰۰ نیوتنی توسط ایمپلنت مزیالی مقاومت می‌شود، و ایمپلنت دیستالی به‌عنوان تکیه‌گاه با بار ۳۰۰ نیوتن عمل می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه چیز را از این مثال بردار:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱. نیرو تقسیم نمی‌شود؛ تشدید می‌شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بار ۱۰۰ نیوتنی به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰۰ و ۳۰۰ نیوتن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تبدیل شد — یعنی دو و سه برابر خودش."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲. ایمپلنت مزیالی کشیده می‌شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و از درس اول می‌دانی که کشش و برش، رابط استخوان‌ـ‌ایمپلنت را از هم می‌کشند. یعنی ایمپلنت دورتر از کانتی‌لور، بدترین "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نوع"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بار را می‌گیرد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "۳. ایمپلنت دیستالی نقش تکیه‌گاه (fulcrum) دارد. بار فشاری بیشتری می‌گیرد ولی نوعش مطلوب‌تر است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و نتیجه: «چون استخوان و پیچ‌ها تحت اثر نیروهای کششی ضعیف‌ترند، هر دو ایمپلنت برای عوارض در معرض خطر بیشتری قرار می‌گیرند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و حالا اثر فاصله‌ی بین ایمپلنت‌ها —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که مهم‌ترین درس این مثال است:"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حالا محل و مقدار بار را ثابت نگه دار و فقط ایمپلنت دیستالی را ۵ میلی‌متر جلوتر بگذار؛ فاصله‌ی دو ایمپلنت ۵ میلی‌متر و کانتی‌لور ۲۵ میلی‌متر می‌شود: «اگر ایمپلنت‌ها ۵ میلی‌متر فاصله داشته باشند، آنگاه ایمپلنت قدامی باید در برابر نیروی ۵۰۰ نیوتنی مقاومت کند و ایمپلنت تکیه‌گاهی دیستالی نیروی ۶۰۰ نیوتنی دریافت می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقایسه کن:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• فاصله‌ی ۱۰ میلی‌متر و کانتی‌لور ۲۰ میلی‌متر ← "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰۰ و ۳۰۰ نیوتن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "• فاصله‌ی ۵ میلی‌متر و کانتی‌لور ۲۵ میلی‌متر ← "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵۰۰ و ۶۰۰ نیوتن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و به همین دلیل است که: «بنابراین نیروی کششی روی ایمپلنت قدامی ۲٫۵ برابر افزایش می‌یابد، در حالی که نیروی فشاری دو برابر می‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "به این دقت کن که ۲٫۵ و ۲ ضرایب مقایسه‌ی دو حالت‌اند، نه ضرایب خودِ بار. یک جابه‌جایی ۵ میلی‌متری ایمپلنت دیستالی، نیروی کششی را دوونیم برابر کرد — بدون آنکه بار اکلوزالی یا محل آن تغییر کرده باشد. حساب ساده‌ای پشت آن است: کشش ایمپلنت مزیالی = بار × طول کانتی‌لور ÷ فاصله‌ی ایمپلنت‌ها (۱۰۰×۲۰÷۱۰ = ۲۰۰ و ۱۰۰×۲۵÷۵ = ۵۰۰)؛ نیروی تکیه‌گاه هم همین عدد به‌اضافه‌ی خود بار است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یعنی فاصله‌ی میان ایمپلنت‌های تکیه‌گاهی، خودش یک متغیر طراحی است — نه چیزی که تصادفی تعیین شود. هرچه این فاصله بیشتر باشد، نیروهای حاصل کمتر می‌شوند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و همین ما را به مفهوم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "A-P spread"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌رساند: فاصله‌ی قدامی‌ـ‌خلفی میان دورترین ایمپلنت‌های اسپلینت‌شده."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و قاعده‌ی عددی که باید بدانی:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "«تجربه‌های بالینی نشان می‌دهند که کانتی‌لور دیستالی نباید بیش از ۲٫۵ برابر A-P spread امتداد یابد، تحت شرایط ایده‌آل (برای نمونه نبود پارافانکشن یا پنج ایمپلنت دیویژن A).»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به قید «شرایط ایده‌آل» دقت کن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — و دو نمونه‌اش این‌هاست: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نبود پارافانکشن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پنج ایمپلنت دیویژن A"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". اگر این شرایط برقرار نباشد، ضریب ۲٫۵ سقف نیست؛ عددی است که باید از آن پایین‌تر بروی. و در براکسیسم شدید، هیچ کانتی‌لوری ساخته نمی‌شود — هر عامل دیگری هم که مساعد باشد."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/pf005-700ca4771254d405.webp",
+                  "alt": "نمودار محاسبه‌ی نیروهای حاصل از کانتی‌لور روی دو ایمپلنت اسپلینت‌شده در دو حالت فاصله",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/fdb868223f9a588febf465d0f41e1b6ede0954b1121f0e1cd83e25eb3c8ad3e3.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اثر فاصله‌ی ایمپلنت‌ها بر نیروهای حاصل: با فاصله‌ی ۱۰ میلی‌متر و کانتی‌لور ۲۰ میلی‌متری، بار ۱۰۰ نیوتنی به ۲۰۰ نیوتن روی ایمپلنت مزیالی و ۳۰۰ نیوتن روی ایمپلنت تکیه‌گاهی دیستالی تبدیل می‌شود؛ با فاصله‌ی ۵ میلی‌متر همان بار به ۵۰۰ و ۶۰۰ نیوتن می‌رسد. رفرنس تصویر: Resnik & Misch, Misch's Contemporary Implant Dentistry, Ch.6, Fig.6.9, p.150"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:5c86d49d6db3289b28dec5790b1db22e5f7870129ca3ecc24813eda7e8509f3d",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "c50a046517b13979eaf72d7857c1e05eaf0292c38415512d54e223c677533c75",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شکل قوس، سرنوشت کانتی‌لور را تعیین می‌کند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حالا یک متغیر که هیچ‌کس آن را انتخاب نمی‌کند ولی همه‌چیز را تغییر می‌دهد: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل قوس بیمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قوس مربعی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک شکل قوس مربعی، A-P spread کوچک‌تری میان ایمپلنت‌های اسپلینت‌شده دارد و باید کانتی‌لورهای با طول کوتاه‌تر داشته باشد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قوس مخروطی (tapered):"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک شکل قوس مخروطی بیشترین فاصله را میان ایمپلنت‌های قدامی و خلفی دارد و ممکن است طولانی‌ترین طراحی کانتی‌لور را داشته باشد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "منطق هندسی‌اش ساده است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در قوس مربعی، ایمپلنت‌های قدامی تقریباً هم‌راستا با خلفی‌ها هستند، پس فاصله‌ی قدامی‌ـ‌خلفی کم است. در قوس مخروطی، ایمپلنت‌های قدامی بسیار جلوتر می‌افتند و A-P spread بزرگ می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پیامد بالینی این است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دو بیمار با تعداد ایمپلنت یکسان و کیفیت استخوان یکسان، می‌توانند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طول کانتی‌لور مجاز کاملاً متفاوتی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " داشته باشند — فقط به‌دلیل شکل قوسشان."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پس شکل قوس باید در معاینه‌ی اولیه ثبت شود، چون یک متغیر تعیین‌کننده‌ی طرح است نه یک توصیف ظاهری."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تفاوت ماگزیلا و مندیبل:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ماگزیلا استخوان کم‌تراکم‌تری از مندیبل دارد و پروتزش بیشتر کانتی‌لور قدامی دارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "«در نتیجه، ایمپلنت‌های دیستالی‌تر ممکن است در ماگزیلا لازم باشند تا A-P spread برای کانتی‌لور قدامی یا خلفی افزایش یابد، و ممکن است افزایش سینوس برای امکان جای‌گذاری خلفی ایمپلنت لازم شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این یک زنجیره‌ی تصمیم است که باید کامل ببینی:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نیاز پروتزی به کانتی‌لور ← نیاز به A-P spread بزرگ‌تر ← نیاز به ایمپلنت دیستالی‌تر ← نیاز به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لیفت سینوس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یعنی یک تصمیم پروتزی، به یک جراحی پیوند می‌رسد. و این نمونه‌ی روشنی است از اینکه چرا طرح پروتزی باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش از"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " طرح جراحی نوشته شود، نه پس از آن."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پیچیدگی واقعی کانتی‌لور:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یادت باشد «پروتزهای کانتی‌لور متصل به ایمپلنت‌های اسپلینت‌شده به یک واکنش بار پیچیده می‌انجامند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و مهم‌تر: «مقدار استرس اعمال‌شده به سیستم، طول این کانتی‌لور دیستالی را تعیین می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پس ۲٫۵ یک سقف مطلق نیست؛ یک سقف مشروط است. متغیر واقعی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقدار استرس کل سیستم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است — و پارافانکشن، کیفیت استخوان، تعداد ایمپلنت و ارتفاع تاج همگی در آن سهم دارند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در یونیت بعدی می‌بینی این متغیرها چگونه در یک چارچوب واحد — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قضیه‌ی درمان استرس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — جمع می‌شوند."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/pf006-169371b8f50de1c1.webp",
+                  "alt": "نمودار تعریف ممان به‌عنوان حاصل‌ضرب نیرو در فاصله‌ی عمودی با مثال ۱۰۰ نیوتن و ۱٫۵ سانتی‌متر",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/b39b93b7bf20e2a38ff2f2bd5e613085f8c0cfc18425dbb13b65426f6ee96660.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ممان یک نیرو به‌صورت برداری تعریف می‌شود که بزرگی‌اش برابر حاصل‌ضرب بزرگی نیرو در فاصله‌ی عمودی (بازوی ممان) از نقطه‌ی مورد نظر تا خط اثر نیروست؛ ۱۰۰ نیوتن در فاصله‌ی ۱٫۵ سانتی‌متر، ممانی برابر ۱۵۰ نیوتن‌ـ‌سانتی‌متر می‌سازد. رفرنس تصویر: Resnik & Misch, Misch's Contemporary Implant Dentistry, Ch.6, Fig.6.6, p.146"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:16618",
+      "sourceId": "16618",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "1fe97fdb44536e1a9aa94d05d6140c064f5540488874484cb30844a15533ff1f",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "با دو ایمپلنت اسپلینت‌شده به فاصله‌ی ۱۰ میلی‌متر و کانتی‌لور دیستالی ۲۰ میلی‌متری، بار ۱۰۰ نیوتنی چه نیروهایی می‌سازد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "با دو ایمپلنت اسپلینت‌شده به فاصله‌ی ۱۰ میلی‌متر و کانتی‌لور دیستالی ۲۰ میلی‌متری، بار ۱۰۰ نیوتنی چه نیروهایی می‌سازد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵۰ نیوتن روی هر ایمپلنت، چون اسپلینت بار ۱۰۰ نیوتنی را به‌طور مساوی میان دو تکیه‌گاه تقسیم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰۰ نیوتن کششی روی ایمپلنت مزیالی و ۳۰۰ نیوتن فشاری روی ایمپلنت دیستالی که تکیه‌گاه است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۰۰ نیوتن فشاری روی ایمپلنت دیستالی و صفر روی مزیالی، چون بار کانتی‌لور فقط به نزدیک‌ترین ایمپلنت می‌رسد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۵ نیوتن روی مزیالی و ۷۵ روی دیستالی، چون بار به نسبت فاصله‌ی هر ایمپلنت از کانتی‌لور تقسیم می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5cbf73b1b58d90c2c0459ee6b865aebfd0c698e79b8801c2727b56fed5df159e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "۵۰ نیوتن روی هر ایمپلنت، چون اسپلینت بار ۱۰۰ نیوتنی را به‌طور مساوی میان دو تکیه‌گاه تقسیم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۵۰ نیوتن روی هر ایمپلنت، چون اسپلینت بار ۱۰۰ نیوتنی را به‌طور مساوی میان دو تکیه‌گاه تقسیم می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "3009b76f1f0397c410723bfc6d13cef23355a9898d3aaae744ac103f0efba251",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "۲۰۰ نیوتن کششی روی ایمپلنت مزیالی و ۳۰۰ نیوتن فشاری روی ایمپلنت دیستالی که تکیه‌گاه است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۲۰۰ نیوتن کششی روی ایمپلنت مزیالی و ۳۰۰ نیوتن فشاری روی ایمپلنت دیستالی که تکیه‌گاه است"
+            }
+          ]
+        },
+        {
+          "id": "b5061cc1325aa8b959c4ea731d2b57103a27eff1d9d302307658fde9d6ae729b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "۱۰۰ نیوتن فشاری روی ایمپلنت دیستالی و صفر روی مزیالی، چون بار کانتی‌لور فقط به نزدیک‌ترین ایمپلنت می‌رسد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۱۰۰ نیوتن فشاری روی ایمپلنت دیستالی و صفر روی مزیالی، چون بار کانتی‌لور فقط به نزدیک‌ترین ایمپلنت می‌رسد"
+            }
+          ]
+        },
+        {
+          "id": "bd58117369077178b02159c64de56650327164d551ef712c21b6c41925387d77",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "۲۵ نیوتن روی مزیالی و ۷۵ روی دیستالی، چون بار به نسبت فاصله‌ی هر ایمپلنت از کانتی‌لور تقسیم می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۲۵ نیوتن روی مزیالی و ۷۵ روی دیستالی، چون بار به نسبت فاصله‌ی هر ایمپلنت از کانتی‌لور تقسیم می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3009b76f1f0397c410723bfc6d13cef23355a9898d3aaae744ac103f0efba251"
+        ],
+        "explanation": "نیرو تقسیم نمی‌شود؛ تشدید می‌شود. بار ۱۰۰ نیوتنی به دو و سه برابر خودش تبدیل شد.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "نیرو تقسیم نمی‌شود؛ تشدید می‌شود"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": ". بار ۱۰۰ نیوتنی به دو و سه برابر خودش تبدیل شد."
+          }
+        ],
+        "observedAt": "2026-11-17T08:44:59.108Z"
+      }
+    },
+    {
+      "id": "question:16621",
+      "sourceId": "16621",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "882f0ccef4b022abf81f0d2134fbf8e7d4f77cc275e6b79d8274fffdeb98c108",
+      "position": 4,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "کانتی‌لور دیستالی در شرایط ایده‌آل، مثلاً نبود ــــ یا پنج ایمپلنت دیویژن A، تا ۲٫۵ برابر A-P spread امتداد می‌یابد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کانتی‌لور دیستالی در شرایط ایده‌آل، مثلاً نبود ــــ یا پنج ایمپلنت دیویژن A، تا ۲٫۵ برابر A-P spread امتداد می‌یابد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "پارافانکشن",
+        "explanation": "قید «شرایط ایده‌آل» همین است: نبود پارافانکشن یا پنج ایمپلنت دیویژن A. و در براکسیسم شدید اصلاً کانتی‌لور ساخته نمی‌شود.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "قید «شرایط ایده‌آل»"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " همین است: نبود پارافانکشن یا پنج ایمپلنت دیویژن A. و در براکسیسم شدید اصلاً کانتی‌لور ساخته نمی‌شود."
+          }
+        ],
+        "observedAt": "2026-11-17T08:45:30.002Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 10,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ر"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ن"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ک"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ف"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "ن"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "ا"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "ا"
+          },
+          {
+            "key": "7",
+            "position": 8,
+            "text": "پ"
+          },
+          {
+            "key": "8",
+            "position": 9,
+            "text": "ش"
+          },
+          {
+            "key": "9",
+            "position": 10,
+            "text": "ا"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:16624",
+      "sourceId": "16624",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "daba2515d97850a3a3bfd624bb900c783cc77b6cc4bffdb1b9a94b2e35d3d650",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "قوس مربعی و قوس مخروطی چه تفاوتی در امکان کانتی‌لور دارند و چرا؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قوس مربعی و قوس مخروطی چه تفاوتی در امکان کانتی‌لور دارند و چرا؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل قوس اثری بر کانتی‌لور ندارد، چون A-P spread فقط به شمار ایمپلنت‌ها بستگی دارد نه به انحنای قوس یا جای ایمپلنت‌های قدامی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قوس مربعی کانتی‌لور بلندتری می‌پذیرد، چون ایمپلنت‌های قدامی و خلفی در آن تقریباً در یک خط‌اند و بار را مستقیم‌تر منتقل می‌کنند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قوس مربعی A-P spread کوچک‌تر و کانتی‌لور کوتاه‌تر دارد؛ قوس مخروطی بیشترین A-P spread و بلندترین کانتی‌لور را"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو A-P spread یکسانی دارند؛ تفاوت فقط در زیبایی است و قوس مخروطی به پونتیک‌های قدامی بیشتری برای پر کردن فضا نیاز دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "da32a81d1c73e96fd264ab024f598fc479e934fb2f07d659be3b7e6337d9dea2",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "شکل قوس اثری بر کانتی‌لور ندارد، چون A-P spread فقط به شمار ایمپلنت‌ها بستگی دارد نه به انحنای قوس یا جای ایمپلنت‌های قدامی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شکل قوس اثری بر کانتی‌لور ندارد، چون A-P spread فقط به شمار ایمپلنت‌ها بستگی دارد نه به انحنای قوس یا جای ایمپلنت‌های قدامی"
+            }
+          ]
+        },
+        {
+          "id": "001547629eba75b912f83d1e4a0f4f10e4dcf579f5a7a9a75f40a5e2cd99cd1f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "قوس مربعی کانتی‌لور بلندتری می‌پذیرد، چون ایمپلنت‌های قدامی و خلفی در آن تقریباً در یک خط‌اند و بار را مستقیم‌تر منتقل می‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "قوس مربعی کانتی‌لور بلندتری می‌پذیرد، چون ایمپلنت‌های قدامی و خلفی در آن تقریباً در یک خط‌اند و بار را مستقیم‌تر منتقل می‌کنند"
+            }
+          ]
+        },
+        {
+          "id": "912084ea8edada38dd31072421f2700c786e349b931cf248ff7378eca8bfcfba",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "قوس مربعی A-P spread کوچک‌تر و کانتی‌لور کوتاه‌تر دارد؛ قوس مخروطی بیشترین A-P spread و بلندترین کانتی‌لور را",
+          "content": [
+            {
+              "tag": "text",
+              "text": "قوس مربعی A-P spread کوچک‌تر و کانتی‌لور کوتاه‌تر دارد؛ قوس مخروطی بیشترین A-P spread و بلندترین کانتی‌لور را"
+            }
+          ]
+        },
+        {
+          "id": "a0a6057cc70795ed878a10478fa4db4355341627b31881b5d12b6f14a9bee87c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هر دو A-P spread یکسانی دارند؛ تفاوت فقط در زیبایی است و قوس مخروطی به پونتیک‌های قدامی بیشتری برای پر کردن فضا نیاز دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو A-P spread یکسانی دارند؛ تفاوت فقط در زیبایی است و قوس مخروطی به پونتیک‌های قدامی بیشتری برای پر کردن فضا نیاز دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "912084ea8edada38dd31072421f2700c786e349b931cf248ff7378eca8bfcfba"
+        ],
+        "explanation": "پیامدش این است که دو بیمار با تعداد ایمپلنت و کیفیت استخوان یکسان، می‌توانند سقف کانتی‌لور کاملاً متفاوتی داشته باشند، فقط به‌دلیل شکل قوس.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پیامدش این است که "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دو بیمار با تعداد ایمپلنت و کیفیت استخوان یکسان، می‌توانند سقف کانتی‌لور کاملاً متفاوتی داشته باشند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، فقط به‌دلیل شکل قوس."
+          }
+        ],
+        "observedAt": "2026-11-17T08:45:37.045Z"
+      }
+    },
+    {
+      "id": "question:16629",
+      "sourceId": "16629",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "b57e64e5cf54d2855cb1451e8788f12c26afe1e695fc054601fdc3be981356de",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه، تشدیدکننده‌های نیرو را که با کاهششان بار کم می‌شود درست فهرست می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه، تشدیدکننده‌های نیرو را که با کاهششان بار کم می‌شود درست فهرست می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نوع سمان، جنس روکش، شید پرسلن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طول کانتی‌لور، بارهای آفست، ارتفاع تاج"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تراکم استخوان، سن بیمار، جنسیت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار ایمپلنت‌ها، قطر ایمپلنت، طول ایمپلنت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9da6702956dbe408a4ce6f5b52093d7676defc851a443080b66da0ee8ea26cf6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نوع سمان، جنس روکش، شید پرسلن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نوع سمان، جنس روکش، شید پرسلن"
+            }
+          ]
+        },
+        {
+          "id": "b680ce78e8cfef53549eceeb2217da8116ffbc03883a24e7bcb8bf0980b7e8f1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "طول کانتی‌لور، بارهای آفست، ارتفاع تاج",
+          "content": [
+            {
+              "tag": "text",
+              "text": "طول کانتی‌لور، بارهای آفست، ارتفاع تاج"
+            }
+          ]
+        },
+        {
+          "id": "c9a03b5feaaa34a4309abb28c90c556c191bb0dd05ccd85f7320c3d8f5b41262",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تراکم استخوان، سن بیمار، جنسیت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تراکم استخوان، سن بیمار، جنسیت"
+            }
+          ]
+        },
+        {
+          "id": "af5a43553746bf8859d67b2894c517d54475de508e53a54363810ad3a678a819",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "شمار ایمپلنت‌ها، قطر ایمپلنت، طول ایمپلنت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شمار ایمپلنت‌ها، قطر ایمپلنت، طول ایمپلنت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "b680ce78e8cfef53549eceeb2217da8116ffbc03883a24e7bcb8bf0980b7e8f1"
+        ],
+        "explanation": "شمار، قطر و طول ایمپلنت از عوامل افزایش سطح هستند، که راهبرد دیگری برای کاهش استرس است ولی تشدیدکننده‌ی نیرو نیست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "شمار، قطر و طول ایمپلنت از عوامل "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "افزایش سطح"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " هستند، که راهبرد دیگری برای کاهش استرس است ولی تشدیدکننده‌ی نیرو نیست."
+          }
+        ],
+        "observedAt": "2026-11-17T08:45:52.977Z"
+      }
+    },
+    {
+      "id": "question:16631",
+      "sourceId": "16631",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "d3974b3504739fd0df2b316af27b72d5ccf3b4aaf1d511bb832c688bc8c2ca02",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "وقتی شمار ایمپلنت‌ها و کیفیت استخوان یکسان باشد، شکل قوس دیگر بر سقف کانتی‌لور مجاز اثری ندارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "وقتی شمار ایمپلنت‌ها و کیفیت استخوان یکسان باشد، شکل قوس دیگر بر سقف کانتی‌لور مجاز اثری ندارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "آفرین؛ این گزاره نادرست است. شکل قوس، A-P spread را می‌سازد و A-P spread مبنای محاسبه‌ی سقف کانتی‌لور است؛ پس دو بیمار با شمار ایمپلنت و کیفیت استخوان یکسان، یکی با قوس مخروطی و دیگری با قوس مربعی، سقف متفاوتی دارند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین؛ این گزاره نادرست است. شکل قوس، A-P spread را می‌سازد و "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "A-P spread مبنای محاسبه‌ی سقف کانتی‌لور است"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ پس دو بیمار با شمار ایمپلنت و کیفیت استخوان یکسان، یکی با قوس مخروطی و دیگری با قوس مربعی، سقف متفاوتی دارند."
+          }
+        ],
+        "observedAt": "2026-11-17T08:45:49.480Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:1a51d121fc7b2247828d765fa866c22aa32189570f2d3d4bf310d755bb07972f",
+      "at": "2026-11-17T08:44:26.288Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:5c86d49d6db3289b28dec5790b1db22e5f7870129ca3ecc24813eda7e8509f3d",
+      "at": "2026-11-17T08:44:28.376Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:16618",
+      "at": "2026-11-17T08:44:30.008Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:16621",
+      "at": "2026-11-17T08:45:00.756Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:16624",
+      "at": "2026-11-17T08:45:31.613Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:16629",
+      "at": "2026-11-17T08:45:38.648Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:16631",
+      "at": "2026-11-17T08:45:45.246Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:16629",
+      "at": "2026-11-17T08:45:51.079Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
