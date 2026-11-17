@@ -1,0 +1,2048 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1287/lesson.json",
+  "id": "1287",
+  "title": "درس اول: سه بعد رنگ و دو سیستم",
+  "specialtyKey": "1afca38e6e25ad7b",
+  "chapter": {
+    "id": "272",
+    "title": "بخش ۶: ترمیم نهایی، رنگ، سمان و تحویل، رنگ و فرایند بازتولید آن",
+    "position": 21
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:d5b03e35fd9ada02c2297d617e2b22c7aa7043fc4c7a07727956434dd7d5c4b5",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "ae13e27e4c096b9dc9d1fa1dc116d651e943292fe43a869669ce736fd9a85633",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دو زبان برای توصیف یک رنگ"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک قیاس برای شروع:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «همان‌طور که یک جسم جامد با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه بُعد فرم فیزیکی — طول، عرض و عمق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — قابل توصیف است، رنگ نیز می‌تواند با همان دقت با سه ویژگی اولیه توصیف شود.» ولی «توصیف این ویژگی‌ها به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیستم رنگ به‌کاررفته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بستگی دارد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو سیستم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «سیستم نظم رنگ مانسل که بصری‌تر توصیف می‌کند، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیستم رنگ CIELab که کمّی‌تر است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تعریف هیو:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیو، گونه‌ی خاصی از یک رنگ است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — قرمز، سبز، زرد و مانند آن — و با طول موج نور بازتابیده یا عبوریِ مشاهده‌شده تعیین می‌شود.» و قاعده‌ی جهت‌دارش: «هرچه طول موج کوتاه‌تر، هیو به بخش بنفش طیف نزدیک‌تر؛ هرچه بلندتر، به بخش قرمز نزدیک‌تر.» و در سیستم مانسل، «هیوها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دور یک چرخ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مرتب شده‌اند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا CIELab در پژوهش دندانپزشکی غالب شد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تقریباً به‌طور انحصاری برای پژوهش رنگ در دندانپزشکی در سراسر جهان به کار رفته است. در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۹۷۶"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " معرفی شد.» و برتری کلیدی‌اش: «برخلاف سیستم مانسل، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تفسیر بالینی آسانی دارد، چون فاصله‌های برابر در فضای رنگ CIELab —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یعنی اختلاف‌های رنگ یا ΔE — تقریباً گام‌های یکنواختی در ادراک رنگ انسان را نمایندگی می‌کنند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نتیجه‌ی عملی این یکنواختی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «این یعنی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ممکن است بزرگی اختلاف رنگ قابل ادراک یا قابل قبول را —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مثلاً میان یک روکش پرسلنی و دندان طبیعی مجاور — تعریف کرد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سه مختصات CIELab:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «L* شبیه Value در سیستم مانسل است و روشنایی یا خصلت سیاه/سفید رنگ را نمایندگی می‌کند؛ a* و b* ویژگی‌های کروماتیک رنگ را توصیف می‌کنند.» و جایگاه رنگ دندان: «رنگ‌هایی با ولیو یا L* بالا — مانند رنگ‌های دندان — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نزدیک بالای فضای رنگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قرار می‌گیرند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و معنای علامت a* و b*:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مختصات "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "a* با محور قرمز-بنفش/آبی-سبز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در فضای مانسل متناظر است: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "a* مثبت به رنگی عمدتاً قرمز-بنفش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "a* منفی به رنگی آبی-سبزتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اشاره دارد. به همین ترتیب، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "b* با محور زرد/بنفش-آبی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " متناظر است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و قیاس نشانی خانه — تفاوت دو سیستم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در مانسل، رنگ «با یک مختصات قطبی (هیو) و یک مختصات خطی یا دکارتی (کروما)» مشخص می‌شود؛ در CIELab «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو مختصات (a* و b*) دکارتی‌اند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "». این را می‌توان به نشانی یک خانه تشبیه کرد: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۱٫۸۵ مایل در جهت شمال-شمال‌غربی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از مرکز شهر» در برابر «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۰٫۶ مایل شمال و ۵٫۳ مایل غرب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از مرکز شهر» — «توصیف‌ها همان موقعیت در فضا را نمایندگی می‌کنند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مهم‌ترین عدد این درس:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «سیستم طوری مرتب شده که اختلاف رنگ برابر ۱ توسط ۵۰ درصد ناظران با دید رنگی طبیعی قابل ادراک باشد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تحول بعدی — CIEDE2000:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یک فرمول اختلاف رنگ جدید CIE 2000 به‌عنوان فرمول جدید اختلاف رنگ CIE پذیرفته شد.» و چه چیزی به آن افزوده شد: «بر پایه‌ی CIELab است و همچنین "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توابع وزن‌دهی کروما، روشنایی و هیو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و نیز یک جمله‌ی تعاملی میان اختلاف هیو و کروما برای بهبود عملکرد در آبی، و یک ضریب مقیاس روی a* برای بهبود عملکرد در خاکستری را در بر دارد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و برتری‌اش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «فرمول CIEDE2000 نشان داده شده که تطابق بهتری با اختلاف رنگ محاسبه‌شده فراهم می‌کند و بنابراین شاخص‌های بهتری از قابلیت ادراک انسان یا اختلاف رنگ میان رنگ دندان در مقایسه با فرمول‌های CIELab یا CMC می‌دهد.»"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/fpd/FPD-U21-01.webp",
+                  "alt": "چرخ رنگ مانسل با محورهای هیو و کروما",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/afc1a1dd7ea918fbeccea8a3fc8cb6e8d31bbd46ec72b946a2f2d1f868ad5147.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شکل ۲۳٫۱ —"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " چیدمان هیو و کروما در سیستم مانسل: هیو با حروف نشان داده می‌شود (R قرمز، YR زرد-قرمز، Y زرد، GY سبز-زرد، G سبز، BG سبز-آبی، B آبی، PB بنفش-آبی، P بنفش، RP قرمز-بنفش) و کروما با اعداد. "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رفرنس: Rosenstiel, Land & Walter, "
+                        },
+                        {
+                          "tag": "em",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "Contemporary Fixed Prosthodontics"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "text": " 6th ed., Fig. 23.1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:18fbc86a5ea3d0d84bb9da6a1fccb852e25176fe83745c778ebfb990949b2a89",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "e68a7dc5b1c23fa196d842f591772b0f1ca990de55f5cda146627aa57f280c0a",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "فرایند بازتولید رنگ"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعریف عملیاتی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «فرایندی که در آن رنگ دندان‌های مجاور در یک روکش متال‌سرامیک یا سرامیکی بازتولید می‌شود، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرایند بازتولید رنگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نامیده می‌شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو فاز آن:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاز تطابق رنگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و سپس "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاز تکثیر رنگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". تطابق رنگ می‌تواند از راه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تطابق بصری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تحلیل ابزاری که فزاینده‌تر محبوب می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " انجام گیرد. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکثیر رنگ در آزمایشگاه رخ می‌دهد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، جایی که پرسلن متناظر یا مخلوط‌های پرسلن پیچیده‌تر برای ساخت ترمیم به کار می‌روند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و راه اصلاح در پایان:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «اگر اختلاف‌ها میان ترمیم دائمی و ترمیم اولیه‌ی تطابق‌یافته "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از نظر بصری قابل ادراک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشند، ممکن است کلینیسین "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرسلن‌های کاراکتریزاسیون سطحی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را برای تنظیم هر اختلاف رنگی به کار برد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ارزیابی صادقانه از روش بصری:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «ارزیابی بصری رنگ و شفافیت، روشی است که بیش از همه در دندانپزشکی به کار می‌رود. مطالعات نشان داده‌اند این روش پرکاربرد دشوار است که با دقت به کار رود و اغلب نتایج غیرقابل اتکا و ناسازگار می‌دهد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ولی یک هدف واقع‌بینانه که فشار را کم می‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «خوشبختانه، یک ترمیم زنده‌نما و موفق لازم نیست نسخه‌ی دقیقی از رنگ و شفافیت دندان‌های مجاور باشد. با این حال باید در نتیجه‌ی توزیع مواد سرامیکی در ترمیم، با دندان‌ها ترکیب شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سه عاملی که ظاهر رنگ را تعیین می‌کنند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «رنگ ظاهری یک شیء تحت تأثیر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خواص فیزیکی خودش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماهیت نوری که در معرضش قرار دارد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارزیابی ذهنی ناظر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است.» و مشکل: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییرپذیری دو عامل از سه عامل —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یعنی نورپردازی و ذهنیت ناظر — می‌تواند باعث شود همان شیء بسیار متفاوت به نظر برسد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نتیجه‌گیری راهبردی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «با درک این سه عامل اصلی — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نورپردازی، ذهنیت دید انسان، و خودِ شیء"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — دندانپزشک می‌تواند دقت و قابلیت اتکای این فرایند را بهبود دهد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک اصل بنیادی نوری:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نور برای وجود رنگ لازم است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " شیئی که به‌عنوان رنگ معینی ادراک می‌شود، همه‌ی امواج نور متناظر با رنگ‌های دیگر را جذب و تنها امواج رنگ خودش را بازتاب می‌کند.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:21091",
+      "sourceId": "21091",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "7872016658c7565c0b9258ac339ee905c2cfa6b821267e5370521125682c0e8c",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "شیئی که به‌عنوان رنگ معینی ادراک می‌شود، با نور چه می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شیئی که به‌عنوان رنگ معینی ادراک می‌شود، با نور چه می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی امواج را به یک اندازه بازتاب می‌کند و رنگش را تنها بافت سطح و زاویه‌ی تابش نور تعیین می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی امواج متناظر با رنگ‌های دیگر را جذب و تنها امواج رنگ خودش را بازتاب می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی امواج را جذب می‌کند و سپس امواجی با طول موج بلندتر را از نو گسیل می‌کند که رنگ آن را می‌سازند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طول موج نور تابیده را در سطح خود تغییر می‌دهد تا با رنگدانه‌ی غالبش هماهنگ شود و همان را بازمی‌گرداند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5baa831497fb6dfae109631c7506e269606631c01f77395488ddda36856d7ea6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "همه‌ی امواج را به یک اندازه بازتاب می‌کند و رنگش را تنها بافت سطح و زاویه‌ی تابش نور تعیین می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی امواج را به یک اندازه بازتاب می‌کند و رنگش را تنها بافت سطح و زاویه‌ی تابش نور تعیین می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "9b5ed100223d544eb227f6b08d71ca7ed688332a86668b232a8e4ee4667160cb",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "همه‌ی امواج متناظر با رنگ‌های دیگر را جذب و تنها امواج رنگ خودش را بازتاب می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی امواج متناظر با رنگ‌های دیگر را جذب و تنها امواج رنگ خودش را بازتاب می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "577b198b6b237426c6c9e3fce73d4aa0124999ef77c3cbdee16eb21e6a012f98",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "همه‌ی امواج را جذب می‌کند و سپس امواجی با طول موج بلندتر را از نو گسیل می‌کند که رنگ آن را می‌سازند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی امواج را جذب می‌کند و سپس امواجی با طول موج بلندتر را از نو گسیل می‌کند که رنگ آن را می‌سازند"
+            }
+          ]
+        },
+        {
+          "id": "21db0c3d04acd4dc13ba4bfd55a29300faad3d8ef88a2b06b01b89f40217fb91",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "طول موج نور تابیده را در سطح خود تغییر می‌دهد تا با رنگدانه‌ی غالبش هماهنگ شود و همان را بازمی‌گرداند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "طول موج نور تابیده را در سطح خود تغییر می‌دهد تا با رنگدانه‌ی غالبش هماهنگ شود و همان را بازمی‌گرداند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9b5ed100223d544eb227f6b08d71ca7ed688332a86668b232a8e4ee4667160cb"
+        ],
+        "explanation": "برای همین است که نور برای وجود رنگ لازم است.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "برای همین است که نور برای وجود رنگ لازم است."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:09:02.696Z"
+      }
+    },
+    {
+      "id": "question:21094",
+      "sourceId": "21094",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "7aa15f60922ea6f572c46e9bbe0a0d5891e1bd3b4e3a82183ee7cd98f6d15fb6",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "معنای علامت مثبت و منفی a* چیست و b* با کدام محور متناظر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "معنای علامت مثبت و منفی a* چیست و b* با کدام محور متناظر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو تنها اندازه‌ی کروما را بدون جهت نشان می‌دهند؛ علامت منفی فقط خطای کالیبراسیون دستگاه را گزارش می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "a* مثبت رنگی عمدتاً آبی-سبز و a* منفی رنگی قرمز-بنفش‌تر؛ و b* با محور سیاه/سفید یا روشنایی متناظر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "a* روشنایی رنگ را نشان می‌دهد و علامتش جهت تیره یا روشن را؛ و b* میزان شفافیت یا کدری نمونه‌ی پرسلنی را"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "a* مثبت رنگی عمدتاً قرمز-بنفش و a* منفی رنگی آبی-سبزتر؛ و b* با محور زرد/بنفش-آبی متناظر است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "fb2cc85c5923970e16e0b7018690071b7cabe2fab81fc6e54357bd64cba3eae9",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر دو تنها اندازه‌ی کروما را بدون جهت نشان می‌دهند؛ علامت منفی فقط خطای کالیبراسیون دستگاه را گزارش می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو تنها اندازه‌ی کروما را بدون جهت نشان می‌دهند؛ علامت منفی فقط خطای کالیبراسیون دستگاه را گزارش می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "f65be479c702f8362d944b971c9449007eef165695d01ad0eab0b8f4ffe03cbb",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "a* مثبت رنگی عمدتاً آبی-سبز و a* منفی رنگی قرمز-بنفش‌تر؛ و b* با محور سیاه/سفید یا روشنایی متناظر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "a* مثبت رنگی عمدتاً آبی-سبز و a* منفی رنگی قرمز-بنفش‌تر؛ و b* با محور سیاه/سفید یا روشنایی متناظر است"
+            }
+          ]
+        },
+        {
+          "id": "1af189bfc4414113089072820e7f1e6996ee6cd64bbb89276d423c4b296e31bb",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "a* روشنایی رنگ را نشان می‌دهد و علامتش جهت تیره یا روشن را؛ و b* میزان شفافیت یا کدری نمونه‌ی پرسلنی را",
+          "content": [
+            {
+              "tag": "text",
+              "text": "a* روشنایی رنگ را نشان می‌دهد و علامتش جهت تیره یا روشن را؛ و b* میزان شفافیت یا کدری نمونه‌ی پرسلنی را"
+            }
+          ]
+        },
+        {
+          "id": "1fcba14ba2b78c1449dcb21250024af42e67aed52bf4818fcf491382238bbc01",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "a* مثبت رنگی عمدتاً قرمز-بنفش و a* منفی رنگی آبی-سبزتر؛ و b* با محور زرد/بنفش-آبی متناظر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "a* مثبت رنگی عمدتاً قرمز-بنفش و a* منفی رنگی آبی-سبزتر؛ و b* با محور زرد/بنفش-آبی متناظر است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1fcba14ba2b78c1449dcb21250024af42e67aed52bf4818fcf491382238bbc01"
+        ],
+        "explanation": "این دو محور دکارتی با هم موقعیت کروماتیک رنگ را تعیین می‌کنند.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "این دو محور دکارتی با هم موقعیت کروماتیک رنگ را تعیین می‌کنند."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:09:08.786Z"
+      }
+    },
+    {
+      "id": "question:21097",
+      "sourceId": "21097",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "37deff48961aa65151a32abb88bfec7c4310f7ca1c00822f8b3fb3d0f4d6dec3",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "قیاس نشانی خانه چه تفاوتی را روشن می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قیاس نشانی خانه چه تفاوتی را روشن می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "CIELab تنها برای رنگ‌های تیره کاربرد دارد، چون مختصات دکارتی‌اش در ناحیه‌ی روشن فضای رنگ فشرده می‌شود و تفکیک را از دست می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مانسل دقیق‌تر از CIELab است، چون فاصله و جهت را جداگانه می‌دهد؛ مختصات دکارتی CIELab این دو را در هم می‌آمیزد و خطا می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مانسل با یک مختصات قطبی و یک خطی رنگ را توصیف می‌کند و CIELab با دو مختصات دکارتی؛ هر دو همان موقعیت را نشان می‌دهند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو سیستم دو موقعیت متفاوت را توصیف می‌کنند؛ مختصات قطبی مانسل نقطه‌ای در شمال‌غرب و مختصات دکارتی CIELab نقطه‌ای در شمال را نشان می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7169e1594aee52224d4f0ef38dfccb39b5b4b0d5afa7deda3da1a085413d57ce",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "CIELab تنها برای رنگ‌های تیره کاربرد دارد، چون مختصات دکارتی‌اش در ناحیه‌ی روشن فضای رنگ فشرده می‌شود و تفکیک را از دست می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "CIELab تنها برای رنگ‌های تیره کاربرد دارد، چون مختصات دکارتی‌اش در ناحیه‌ی روشن فضای رنگ فشرده می‌شود و تفکیک را از دست می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "9f56cebd4645af655eca11791147101f85e54b6fdb5c3d6e96db3a36b11cf5bd",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مانسل دقیق‌تر از CIELab است، چون فاصله و جهت را جداگانه می‌دهد؛ مختصات دکارتی CIELab این دو را در هم می‌آمیزد و خطا می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مانسل دقیق‌تر از CIELab است، چون فاصله و جهت را جداگانه می‌دهد؛ مختصات دکارتی CIELab این دو را در هم می‌آمیزد و خطا می‌سازد"
+            }
+          ]
+        },
+        {
+          "id": "40df0d3afb45b4234607a052e8442822e0c65688585e5179d61ed8a58fc17f73",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مانسل با یک مختصات قطبی و یک خطی رنگ را توصیف می‌کند و CIELab با دو مختصات دکارتی؛ هر دو همان موقعیت را نشان می‌دهند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مانسل با یک مختصات قطبی و یک خطی رنگ را توصیف می‌کند و CIELab با دو مختصات دکارتی؛ هر دو همان موقعیت را نشان می‌دهند"
+            }
+          ]
+        },
+        {
+          "id": "f5628537da84b71ab67b5fd1092f4febbbf86fb3b817ebcef31bd29a15010ea4",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دو سیستم دو موقعیت متفاوت را توصیف می‌کنند؛ مختصات قطبی مانسل نقطه‌ای در شمال‌غرب و مختصات دکارتی CIELab نقطه‌ای در شمال را نشان می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دو سیستم دو موقعیت متفاوت را توصیف می‌کنند؛ مختصات قطبی مانسل نقطه‌ای در شمال‌غرب و مختصات دکارتی CIELab نقطه‌ای در شمال را نشان می‌دهد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "40df0d3afb45b4234607a052e8442822e0c65688585e5179d61ed8a58fc17f73"
+        ],
+        "explanation": "ولی تنها CIELab گام‌های یکنواخت ادراکی می‌دهد.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ولی تنها CIELab گام‌های یکنواخت ادراکی می‌دهد."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:09:14.999Z"
+      }
+    },
+    {
+      "id": "question:21099",
+      "sourceId": "21099",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "e035a72e1fcaa056efede539b21d5a85bca404f595c9970b5166e47df3a78595",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "هدف واقع‌بینانه‌ی یک ترمیم موفق چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هدف واقع‌بینانه‌ی یک ترمیم موفق چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رنگ اهمیتی ندارد اگر شکل درست باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید دقیقاً همان رنگ و شفافیت دندان مجاور را داشته باشد؛ هر اختلاف ΔE بزرگ‌تر از صفر، شکست زیبایی به شمار می‌رود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید اندکی روشن‌تر از دندان‌های مجاور ساخته شود، چون ولیوی پرسلن در دهان و پس از سمان‌گذاری همیشه پایین می‌آید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لازم نیست نسخه‌ی دقیق رنگ و شفافیت دندان‌های مجاور باشد، ولی باید با توزیع مواد سرامیکی با آن‌ها ترکیب شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d6b276abf98182563cd42bdd40aec3573a3bd195b8bef4b1bf4a88485262062f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "رنگ اهمیتی ندارد اگر شکل درست باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رنگ اهمیتی ندارد اگر شکل درست باشد"
+            }
+          ]
+        },
+        {
+          "id": "5705dd2bf34a0e883f6be1bd389a34497290d08c2f57fe0b1b04090cf911ab47",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "باید دقیقاً همان رنگ و شفافیت دندان مجاور را داشته باشد؛ هر اختلاف ΔE بزرگ‌تر از صفر، شکست زیبایی به شمار می‌رود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید دقیقاً همان رنگ و شفافیت دندان مجاور را داشته باشد؛ هر اختلاف ΔE بزرگ‌تر از صفر، شکست زیبایی به شمار می‌رود"
+            }
+          ]
+        },
+        {
+          "id": "3552e46c8cf7e1dff2c769f8783188dead28336c9eea2170880a7c3afd3aeec1",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "باید اندکی روشن‌تر از دندان‌های مجاور ساخته شود، چون ولیوی پرسلن در دهان و پس از سمان‌گذاری همیشه پایین می‌آید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید اندکی روشن‌تر از دندان‌های مجاور ساخته شود، چون ولیوی پرسلن در دهان و پس از سمان‌گذاری همیشه پایین می‌آید"
+            }
+          ]
+        },
+        {
+          "id": "a6657410cfa7b86ad360e8033157fd92e9caf7a570216f369fd2b58ea949b0e0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "لازم نیست نسخه‌ی دقیق رنگ و شفافیت دندان‌های مجاور باشد، ولی باید با توزیع مواد سرامیکی با آن‌ها ترکیب شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "لازم نیست نسخه‌ی دقیق رنگ و شفافیت دندان‌های مجاور باشد، ولی باید با توزیع مواد سرامیکی با آن‌ها ترکیب شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a6657410cfa7b86ad360e8033157fd92e9caf7a570216f369fd2b58ea949b0e0"
+        ],
+        "explanation": "هدف «ترکیب شدن» است، نه «یکسان بودن».",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هدف «ترکیب شدن» است، نه «یکسان بودن»."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:09:21.184Z"
+      }
+    },
+    {
+      "id": "question:21103",
+      "sourceId": "21103",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "902c2e1020b6051f0a698ea9a71bd85d5cb01fc39dcb53616f2c5bdd9a9698da",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دقت و قابلیت اتکای تطابق بصری چگونه بهبود می‌یابد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دقت و قابلیت اتکای تطابق بصری چگونه بهبود می‌یابد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با افزایش شدت نور اتاق کار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با استفاده از راهنماهای رنگ گران‌تر که تب‌های بیشتر و گام‌های ریزتری دارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با درک سه عامل اصلی: نورپردازی، ذهنیت دید انسان، و خودِ شیء"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با انجام رنگ‌سنجی در پایان جلسه"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ac42bc2c8f523c5b0ccff504f83875500c281489604dacc864d80696c873e094",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "با افزایش شدت نور اتاق کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "با افزایش شدت نور اتاق کار"
+            }
+          ]
+        },
+        {
+          "id": "18022f3dfe736774615df5b2a2175c96331ce11fe2eb3e1540d45e1009dc6ad0",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "با استفاده از راهنماهای رنگ گران‌تر که تب‌های بیشتر و گام‌های ریزتری دارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "با استفاده از راهنماهای رنگ گران‌تر که تب‌های بیشتر و گام‌های ریزتری دارند"
+            }
+          ]
+        },
+        {
+          "id": "f0043d29e742aac2c0c2483cd8356b6b489ebbfa4ed30ffd0a5ee899fb6b896b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "با درک سه عامل اصلی: نورپردازی، ذهنیت دید انسان، و خودِ شیء",
+          "content": [
+            {
+              "tag": "text",
+              "text": "با درک سه عامل اصلی: نورپردازی، ذهنیت دید انسان، و خودِ شیء"
+            }
+          ]
+        },
+        {
+          "id": "9e690d3a8433a9140161f96226e2d4d0afdf5f484df6bd2ca0b45ab9c949417d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "با انجام رنگ‌سنجی در پایان جلسه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "با انجام رنگ‌سنجی در پایان جلسه"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f0043d29e742aac2c0c2483cd8356b6b489ebbfa4ed30ffd0a5ee899fb6b896b"
+        ],
+        "explanation": "ساختار کل این یونیت هم از همین سه عامل می‌آید.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ساختار کل این یونیت هم از همین سه عامل می‌آید."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:09:26.910Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:d5b03e35fd9ada02c2297d617e2b22c7aa7043fc4c7a07727956434dd7d5c4b5",
+      "at": "2026-11-17T14:08:40.085Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:18fbc86a5ea3d0d84bb9da6a1fccb852e25176fe83745c778ebfb990949b2a89",
+      "at": "2026-11-17T14:08:41.709Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:21091",
+      "at": "2026-11-17T14:08:43.293Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:21094",
+      "at": "2026-11-17T14:09:04.311Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:21097",
+      "at": "2026-11-17T14:09:10.413Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:21099",
+      "at": "2026-11-17T14:09:16.557Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:21103",
+      "at": "2026-11-17T14:09:22.797Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

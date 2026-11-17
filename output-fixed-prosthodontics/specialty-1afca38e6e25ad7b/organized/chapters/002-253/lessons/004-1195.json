@@ -1,0 +1,2741 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1195/lesson.json",
+  "id": "1195",
+  "title": "درس چهارم: سفالومتری، طراحی دیجیتال و کست تشخیصی",
+  "specialtyKey": "1afca38e6e25ad7b",
+  "chapter": {
+    "id": "253",
+    "title": "روش‌های تشخیصی و مستندسازی",
+    "position": 2
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:562cd8157224217b071cbe575acb16348db1e501b2a8957ef7371c1a7384b1db",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "3c1eebc80981716e06e2458fb6b2e2137b1084ad05f4b887c9a0b67f1d67be85",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اعداد سفالومتری و تمپلیت برگشت‌پذیر"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سفالوگرام لترال یک تصویر دوبعدی از سر است که استخوان و پروفایل بافت نرم را در نمای ساژیتال ثبت می‌کند. سنتی‌ترین روش با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفالوستات"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، ولی همین تحلیل با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "CBCT یا MRI"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هم شدنی است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اعداد پایه‌ای که باید بشناسی:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "SNA"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (موقعیت افقی ماگزیلا نسبت به قاعده‌ی جمجمه): میانگین "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۸۲ درجه ± ۳"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، بیش از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۸۵"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پروگناتیک، کمتر از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۷۹"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " رتروگناتیک."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "SNB"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (موقعیت قدامی-خلفی مندیبل): میانگین "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۸۰ ± ۳"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، بیش از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۸۳"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پروگناتیک، کمتر از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۷۷"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " رتروگناتیک."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ANB = SNA منهای SNB"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": میان "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ تا ۵ درجه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اسکلتال کلاس ۱، بیش از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۵"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " کلاس ۲، منفی یا کمتر از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " کلاس ۳."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انسیزور ماگزیلا به SN"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": میانگین "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۰۳ ± ۶"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، بیش از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۰۹"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پروکلاین، کمتر از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۹۷"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " رتروکلاین."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انسیزور مندیبل به NB"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": میانگین "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۲۵ ± ۷"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، بیش از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۳۲"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پروکلاین، کمتر از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۸"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " رتروکلاین."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "زاویه‌ی انسیزور بالا به انسیزور پایین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": میانگین "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۳۵ ± ۱۱"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نسبت ارتفاع قدامی صورت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (ارتفاع فوقانی از نازیون تا خار قدامی بینی، تقسیم بر ارتفاع تحتانی از خار قدامی بینی تا منتون): کمتر از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰٫۸"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " یعنی ارتفاع قدامی تحتانی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بلند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، بیش از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰٫۸"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " یعنی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کوتاه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ". تأکید مهم: نسبت میان دو ارتفاع، مرتبط‌تر از هر اندازه‌ی منفرد است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مهم‌ترین پیامد بالینی سفالومتری در پروتز ثابت:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بسیاری اوقات، مال‌اکلوژن‌هایی که از یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسئله‌ی اسکلتال زیربنایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ناشی می‌شوند با دندانپزشکی ترمیمی به‌تنهایی قابل اصلاح نیستند.» اگر در فاز طراحی یک مال‌اکلوژن اسکلتال تشخیص داده شود، درمان بین‌رشته‌ای با ارتودنسی یا جراحی اندیکاسیون پیدا می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک تذکر روش‌شناختی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تحلیل‌های سفالومتری متعددی وجود دارد و «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ‌کدام بر دیگری برتری ندارد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»؛ داده‌های ارائه‌شده فقط برای کمک سریع به فرایند تشخیصی‌اند تا معلوم شود آیا تحلیل جامع‌تری لازم است یا نه."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طراحی لبخند دیجیتال و تمپلیت زیبایی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تصویرسازی کامپیوتری «چشم‌انداز مجازی از آنچه طرح پیشنهادی ارائه می‌دهد» را به بیمار نشان می‌دهد. یک DSD یا واکس‌آپ تشخیصی می‌تواند به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تمپلیت زیبایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تبدیل شود که روی دندان‌های "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تراش‌نخورده‌ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیمار می‌نشیند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تمپلیت را می‌توان با CAD-CAM "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میل یا پرینت سه‌بعدی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کرد، یا به روش سنتی از کست‌های مانت‌شده و واکس‌آپ تشخیصی ساخت: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قالب سیلیکونی یا مولد ترموپلاستیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از کست تکثیرشده‌ی واکس‌آپ، فرم‌های تازه را با رزین ترمیمی موقت به دهان منتقل می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اینجا مهم‌ترین جمله‌ی این بخش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در پروتز ثابت، تمپلیت زیبایی «معادل "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارزیابی بالینی واکس دنچر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در پروتز متحرک است». هم دندانپزشک و هم بیمار می‌توانند طرح درمان را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از راه یک تکنیک برگشت‌پذیر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تأیید کنند، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش از آنکه اقدامات برگشت‌ناپذیر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مثل افزایش طول تاج و تراش دندان انجام شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:4a2bf74c0fd69f3891e2003aeaa34f18dfbeebdc2141cc0ff73d14844979faaa",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "82ac413661d90c64cc9171ac5ff86465c90b24ab43c5cd457d83312f3ecd73d4",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کست تشخیصی و اشتباه‌های رایج آلژینات"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرا کست تشخیصی؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کست اجازه می‌دهد روابط ایستا و پویای دندان‌ها بدون تداخل رفلکس‌های محافظتی نوروماسکولار بررسی شوند و نماهایی از همه‌ی جهات، جنبه‌هایی از اکلوژن را نشان دهند که در دهان به‌آسانی دیده نمی‌شوند — مثلاً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رابطه‌ی کاسپ‌های لینگوال در وضعیت بسته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چیزهایی که فقط روی کست معلوم می‌شوند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بعد "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اکلوزوسرویکال فضاهای بی‌دندان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، هم‌ترازی و زاویه‌ی نسبی دندان‌های پایه‌ی پیشنهادی، تحلیل دقیق "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پلن اکلوزال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و امکان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تمرین تراش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " روی کست و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واکس‌آپ تشخیصی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک مزیت کلیدی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اگر کست‌ها در رابطه‌ی مرکزی مانت شده باشند، «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هم CR و هم موقعیت MI"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قابل ارزیابی‌اند، چون هر اسلایدی قابل بازتولید است»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آلژیناتی که درست کار شده برای اهداف طراحی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقت و جزئیات سطح کافی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارد، ولی جزئیات لازم برای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کست و دای نهایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را که پروتز روی آن ساخته می‌شود بازتولید نمی‌کند. اگر ریختن ناگزیر به تأخیر می‌افتد و اسکن نوری در دسترس نیست، موادی با ترکیب شبیه پلی‌وینیل‌سیلوکسان جایگزین مناسب‌تری‌اند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلژینات: شیمی در یک نگاه."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هیدروکلوئیدهای برگشت‌ناپذیر اساساً "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمک‌های سدیم یا پتاسیم اسید آلژینیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و بنابراین "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محلول در آب‌اند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". با سولفات کلسیم واکنش می‌دهند و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلژینات کلسیم نامحلول"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌سازند. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خاک دیاتومه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای استحکام و بدنه، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تری‌سدیم فسفات"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای کنترل سرعت ست شدن اضافه می‌شود؛ این کندکننده‌ها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترجیحاً با سولفات کلسیم واکنش می‌دهند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و وقتی مصرف شدند، ژل‌شدن آغاز می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نقطه‌ی ضعف بنیادی‌اش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " چون آلژینات عمدتاً آب است، هم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آب جذب می‌کند (ایمبیبیشن)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و هم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آب پس می‌دهد (سینرزیس)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — و هر دو قالب را دچار اعوجاج می‌کنند. نتیجه: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قالب آلژینات باید بی‌درنگ ریخته شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". مهلت هم مشخص است: پر کردن باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ظرف ۱۵ دقیقه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پس از خروج از دهان کامل شود؛ و «نگه داشتن قالب در حوله‌ی مرطوب "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جایگزین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ریختن در زمان مشخص "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتخاب تری و تکنیک:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای آلژینات "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بزرگ‌ترین تری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که راحت در دهان جا شود انتخاب می‌شود، چون «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حجم بیشتر ماده، قالب دقیق‌تری می‌سازد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» — نسبت سطح به حجم مطلوب‌تر است و کمتر در معرض از دست دادن یا جذب آب قرار می‌گیرد. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برعکس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، الاستومرها با تری اختصاصی نسبتاً تنگ و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لایه‌ی نازک یکنواخت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بهترین نتیجه را می‌دهند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چند عدد و ممنوعیت که خطای رایج را می‌سازند:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هنگام نشاندن تری از بیمار خواسته می‌شود "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "«آرام ببندد»"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "؛ باز نگه داشتن بیش از حد دهان، ماده را از فرنیکس بیرون می‌راند. باز شدن "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بیش از ۲۰ میلی‌متر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " یا پروتروژن مندیبل می‌تواند به‌دلیل "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خمش مندیبل"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " قالب پایین را نادقیق کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تری باید "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۲ تا ۳ دقیقه پس از ژل‌شدن، سریع"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " خارج شود؛ تکان دادن یا لیز دادن آن، اعوجاج ناشی از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "جریان ویسکوز"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌سازد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضدعفونی با اسپری گلوتارآلدهید و قرار دادن در کیسه‌ی خودبسته به‌مدت "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "حدود ۱۰ دقیقه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ". این کار "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دقت یا جزئیات سطح را کم نمی‌کند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، و آلژینات "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بار باکتریایی به‌مراتب بالاتری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از الاستومرها دارد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گچ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تیپ IV یا V"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " با میکسر خلأ، افزودن مقادیر کم و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "همیشه از یک نقطه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " برای کمینه کردن حباب، نگهداری قالب‌های ریخته‌شده "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "با تری رو به پایین، نه وارونه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — وارونه کردن، سطح کست را "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خشن و دانه‌دار"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پوشاندن با کاغذ مرطوب و نگهداری در "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هیومیدور به‌مدت یک ساعت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "؛ جدا کردن کست "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "یک ساعت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پس از ریختن."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک ممنوعیت مطلق:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «کست گچی در حال ست شدن "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هرگز نباید در آب غوطه‌ور شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» — این کار انبساط ست شدن را از راه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انبساط هایگروسکوپیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دو یا حتی سه برابر می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ارزیابی، که ساده به نظر می‌رسد ولی نیست:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «ساخت کست تشخیصی اغلب بد انجام می‌شود. نادقتی‌های به‌ظاهر جزئی می‌توانند به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطاهای تشخیصی جدی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بینجامند.» یک حباب هوا روی سطح اکلوزال قالب، یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ندول"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " روی میز اکلوزال کست می‌سازد؛ اگر شناسایی و برداشته نشود، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مانت غلط"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و در نتیجه داده‌ی تشخیصی غلط می‌دهد. کست و قالب مشکوک باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دور ریخته و تکرار شوند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:19149",
+      "sourceId": "19149",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "7f59e822d2aa1679c98cc5e8fd1614fd912db1a011bce4cf5308d8dcf829297c",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بیماری نسبت ارتفاع قدامی فوقانی به تحتانی صورت برابر ۰٫۷۲ است. تفسیر درست و منطق پشت آن چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیماری نسبت ارتفاع قدامی فوقانی به تحتانی صورت برابر ۰٫۷۲ است. تفسیر درست و منطق پشت آن چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسبت طبیعی است و نیازی به تفسیر ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارتفاع قدامی تحتانی کوتاه است، چون نسبت کمتر از ۰٫۸ است؛ و هرچه نسبت کوچک‌تر باشد، ثلث تحتانی صورت فشرده‌تر دیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارتفاع قدامی تحتانی بلند است، چون نسبت کمتر از ۰٫۸ است؛ و نسبت میان دو ارتفاع مرتبط‌تر از هر اندازه‌ی منفرد است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسبت به‌تنهایی بی‌معنی است، مگر آنکه اندازه‌های مطلق هر دو ارتفاع هم به میلی‌متر گزارش شوند و با میانگین جمعیت مقایسه شوند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b5fbbce68565ef18eacd96ac5e615bb65ccd128cbd03d8bc2cab2a8ef20c6c71",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نسبت طبیعی است و نیازی به تفسیر ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نسبت طبیعی است و نیازی به تفسیر ندارد"
+            }
+          ]
+        },
+        {
+          "id": "f6a7cdeb7e63a4717371bbe8c9f10dc0b2efecafd65560e7dfbae80328aa2603",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ارتفاع قدامی تحتانی کوتاه است، چون نسبت کمتر از ۰٫۸ است؛ و هرچه نسبت کوچک‌تر باشد، ثلث تحتانی صورت فشرده‌تر دیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ارتفاع قدامی تحتانی کوتاه است، چون نسبت کمتر از ۰٫۸ است؛ و هرچه نسبت کوچک‌تر باشد، ثلث تحتانی صورت فشرده‌تر دیده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "c40d6efb925ad4ed177be0b49a0b563ad5869f0452309708272d03506f5bcbf0",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ارتفاع قدامی تحتانی بلند است، چون نسبت کمتر از ۰٫۸ است؛ و نسبت میان دو ارتفاع مرتبط‌تر از هر اندازه‌ی منفرد است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ارتفاع قدامی تحتانی بلند است، چون نسبت کمتر از ۰٫۸ است؛ و نسبت میان دو ارتفاع مرتبط‌تر از هر اندازه‌ی منفرد است"
+            }
+          ]
+        },
+        {
+          "id": "d4f8409f556003b3accac37d551be48d6f5e5dfeca68348ba4be154e9427968a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نسبت به‌تنهایی بی‌معنی است، مگر آنکه اندازه‌های مطلق هر دو ارتفاع هم به میلی‌متر گزارش شوند و با میانگین جمعیت مقایسه شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نسبت به‌تنهایی بی‌معنی است، مگر آنکه اندازه‌های مطلق هر دو ارتفاع هم به میلی‌متر گزارش شوند و با میانگین جمعیت مقایسه شوند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c40d6efb925ad4ed177be0b49a0b563ad5869f0452309708272d03506f5bcbf0"
+        ],
+        "explanation": "نسبت کوچک‌تر یعنی مخرج بزرگ‌تر، یعنی ثلث تحتانی بلندتر.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "نسبت کوچک‌تر یعنی مخرج بزرگ‌تر، یعنی ثلث تحتانی بلندتر."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T12:33:59.354Z"
+      }
+    },
+    {
+      "id": "question:19153",
+      "sourceId": "19153",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "f52da7311314ce54e51e1dc8c99336b171bdebe33a82898395bca2a22ff44a6a",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مشکل بنیادینی که طراحی لبخند دیجیتال در مراقبت جامع حل می‌کند چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مشکل بنیادینی که طراحی لبخند دیجیتال در مراقبت جامع حل می‌کند چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش دقت ابعادی قالب‌گیری و حذف خطای انتقال مدل‌ها به آرتیکولاتور با جایگزینی اسکن دیجیتال به‌جای آلژینات"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتقال چشم‌انداز طرح درمان میان درمانگر و بیمار، با نشان دادن یک تصویر مجازی از آنچه طرح ارائه می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش زمان لابراتوار در ساخت فریم‌ورک، چون طرح دیجیتال لبخند مستقیم به دستگاه میلینگ فرستاده می‌شود و واکس‌آپ حذف می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعیین شید نهایی سرامیک با تحلیل نرم‌افزاری رنگ دندان‌های مجاور در عکس لبخند، بدون نیاز به شیدگاید و نور استاندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8ecd1e0d2b375ceea984eb03198f6de3fe99daddc25b1cffd17e09a422a11b7f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "افزایش دقت ابعادی قالب‌گیری و حذف خطای انتقال مدل‌ها به آرتیکولاتور با جایگزینی اسکن دیجیتال به‌جای آلژینات",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش دقت ابعادی قالب‌گیری و حذف خطای انتقال مدل‌ها به آرتیکولاتور با جایگزینی اسکن دیجیتال به‌جای آلژینات"
+            }
+          ]
+        },
+        {
+          "id": "a2a5be62019e3bd040c84b8f14c4c9d77683a2eb1485594fa5693e368eeaee83",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "انتقال چشم‌انداز طرح درمان میان درمانگر و بیمار، با نشان دادن یک تصویر مجازی از آنچه طرح ارائه می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انتقال چشم‌انداز طرح درمان میان درمانگر و بیمار، با نشان دادن یک تصویر مجازی از آنچه طرح ارائه می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "c3ba045e5554bfec7e31bb3294cc357e7fc76b9eeb5a450cfc17b82bb4e8f187",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کاهش زمان لابراتوار در ساخت فریم‌ورک، چون طرح دیجیتال لبخند مستقیم به دستگاه میلینگ فرستاده می‌شود و واکس‌آپ حذف می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش زمان لابراتوار در ساخت فریم‌ورک، چون طرح دیجیتال لبخند مستقیم به دستگاه میلینگ فرستاده می‌شود و واکس‌آپ حذف می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "0e3b774f8b0a1ce9f5c45cd7ae078569abebbf3a43ed205c7c658024be8567f9",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تعیین شید نهایی سرامیک با تحلیل نرم‌افزاری رنگ دندان‌های مجاور در عکس لبخند، بدون نیاز به شیدگاید و نور استاندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تعیین شید نهایی سرامیک با تحلیل نرم‌افزاری رنگ دندان‌های مجاور در عکس لبخند، بدون نیاز به شیدگاید و نور استاندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a2a5be62019e3bd040c84b8f14c4c9d77683a2eb1485594fa5693e368eeaee83"
+        ],
+        "explanation": "انتقال چشم‌انداز طرح میان درمانگر و بیمار «یک چالش همیشگی» در مراقبت جامع است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "انتقال چشم‌انداز طرح میان درمانگر و بیمار «"
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "یک چالش همیشگی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "» در مراقبت جامع است."
+          }
+        ],
+        "observedAt": "2026-11-17T12:34:02.814Z"
+      }
+    },
+    {
+      "id": "question:19154",
+      "sourceId": "19154",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 44.4444%;",
+      "contentKey": "2a9f1feddebb268a9d0d5af280684e06941aa9200861b0a97dacad783ba7fcf1",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کست تشخیصی چه چیزی را ممکن می‌کند که معاینه‌ی مستقیم دهان نمی‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کست تشخیصی چه چیزی را ممکن می‌کند که معاینه‌ی مستقیم دهان نمی‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سنجش حیات پالپ و پاسخ به تست حرارتی بدون ناراحتی بیمار، و ثبت دقیق‌تر رنگ دندان‌ها در نور استاندارد آزمایشگاه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌گیری عمق پاکت پریودنتال در همه‌ی نقاط، و ارزیابی سطح استخوان کرستال و فورکیشن‌ها بدون نیاز به رادیوگرافی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بررسی روابط ایستا و پویا بدون تداخل رفلکس‌های محافظتی نوروماسکولار، و دیدن کاسپ‌های لینگوال در وضعیت بسته"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارزیابی شفافیت و بافت سطحی مینا از نمای فاسیال، و تعیین ضخامت مینای باقی‌مانده پیش از شروع تراش"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "887038cdce63e87c6aea3a6c4180633961618343a3d0a3f6f097f7d88ab6e397",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "سنجش حیات پالپ و پاسخ به تست حرارتی بدون ناراحتی بیمار، و ثبت دقیق‌تر رنگ دندان‌ها در نور استاندارد آزمایشگاه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سنجش حیات پالپ و پاسخ به تست حرارتی بدون ناراحتی بیمار، و ثبت دقیق‌تر رنگ دندان‌ها در نور استاندارد آزمایشگاه"
+            }
+          ]
+        },
+        {
+          "id": "d33d9563c8d366d0855959846615b6a14535c800eecaf47b3c3b26d63735d90b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اندازه‌گیری عمق پاکت پریودنتال در همه‌ی نقاط، و ارزیابی سطح استخوان کرستال و فورکیشن‌ها بدون نیاز به رادیوگرافی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندازه‌گیری عمق پاکت پریودنتال در همه‌ی نقاط، و ارزیابی سطح استخوان کرستال و فورکیشن‌ها بدون نیاز به رادیوگرافی"
+            }
+          ]
+        },
+        {
+          "id": "11d19b06b5f0192b560354c6162070623d526483466357f340efe153da2687d1",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "بررسی روابط ایستا و پویا بدون تداخل رفلکس‌های محافظتی نوروماسکولار، و دیدن کاسپ‌های لینگوال در وضعیت بسته",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بررسی روابط ایستا و پویا بدون تداخل رفلکس‌های محافظتی نوروماسکولار، و دیدن کاسپ‌های لینگوال در وضعیت بسته"
+            }
+          ]
+        },
+        {
+          "id": "9c88aa6398b281059fd3c42a9f0a445aa6b674ed2af2ffed1b2fbb84a47ff6d6",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ارزیابی شفافیت و بافت سطحی مینا از نمای فاسیال، و تعیین ضخامت مینای باقی‌مانده پیش از شروع تراش",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ارزیابی شفافیت و بافت سطحی مینا از نمای فاسیال، و تعیین ضخامت مینای باقی‌مانده پیش از شروع تراش"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "11d19b06b5f0192b560354c6162070623d526483466357f340efe153da2687d1"
+        ],
+        "explanation": "حذف رفلکس محافظتی همان چیزی است که کست را از دهان متمایز می‌کند.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "حذف رفلکس محافظتی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " همان چیزی است که کست را از دهان متمایز می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-17T12:33:43.849Z"
+      }
+    },
+    {
+      "id": "question:19159",
+      "sourceId": "19159",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 55.5556%;",
+      "contentKey": "2a06f955beca20e6ffdef74332240af1476e1ef388e27053c5c966bc6ac8b53f",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "تکنسینی برای «تسریع ست شدن»، کست تازه ریخته‌شده را در ظرف آب می‌گذارد. پیامد این کار چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تکنسینی برای «تسریع ست شدن»، کست تازه ریخته‌شده را در ظرف آب می‌گذارد. پیامد این کار چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سطح کست صاف‌تر و مقاوم‌تر می‌شود، چون آب اضافی بلورهای گچ را فشرده‌تر کنار هم می‌نشاند و تخلخل سطح کم می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ست شدن سریع‌تر و یکنواخت‌تر می‌شود بدون اثر منفی، چون آب حرارت واکنش را می‌گیرد و از ترک خوردن کست جلوگیری می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انبساط ست شدن از راه انبساط هایگروسکوپیک دو یا حتی سه برابر می‌شود و کست از نظر ابعادی بی‌اعتبار می‌گردد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رنگ سطح کست تیره‌تر و لکه‌دار می‌شود ولی ابعاد تغییری نمی‌کند، چون انبساط گچ پیش از غوطه‌وری به‌طور کامل انجام شده است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3dc79c542794ef1e404da035aa2d35e1b15c1570c116c7e9682fae5f90f328d1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "سطح کست صاف‌تر و مقاوم‌تر می‌شود، چون آب اضافی بلورهای گچ را فشرده‌تر کنار هم می‌نشاند و تخلخل سطح کم می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سطح کست صاف‌تر و مقاوم‌تر می‌شود، چون آب اضافی بلورهای گچ را فشرده‌تر کنار هم می‌نشاند و تخلخل سطح کم می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "c26cfd8bb7f59960c2d0e6098755705a10fff4f267cb87a3ca9e602b0e9cc509",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ست شدن سریع‌تر و یکنواخت‌تر می‌شود بدون اثر منفی، چون آب حرارت واکنش را می‌گیرد و از ترک خوردن کست جلوگیری می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ست شدن سریع‌تر و یکنواخت‌تر می‌شود بدون اثر منفی، چون آب حرارت واکنش را می‌گیرد و از ترک خوردن کست جلوگیری می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "19a6ba9fcbe21de5531204c8ed727983a8d9db7b7fba7fad249f64b1e758c2d8",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "انبساط ست شدن از راه انبساط هایگروسکوپیک دو یا حتی سه برابر می‌شود و کست از نظر ابعادی بی‌اعتبار می‌گردد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انبساط ست شدن از راه انبساط هایگروسکوپیک دو یا حتی سه برابر می‌شود و کست از نظر ابعادی بی‌اعتبار می‌گردد"
+            }
+          ]
+        },
+        {
+          "id": "93c62a9e6f247ac42832c5feb56fecf63a3763819cd870a2e7ceb41fedf5b85c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "رنگ سطح کست تیره‌تر و لکه‌دار می‌شود ولی ابعاد تغییری نمی‌کند، چون انبساط گچ پیش از غوطه‌وری به‌طور کامل انجام شده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رنگ سطح کست تیره‌تر و لکه‌دار می‌شود ولی ابعاد تغییری نمی‌کند، چون انبساط گچ پیش از غوطه‌وری به‌طور کامل انجام شده است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "19a6ba9fcbe21de5531204c8ed727983a8d9db7b7fba7fad249f64b1e758c2d8"
+        ],
+        "explanation": "روش درست، پوشاندن با کاغذ مرطوب و نگهداری در هیومیدور به‌مدت یک ساعت است، نه غوطه‌ور کردن.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "روش درست، پوشاندن با کاغذ مرطوب و نگهداری در هیومیدور به‌مدت یک ساعت است"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، نه غوطه‌ور کردن."
+          }
+        ],
+        "observedAt": "2026-11-17T12:34:06.408Z"
+      }
+    },
+    {
+      "id": "question:19162",
+      "sourceId": "19162",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 60%;",
+      "contentKey": "f69d1cf71de8cc85cdfd73d91350e2751319158f6426b246396b63ad86d83477",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام گزاره درباره‌ی ضدعفونی و ریختن گچ درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام گزاره درباره‌ی ضدعفونی و ریختن گچ درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضدعفونی دقت و جزئیات سطح را به‌طور معناداری کاهش می‌دهد، پس برای کست تشخیصی باید حذف شود و قالب فقط با آب شسته شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسپری گلوتارآلدهید و کیسه‌ی خودبسته حدود ۱۰ دقیقه دقت را کم نمی‌کند؛ گچ تیپ IV یا V با میکسر خلأ، و نگهداری با تری رو به پایین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قالب‌های ریخته‌شده باید وارونه نگهداری شوند تا حباب‌های هوا به سمت پایه‌ی کست بالا بیایند و سطح اکلوزال و جزئیات کاسپ‌ها صاف‌تر شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گچ تیپ II برای کست تشخیصی کافی است و میکسر خلأ لازم نیست، چون کست تشخیصی فقط برای بررسی کلی اکلوژن به کار می‌رود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8ad3b9a37c53fa9020b81af670b182d2f49fbead497cbed333c154d47ca90056",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ضدعفونی دقت و جزئیات سطح را به‌طور معناداری کاهش می‌دهد، پس برای کست تشخیصی باید حذف شود و قالب فقط با آب شسته شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ضدعفونی دقت و جزئیات سطح را به‌طور معناداری کاهش می‌دهد، پس برای کست تشخیصی باید حذف شود و قالب فقط با آب شسته شود"
+            }
+          ]
+        },
+        {
+          "id": "edda10d36597fb36ec2f5abf91f55fef422d9a17249a3d2177570335ebe01646",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اسپری گلوتارآلدهید و کیسه‌ی خودبسته حدود ۱۰ دقیقه دقت را کم نمی‌کند؛ گچ تیپ IV یا V با میکسر خلأ، و نگهداری با تری رو به پایین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اسپری گلوتارآلدهید و کیسه‌ی خودبسته حدود ۱۰ دقیقه دقت را کم نمی‌کند؛ گچ تیپ IV یا V با میکسر خلأ، و نگهداری با تری رو به پایین"
+            }
+          ]
+        },
+        {
+          "id": "0efdda74f04b2cad76f94139a25b76fdc5bc2d92c1f3892c0e45cdcd1bc467c6",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "قالب‌های ریخته‌شده باید وارونه نگهداری شوند تا حباب‌های هوا به سمت پایه‌ی کست بالا بیایند و سطح اکلوزال و جزئیات کاسپ‌ها صاف‌تر شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "قالب‌های ریخته‌شده باید وارونه نگهداری شوند تا حباب‌های هوا به سمت پایه‌ی کست بالا بیایند و سطح اکلوزال و جزئیات کاسپ‌ها صاف‌تر شود"
+            }
+          ]
+        },
+        {
+          "id": "924f82fa64937321e6f0e5f3064c1aa3eed0dfec54cb016fcbe0917b7923131e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "گچ تیپ II برای کست تشخیصی کافی است و میکسر خلأ لازم نیست، چون کست تشخیصی فقط برای بررسی کلی اکلوژن به کار می‌رود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گچ تیپ II برای کست تشخیصی کافی است و میکسر خلأ لازم نیست، چون کست تشخیصی فقط برای بررسی کلی اکلوژن به کار می‌رود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "edda10d36597fb36ec2f5abf91f55fef422d9a17249a3d2177570335ebe01646"
+        ],
+        "explanation": "وارونه کردن، سطح کست را خشن و دانه‌دار می‌کند؛ حباب‌ها با وارونه کردن بیرون نمی‌روند.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "وارونه کردن، سطح کست را خشن و دانه‌دار می‌کند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ حباب‌ها با وارونه کردن بیرون نمی‌روند."
+          }
+        ],
+        "observedAt": "2026-11-17T12:33:55.883Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:562cd8157224217b071cbe575acb16348db1e501b2a8957ef7371c1a7384b1db",
+      "at": "2026-11-17T12:33:15.311Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:4a2bf74c0fd69f3891e2003aeaa34f18dfbeebdc2141cc0ff73d14844979faaa",
+      "at": "2026-11-17T12:33:16.778Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:19149",
+      "at": "2026-11-17T12:33:18.362Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:19153",
+      "at": "2026-11-17T12:33:33.590Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:19154",
+      "at": "2026-11-17T12:33:39.483Z",
+      "progress": "width: 44.4444%;"
+    },
+    {
+      "stepId": "question:19159",
+      "at": "2026-11-17T12:33:45.482Z",
+      "progress": "width: 55.5556%;"
+    },
+    {
+      "stepId": "question:19162",
+      "at": "2026-11-17T12:33:51.642Z",
+      "progress": "width: 60%;"
+    },
+    {
+      "stepId": "question:19149",
+      "at": "2026-11-17T12:33:57.461Z",
+      "progress": "width: 70%;"
+    },
+    {
+      "stepId": "question:19153",
+      "at": "2026-11-17T12:34:00.928Z",
+      "progress": "width: 80%;"
+    },
+    {
+      "stepId": "question:19159",
+      "at": "2026-11-17T12:34:04.522Z",
+      "progress": "width: 90%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

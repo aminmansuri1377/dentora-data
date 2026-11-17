@@ -1,0 +1,1842 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1268/lesson.json",
+  "id": "1268",
+  "title": "درس دوم: واکس تشخیصی، مانت و ماتریس‌ها",
+  "specialtyKey": "1afca38e6e25ad7b",
+  "chapter": {
+    "id": "268",
+    "title": "بخش ۵: مراحل آزمایشگاهی و طراحی ترمیم، ارتباط با لابراتوار، کست و دای",
+    "position": 17
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:d12bce337201042100a5ebcd9391cb1545871a98cb67a47322c432e2bcba9e15",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "a11117b25974ef7dce79d3cd4d15b7b84588610103e74a03e0c772ff2b01d70b",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "واکس‌آپ تشخیصی: نقشه‌ی سه‌بعدی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعریف رسمی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "Glossary of Prosthodontic Terms"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، واکس‌آپ تشخیصی «واکس کردن کانتورهای ترمیمی مورد نظر روی کست‌های دندانی به منظور ارزیابی و برنامه‌ریزی ترمیم‌ها؛ یک نسخه‌ی مومی از یک طرح درمان پیشنهادی» است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا بنیادی است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «واکس‌آپ تشخیصی گامی بنیادی در درمان ترمیمی موفق است. یک نقشه‌ی فیزیکی سه‌بعدی است که نتیجه‌ی عملکردی و زیبایی‌شناختی درمان ترمیمی را پیشنهاد می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چه چیزهایی از آن زاده می‌شوند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک کست تکراری، ماتریکس‌ها، استنت‌ها و راهنماهای کاهش ساخته‌شده از واکس، ابزارهای لازم برای شماری از روش‌های جراحی و ترمیمی‌اند.» و «یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترمیم آزمایشی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ساخته‌شده از آن می‌تواند به بیمار "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصور واقع‌بینانه‌ای از ظاهر ترمیم آینده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بدهد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کاربرد راهنمای کاهش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «استفاده از ماتریکس‌ها و راهنماهای سیلیکونی ساخته‌شده از واکس‌آپ تشخیصی حین تراش دندان بسیار کمک‌کننده است تا اطمینان حاصل شود ساختار دندانی کافی برداشته شده تا فضای کافی برای مواد ترمیمی پیش‌بینی‌شده فراهم گردد.» و شل وکیوم‌فرم مشتق از کست تکراری، برای ساخت ترمیم‌های موقت به کار می‌رود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و رکوردهایی که باید همراه واکس‌آپ تشخیصی ثبت شوند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سری کامل عکس دیجیتال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کست‌های مانت‌شده با فیس‌بو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و دستورهایی درباره‌ی تغییرات مطلوب و انتظارات بیمار.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پارامترهایی که باید در دستور بیایند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پارامترهای زیبایی مانند «موقعیت لبه‌ی انسیزال، طول دندان، تناسبات، و مورفولوژی»؛ و پارامترهای عملکردی مانند «طرح و عملکرد اکلوزال، افزایش یا کاهش بعد عمودی اکلوزال، و بارگذاری افزایش‌یافته در حضور فعالیت‌های پارافانکشنال مانند براکسیسم، یا هر ناحیه‌ی پرتنش خاص»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک قاعده‌ی وابسته به نوع ترمیم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «نوع ترمیم دائمی نیز باید در نظر گرفته شود؛ مثلاً برای ونیرهای پرسلن آینده، واکس باید به‌صورت افزایشی روی کست پیش از عمل انجام شود تا از کاهش بیش از حد مینا در تراش اجتناب گردد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نتیجه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «اگر همه‌ی چنین عواملی به‌دقت شناسایی و در نظر گرفته شوند، نتیجه‌ی ترمیمی از نظر زیبایی مطلوب و با پیش‌آگهی عالی خواهد بود.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:7667cc3ebba1cd42bc1cadb98db4bd2d7937195057613bc90b3038e52af4576d",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "32e28e7a3c25264728e3e8c4ba0b6cf0d3af82e853a3362badf4c45f90cc8bb5",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مانت، تأیید رکورد، و ماتریکس‌ها"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اهمیت مانت درست:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مانت دقیق کست نهایی با کست مقابلش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از بالاترین اهمیت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است. مانت‌های نادرست می‌توانند به بازسازی پروتز یا ساعت‌ها تنظیم و در نتیجه یک نتیجه‌ی مصالحه‌شده بینجامند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چه کسی انجامش می‌دهد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «معمولاً مانت کردن کست‌ها به تکنسین آزمایشگاه واگذار می‌شود و باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با بیشترین دقت و احتیاط"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " انجام شود.» و گام نخست: «همه‌ی کست‌ها را از هر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نقص و ناکاملی اکلوزال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پاک کن.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و گامی که اغلب حذف می‌شود:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک گام حیاتی برای تکمیل ترمیم‌ها با بالاترین دقت، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تأیید رکوردهای اکلوزال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ابزارش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای آرتیکولاتور رایج SAM، از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "Mandibular Position Indicator (MPI)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " استفاده می‌شود که «عضو ماگزیلای اصلاح‌شده‌ی آرتیکولاتور» است. و کاربرد دومش: «نشان دادن بصری اختلاف‌ها میان رابطه‌ی مرکزی و موقعیت حداکثر بین‌کاسپی»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چگونه کار می‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «MPI "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مکعب‌های کشویی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارد که با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قطب‌های مزیال اجزای کندیلار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تماس می‌گیرند. یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاغذ گراف خودچسب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " روی مکعب‌ها قرار می‌گیرد و کست ماگزیلا از آرتیکولاتور به MPI منتقل می‌شود. نخستین مجموعه رکوردهای CR برای قرار دادن کست ماگزیلا نسبت به مندیبل به کار می‌رود، و با قرار دادن کاغذ آرتیکولاسیون، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک ردّ روی کاغذ گراف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ایجاد می‌شود.» و مقایسه‌ی دو رکورد نشان می‌دهد آیا بر هم منطبق‌اند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نکته‌ی مقایسه‌ای درباره‌ی ماده‌ی قالب‌گیری:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مقایسه‌ی تصویری روشن است: «نشست دقیق رکورد اکلوزال روی کست ساخته‌شده از قالب سیلیکون افزایشی» در برابر «تطابق ضعیف همان رکورد روی کست ساخته‌شده از قالب آلژینات»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و انتقال اطلاعات ترمیم موقت:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «شکل ترمیم موقتی که بیمار می‌پوشد، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اطلاعات مهمی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای تکنسین است، به‌ویژه برای پروتزهای ثابت در ناحیه‌ی زیبایی.» و چرا: «پروتز موقت اغلب نسخه‌ی اصلاح و تنظیم‌شده‌ی واکس‌آپ تشخیصی پیشین است و نقشه‌ی فیزیکی تأییدشده توسط دندانپزشک و بیمار برای ترمیم دائمی را نمایندگی می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو راه انتقالش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «عکسی از پروتز موقت در محل، با هر ترسیم اصلاحی یا یادداشتی روی آن، راه عالی‌ای برای نشان دادن این نکات است. جایگزین دیگر، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک کست آنالوگ یا مجازی از پروتز موقت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است که کمک عظیمی به سرامیست می‌کند تا ظاهرش را تقلید کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کاربرد سوم کست موقت —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " جدول گاید انسیزال اختصاصی: «کست پروتز موقت می‌تواند با کست نهایی و قوس مقابلش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کراس‌مانت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " شود و سپس برای ساخت یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جدول گاید انسیزال اختصاصی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به کار رود.» و فایده‌اش: «انتقال محدوده‌ی عملکرد (envelope of function) برقرارشده از ترمیم موقت به دائمی، با در نظر گرفتن هر الگوی سایشی که حین عملکرد ایجاد شده باشد.» و یک نکته‌ی تشخیصی: «الگوهای سایش در ترمیم موقت می‌توانند سرنخ‌های مهمی برای دستیابی به گاید قدامی بهینه فراهم کنند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ماتریکس‌های کنترل فضا:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ایندکس‌های سیلیکونی ساخته‌شده از کست موقت، طول، شکل، میدلاین و چینش دندان‌ها را به ترمیم نهایی منتقل می‌کنند و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایندکس اکلوزوپالاتال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " عمدتاً برای همین به کار می‌رود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و «یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماتریکس باکولینگوال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تصور خوبی از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقدار فضای موجود در سمت لبیال یا باکال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌دهد.» و کاربردشان: «این دو نوع ماتریکس ابزارهای عالی‌ای برای کنترل فضا در دو گام کاری بحرانی ساخت فریم‌ورک و لایه‌گذاری متعاقب پرسلناند.» و نتیجه: «فریم‌ورکی با طراحی درست و ضخامت یکنواخت‌تر پرسلن، که به‌خوبی توسط ساب‌استراکچر حمایت شده باشد.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:20709",
+      "sourceId": "20709",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "0aa3ed9a9e54695faafaf95411807302e8f10fc6c980de5903bd604e60e8548a",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام ابزارها از واکس‌آپ تشخیصی ساخته می‌شوند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام ابزارها از واکس‌آپ تشخیصی ساخته می‌شوند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها یک کست مانت‌شده برای بایگانی پرونده، چون خود واکس پس از تأیید بیمار دیگر کاربردی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها یک شل وکیوم‌فرم برای موقت‌سازی؛ راهنمای کاهش باید جداگانه روی کست تراش‌خورده ساخته شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها یک راهنمای رنگ و شکل برای سرامیست، که همراه دستور کار نهایی به آزمایشگاه فرستاده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کست تکراری، ماتریکس‌ها، استنت‌ها و راهنماهای کاهش؛ و شل وکیوم‌فرم برای ساخت ترمیم موقت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "57af2cf73acb5b38c155affd05049d14d5f56bf6966c1d61cef3490d5d8ec1e7",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تنها یک کست مانت‌شده برای بایگانی پرونده، چون خود واکس پس از تأیید بیمار دیگر کاربردی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها یک کست مانت‌شده برای بایگانی پرونده، چون خود واکس پس از تأیید بیمار دیگر کاربردی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "262247f831b854602d467604cca9a1bbee1429666ea81dbb83f3e78ccc5eb45b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تنها یک شل وکیوم‌فرم برای موقت‌سازی؛ راهنمای کاهش باید جداگانه روی کست تراش‌خورده ساخته شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها یک شل وکیوم‌فرم برای موقت‌سازی؛ راهنمای کاهش باید جداگانه روی کست تراش‌خورده ساخته شود"
+            }
+          ]
+        },
+        {
+          "id": "79eb2bfe683956bdbe5bd6813f02ed13e325a05b37b2310f3777fdca0ee47067",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تنها یک راهنمای رنگ و شکل برای سرامیست، که همراه دستور کار نهایی به آزمایشگاه فرستاده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها یک راهنمای رنگ و شکل برای سرامیست، که همراه دستور کار نهایی به آزمایشگاه فرستاده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "384064256edb2cfd6278c37fb6962ae3caa353cce082d17d0f68ff896d22b00f",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کست تکراری، ماتریکس‌ها، استنت‌ها و راهنماهای کاهش؛ و شل وکیوم‌فرم برای ساخت ترمیم موقت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کست تکراری، ماتریکس‌ها، استنت‌ها و راهنماهای کاهش؛ و شل وکیوم‌فرم برای ساخت ترمیم موقت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "384064256edb2cfd6278c37fb6962ae3caa353cce082d17d0f68ff896d22b00f"
+        ],
+        "explanation": "دقیقاً. یک واکس، چندین ابزار.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "یک واکس، چندین ابزار."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:48:57.855Z"
+      }
+    },
+    {
+      "id": "question:20711",
+      "sourceId": "20711",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "6c966159db49b48b047cf7afb58ad004850a13a53c4779843072a98a99e91cf1",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برای ثبت اطلاعاتی که واکس‌آپ تشخیصی می‌طلبد، کدام سه چیز لازم است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای ثبت اطلاعاتی که واکس‌آپ تشخیصی می‌طلبد، کدام سه چیز لازم است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قالب آلژینات هر دو قوس، کست تشخیصی مانت‌نشده، و کاغذ آرتیکولاسیون برای ثبت تماس‌های اکلوزال فعلی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رادیوگرافی پانورامیک، سابقه‌ی پزشکی کامل، رنگ انتخابی از راهنمای استاندارد، و فهرست داروهای مصرفی بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک سری کامل عکس دیجیتال، کست‌های مانت‌شده با فیس‌بو، و دستور درباره‌ی تغییرات مطلوب و انتظارات بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسکن CBCT، تست حیات پالپ، و چارت پریودنتال"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "1c31577e630525c6335363fdb0d13c9bfb61ea74c5f359c1cc5bf21fdd9a0af8",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "قالب آلژینات هر دو قوس، کست تشخیصی مانت‌نشده، و کاغذ آرتیکولاسیون برای ثبت تماس‌های اکلوزال فعلی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "قالب آلژینات هر دو قوس، کست تشخیصی مانت‌نشده، و کاغذ آرتیکولاسیون برای ثبت تماس‌های اکلوزال فعلی"
+            }
+          ]
+        },
+        {
+          "id": "b0e9c3ca205484101242eccc07bdf52399247d11cba45cff17a09fc995442486",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "رادیوگرافی پانورامیک، سابقه‌ی پزشکی کامل، رنگ انتخابی از راهنمای استاندارد، و فهرست داروهای مصرفی بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رادیوگرافی پانورامیک، سابقه‌ی پزشکی کامل، رنگ انتخابی از راهنمای استاندارد، و فهرست داروهای مصرفی بیمار"
+            }
+          ]
+        },
+        {
+          "id": "4f1f986763c2067323eeee3377d780738ee50d3c2ca22ee19d855f4a4bcdee78",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "یک سری کامل عکس دیجیتال، کست‌های مانت‌شده با فیس‌بو، و دستور درباره‌ی تغییرات مطلوب و انتظارات بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک سری کامل عکس دیجیتال، کست‌های مانت‌شده با فیس‌بو، و دستور درباره‌ی تغییرات مطلوب و انتظارات بیمار"
+            }
+          ]
+        },
+        {
+          "id": "3a2eeb3b1b6d3a3d61106900464a180e6895699b7f1bd81ed12de97a66cd9464",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اسکن CBCT، تست حیات پالپ، و چارت پریودنتال",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اسکن CBCT، تست حیات پالپ، و چارت پریودنتال"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "4f1f986763c2067323eeee3377d780738ee50d3c2ca22ee19d855f4a4bcdee78"
+        ],
+        "explanation": "کاملاً درست. تصویر، رابطه‌ی فضایی، و خواسته‌ی بیمار؛ هر سه لازم‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کاملاً درست. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "تصویر، رابطه‌ی فضایی، و خواسته‌ی بیمار؛ هر سه لازم‌اند."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:49:03.484Z"
+      }
+    },
+    {
+      "id": "question:20716",
+      "sourceId": "20716",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "07a7cad48eda04eab1449e0e12294f6096bf4bc59c18586866c9309e04a2ec7a",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "رکورد اکلوزال روی کدام کست دقیق و روی کدام ضعیف می‌نشیند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "رکورد اکلوزال روی کدام کست دقیق و روی کدام ضعیف می‌نشیند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو یکسان و قابل قبول‌اند، چون رکورد اکلوزال به ماده‌ی قالب حساس نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقیق روی کست ساخته‌شده از قالب آلژینات؛ ضعیف روی کست ساخته‌شده از قالب سیلیکون افزایشی به دلیل انقباض"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقیق روی کست ساخته‌شده از قالب سیلیکون افزایشی؛ ضعیف روی کست ساخته‌شده از قالب آلژینات"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو ضعیف‌اند و باید از قالب پلی‌اتر استفاده شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "cde15e8e63dbf3ee04e6ddb20b6c98f9aed2d9095d44d9f6eabe13763ee6fc7d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر دو یکسان و قابل قبول‌اند، چون رکورد اکلوزال به ماده‌ی قالب حساس نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو یکسان و قابل قبول‌اند، چون رکورد اکلوزال به ماده‌ی قالب حساس نیست"
+            }
+          ]
+        },
+        {
+          "id": "dd188a66554b50c7e3e413e85e0f59f88d6e145a3e4da1da8bd70db9fc377714",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دقیق روی کست ساخته‌شده از قالب آلژینات؛ ضعیف روی کست ساخته‌شده از قالب سیلیکون افزایشی به دلیل انقباض",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دقیق روی کست ساخته‌شده از قالب آلژینات؛ ضعیف روی کست ساخته‌شده از قالب سیلیکون افزایشی به دلیل انقباض"
+            }
+          ]
+        },
+        {
+          "id": "1444cb9f4ee959ca8438b45c37f4c46ce0cd83624efd58252a5f761fed72d811",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دقیق روی کست ساخته‌شده از قالب سیلیکون افزایشی؛ ضعیف روی کست ساخته‌شده از قالب آلژینات",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دقیق روی کست ساخته‌شده از قالب سیلیکون افزایشی؛ ضعیف روی کست ساخته‌شده از قالب آلژینات"
+            }
+          ]
+        },
+        {
+          "id": "908f3419de698e335364aa0d01f8b6560087d0a9f39514623ad75c3242c6dd57",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هر دو ضعیف‌اند و باید از قالب پلی‌اتر استفاده شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو ضعیف‌اند و باید از قالب پلی‌اتر استفاده شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1444cb9f4ee959ca8438b45c37f4c46ce0cd83624efd58252a5f761fed72d811"
+        ],
+        "explanation": "دقیقاً؛ دقت رکورد اکلوزال از دقت کست شروع می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً؛ "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دقت رکورد اکلوزال از دقت کست شروع می‌شود."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:49:08.983Z"
+      }
+    },
+    {
+      "id": "question:20717",
+      "sourceId": "20717",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "a959748cff1574d0a99e28c545443c54032da5f3a4d4912f43b553b258ec5452",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "پروتز موقت در ارتباط با آزمایشگاه چگونه توصیف می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پروتز موقت در ارتباط با آزمایشگاه چگونه توصیف می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک ابزار موقت بدون ارزش اطلاعاتی برای آزمایشگاه، که تنها تا نصب ترمیم نهایی از دندان تراش‌خورده محافظت می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسخه‌ی اصلاح‌شده‌ی واکس‌آپ تشخیصی، و نقشه‌ی فیزیکی ترمیم نهایی که دندانپزشک و بیمار تأییدش کرده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "راهنمای انتخاب رنگ برای سرامیست، چون ترمیم موقت با همان رنگ نهایی ساخته می‌شود و شکلش هیچ اهمیتی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جایگزینی برای کست نهایی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d9622cd38d54b2d0fd3dccefb4cb63b33ea80b691991fa8858477369f1288643",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "یک ابزار موقت بدون ارزش اطلاعاتی برای آزمایشگاه، که تنها تا نصب ترمیم نهایی از دندان تراش‌خورده محافظت می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک ابزار موقت بدون ارزش اطلاعاتی برای آزمایشگاه، که تنها تا نصب ترمیم نهایی از دندان تراش‌خورده محافظت می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "6f2116c86e3a4fef99e059a4e8cd08d05b4161c911be78f605e6d3fcb2a3182d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "نسخه‌ی اصلاح‌شده‌ی واکس‌آپ تشخیصی، و نقشه‌ی فیزیکی ترمیم نهایی که دندانپزشک و بیمار تأییدش کرده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نسخه‌ی اصلاح‌شده‌ی واکس‌آپ تشخیصی، و نقشه‌ی فیزیکی ترمیم نهایی که دندانپزشک و بیمار تأییدش کرده‌اند"
+            }
+          ]
+        },
+        {
+          "id": "283b398fd1bc12703a765da8c69502b2ea84b4be9bb7f3ae5eb50129d8b73289",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "راهنمای انتخاب رنگ برای سرامیست، چون ترمیم موقت با همان رنگ نهایی ساخته می‌شود و شکلش هیچ اهمیتی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "راهنمای انتخاب رنگ برای سرامیست، چون ترمیم موقت با همان رنگ نهایی ساخته می‌شود و شکلش هیچ اهمیتی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "de983944fa19b22a1865b4b4d239445fd7a9dffc826d85f250df45c391c841d1",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "جایگزینی برای کست نهایی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جایگزینی برای کست نهایی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6f2116c86e3a4fef99e059a4e8cd08d05b4161c911be78f605e6d3fcb2a3182d"
+        ],
+        "explanation": "آفرین؛ هر اصلاحی روی موقت هم باید به تکنسین منتقل شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین؛ "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هر اصلاحی روی موقت هم باید به تکنسین منتقل شود."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:49:14.855Z"
+      }
+    },
+    {
+      "id": "question:20720",
+      "sourceId": "20720",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "c38248bd3c7f9da286849180b559b904849850539d272f8b49af55905956f191",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ماتریکس باکولینگوال چه اطلاعاتی می‌دهد و در کدام دو گام کاری بحرانی به کار می‌آید؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ماتریکس باکولینگوال چه اطلاعاتی می‌دهد و در کدام دو گام کاری بحرانی به کار می‌آید؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقدار فضای موجود در سمت لبیال یا باکال؛ و در ساخت فریم‌ورک و لایه‌گذاری متعاقب پرسلن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رنگ و ضخامت لایه‌ی دنتین در یک‌سوم میانی تاج؛ و در دو گام انتخاب رنگ نهایی و گلیز پرسلن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضخامت لایه‌ی دای‌اسپیسر روی دیواره‌های اگزیال دای؛ و در دو گام سمان کردن و پرداخت نهایی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موقعیت دقیق لبه‌ی تراش نسبت به لثه؛ و در دو گام قالب‌گیری نهایی و مانت کست‌ها روی آرتیکولاتور"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0888ad58834e64085b18fed8a9be1d86ac1bdfe2dd51ee057e45a1f9c7a170ad",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مقدار فضای موجود در سمت لبیال یا باکال؛ و در ساخت فریم‌ورک و لایه‌گذاری متعاقب پرسلن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقدار فضای موجود در سمت لبیال یا باکال؛ و در ساخت فریم‌ورک و لایه‌گذاری متعاقب پرسلن"
+            }
+          ]
+        },
+        {
+          "id": "b5e23eb6095a3a1765c8f5f27f41ad617259a58238dab9fe4ca5862c453492d4",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "رنگ و ضخامت لایه‌ی دنتین در یک‌سوم میانی تاج؛ و در دو گام انتخاب رنگ نهایی و گلیز پرسلن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رنگ و ضخامت لایه‌ی دنتین در یک‌سوم میانی تاج؛ و در دو گام انتخاب رنگ نهایی و گلیز پرسلن"
+            }
+          ]
+        },
+        {
+          "id": "4c0f7bfae91b6a9414a424875aa86833d00f12efdb69bfa4274ccf9489c0218c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ضخامت لایه‌ی دای‌اسپیسر روی دیواره‌های اگزیال دای؛ و در دو گام سمان کردن و پرداخت نهایی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ضخامت لایه‌ی دای‌اسپیسر روی دیواره‌های اگزیال دای؛ و در دو گام سمان کردن و پرداخت نهایی"
+            }
+          ]
+        },
+        {
+          "id": "d962d06024a6c885f93e8514cff1e906237eb90e50713718ef3ab4afe1350305",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "موقعیت دقیق لبه‌ی تراش نسبت به لثه؛ و در دو گام قالب‌گیری نهایی و مانت کست‌ها روی آرتیکولاتور",
+          "content": [
+            {
+              "tag": "text",
+              "text": "موقعیت دقیق لبه‌ی تراش نسبت به لثه؛ و در دو گام قالب‌گیری نهایی و مانت کست‌ها روی آرتیکولاتور"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "0888ad58834e64085b18fed8a9be1d86ac1bdfe2dd51ee057e45a1f9c7a170ad"
+        ],
+        "explanation": "درست است. نتیجه‌اش فریم‌ورک درست و ضخامت یکنواخت‌تر پرسلن است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "نتیجه‌اش فریم‌ورک درست و ضخامت یکنواخت‌تر پرسلن است."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:49:20.684Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:d12bce337201042100a5ebcd9391cb1545871a98cb67a47322c432e2bcba9e15",
+      "at": "2026-11-17T13:48:42.999Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:7667cc3ebba1cd42bc1cadb98db4bd2d7937195057613bc90b3038e52af4576d",
+      "at": "2026-11-17T13:48:44.630Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:20709",
+      "at": "2026-11-17T13:48:46.225Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:20711",
+      "at": "2026-11-17T13:48:59.489Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:20716",
+      "at": "2026-11-17T13:49:05.094Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:20717",
+      "at": "2026-11-17T13:49:10.612Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:20720",
+      "at": "2026-11-17T13:49:16.295Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

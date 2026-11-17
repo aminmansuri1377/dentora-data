@@ -1,0 +1,1729 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1267/lesson.json",
+  "id": "1267",
+  "title": "درس اول: مسئولیت‌ها و دستور کار",
+  "specialtyKey": "1afca38e6e25ad7b",
+  "chapter": {
+    "id": "268",
+    "title": "بخش ۵: مراحل آزمایشگاهی و طراحی ترمیم، ارتباط با لابراتوار، کست و دای",
+    "position": 17
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:b4630de31ed74ec056bf8526612b9e0237d214c324d28c7a8b0f57c06ac0e8a5",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "a20cacdf034e87ffcd9f814c5182dd83e06f9bd1b2b16e4ace4fcdd69e8a2fb8",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دو طرف، دو مسئولیت"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌چیز با یک شرط دوطرفه آغاز می‌شود:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برای ساخت یک پروتز ثابت باکیفیت، همه‌ی اعضای تیم دندانپزشکی باید بفهمند چه چیزی را می‌توانند به‌طور معقول از یکدیگر انتظار داشته باشند. شناخت متقابل از محدودیت‌های فردی حیاتی است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و هزینه‌ی ندانستن:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «دندانپزشکی که چالش‌های پیش روی تکنسین آزمایشگاه را نمی‌فهمد، هنگام تجویز و واگذاری روش‌های آزمایشگاهی در وضعیت نامساعد جدی‌ای است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مهم‌ترین جمله‌ی این درس درباره‌ی قضاوت بالینی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «حیاتی برای رشد قضاوت بالینی سالم، درک کامل از روش‌های فنی و منطق پشت آن‌هاست.» و نتیجه‌اش: «کلینیسین‌هایی که وقت می‌گذارند تا درک عمیقی از کار آزمایشگاهی پیدا کنند، به دلیل درکشان از محدودیت‌های مرتبط فنی و علم مواد، تصمیم‌های بالینی بهتری می‌گیرند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و همان درک، شرط یک انتخاب کلیدی است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تنها آنگاه دندانپزشک می‌تواند بهترین مصالحه را میان (۱) محدودیت‌های فنی، (۲) ملاحظات زیستی، و (۳) نیازهای زیبایی‌شناختی انتخاب کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تقارن مسئولیت:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «به همین ترتیب، اگر تکنسین آزمایشگاه خواسته‌های بالینی یا منطق درمانی دندانپزشک را درک و محترم نشمارد، نتایج احتمالاً نامطلوب خواهند بود.» و چگونه احترام به دست می‌آید: «دندانپزشک می‌تواند این احترام را با آماده بودن برای انجام مسئولیت‌های شخصی، گوش دادن دقیق به توصیه‌های فنی ارائه‌شده، و مشارکت فعال در فرایند تصمیم‌گیری فنی کسب کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و آنچه نظرسنجی‌ها نشان دادند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تکنسین‌های آزمایشگاه از کیفیت کارهای دریافتی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اغلب ناراضی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بودند؛ شکایت‌ها شامل اطلاعات ناکافی در دستور کار، ارسال قالب‌های معیوب، و رکوردهای اکلوزال ناکافی بود.» و نتیجه‌ی مشترک همه‌ی مطالعات: «مراقبت بهتر بیمار تنها با ارتباط بهتر قابل دستیابی است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مسئولیت نهایی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «دندانپزشک مسئولیت کلی درمان ارائه‌شده را بر عهده دارد.» و خطاهای رایجی که نتیجه‌ی بهینه را تضعیف می‌کنند: «کاهش ناکافی دندان، عدم قطعیت درباره‌ی محل لبه‌های تراش، رکوردهای بین‌فکی و آرتیکولاسیون نادرست، و ابهام در انتقال رنگ‌های مطلوب»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مسئولیت‌های متقابل انتقال و بازگشت کار:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «همه‌ی پروتزها و مواد ارسالی به آزمایشگاه باید در ظرف مناسب و بسته‌بندی کافی برای جلوگیری از آسیب و حفظ دقت آماده شوند.» و «دندانپزشک باید همه‌ی کست‌ها، رکوردها و پروتزها را به آزمایشگاه بازگرداند اگر پروتز درست جا نیفتد یا انتخاب رنگ نادرست باشد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و از سمت آزمایشگاه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تکنسین باید از هر آزمایشگاه یا تکنسین پیمانکار فرعی که برای آماده‌سازی کیس به کار گرفته شده به دندانپزشک اطلاع دهد» و «نباید مستقیماً از بیمار صورتحساب بگیرد مگر قانون اجازه دهد» و «نباید هیچ ترتیب تجاری میان دندانپزشک و آزمایشگاه را با بیمار در میان بگذارد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کنترل عفونت — با یک آمار تکان‌دهنده:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «در نمونه‌ای در سال ۱۹۹۰، از همه‌ی موادی که از مطب‌ها به آزمایشگاه‌ها فرستاده شده بود، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۷ درصد آلوده بودند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".» و در پرسشنامه‌ای جدیدتر: «تکنسین‌ها باور داشتند در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمتر از ۶۰ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " موارد، مواد پیش از ارسال به‌درستی ضدعفونی شده بودند.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:62b53de304cf332c3587eed0ef0415b600833646cea4d05d5a7e0227fbc549a1",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "f1721eb27266dc2f6df5e392e0457ab87610f6fd921ca47b79e67f5651a7a390",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خطای تراش، قاعده‌ی توقف، و محتوای دستور کار"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک خطای رایج:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش ناکافی دندان یک خطای رایج است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» و یک استثنای واقع‌بینانه: «آشکارا، در تاج‌های بالینی بلند دندان‌های زنده — مثلاً پس از جراحی پریودنتال — همیشه ممکن نیست "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱٫۲ تا ۱٫۵ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مطلوب بدون اکسپوز شدن پالپ کاهش داده شود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ولی حکم کلی روشن است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «با این حال، عموماً حتی برای یک سرامیست باتجربه هم غیرممکن است که نتایج زیبایی‌شناختی برتری به دست آورد اگر دندان کم‌تراش باشد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و راه‌حل غلطی که تکنسین‌های کم‌تجربه انتخاب می‌کنند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «تکنسین‌های بی‌تجربه تمایل دارند مشکل را با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیش‌کانتور کردن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " حل کنند، ولی این اغلب به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آغاز یا عود بیماری پریودنتال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌انجامد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مهم‌ترین قاعده‌ی مدیریت خطا در این بخش —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کلمه‌به‌کلمه به خاطرش بسپار: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی کشف کردی خطایی رخ داده —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " توقف کن! ادامه نده. به مرحله‌ای که خطا در آن رخ داده بازگرد و اصلاحش کن. تلاش برای ادامه دادن بدون اصلاح درست، تنها خطا را تشدید و پیچیده می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نکته‌ی رفتاری مهم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «هرچند یک تکنسین باتجربه احتمالاً هر خواسته‌ی غیرواقع‌بینانه‌ای را به اطلاع دندانپزشک می‌رساند، برخی تکنسین‌های خوش‌نیت ممکن است تلاش کنند خواسته‌ای را برآورده کنند که از همان آغاز محکوم به شکست است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و محتوای دستور کار —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که در جاهای مختلف «work authorization»، «laboratory work order» یا «prescription» نامیده می‌شود:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توصیف کلی ترمیمی که باید ساخته شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مشخصات ماده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طرح اکلوزال مطلوب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طراحی کانکتور برای پروتزهای ثابت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طراحی پانتیک، شامل مشخصات ماده برای تماس بافتی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رنگ، و در صورت لزوم رنگ استامپ متناسب با ماده‌ی ترمیمی، و نیز رنگ لثه اگر باید لثه شبیه‌سازی شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طراحی ساب‌استراکچر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برند، مدل و اندازه‌ی پلتفرم ایمپلنت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تاریخ جلسه‌ی بعدی بیمار و مرحله‌ی تکمیلی که تا آن زمان لازم است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو قاعده‌ی متقابل درباره‌ی مواد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «دندانپزشک باید با موادی که تکنسین ترجیح می‌دهد برای روش‌های معین به کار ببرد آشنا باشد. مشخص کردن آن مواد "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هم زمان و هم تلاش را صرفه‌جویی می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". تکنسین نیز باید تجویز ماده‌ی خاص توسط دندانپزشک را محترم بشمارد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نکته‌ای که فرم را جایگزین گفت‌وگو نمی‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «دستورهای نوشتاری باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صریح"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشند. ارتباط بهبود می‌یابد اگر تکنسین و دندانپزشک درباره‌ی یک انتخاب گفت‌وگو کنند تا اینکه دندانپزشک صرفاً جمله‌ای روی فرم دستور کار بنویسد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و گواهی CDT:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برای CDT شدن باید یک آزمون کتبی جامع، یک آزمون کتبی تخصصی، و یک آزمون عملی در همان تخصص را گذراند.» و شش تخصص موجود: «پروتز کامل، پروتز پارسیل، روکش و بریج (پروتز ثابت)، سرامیک، ارتودنسی، و ایمپلنت.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:20694",
+      "sourceId": "20694",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "dd3c3a2f584935eea027915324bb1da49e9abf14c7872f9172e59b63be08722a",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "نظرسنجی‌ها کدام سه شکایت را از سوی تکنسین‌های آزمایشگاه پروتز ثابت نشان دادند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نظرسنجی‌ها کدام سه شکایت را از سوی تکنسین‌های آزمایشگاه پروتز ثابت نشان دادند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اطلاعات ناکافی در دستور کار، ارسال قالب‌های معیوب، و رکوردهای اکلوزال ناکافی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تأخیر در پرداخت صورتحساب، حجم زیاد سفارش‌ها در پایان ماه، و مهلت‌های تحویل بسیار کوتاه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتخاب بی‌دلیل مواد گران، درخواست‌های تکراری اصلاح، و تغییر مکرر رنگ پس از ساخت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بسته‌بندی نامناسب، نبود شماره‌ی تماس روی فرم، و امضانکردن دستور کار"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ef1fff462bdf69b6a247090642a91bb734d0dc2a6caa9e87a04e0f9ff80b75b5",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اطلاعات ناکافی در دستور کار، ارسال قالب‌های معیوب، و رکوردهای اکلوزال ناکافی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اطلاعات ناکافی در دستور کار، ارسال قالب‌های معیوب، و رکوردهای اکلوزال ناکافی"
+            }
+          ]
+        },
+        {
+          "id": "ac645d1fb2ab2e13d9f882e0edfec9d41dec421749eb4e97fdb08b522db0cdab",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تأخیر در پرداخت صورتحساب، حجم زیاد سفارش‌ها در پایان ماه، و مهلت‌های تحویل بسیار کوتاه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تأخیر در پرداخت صورتحساب، حجم زیاد سفارش‌ها در پایان ماه، و مهلت‌های تحویل بسیار کوتاه"
+            }
+          ]
+        },
+        {
+          "id": "57d0e20f114bd03f06195094d87b7ef185f32e0ce1742d9238daea67eedbac5d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "انتخاب بی‌دلیل مواد گران، درخواست‌های تکراری اصلاح، و تغییر مکرر رنگ پس از ساخت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انتخاب بی‌دلیل مواد گران، درخواست‌های تکراری اصلاح، و تغییر مکرر رنگ پس از ساخت"
+            }
+          ]
+        },
+        {
+          "id": "3f43bc8a726c6f1aa85bcd95bfbe5ff951fb88d4a5b04949f7cbd80912306b78",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بسته‌بندی نامناسب، نبود شماره‌ی تماس روی فرم، و امضانکردن دستور کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بسته‌بندی نامناسب، نبود شماره‌ی تماس روی فرم، و امضانکردن دستور کار"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ef1fff462bdf69b6a247090642a91bb734d0dc2a6caa9e87a04e0f9ff80b75b5"
+        ],
+        "explanation": "دقیقاً. هر سه، شکست ارتباط و کیفیت‌اند، نه مسائل اداری.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هر سه، شکست ارتباط و کیفیت‌اند، نه مسائل اداری."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:48:10.843Z"
+      }
+    },
+    {
+      "id": "question:20698",
+      "sourceId": "20698",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "79f3516964c00ff7a9b19a0bda694e11f17770cc910ebdc587137580913277ee",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "یک سرامیست باتجربه معمولاً می‌تواند کمبود فضای ناشی از کم‌تراشی را با لایه‌چینی ماهرانه جبران کند و به نتیجه‌ی زیبایی برتری برسد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "یک سرامیست باتجربه معمولاً می‌تواند کمبود فضای ناشی از کم‌تراشی را با لایه‌چینی ماهرانه جبران کند و به نتیجه‌ی زیبایی برتری برسد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "خوب تشخیص دادی؛ گزاره نادرست است. حتی یک سرامیست باتجربه هم عموماً روی دندان کم‌تراش به نتیجه‌ی زیبایی برتری نمی‌رسد؛ مهارت جایگزین فضا نمی‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خوب تشخیص دادی؛ گزاره نادرست است. حتی یک سرامیست باتجربه هم عموماً روی دندان کم‌تراش به نتیجه‌ی زیبایی برتری نمی‌رسد؛ "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مهارت جایگزین فضا نمی‌شود"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-17T13:48:37.079Z"
+      }
+    },
+    {
+      "id": "question:20699",
+      "sourceId": "20699",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "42aa0bbe46289066d0fa7c5f4489d211480a8fbf74979b14ff667fd4714b2b78",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در میانه‌ی مراحل آزمایشگاهی متوجه می‌شوی رکورد اکلوزال نادرست بوده است. درست‌ترین کار کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در میانه‌ی مراحل آزمایشگاهی متوجه می‌شوی رکورد اکلوزال نادرست بوده است. درست‌ترین کار کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کار را تا پایان ادامه بده و در جلسه‌ی تحویل، اکلوژن را با تنظیم داخل دهان اصلاح کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توقف کن، به مرحله‌ای که خطا در آن رخ داده برگرد و همان‌جا اصلاحش کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از تکنسین بخواه با قضاوت خودش و بدون رکورد تازه، خطا را روی آرتیکولاتور جبران کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مراحل را ادامه بده و فقط پیش از پرسلن‌گذاری، برای جلسه‌ی بعد رکورد تازه‌ای بگیر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9f17770d83c881ebf5d6562b44871e413bbdedabd2161777e47e184b38519bd8",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کار را تا پایان ادامه بده و در جلسه‌ی تحویل، اکلوژن را با تنظیم داخل دهان اصلاح کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کار را تا پایان ادامه بده و در جلسه‌ی تحویل، اکلوژن را با تنظیم داخل دهان اصلاح کن"
+            }
+          ]
+        },
+        {
+          "id": "a3cf81b60b256ea289c568d49c2cd739ef37867404e6185052ba269cf197f058",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "توقف کن، به مرحله‌ای که خطا در آن رخ داده برگرد و همان‌جا اصلاحش کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "توقف کن، به مرحله‌ای که خطا در آن رخ داده برگرد و همان‌جا اصلاحش کن"
+            }
+          ]
+        },
+        {
+          "id": "6e98741bbef7995ae351a2dc6d314458cef355ec048b1d0c0abb39da7a1b2c5c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "از تکنسین بخواه با قضاوت خودش و بدون رکورد تازه، خطا را روی آرتیکولاتور جبران کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از تکنسین بخواه با قضاوت خودش و بدون رکورد تازه، خطا را روی آرتیکولاتور جبران کند"
+            }
+          ]
+        },
+        {
+          "id": "fc94305ad547a003a21e4ae8067eb80b4520e095055986620e35a496725dbc3d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مراحل را ادامه بده و فقط پیش از پرسلن‌گذاری، برای جلسه‌ی بعد رکورد تازه‌ای بگیر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مراحل را ادامه بده و فقط پیش از پرسلن‌گذاری، برای جلسه‌ی بعد رکورد تازه‌ای بگیر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a3cf81b60b256ea289c568d49c2cd739ef37867404e6185052ba269cf197f058"
+        ],
+        "explanation": "دقیقاً. ادامه دادن بدون اصلاح درست، خطا را تنها تشدید و پیچیده می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ادامه دادن بدون اصلاح درست، خطا را تنها تشدید و پیچیده می‌کند."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:48:21.750Z"
+      }
+    },
+    {
+      "id": "question:20704",
+      "sourceId": "20704",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "44b416f0b1d034243633fc709f16018eb15ac163d573deb8d56de0e887a8f03a",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام جفت قاعده درباره‌ی مواد درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام جفت قاعده درباره‌ی مواد درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دندانپزشک با مواد ترجیحی تکنسین آشنا باشد؛ و تکنسین تجویز ماده‌ی خاص از سوی دندانپزشک را محترم بشمارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دندانپزشک همیشه ماده را تعیین می‌کند؛ و تکنسین حق اظهار نظر درباره‌ی ماده یا پیشنهاد هیچ جایگزینی را ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکنسین همیشه ماده را بر پایه‌ی تجربه‌ی خودش تعیین می‌کند؛ و دندانپزشک تنها طرح نهایی ترمیم را تأیید می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماده بر پایه‌ی موجودی انبار آزمایشگاه انتخاب می‌شود؛ و دندانپزشک تنها در صورت کمبود باخبر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5530dbda4d02df33f38057a7c71043bbfee7a560433a8e11d04e0077bc5e3269",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دندانپزشک با مواد ترجیحی تکنسین آشنا باشد؛ و تکنسین تجویز ماده‌ی خاص از سوی دندانپزشک را محترم بشمارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دندانپزشک با مواد ترجیحی تکنسین آشنا باشد؛ و تکنسین تجویز ماده‌ی خاص از سوی دندانپزشک را محترم بشمارد"
+            }
+          ]
+        },
+        {
+          "id": "1e061225e46edc3eecf36781d061f75a788fd381e61861444c9da1010221756b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دندانپزشک همیشه ماده را تعیین می‌کند؛ و تکنسین حق اظهار نظر درباره‌ی ماده یا پیشنهاد هیچ جایگزینی را ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دندانپزشک همیشه ماده را تعیین می‌کند؛ و تکنسین حق اظهار نظر درباره‌ی ماده یا پیشنهاد هیچ جایگزینی را ندارد"
+            }
+          ]
+        },
+        {
+          "id": "156f9ffb2471eeedffe6fdf171dc58ff56dd26908f7d322acde4b7a96f798336",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تکنسین همیشه ماده را بر پایه‌ی تجربه‌ی خودش تعیین می‌کند؛ و دندانپزشک تنها طرح نهایی ترمیم را تأیید می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تکنسین همیشه ماده را بر پایه‌ی تجربه‌ی خودش تعیین می‌کند؛ و دندانپزشک تنها طرح نهایی ترمیم را تأیید می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "c0bc0cd4bcb77a881475520aea47dd90d628ac135e63ea0f7883051266f9eb2e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ماده بر پایه‌ی موجودی انبار آزمایشگاه انتخاب می‌شود؛ و دندانپزشک تنها در صورت کمبود باخبر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماده بر پایه‌ی موجودی انبار آزمایشگاه انتخاب می‌شود؛ و دندانپزشک تنها در صورت کمبود باخبر می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5530dbda4d02df33f38057a7c71043bbfee7a560433a8e11d04e0077bc5e3269"
+        ],
+        "explanation": "بله؛ آشنایی با ترجیحات تکنسین، هم زمان و هم تلاش را صرفه‌جویی می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بله؛ "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "آشنایی با ترجیحات تکنسین، هم زمان و هم تلاش را صرفه‌جویی می‌کند."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:48:27.794Z"
+      }
+    },
+    {
+      "id": "question:20706",
+      "sourceId": "20706",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "c9a6c4431529e2c5ca3bb16ac9b28f00d76e0a1c36ec17b82c3501f9e08ca75a",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "شش تخصص موجود برای گواهی CDT کدام‌اند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شش تخصص موجود برای گواهی CDT کدام‌اند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پروتز کامل، پروتز پارسیل، روکش و بریج، سرامیک، ارتودنسی، و ایمپلنت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندودنتیکس، پریودنتیکس، جراحی دهان، دندانپزشکی کودکان، رادیولوژی، و پروتز ایمپلنت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قالب‌گیری، ریخته‌گری فلز، پرداخت، انتخاب رنگ، مانت روی آرتیکولاتور، و سمان‌گذاری"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گچ، فلز، سرامیک، رزین، موم، و دیجیتال"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "1e4aa966d878a6f344df31c33ebc8f49e175692fb25f7a7330bc677cfd2966ee",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "پروتز کامل، پروتز پارسیل، روکش و بریج، سرامیک، ارتودنسی، و ایمپلنت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پروتز کامل، پروتز پارسیل، روکش و بریج، سرامیک، ارتودنسی، و ایمپلنت"
+            }
+          ]
+        },
+        {
+          "id": "f5a8e2fa64f9ed3f4cdc0cbdd2217350b4c447b0d256557d171dc90d7d196ec0",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اندودنتیکس، پریودنتیکس، جراحی دهان، دندانپزشکی کودکان، رادیولوژی، و پروتز ایمپلنت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندودنتیکس، پریودنتیکس، جراحی دهان، دندانپزشکی کودکان، رادیولوژی، و پروتز ایمپلنت"
+            }
+          ]
+        },
+        {
+          "id": "4b991a5197dc5ac174b1c7315962e0089259d29c59273101238012c1e12f76ea",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "قالب‌گیری، ریخته‌گری فلز، پرداخت، انتخاب رنگ، مانت روی آرتیکولاتور، و سمان‌گذاری",
+          "content": [
+            {
+              "tag": "text",
+              "text": "قالب‌گیری، ریخته‌گری فلز، پرداخت، انتخاب رنگ، مانت روی آرتیکولاتور، و سمان‌گذاری"
+            }
+          ]
+        },
+        {
+          "id": "130350741d4230f06133d4ee41acec48bdab7e4d0ac45f51b8ee44bd6a350903",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "گچ، فلز، سرامیک، رزین، موم، و دیجیتال",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گچ، فلز، سرامیک، رزین، موم، و دیجیتال"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1e4aa966d878a6f344df31c33ebc8f49e175692fb25f7a7330bc677cfd2966ee"
+        ],
+        "explanation": "دقیقاً. «روکش و بریج» همان پروتز ثابت است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "«روکش و بریج» همان پروتز ثابت است."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:48:33.554Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:b4630de31ed74ec056bf8526612b9e0237d214c324d28c7a8b0f57c06ac0e8a5",
+      "at": "2026-11-17T13:47:55.578Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:62b53de304cf332c3587eed0ef0415b600833646cea4d05d5a7e0227fbc549a1",
+      "at": "2026-11-17T13:47:57.208Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:20694",
+      "at": "2026-11-17T13:47:58.819Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:20698",
+      "at": "2026-11-17T13:48:12.436Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:20699",
+      "at": "2026-11-17T13:48:17.506Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:20704",
+      "at": "2026-11-17T13:48:23.348Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:20706",
+      "at": "2026-11-17T13:48:29.405Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:20698",
+      "at": "2026-11-17T13:48:35.157Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

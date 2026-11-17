@@ -1,0 +1,1974 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1278/lesson.json",
+  "id": "1278",
+  "title": "درس دوم: خواص مکانیکی و حرارتی آلیاژ",
+  "specialtyKey": "1afca38e6e25ad7b",
+  "chapter": {
+    "id": "270",
+    "title": "فریم‌ورک، آلیاژ و ریخته‌گری",
+    "position": 19
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:e1c01e9ad0b4e7c1ab7cdd1cf513f3df5cac13e25b57d9036e10256100ba7523",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "03fb84f6618a47f3e77cd1ca396ea0dbb9e471596a55a9ce0646f96f54cb4988",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نمودار تنش-کرنش و آنچه از آن می‌آید"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خواص با اهمیت بالینی عمده:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مدول الاستیسیته، استحکام تسلیم (یا حد تناسب)، سختی، و خزش یا تغییر شکل در دماهای بالا.» و خواص کم‌اهمیت‌تر برای متال‌سرامیک: «استحکام کششی نهایی، انعطاف‌پذیری و چقرمگی»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و ساختار نمودار:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نمودار تنش-کرنش کششی «از دو بخش تشکیل شده: (۱) ناحیه‌ی خطی یا الاستیک که در حد تناسب پایان می‌یابد، جایی که تنش متناسب با کرنش است، و (۲) ناحیه‌ی منحنی متعاقب متناظر با تغییر شکل پلاستیک یا دائمی که با شکستن نمونه پایان می‌یابد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تعریف مدول الاستیسیته:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شیب نمودار تنش-کرنش در ناحیه‌ی الاستیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است» و «آلیاژی با مدول الاستیسیته‌ی بالاتر، سفتی یا صلبیت بیشتری برای تغییر شکل الاستیک دارد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کاربرد بالینی‌اش —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با یک زنجیره‌ی علت و معلولی: «برای ساخت یک پروتز ثابت با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دهانه‌ی بلند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، آلیاژی با مدول الاستیسیته‌ی نسبتاً بالا برای کاهش مقدار خیز خمشی تحت بار ترجیح دارد، چون خمش بیش از حد می‌تواند شکست پرسلن شکننده را ایجاد کند.» و واحدش: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گیگاپاسکال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — ۱ گیگاپاسکال معادل ۱۴۵٬۰۰۰ پوند بر اینچ مربع.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا استحکام تسلیم جایگزین حد تناسب شد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «حد تناسب اغلب مترادف "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حد الاستیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دانسته می‌شود» ولی «مقدار حد الاستیک به‌شدت به حساسیت دستگاه اندازه‌گیری کرنش وابسته است» و «مکان‌یابی دقیقش روی نمودار تا حدی مسئله‌دار است». بنابراین "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استحکام تسلیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — «مقدار تنشی برای مقدار بسیار کوچک مشخص‌شده‌ای از تغییر شکل دائمی، مانند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۱ یا ۰٫۲ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» — به کار می‌رود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و در استاندارد ISO 22674:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اصطلاح "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "proof stress"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به‌جای yield strength به کار می‌رود و «مقدار استحکام تسلیم ۰٫۲ درصد توسط سازنده ارائه می‌شود». و رابطه‌شان: «استحکام تسلیم ۰٫۲ درصد می‌تواند به‌طور قابل توجهی بالاتر از ۰٫۱ درصد باشد، بسته به نرخ کارسختی.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا «استحکام مفید» نامیده می‌شود —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و مبادله‌اش: «استحکام تسلیم اغلب "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استحکام مفید"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آلیاژ نامیده می‌شود چون تنش‌های ناشی از نیروهای جویدن نباید از استحکام تسلیم فراتر روند، که به تغییر شکل دائمی آلیاژ می‌انجامد.» ولی: «هرچند استحکام تسلیم به‌قدر کافی بالا برای یک آلیاژ سرامیکی ضروری است، مقادیر بیش از حد بالا هنگام تنظیم ریختگی در آزمایشگاه یا مطب دشواری ایجاد می‌کنند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سختی — با آستانه‌ای که باید حفظ شود:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «آلیاژهایی با مقادیر VHN یا KHN فراتر از مینا (تقریباً ۳۵۰)، سایش سایشی دندان‌های مقابل ایجاد می‌کنند، هرچند مقادیر سختی در ISO 22674 گنجانده نشده‌اند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نکته‌ی روش‌شناختی سختی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بار فرورونده‌ی بزرگ ۱ کیلوگرم‌نیرو (۴۹ نیوتن) اطلاعاتی درباره‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سختی کلی ریزساختار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌دهد، در حالی که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بارهای سبک مانند ۰٫۵ نیوتن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌توانند برای اطلاعات درباره‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سختی دانه‌ها، اجزا یا فازهای منفرد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به کار روند.» و اهمیت عملی‌اش: «مقادیر بسیار بالای سختی، هنگام آماده بودن ریختگی برای پرداخت در آزمایشگاه دشواری ایجاد می‌کنند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و انعطاف‌پذیری و برنیش کردن:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «برای ریختگی‌های آلیاژ دندانی، انعطاف‌پذیری به‌صورت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درصد ازدیاد طول دائمی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اندازه‌گیری می‌شود» و در آلیاژهای امروزی «عموماً از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۰ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فراتر می‌رود». و یک قاعده‌ی مهم: «آلیاژهایی با استحکام تسلیم بالا با دست قابل برنیش کردن نیستند، حتی اگر مقادیر بالای درصد ازدیاد طول داشته باشند.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:c8fe24181b46ff2da2427fabbe68a8acd3fe42a9adfee711f3c133e54a5593e5",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "de3d7433e3a6972828cc9d60f036a3b925a4536400aef58be75ce6b14e53ef41",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "انبساط حرارتی و چگالی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییر شکل در دمای بالا:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «حین چرخه‌های پخت پرسلن، ریختگی‌ها در نتیجه‌ی دمای بالا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییرات ابعادی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌یابند.» و علل: «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خزش توده‌ای آلیاژ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از چند سازوکار متالورژیک، تغییر شکل ناشی از رهایی تنش‌های پسماند فرایند ریخته‌گری، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اکسیداسیون آلیاژ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و کدام آلیاژها بیشتر:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «این ممکن است برای آلیاژهای پرپالادیوم و سایر آلیاژهایی که اکسیداسیون داخلی (توده‌ای و مرزدانه‌ای) با تشکیل ذرات رسوب اکسیدی می‌یابند، افزون بر تشکیل لایه‌ی اکسید خارجی، بالاتر باشد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مهم‌ترین خاصیت این درس —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ضریب انبساط حرارتی: «ضریب خطی انبساط حرارتی خاصیتی حیاتی برای آلیاژ ونیرشونده با پرسلن است. این ضرایب باید در حدود ۰٫۵ در ۱۰ به توان منفی ۶ بر درجه‌ی سانتی‌گراد به هم نزدیک باشند، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زیر دمای انتقال شیشه‌ای پرسلن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "» — که «بسته به نرخ سرد شدن و محصول خاص می‌تواند از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۵۰۰ تا ۷۰۰ درجه‌ی سانتی‌گراد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشد — «دمایی که در آن سرامیک دیگر نمی‌تواند جریان ویسکوز داشته باشد تا تنش‌های ناسازگاری حرارتی را رها کند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک قاعده‌ی جهت‌دار که باید حفظ شود:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «ضریب انقباض حرارتی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید اندکی برای فلز بالاتر باشد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، تا سرامیک در دمای اتاق در حالت تنش فشاری پسماند سودمند باشد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اعداد واقعی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «مقادیر معمولاً از ۱۳٫۵ تا ۱۴٫۵ در ۱۰ به توان منفی ۶ بر درجه‌ی سانتی‌گراد برای فلزات و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۳٫۰ تا ۱۴٫۰ برای پرسلن‌ها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، و مقداری وابستگی به نرخ گرم و سرد کردن پرسلن وجود دارد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چگالی — با دو پیامد عملی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «آلیاژهای با محتوای طلای بالا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چگالی بسیار بالاتری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از آن‌هایی با طلای کم، آلیاژهای پایه‌پالادیوم و آلیاژهای فلز پایه دارند»، چون «طلا چگالی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۹٫۳ گرم بر سانتی‌متر مکعب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، پالادیوم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۲٫۰"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، نیکل "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸٫۹"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و کبالت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸٫۸"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو پیامد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «نخست، برای ترمیم‌های ریخته‌شده با اندازه و پیکربندی یکسان، جرم فلز کمتری برای آلیاژ کم‌چگالی لازم است؛ تفاوت هزینه‌ی فلز می‌تواند قابل توجه باشد. دوم، پیچاندن بیشتر فنر دستگاه ریخته‌گری گریز از مرکز برای رسیدن به فشار ریخته‌گری لازم در آلیاژهای کم‌چگالی ضروری است.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و محاسبه‌ی هزینه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «هنگام محاسبه‌ی هزینه‌ی ذاتی فلز یک ترمیم، باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حجم ریختگی، نه وزنش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، تعیین شود.» و اعداد مرجع: «یک ترمیم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«متوسط» حجمی برابر ۰٫۰۸ میلی‌لیتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارد؛ یک پانتیک تمام‌فلزی ممکن است به حجم ۰٫۲۵ میلی‌لیتر برسد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو نکته‌ی تکمیلی درباره‌ی خواص مکانیکی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مدول الاستیسیته برای کرنش کششی و فشاری "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقدار یکسانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارد؛ در خمش پروتز، دو سوی محور خنثی در جهت‌های مخالف تغییر شکل می‌دهند. و جدول‌های تبدیل عدد ویکرز و نوپ به یکدیگر را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با احتیاط"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به کار ببر، چون این تبدیل‌ها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وابسته به آلیاژند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". ویکرز و نوپ ریزسختی را می‌سنجند؛ برینل و راکول با فرورونده‌ی بزرگ‌تر، درشت‌سختی را."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:20908",
+      "sourceId": "20908",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "9bbc627a06b1c4078295e620cd61c32001aa79fe297e2504d6ce3368dea1da42",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "نمودار تنش-کرنش یک آلیاژ ریخته‌گری انعطاف‌پذیر از چه دو بخشی تشکیل شده است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نمودار تنش-کرنش یک آلیاژ ریخته‌گری انعطاف‌پذیر از چه دو بخشی تشکیل شده است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناحیه‌ی خطی یا الاستیک که در حد تناسب پایان می‌یابد، و ناحیه‌ی منحنی متناظر با تغییر شکل دائمی که با شکست پایان می‌یابد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناحیه‌ی منحنی اولیه که با تغییر شکل دائمی آغاز می‌شود، و ناحیه‌ی خطی پایانی که تا نقطه‌ی شکست ادامه می‌یابد و شیبش مدول الاستیک را می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناحیه‌ی فشاری و ناحیه‌ی کششی، که با نقطه‌ی صفر از یکدیگر جدا می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناحیه‌ی سرد و ناحیه‌ی گرم، که با دمای بازپخت آلیاژ از هم تفکیک می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "afe5e26e99e235472f3b9d412d4dfd705a7d75a32cc8c9abf9412b4e977f2da6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ناحیه‌ی خطی یا الاستیک که در حد تناسب پایان می‌یابد، و ناحیه‌ی منحنی متناظر با تغییر شکل دائمی که با شکست پایان می‌یابد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ناحیه‌ی خطی یا الاستیک که در حد تناسب پایان می‌یابد، و ناحیه‌ی منحنی متناظر با تغییر شکل دائمی که با شکست پایان می‌یابد"
+            }
+          ]
+        },
+        {
+          "id": "1c7ffdfa7aebbeeb80cd319bae5694198577e2cba5ef466573b01c74eba5babc",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ناحیه‌ی منحنی اولیه که با تغییر شکل دائمی آغاز می‌شود، و ناحیه‌ی خطی پایانی که تا نقطه‌ی شکست ادامه می‌یابد و شیبش مدول الاستیک را می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ناحیه‌ی منحنی اولیه که با تغییر شکل دائمی آغاز می‌شود، و ناحیه‌ی خطی پایانی که تا نقطه‌ی شکست ادامه می‌یابد و شیبش مدول الاستیک را می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "db4197eaa68d7c70d42229b0e38d07cc41303a10c730dc2557007daea2742d8a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ناحیه‌ی فشاری و ناحیه‌ی کششی، که با نقطه‌ی صفر از یکدیگر جدا می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ناحیه‌ی فشاری و ناحیه‌ی کششی، که با نقطه‌ی صفر از یکدیگر جدا می‌شوند"
+            }
+          ]
+        },
+        {
+          "id": "74061561f28476b29e7b4a953750548f466f914e303667ea1829bb7e0db365db",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ناحیه‌ی سرد و ناحیه‌ی گرم، که با دمای بازپخت آلیاژ از هم تفکیک می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ناحیه‌ی سرد و ناحیه‌ی گرم، که با دمای بازپخت آلیاژ از هم تفکیک می‌شوند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "afe5e26e99e235472f3b9d412d4dfd705a7d75a32cc8c9abf9412b4e977f2da6"
+        ],
+        "explanation": "ترتیب مهم است: اول الاستیک، بعد پلاستیک.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ترتیب مهم است: اول الاستیک، بعد پلاستیک."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:58:45.489Z"
+      }
+    },
+    {
+      "id": "question:20910",
+      "sourceId": "20910",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "ebc4423f2dbeccf363455ccc99f6990fea1a43c5625c84108bd3f1cf14a99117",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا استحکام تسلیم «استحکام مفید» نامیده می‌شود و مبادله‌اش چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا استحکام تسلیم «استحکام مفید» نامیده می‌شود و مبادله‌اش چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنش جویدن نباید از آن بگذرد وگرنه تغییر شکل دائمی رخ می‌دهد؛ ولی مقدار بیش از حد بالا تنظیم ریختگی را دشوار می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون حداکثر استحکام ماده است؛ و هیچ مبادله‌ای ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون انعطاف‌پذیری و ازدیاد طول آلیاژ را نشان می‌دهد؛ و مقدار بالاترش همیشه بهتر است چون برنیش و تنظیم را آسان‌تر می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون سختی سطحی آلیاژ را نشان می‌دهد؛ و مقدار پایین‌ترش همیشه بهتر است، چون سایش دندان مقابل و زمان پرداخت را کم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "35f6270c401a2489aa9af2f8a2b7746981b8db00ea5eec966d53ec76726bbe3e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تنش جویدن نباید از آن بگذرد وگرنه تغییر شکل دائمی رخ می‌دهد؛ ولی مقدار بیش از حد بالا تنظیم ریختگی را دشوار می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنش جویدن نباید از آن بگذرد وگرنه تغییر شکل دائمی رخ می‌دهد؛ ولی مقدار بیش از حد بالا تنظیم ریختگی را دشوار می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "9188c45fbb687ce86bd656b1eccc82bacf6885ac8242b4e9a38931ea767eba1f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون حداکثر استحکام ماده است؛ و هیچ مبادله‌ای ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون حداکثر استحکام ماده است؛ و هیچ مبادله‌ای ندارد"
+            }
+          ]
+        },
+        {
+          "id": "12600718dbbff674a9505994619f9e5abdc8ce45e23507555c2f65c472dd10e2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون انعطاف‌پذیری و ازدیاد طول آلیاژ را نشان می‌دهد؛ و مقدار بالاترش همیشه بهتر است چون برنیش و تنظیم را آسان‌تر می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون انعطاف‌پذیری و ازدیاد طول آلیاژ را نشان می‌دهد؛ و مقدار بالاترش همیشه بهتر است چون برنیش و تنظیم را آسان‌تر می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "f3ea1462e9ab2f7aac159f3b2f07c3242f69cb0b9dd891af272b3059709cbaad",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون سختی سطحی آلیاژ را نشان می‌دهد؛ و مقدار پایین‌ترش همیشه بهتر است، چون سایش دندان مقابل و زمان پرداخت را کم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون سختی سطحی آلیاژ را نشان می‌دهد؛ و مقدار پایین‌ترش همیشه بهتر است، چون سایش دندان مقابل و زمان پرداخت را کم می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "35f6270c401a2489aa9af2f8a2b7746981b8db00ea5eec966d53ec76726bbe3e"
+        ],
+        "explanation": "باید به‌قدر کافی بالا باشد، ولی بالا بودن بیش از حد، تنظیم در آزمایشگاه و مطب را سخت می‌کند.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "باید به‌قدر کافی بالا باشد، ولی بالا بودن بیش از حد، تنظیم در آزمایشگاه و مطب را سخت می‌کند."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:58:51.365Z"
+      }
+    },
+    {
+      "id": "question:20912",
+      "sourceId": "20912",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "187da4227f70421bfcac0e4443ffc35f6857f55a7719a7438eb510a7a6029642",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "آلیاژهایی با چه مقدار سختی، سایش سایشی دندان‌های مقابل ایجاد می‌کنند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آلیاژهایی با چه مقدار سختی، سایش سایشی دندان‌های مقابل ایجاد می‌کنند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقادیر کمتر از ۱۰۰، چون آلیاژ نرم ذرات ساینده‌ی فلزی از خود جدا می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقادیر VHN یا KHN فراتر از حدود ۳۵۰ که سختی مینا است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقادیر میان ۵۰ تا ۱۰۰ که در طلاهای نرم نوع I و II دیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سختی آلیاژ بر سایش مقابل اثری ندارد؛ تنها زبری سطح مهم است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3d27f0f35176b29f133d9e47ecf0d6c9c403dcb69115a75c97f772f08d5555cb",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مقادیر کمتر از ۱۰۰، چون آلیاژ نرم ذرات ساینده‌ی فلزی از خود جدا می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقادیر کمتر از ۱۰۰، چون آلیاژ نرم ذرات ساینده‌ی فلزی از خود جدا می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "cc5ef3e1250900b187d6964fbb270576a54e2bf4fe251c919aaf3368258ae064",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مقادیر VHN یا KHN فراتر از حدود ۳۵۰ که سختی مینا است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقادیر VHN یا KHN فراتر از حدود ۳۵۰ که سختی مینا است"
+            }
+          ]
+        },
+        {
+          "id": "903c26d4d6fec760fe8e0e14a89794ef9d90386c1ce59c8b830e60dfbe6ea820",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مقادیر میان ۵۰ تا ۱۰۰ که در طلاهای نرم نوع I و II دیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقادیر میان ۵۰ تا ۱۰۰ که در طلاهای نرم نوع I و II دیده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "da480aa975b257b1ab8747387045cf3592977cd935d68e1e349bae97ad7686af",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سختی آلیاژ بر سایش مقابل اثری ندارد؛ تنها زبری سطح مهم است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سختی آلیاژ بر سایش مقابل اثری ندارد؛ تنها زبری سطح مهم است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "cc5ef3e1250900b187d6964fbb270576a54e2bf4fe251c919aaf3368258ae064"
+        ],
+        "explanation": "هرچند سختی در استاندارد ISO گنجانده نشده است.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هرچند سختی در استاندارد ISO گنجانده نشده است."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:58:56.971Z"
+      }
+    },
+    {
+      "id": "question:20915",
+      "sourceId": "20915",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "38e4da6ccc1bb90825a214056c6ccff76d8c698fdf4c62ace4f98e3be75dea7f",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ضریب انقباض حرارتی فلز نسبت به پرسلن چگونه باید باشد و چرا؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ضریب انقباض حرارتی فلز نسبت به پرسلن چگونه باید باشد و چرا؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقیقاً برابر، تا هنگام سرد شدن از دمای پخت هیچ تنش پسماندی در سرامیک یا فلز باقی نماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندکی پایین‌تر، تا فلز کمتر منقبض شود و سرامیک در دمای اتاق در تنش کششی اندک و پایدار بماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندکی بالاتر، تا سرامیک در دمای اتاق در حالت تنش فشاری پسماند سودمند باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بسیار بالاتر، حدود ۵ در ۱۰⁻⁶ بر درجه، تا فلز هنگام سرد شدن پرسلن را محکم بفشارد و گیر مکانیکی بسازد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7bee3480a49572716218cadb8453cd14edcbc5a1855f36acefce0fdf8c2ba917",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دقیقاً برابر، تا هنگام سرد شدن از دمای پخت هیچ تنش پسماندی در سرامیک یا فلز باقی نماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دقیقاً برابر، تا هنگام سرد شدن از دمای پخت هیچ تنش پسماندی در سرامیک یا فلز باقی نماند"
+            }
+          ]
+        },
+        {
+          "id": "58590259e6499f60a1327b426a3ee9d5869e8b87585e346b1d6a0c2bb559c83d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اندکی پایین‌تر، تا فلز کمتر منقبض شود و سرامیک در دمای اتاق در تنش کششی اندک و پایدار بماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندکی پایین‌تر، تا فلز کمتر منقبض شود و سرامیک در دمای اتاق در تنش کششی اندک و پایدار بماند"
+            }
+          ]
+        },
+        {
+          "id": "e48ffd235d96c51ce91ffb7b5aff257117219967477970acc8f15d1db753f0a2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اندکی بالاتر، تا سرامیک در دمای اتاق در حالت تنش فشاری پسماند سودمند باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندکی بالاتر، تا سرامیک در دمای اتاق در حالت تنش فشاری پسماند سودمند باشد"
+            }
+          ]
+        },
+        {
+          "id": "6c9844b7bb961035e278a772b0be461fa233dc5fa18daf9721b52ddb1fba845f",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بسیار بالاتر، حدود ۵ در ۱۰⁻⁶ بر درجه، تا فلز هنگام سرد شدن پرسلن را محکم بفشارد و گیر مکانیکی بسازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بسیار بالاتر، حدود ۵ در ۱۰⁻⁶ بر درجه، تا فلز هنگام سرد شدن پرسلن را محکم بفشارد و گیر مکانیکی بسازد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e48ffd235d96c51ce91ffb7b5aff257117219967477970acc8f15d1db753f0a2"
+        ],
+        "explanation": "همین است. سرامیک در فشار قوی و در کشش ضعیف است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "سرامیک در فشار قوی و در کشش ضعیف است."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:59:11.981Z"
+      }
+    },
+    {
+      "id": "question:20920",
+      "sourceId": "20920",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "bfe87758ec8625d765fe34ce350a06f863a0a398e56c17721d4e7e577fc6fe0d",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "حجم یک ترمیم «متوسط» و یک پانتیک تمام‌فلزی چقدر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "حجم یک ترمیم «متوسط» و یک پانتیک تمام‌فلزی چقدر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو حدود ۱ میلی‌لیتر، چون حجم ریختگی به نوع و اندازه‌ی ترمیم وابسته نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترمیم متوسط حدود ۰٫۸ میلی‌لیتر؛ پانتیک تمام‌فلزی توپر تا ۲٫۵ میلی‌لیتر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترمیم متوسط ۰٫۰۸ میلی‌لیتر؛ پانتیک تمام‌فلزی تا ۰٫۲۵ میلی‌لیتر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترمیم متوسط ۰٫۲۵ میلی‌لیتر؛ پانتیک تمام‌فلزی به دلیل توخالی بودن تنها ۰٫۰۸ میلی‌لیتر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "30b2a7017dc527f37fefbc67cecda8cc0204cf9e4b76b0383840d1edce300686",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر دو حدود ۱ میلی‌لیتر، چون حجم ریختگی به نوع و اندازه‌ی ترمیم وابسته نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو حدود ۱ میلی‌لیتر، چون حجم ریختگی به نوع و اندازه‌ی ترمیم وابسته نیست"
+            }
+          ]
+        },
+        {
+          "id": "8d0977eea28c3607b2c40d97e281f3d5b86bd26a0af78c4edc76e290df6ccdee",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ترمیم متوسط حدود ۰٫۸ میلی‌لیتر؛ پانتیک تمام‌فلزی توپر تا ۲٫۵ میلی‌لیتر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ترمیم متوسط حدود ۰٫۸ میلی‌لیتر؛ پانتیک تمام‌فلزی توپر تا ۲٫۵ میلی‌لیتر"
+            }
+          ]
+        },
+        {
+          "id": "d8ad33d834408b5934ce51619c61d42cc3837db55a4c62c8e92a02292ef533bf",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ترمیم متوسط ۰٫۰۸ میلی‌لیتر؛ پانتیک تمام‌فلزی تا ۰٫۲۵ میلی‌لیتر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ترمیم متوسط ۰٫۰۸ میلی‌لیتر؛ پانتیک تمام‌فلزی تا ۰٫۲۵ میلی‌لیتر"
+            }
+          ]
+        },
+        {
+          "id": "2d466da8152689efed789ff2c7ee3ea468f7bf7c3da48c6555bbfaa66a418aac",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ترمیم متوسط ۰٫۲۵ میلی‌لیتر؛ پانتیک تمام‌فلزی به دلیل توخالی بودن تنها ۰٫۰۸ میلی‌لیتر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ترمیم متوسط ۰٫۲۵ میلی‌لیتر؛ پانتیک تمام‌فلزی به دلیل توخالی بودن تنها ۰٫۰۸ میلی‌لیتر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d8ad33d834408b5934ce51619c61d42cc3837db55a4c62c8e92a02292ef533bf"
+        ],
+        "explanation": "پس هزینه‌ی یک پانتیک بزرگ از آلیاژ کم‌چگالی می‌تواند با یک روکش کامل از آلیاژ پرچگالی برابر یا کمتر باشد.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پس هزینه‌ی یک پانتیک بزرگ از آلیاژ کم‌چگالی می‌تواند با یک روکش کامل از آلیاژ پرچگالی برابر یا کمتر باشد."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T13:59:15.321Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:e1c01e9ad0b4e7c1ab7cdd1cf513f3df5cac13e25b57d9036e10256100ba7523",
+      "at": "2026-11-17T13:58:28.208Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:c8fe24181b46ff2da2427fabbe68a8acd3fe42a9adfee711f3c133e54a5593e5",
+      "at": "2026-11-17T13:58:29.843Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:20908",
+      "at": "2026-11-17T13:58:31.432Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:20910",
+      "at": "2026-11-17T13:58:47.091Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:20912",
+      "at": "2026-11-17T13:58:52.981Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:20915",
+      "at": "2026-11-17T13:58:58.595Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:20920",
+      "at": "2026-11-17T13:59:04.510Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:20915",
+      "at": "2026-11-17T13:59:10.045Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:20920",
+      "at": "2026-11-17T13:59:13.587Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

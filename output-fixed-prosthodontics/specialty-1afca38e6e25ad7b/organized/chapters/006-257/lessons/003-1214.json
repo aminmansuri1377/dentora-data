@@ -1,0 +1,2518 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1214/lesson.json",
+  "id": "1214",
+  "title": "درس سوم: طول اسپن، پایه‌ی پیر و مولر تیلت‌شده",
+  "specialtyKey": "1afca38e6e25ad7b",
+  "chapter": {
+    "id": "257",
+    "title": "جایگزینی دندان غایب و بیومکانیک",
+    "position": 6
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:e6e29b0a7df694b2f074aeb13ff8a39445807702acd6f6cec7489ffbcb38ae14",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "c85b13624b10b0350183c94ce4a0db84e0051920249e9ae8c391e5cebcd8cb03",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قانون توان سوم"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی بریج‌ها زیر بار کمی خم می‌شوند —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و این خمش، رابطه‌ی ساده‌ای با طول ندارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قانون کلیدی این درس:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «رابطه‌ی میان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انحراف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طول اسپن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " صرفاً خطی نیست، بلکه با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توان سوم طول اسپن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تغییر می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اعدادش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اگر اسپن یک پانتیک به مقدار مشخصی منحرف شود:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسپن "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دو"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پانتیک مشابه، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هشت برابر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " حرکت می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسپن "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پانتیک، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بیست‌وهفت برابر"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دو به توان سه می‌شود هشت، سه به توان سه می‌شود بیست‌وهفت. اگر این را بفهمی، دیگر لازم نیست اعداد را حفظ کنی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و خمش بیش از حد چه می‌سازد؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «شکست ونیر پرسلنی، شکست کانکتور، لق شدن یک ریتینر، تحرک دندان، یا پاسخ نامطلوب بافت نرم — که پروتز را بی‌فایده می‌کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سلسله‌مراتب پروگنوز بر پایه‌ی اسپن:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بریج با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "یک پانتیک"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — مطلوب‌ترین پروگنوز "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در هر ناحیه‌ای"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از دهان."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سپس بریج با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دو پانتیک در ناحیه‌ی قدامی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پس از آن، هر بریج با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دو یا چند پانتیک در نواحی خلفی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پروگنوز کمتری دارد و باید در برابر گزینه‌های جایگزین مثل ایمپلنت یا RPD سنجیده شود."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو استثنا:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " وقتی بریج "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در برابر دنچر کامل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قرار می‌گیرد و بارهای اکلوزال کمترند، و یک بریج موفق دیگر در ناحیه‌ی قدامی مندیبل: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بریج شش‌واحدی کانین تا کانین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". و در ماگزیلا، «عاقلانه است برای بریجی که چهار انسیزور را جایگزین می‌کند، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دست‌کم در یک سمت قوس دو دندان پایه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با گنجاندن "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرمولر اول"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " استفاده شود»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و راه‌حل مهندسی برای اسپن بلند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تقسیم به قطعات کوچک‌تر. «اغلب "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کانکتورهای غیرصلب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌توانند برای این منظور به کار روند وقتی متال‌سرامیک انتخاب شده باشد.» دو ریخته‌گری فلزی خوش‌نشست ساخته می‌شود، یکی با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماتریکس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و دیگری با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پاتریکس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ و رابط آن‌ها «"
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تسکین و جدایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ای برای جا دادن خمش بریج بلند» فراهم می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو محدودیت مهم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «این طراحی محدود به فلز است و با مواد سرامیکی مثل زیرکونیا یا لیتیوم دی‌سیلیکات قابل استفاده نیست.» و «برش دادن یک بریج بلند از هر ماده‌ای، به‌طور معناداری دشوارتر از برداشتن ساده‌ی یک بریج کوتاه است» — پس عارضه در سال‌های بعد گران‌تر تمام می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:f4e28c148c57e176438df41cd633bfd3894e2df8511e05bc6a9b095171523273",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "e1f1db867273fdd4f69eb341cdb4647e50719b8002daf8506dfad8bb646ba5ce",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پایه‌ی پیر، و کلیدی که باید در کدام سمت بنشیند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پایه‌ی پیر یعنی چه؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «فضای بی‌دندان می‌تواند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در دو سمت یک دندان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " رخ دهد و یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پایه‌ی پیرِ تنها و آزاد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بسازد.» مثال شایع: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرمولر اول و مولر اول ماگزیلا غایب‌اند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پرمولر دوم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در میان می‌ماند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و چرا بریج پنج‌واحدی کاملاً صلب اینجا ایده‌آل نیست؟ سه دلیل دارد: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حرکت فیزیولوژیک دندان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موقعیت قوسی پایه‌ها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناهم‌خوانی در ظرفیت گیرِ ریتینرها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "راه‌حل: کانکتور غیرصلب."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " رایج‌ترین طراحی «یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلید T-شکل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که به پانتیک متصل است و یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کی‌وی دم‌چلچله‌ای"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که درون یک ریتینر قرار می‌گیرد»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اثر مکانیکی‌اش:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «یک بریج غیرصلب، تنش برشی را به استخوان حمایتی منتقل می‌کند به‌جای آنکه در کانکتورها متمرکز کند. به نظر می‌رسد گشتاور مزیودیستالی پایه‌ها را کمینه می‌کند و در عین حال اجازه می‌دهد "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مستقل حرکت کنند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ".»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ولی سه محدودیت جدی دارد:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در بریج پایه‌ی پیر: «استفاده از کانکتور غیرصلب محدود به بریج کوتاه‌اسپن است که یک دندان را جایگزین می‌کند. بزرگ‌نمایی نیرو در اسپن بلند، برای دندان پایه‌ی زیر ریتینر لحیم‌شده "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بیش از حد مخرب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«نباید در پایه‌های با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تحرک معنادار"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " استفاده شود.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«باید "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "توزیع برابر نیروهای اکلوزال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بر همه‌ی بخش‌های بریج وجود داشته باشد.»"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک تفکیک مهم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «بریج "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صلب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، بار را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یکنواخت‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " توزیع می‌کند، که آن را برای دندان‌های با "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اتصال پریودنتال کاهش‌یافته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ترجیح‌دار می‌کند.» یعنی غیرصلب همیشه بهتر نیست."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اکنون مهم‌ترین جزئیات این درس —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کلید در کدام سمت بنشیند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واقعیت فیزیولوژیک پایه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «محورهای طولی دندان‌های خلفی معمولاً کمی به سمت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مزیال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " متمایل‌اند، و نیروهای اکلوزال عمودی حرکت بیشتری در همین جهت تولید می‌کنند. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نزدیک به ۹۸ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دندان‌های خلفی وقتی تحت نیروی اکلوزال قرار می‌گیرند به "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مزیال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تیلت می‌شوند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نتیجه‌گیری طراحی:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کی‌وی روی سمت دیستال پایه‌ی پیر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " → حرکت مزیالی، کلید را "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "محکم‌تر در کی‌وی می‌نشاند"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ". ✅"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کی‌وی روی سمت مزیال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " → حرکت مزیالی، کلید را "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "از جا درمی‌آورد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ". و «با گذشت زمان، این می‌تواند تحرک پاتولوژیک در کانین (پایه‌ی قدامی بریج) یا شکست ریتینر کانین تولید کند». ❌"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و محل کلی دستگاه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «معمولاً روی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پایه‌ی میانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قرار می‌گیرد، چون قرار دادنش روی هر یک از پایه‌های انتهایی می‌تواند باعث شود "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پانتیک مثل یک بازوی اهرم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " عمل کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک هشدار درباره‌ی سوپرارپشن:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اگر پایه‌ی خلفی و پانتیک «یا در برابر یک RPD باشند یا بدون دندان مقابل، و سه واحد قدامی در برابر دندان طبیعی باشند، کلید و واحدهای خلفی که نیروی اکلوزال کم یا هیچ می‌گیرند ممکن است سوپرارپت شوند»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مولر تیلت‌شده — چهار راه‌حل."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " وقتی مولر مندیبل به مزیال تیلت می‌شود، «ناهم‌خوانی میان محور طولی آن و محور پرمولر» پدید می‌آید و بریج ممکن است "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ننشیند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱. آپرایت کردن با ارتودنسی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — راه‌حل ریشه‌ای."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۲. نیم‌روکش پروگزیمال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " به‌عنوان ریتینر روی مولر تیلت‌شده."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۳. تلسکوپ کراون و کوپینگ"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — تراش روکش کامل با "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کاهش سنگین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " که "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "محور طولی مولر تیلت‌شده"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را دنبال می‌کند؛ یک کوپینگ داخلی روی تراش می‌نشیند و نیم‌روکش پروگزیمالِ ریتینر روی کوپینگ جا می‌گیرد. «تطابق لبه‌ای این ترمیم را کوپینگ فراهم می‌کند.»"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۴."
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " یا یک "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کانکتور غیرصلب روی دیستال ریتینر پرمولر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " که تفاوت شیب را جبران می‌کند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و معیار انتخاب میان تلسکوپ و کانکتور غیرصلب، هوشمندانه است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " چون هر دو تراش "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مخرب‌تر از معمول"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌خواهند، انتخاب «تحت تأثیر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماهیت تخریب قبلی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دندان‌های پایه‌ی احتمالی» قرار می‌گیرد. مثال: «حضور یک داول‌کور یا آمالگام دیستو-اکلوزال روی پرمولر، جایگذاری کانکتور غیرصلب روی همان دندان را ترجیح‌دار می‌کند؛ در حالی که ترمیم‌های فاسیال یا لینگوال گسترده روی مولر تیلت‌شده، استفاده از تلسکوپ کراون را می‌طلبد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "منطقش را بگیر:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تخریب اضافی را روی دندانی بگذار که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از قبل تخریب شده است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:19615",
+      "sourceId": "19615",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "f2e0019d46887d4ee5675b844980b5ccb9a97fd30dd3faee3f4f6e3b9f1d5e27",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "سلسله‌مراتب پروگنوز بریج بر پایه‌ی شمار و محل پانتیک چگونه است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سلسله‌مراتب پروگنوز بریج بر پایه‌ی شمار و محل پانتیک چگونه است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه پانتیک قدامی مطلوب‌ترین حالت است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو پانتیک خلفی مطلوب‌تر از یک پانتیک قدامی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمار پانتیک اثری بر پروگنوز ندارد و تنها وضعیت پایه‌ها مهم است؛ اگر سطح ریشه‌ی پایه‌ها طبق قانون آنته کافی باشد، هر اسپنی در هر ناحیه‌ای پروگنوز یکسانی دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک پانتیک در هر ناحیه‌ای مطلوب‌ترین است؛ سپس دو پانتیک در ناحیه‌ی قدامی؛ و پس از آن هر بریج با دو یا چند پانتیک در نواحی خلفی پروگنوز کمتری دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9ad4d03664172260267f20ffb0fbbc4be6f55792b07a4e0f25d9a7965655d27e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "سه پانتیک قدامی مطلوب‌ترین حالت است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سه پانتیک قدامی مطلوب‌ترین حالت است"
+            }
+          ]
+        },
+        {
+          "id": "61f48b4adfba2bc7a6656bc0c0f29c360fcf4f1ac24dcb4d2c4bb14a40527334",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دو پانتیک خلفی مطلوب‌تر از یک پانتیک قدامی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دو پانتیک خلفی مطلوب‌تر از یک پانتیک قدامی است"
+            }
+          ]
+        },
+        {
+          "id": "54893c1eb53fae6075ea59327bae36340f14a484a2a86422be711c40c4000bf4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "شمار پانتیک اثری بر پروگنوز ندارد و تنها وضعیت پایه‌ها مهم است؛ اگر سطح ریشه‌ی پایه‌ها طبق قانون آنته کافی باشد، هر اسپنی در هر ناحیه‌ای پروگنوز یکسانی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شمار پانتیک اثری بر پروگنوز ندارد و تنها وضعیت پایه‌ها مهم است؛ اگر سطح ریشه‌ی پایه‌ها طبق قانون آنته کافی باشد، هر اسپنی در هر ناحیه‌ای پروگنوز یکسانی دارد"
+            }
+          ]
+        },
+        {
+          "id": "0167a52d7051c956b8c527031473715784d943a56131c9edfdf95d2455145ff3",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "یک پانتیک در هر ناحیه‌ای مطلوب‌ترین است؛ سپس دو پانتیک در ناحیه‌ی قدامی؛ و پس از آن هر بریج با دو یا چند پانتیک در نواحی خلفی پروگنوز کمتری دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک پانتیک در هر ناحیه‌ای مطلوب‌ترین است؛ سپس دو پانتیک در ناحیه‌ی قدامی؛ و پس از آن هر بریج با دو یا چند پانتیک در نواحی خلفی پروگنوز کمتری دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "0167a52d7051c956b8c527031473715784d943a56131c9edfdf95d2455145ff3"
+        ],
+        "explanation": "دو استثنا: بریج در برابر دنچر کامل با بار کمتر، و بریج شش‌واحدی کانین تا کانین مندیبل.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دو استثنا:"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " بریج در برابر دنچر کامل با بار کمتر، و بریج شش‌واحدی کانین تا کانین مندیبل."
+          }
+        ],
+        "observedAt": "2026-11-17T12:53:01.857Z"
+      }
+    },
+    {
+      "id": "question:19617",
+      "sourceId": "19617",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "ce3f34094cd6fb64b2ab6762c021a3c573b466838a0b06064dd7e9fee902b4a3",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برای یک بریج بلند زیرکونیایی، همکاری پیشنهاد می‌دهد از کانکتور غیرصلب استفاده شود. اشکال کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای یک بریج بلند زیرکونیایی، همکاری پیشنهاد می‌دهد از کانکتور غیرصلب استفاده شود. اشکال کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشکال فقط در هزینه‌ی بیشتر ساخت است؛ از نظر فنی کانکتور غیرصلب در زیرکونیا هم به همان خوبی فلز کار می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشکالی ندارد؛ کانکتور غیرصلب با همه‌ی مواد، از جمله زیرکونیا و لیتیوم دی‌سیلیکات، به یک اندازه خوب کار می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این طراحی محدود به فلز است و با مواد سرامیکی مثل زیرکونیا یا لیتیوم دی‌سیلیکات قابل استفاده نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشکال این است که ابتدا باید اسپن کوتاه‌تر شود؛ در زیرکونیا کانکتور غیرصلب فقط برای یک پانتیک مجاز است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "856b4e7a87a3c04940b8d72b99a5fd7b321adac8e8a4c2e2b68dffc4baa6aa6d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اشکال فقط در هزینه‌ی بیشتر ساخت است؛ از نظر فنی کانکتور غیرصلب در زیرکونیا هم به همان خوبی فلز کار می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشکال فقط در هزینه‌ی بیشتر ساخت است؛ از نظر فنی کانکتور غیرصلب در زیرکونیا هم به همان خوبی فلز کار می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "97f557acc88606f68ec8ddcc35353cf2af28d0eb7a93fa9937bbc5ff7820e4e8",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اشکالی ندارد؛ کانکتور غیرصلب با همه‌ی مواد، از جمله زیرکونیا و لیتیوم دی‌سیلیکات، به یک اندازه خوب کار می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشکالی ندارد؛ کانکتور غیرصلب با همه‌ی مواد، از جمله زیرکونیا و لیتیوم دی‌سیلیکات، به یک اندازه خوب کار می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "db030d6237a506128811db417690172ef808814c1c15c5fff277add387bcd3c9",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "این طراحی محدود به فلز است و با مواد سرامیکی مثل زیرکونیا یا لیتیوم دی‌سیلیکات قابل استفاده نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این طراحی محدود به فلز است و با مواد سرامیکی مثل زیرکونیا یا لیتیوم دی‌سیلیکات قابل استفاده نیست"
+            }
+          ]
+        },
+        {
+          "id": "30374bc45a3bf2499a674f8fdb339aa939e004c37ed30e18f1a0a6dcd777dd0e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اشکال این است که ابتدا باید اسپن کوتاه‌تر شود؛ در زیرکونیا کانکتور غیرصلب فقط برای یک پانتیک مجاز است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشکال این است که ابتدا باید اسپن کوتاه‌تر شود؛ در زیرکونیا کانکتور غیرصلب فقط برای یک پانتیک مجاز است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "db030d6237a506128811db417690172ef808814c1c15c5fff277add387bcd3c9"
+        ],
+        "explanation": "همین محدودیت، انتخاب ماده و انتخاب طراحی را به هم گره می‌زند.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "همین محدودیت، انتخاب ماده و انتخاب طراحی را به هم گره می‌زند."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T12:53:07.963Z"
+      }
+    },
+    {
+      "id": "question:19621",
+      "sourceId": "19621",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "76cf141e516ca18fd4a7844a9c60e8caf1c9525c1cb8de7328e888cc9abd85d1",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بریج پایه‌ی پیر، کدام مجموعه محدودیت‌های استفاده از کانکتور غیرصلب را درست بیان می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بریج پایه‌ی پیر، کدام مجموعه محدودیت‌های استفاده از کانکتور غیرصلب را درست بیان می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محدودیتی ندارد و در هر طول اسپنی قابل استفاده است؛ هرچه اسپن بلندتر باشد، کانکتور غیرصلب خمش بیشتری را جذب می‌کند و در پایه‌های لق هم با آزاد کردن حرکت به تثبیتشان کمک می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها محدودیت این است که در فک پایین استفاده نشود، چون خمش مندیبل هنگام باز و بسته کردن دهان کلید را از کی‌وی بیرون می‌کشد و ریتینر را به‌تدریج شل می‌کند؛ در ماگزیلا هیچ محدودیتی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها محدودیت این است که با سمان رزینی سازگار نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محدود به بریج کوتاه‌اسپن که یک دندان را جایگزین می‌کند؛ نباید در پایه‌های با تحرک معنادار استفاده شود؛ و باید توزیع برابر نیروهای اکلوزال بر همه‌ی بخش‌ها وجود داشته باشد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a0116bd725f81915b7ec6a662c56efd593f0ec5d7978f930f68279c475ef6aaf",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "محدودیتی ندارد و در هر طول اسپنی قابل استفاده است؛ هرچه اسپن بلندتر باشد، کانکتور غیرصلب خمش بیشتری را جذب می‌کند و در پایه‌های لق هم با آزاد کردن حرکت به تثبیتشان کمک می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "محدودیتی ندارد و در هر طول اسپنی قابل استفاده است؛ هرچه اسپن بلندتر باشد، کانکتور غیرصلب خمش بیشتری را جذب می‌کند و در پایه‌های لق هم با آزاد کردن حرکت به تثبیتشان کمک می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "fa6a35fca722681b4d891a709584980ae8210ace59df93c7ce454a23a5b5d104",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تنها محدودیت این است که در فک پایین استفاده نشود، چون خمش مندیبل هنگام باز و بسته کردن دهان کلید را از کی‌وی بیرون می‌کشد و ریتینر را به‌تدریج شل می‌کند؛ در ماگزیلا هیچ محدودیتی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها محدودیت این است که در فک پایین استفاده نشود، چون خمش مندیبل هنگام باز و بسته کردن دهان کلید را از کی‌وی بیرون می‌کشد و ریتینر را به‌تدریج شل می‌کند؛ در ماگزیلا هیچ محدودیتی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "b2ead60c3c37cbd02d056dbef998536440d7f272e2c7b9d1e04f6b51ffe25658",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تنها محدودیت این است که با سمان رزینی سازگار نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها محدودیت این است که با سمان رزینی سازگار نیست"
+            }
+          ]
+        },
+        {
+          "id": "321b931dadd3deebea7e7dcd45ef00f60ecd1b7f979d125690a58b66fbad0743",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "محدود به بریج کوتاه‌اسپن که یک دندان را جایگزین می‌کند؛ نباید در پایه‌های با تحرک معنادار استفاده شود؛ و باید توزیع برابر نیروهای اکلوزال بر همه‌ی بخش‌ها وجود داشته باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "محدود به بریج کوتاه‌اسپن که یک دندان را جایگزین می‌کند؛ نباید در پایه‌های با تحرک معنادار استفاده شود؛ و باید توزیع برابر نیروهای اکلوزال بر همه‌ی بخش‌ها وجود داشته باشد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "321b931dadd3deebea7e7dcd45ef00f60ecd1b7f979d125690a58b66fbad0743"
+        ],
+        "explanation": "دلیل محدودیت اول: «بزرگ‌نمایی نیرو در اسپن بلند، برای دندان پایه‌ی زیر ریتینر لحیم‌شده بیش از حد مخرب است».",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دلیل محدودیت اول: «"
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بزرگ‌نمایی نیرو در اسپن بلند، برای دندان پایه‌ی زیر ریتینر لحیم‌شده بیش از حد مخرب است"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "»."
+          }
+        ],
+        "observedAt": "2026-11-17T12:53:14.502Z"
+      }
+    },
+    {
+      "id": "question:19623",
+      "sourceId": "19623",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "e88a4a5c92a47797329aa7d68c7a581853b99e23e34020fd3de270c79468c06d",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اگر کی‌وی روی سمت مزیال پایه‌ی پیر قرار گیرد، در طول زمان چه اتفاقی می‌افتد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اگر کی‌وی روی سمت مزیال پایه‌ی پیر قرار گیرد، در طول زمان چه اتفاقی می‌افتد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حرکت مزیالی کلید را از جا درمی‌آورد و این می‌تواند تحرک پاتولوژیک در کانین یا شکست ریتینر کانین تولید کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلید محکم‌تر می‌نشیند و پایداری بیشتر می‌شود، چون حرکت مزیالی پایه‌ی پیر در هر بار جویدن کلید را به عمق کی‌وی می‌راند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ تفاوتی با حالت دیستال ندارد، چون کلید و کی‌وی در هر جهتی فقط اجازه‌ی حرکت عمودی می‌دهند و جهت مزیودیستالی بی‌اثر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پایه‌ی پیر دچار سوپرارپشن می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d86bb5180814a53647c96386dbaf596a233fd5438035b0c294e1fbd99ea8581b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حرکت مزیالی کلید را از جا درمی‌آورد و این می‌تواند تحرک پاتولوژیک در کانین یا شکست ریتینر کانین تولید کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حرکت مزیالی کلید را از جا درمی‌آورد و این می‌تواند تحرک پاتولوژیک در کانین یا شکست ریتینر کانین تولید کند"
+            }
+          ]
+        },
+        {
+          "id": "5bff8d2df0ea81ca2a4eaf5648c56eb57dd26ee6184fba8ef9a57786a1560877",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کلید محکم‌تر می‌نشیند و پایداری بیشتر می‌شود، چون حرکت مزیالی پایه‌ی پیر در هر بار جویدن کلید را به عمق کی‌وی می‌راند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلید محکم‌تر می‌نشیند و پایداری بیشتر می‌شود، چون حرکت مزیالی پایه‌ی پیر در هر بار جویدن کلید را به عمق کی‌وی می‌راند"
+            }
+          ]
+        },
+        {
+          "id": "0a5f5ac97222a3d8c52c9d285e4b1e37eba4d953ec7be4a3d5a96cfa732823b5",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هیچ تفاوتی با حالت دیستال ندارد، چون کلید و کی‌وی در هر جهتی فقط اجازه‌ی حرکت عمودی می‌دهند و جهت مزیودیستالی بی‌اثر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ تفاوتی با حالت دیستال ندارد، چون کلید و کی‌وی در هر جهتی فقط اجازه‌ی حرکت عمودی می‌دهند و جهت مزیودیستالی بی‌اثر است"
+            }
+          ]
+        },
+        {
+          "id": "43e709da4839d62d9b39948a2aa6fe8594408becf170cd0adbe5176d51731c22",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "پایه‌ی پیر دچار سوپرارپشن می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پایه‌ی پیر دچار سوپرارپشن می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d86bb5180814a53647c96386dbaf596a233fd5438035b0c294e1fbd99ea8581b"
+        ],
+        "explanation": "آسیب در کانین، یعنی پایه‌ی انتهایی قدامی، ظاهر می‌شود نه در خود کانکتور.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "آسیب در کانین، یعنی پایه‌ی انتهایی قدامی، ظاهر می‌شود نه در خود کانکتور."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T12:53:20.556Z"
+      }
+    },
+    {
+      "id": "question:19627",
+      "sourceId": "19627",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "5ba8f54ecd7b77075d0a1d951b5f0e71b3e8db961966b14551a6953daf877929",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چون هم تلسکوپ کراون و هم کانکتور غیرصلب تراش مخرب‌تر از معمول می‌خواهند، انتخاب میانشان بر چه مبنایی انجام می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چون هم تلسکوپ کراون و هم کانکتور غیرصلب تراش مخرب‌تر از معمول می‌خواهند، انتخاب میانشان بر چه مبنایی انجام می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بر مبنای طول اسپن بی‌دندانی و تعداد واحدها؛ اسپن‌های کوتاه‌تر از دو دندان کانکتور غیرصلب را ترجیح‌دار می‌کنند چون بار کمتری منتقل می‌شود، و اسپن‌های بلندتر تلسکوپ کراون را می‌طلبند چون تنها آن می‌تواند مسیر مشترک را در چند پایه تضمین کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بر مبنای ماهیت تخریب قبلی دندان‌ها؛ داول‌کور یا آمالگام دیستو-اکلوزال روی پرمولر، کانکتور غیرصلب روی همان دندان را ترجیح‌دار می‌کند، و ترمیم‌های فاسیال یا لینگوال گسترده روی مولر تیلت‌شده، تلسکوپ کراون را می‌طلبد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بر مبنای سن بیمار و پیش‌آگهی پریودنتال؛ بیماران جوان با پریودنشیوم سالم کانکتور غیرصلب می‌گیرند، و بیماران مسن با تحلیل استخوان تلسکوپ کراون"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بر مبنای دندان مقابل؛ اگر مولر مقابل ترمیم فلزی داشته باشد کانکتور غیرصلب انتخاب می‌شود، و اگر دندان طبیعی باشد تلسکوپ کراون، چون کوپینگ سایش مینای مقابل را کم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4e019b518272382bea2e2ced0f784a9fefef555ecbf5b90869fc35d88e48a203",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بر مبنای طول اسپن بی‌دندانی و تعداد واحدها؛ اسپن‌های کوتاه‌تر از دو دندان کانکتور غیرصلب را ترجیح‌دار می‌کنند چون بار کمتری منتقل می‌شود، و اسپن‌های بلندتر تلسکوپ کراون را می‌طلبند چون تنها آن می‌تواند مسیر مشترک را در چند پایه تضمین کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بر مبنای طول اسپن بی‌دندانی و تعداد واحدها؛ اسپن‌های کوتاه‌تر از دو دندان کانکتور غیرصلب را ترجیح‌دار می‌کنند چون بار کمتری منتقل می‌شود، و اسپن‌های بلندتر تلسکوپ کراون را می‌طلبند چون تنها آن می‌تواند مسیر مشترک را در چند پایه تضمین کند"
+            }
+          ]
+        },
+        {
+          "id": "ddbed6aac4b771012145b23e392be2ec3e1d21cf0733da400cb0695eb7aa20b4",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بر مبنای ماهیت تخریب قبلی دندان‌ها؛ داول‌کور یا آمالگام دیستو-اکلوزال روی پرمولر، کانکتور غیرصلب روی همان دندان را ترجیح‌دار می‌کند، و ترمیم‌های فاسیال یا لینگوال گسترده روی مولر تیلت‌شده، تلسکوپ کراون را می‌طلبد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بر مبنای ماهیت تخریب قبلی دندان‌ها؛ داول‌کور یا آمالگام دیستو-اکلوزال روی پرمولر، کانکتور غیرصلب روی همان دندان را ترجیح‌دار می‌کند، و ترمیم‌های فاسیال یا لینگوال گسترده روی مولر تیلت‌شده، تلسکوپ کراون را می‌طلبد"
+            }
+          ]
+        },
+        {
+          "id": "45d64b6e9e461de171e0de413adeebd95530916ab10ad1cd70979c8474a8d837",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "بر مبنای سن بیمار و پیش‌آگهی پریودنتال؛ بیماران جوان با پریودنشیوم سالم کانکتور غیرصلب می‌گیرند، و بیماران مسن با تحلیل استخوان تلسکوپ کراون",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بر مبنای سن بیمار و پیش‌آگهی پریودنتال؛ بیماران جوان با پریودنشیوم سالم کانکتور غیرصلب می‌گیرند، و بیماران مسن با تحلیل استخوان تلسکوپ کراون"
+            }
+          ]
+        },
+        {
+          "id": "f4dabc52eb27dcea244b695203f5b258ab63dfa3ff90b7f14f5c358cef272cd8",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بر مبنای دندان مقابل؛ اگر مولر مقابل ترمیم فلزی داشته باشد کانکتور غیرصلب انتخاب می‌شود، و اگر دندان طبیعی باشد تلسکوپ کراون، چون کوپینگ سایش مینای مقابل را کم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بر مبنای دندان مقابل؛ اگر مولر مقابل ترمیم فلزی داشته باشد کانکتور غیرصلب انتخاب می‌شود، و اگر دندان طبیعی باشد تلسکوپ کراون، چون کوپینگ سایش مینای مقابل را کم می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ddbed6aac4b771012145b23e392be2ec3e1d21cf0733da400cb0695eb7aa20b4"
+        ],
+        "explanation": "منطقش را بگیر: تخریب اضافی را روی دندانی بگذار که از قبل تخریب شده است.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "منطقش را بگیر: تخریب اضافی را روی دندانی بگذار که از قبل تخریب شده است."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T12:53:27.187Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:e6e29b0a7df694b2f074aeb13ff8a39445807702acd6f6cec7489ffbcb38ae14",
+      "at": "2026-11-17T12:52:45.847Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:f4e28c148c57e176438df41cd633bfd3894e2df8511e05bc6a9b095171523273",
+      "at": "2026-11-17T12:52:47.498Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:19615",
+      "at": "2026-11-17T12:52:49.090Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:19617",
+      "at": "2026-11-17T12:53:03.444Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:19621",
+      "at": "2026-11-17T12:53:09.583Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:19623",
+      "at": "2026-11-17T12:53:16.101Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:19627",
+      "at": "2026-11-17T12:53:22.175Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

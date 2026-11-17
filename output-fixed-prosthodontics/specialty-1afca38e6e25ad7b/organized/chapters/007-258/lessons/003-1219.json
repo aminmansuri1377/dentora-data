@@ -1,0 +1,1975 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1219/lesson.json",
+  "id": "1219",
+  "title": "درس سوم: جایگذاری لبه و دسترسی بهداشتی",
+  "specialtyKey": "1afca38e6e25ad7b",
+  "chapter": {
+    "id": "258",
+    "title": "ملاحظات پریودنتال در پروتز ثابت",
+    "position": 7
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:c2b409e7ee6f3154db64f555c8da5ccbf412bba4e932b873c7b1a5b621025d01",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "a96025221cca82244802fc6a580b964faf7ff9d6d9c1bcb85e69598501b4cf07",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ابزار بهداشتی تا کجا می‌رسد"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سه گزینه برای فینیش‌لاین تراش وجود دارد: بالای لثه (سوپراجینجیوال)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هم‌تراز لثه (اکوی‌جینجیوال)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زیرلثه‌ای یعنی داخل‌سولکوسی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و مزیت دو گزینه‌ی اول، سه‌گانه است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «سوپراجینجیوال و اکوی‌جینجیوال آسان‌تر تراش می‌شوند، آسان‌تر قالب‌گیری می‌شوند، و آسان‌تر تا سطح صاف و پالیش‌شده فینیش می‌شوند.» و همین «برداشت مؤثر پلاک و حفظ سلامت لثه» را تسهیل می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و چه چیزی لبه‌ی زیرلثه‌ای را ناگزیر می‌کند؟ چهار مورد: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترمیم‌های قبلی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پوسیدگی موجود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زیبایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، یا نیازهای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گیر و مقاومت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک واقعیت که هیچ ماده‌ای آن را حل نمی‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «در مقایسه با سطح دست‌نخورده‌ی دندان، همه‌ی ترمیم‌ها لبه‌های باز و خشن نشان می‌دهند که به احتباس پلاک کمک می‌کند. هرچه لبه‌ی ترمیم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سوپراجینجیوال‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باشد، دسترسی برای برداشت پلاک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آسان‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و بافت لثه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سالم‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " خواهد بود.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اکنون سه عدد که کل منطق این درس را می‌سازند —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " عمق نفوذ هر ابزار بهداشتی:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مسواک"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تنها تا "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰٫۵ میلی‌متر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " زیرلثه‌ای را تمیز می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نخ دندان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تا "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۲٫۵ میلی‌متر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " زیر لثه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دستگاه آب‌پاش (واترجت)"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌تواند ترکیب باکتریایی را تا "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۴ میلی‌متر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " زیر لثه تغییر دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و جمله‌ای که این اعداد را به یک هشدار تبدیل می‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «اکثریت بیماران تنها به مسواک زدن به‌عنوان تنها شکل بهداشت دهانشان متکی‌اند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پس محاسبه‌ی واقعی این است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اگر لبه‌ی تو یک میلی‌متر زیرلثه‌ای باشد و بیمارت فقط مسواک بزند، آن لبه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خارج از دسترس بهداشتی او"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است. در سولکوس یک‌میلی‌متری، عدد ۰٫۵ میلی‌متر مسواک همان سقفی است که در درس پیش از راه محاسبه‌ی سولکوس به آن رسیدیم — دو مسیر مستقل، یک جواب."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دستگاه آب‌پاش دو ناحیه‌ی فعالیت هیدروکینتیک می‌سازد: ناحیه‌ی برخورد (impact zone)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناحیه‌ی شست‌وشو (flushing zone)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". و شست‌وشوی زیرلثه‌ای با آب یا کلرهگزیدین، «در کاهش خون‌ریزی حاشیه‌ای و خون‌ریزی هنگام پروب مؤثرتر از شست‌وشوی بالای لثه با کلرهگزیدین» است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و حکم قاطع درباره‌ی لبه‌ی زیرلثه‌ای:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «لبه‌های زیرلثه‌ای مسئله‌سازند و تا جای ممکن باید از آن‌ها پرهیز شود. از نظر پریودنتال، یک لبه‌ی زیرلثه‌ای همیشه به یک پاسخ التهابی لثه‌ای می‌انجامد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ولی طیف این پاسخ گسترده است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «از یک التهاب "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خفیف و زیربالینی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تا یک پاسخ التهابی آشکار با تورم، قرمزی، حساسیت، خون‌ریزی و احتمالاً از دست رفتن استخوان»."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و چه چیزی تعیین می‌کند در کدام سر طیف بیفتی؟ «لبه‌هایی که در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محدوده‌ی قابل قبول"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " جا می‌شوند و در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناحیه‌ای قابل تمیز کردن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قرار می‌گیرند، تنها یک پاسخ التهابی خفیف و زیربالینی برمی‌انگیزند. لبه‌هایی که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌طور معناداری باز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هستند، شمار زیادی باکتری پناه می‌دهند و پاسخ التهابی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بزرگ‌تری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برمی‌انگیزند.»"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:91b0c45ee7260c0a83113bb48414ee8923adb1d4d782671b48966a9df5ed7a58",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "4ac8b0e8977ce3601159e92dc7eba1254aa1b17ef34fd7a7cdf70eecd845f5ac",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ماده اهمیتی ندارد، صافی دارد"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اکنون یک یافته که بسیاری از باورهای رایج را رد می‌کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «لبه‌های فلزی، سرامیکی و رزینی، وقتی تا درجه‌ی یکسانی از صافی پالیش شوند، به یک اندازه با سلامت لثه سازگارند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیامدش را بگیر:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اگر لثه‌ی اطراف یک ترمیم ملتهب است، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جنس ماده متهم نیست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". متهم‌ها اینها هستند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق لبه، کیفیت تطابق، و صافی سطح"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — یعنی همان سه عاملی که در درس پیش گفتیم "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در کنترل تو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هستند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پروفایل خروج (emergence profile):"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «پروفایل خروج ترمیم باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آناتومی دندان در آپیکال لبه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را دنبال کند.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک ترجیح روشن:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «سلامت لثه بهتر حفظ می‌شود اگر روکش کمی کم‌کانتور باشد تا اینکه پرکانتور باشد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و چرا پرکانتوری اتفاق می‌افتد؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " علت تاریخی‌اش این است: «شایع‌ترین دلیل پرکانتور شدن ترمیم‌ها، کاهش ناکافی ساختار دندان بود، که تکنسین را وادار می‌کرد کانتورها را بیش از حد بسازد.»"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زنجیره را ببین:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تراش کم → فضای ناکافی برای ماده → تکنسین ناچار به بیرون آوردن کانتور → ترمیم پرکانتور → احتباس پلاک → التهاب لثه. یعنی یک خطای تراش، در نهایت به یک مشکل پریودنتال ترجمه می‌شود — و مقصر، لابراتوار نیست."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک تنش معاصر که باید صادقانه به آن اعتراف کرد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «با این حال، طراحی‌های معاصر تراش دندان می‌کوشند مینا و ساختار دندانی سرویکال بیشتری را حفظ کنند.» یعنی امروز میان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محافظه‌کاری در تراش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فضای کافی برای کانتور درست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یک کشمکش واقعی وجود دارد که باید آگاهانه مدیریت شود، نه اینکه یکی به‌طور خودکار بر دیگری مقدم شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و جمع‌بندی عملی این درس در یک تصمیم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیش از هر تراش، سه پرسش را از خودت بپرس — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آیا واقعاً مجبورم زیرلثه‌ای بروم؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، آیا بیمار ابزار بهداشتی‌ای دارد که به آن عمق برسد؟، آیا فضای کافی تراشیده‌ام تا تکنسین مجبور به پرکانتور کردن نشود؟"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:19714",
+      "sourceId": "19714",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "84043c1661cfa7883f6c442f23c1f4224a8c63c744454f3f0e03ccc585e1c6c2",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در مقایسه‌ی هر ترمیم با سطح دست‌نخورده‌ی دندان، چه واقعیتی وجود دارد و پیامدش چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در مقایسه‌ی هر ترمیم با سطح دست‌نخورده‌ی دندان، چه واقعیتی وجود دارد و پیامدش چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لبه‌ی ترمیم پس از پالیش، از سطح طبیعی دندان صاف‌تر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترمیم‌های سرامیکی امروزی لبه‌ای کاملاً بسته می‌سازند و پلاک جمع نمی‌کنند؛ پس با این مواد، جایگاه لبه نسبت به لثه دیگر در سلامت لثه اثری ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها ترمیم‌های فلزی لبه‌ی خشن دارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی ترمیم‌ها لبه‌ی باز و خشنی دارند که به احتباس پلاک کمک می‌کند؛ پس هرچه لبه سوپراجینجیوال‌تر، برداشت پلاک آسان‌تر و لثه سالم‌تر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7c03aa3b38afe37b7ae333b6c483102d3ce6d58d8474ce6ca9b9e3f160ba686e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "لبه‌ی ترمیم پس از پالیش، از سطح طبیعی دندان صاف‌تر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "لبه‌ی ترمیم پس از پالیش، از سطح طبیعی دندان صاف‌تر می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "59e1c45ed2638e077ae3eb84bd96ceccaaac03f6171dcefa5c92d73671026416",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ترمیم‌های سرامیکی امروزی لبه‌ای کاملاً بسته می‌سازند و پلاک جمع نمی‌کنند؛ پس با این مواد، جایگاه لبه نسبت به لثه دیگر در سلامت لثه اثری ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ترمیم‌های سرامیکی امروزی لبه‌ای کاملاً بسته می‌سازند و پلاک جمع نمی‌کنند؛ پس با این مواد، جایگاه لبه نسبت به لثه دیگر در سلامت لثه اثری ندارد"
+            }
+          ]
+        },
+        {
+          "id": "1fbb45ca65b35ee99762623600a027f18fca40077effdf77a96a84b0233cbb30",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تنها ترمیم‌های فلزی لبه‌ی خشن دارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها ترمیم‌های فلزی لبه‌ی خشن دارند"
+            }
+          ]
+        },
+        {
+          "id": "9f6ff71812aa888e71be0f607a674e51317b3faf1c47bb01cf9c794026122421",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همه‌ی ترمیم‌ها لبه‌ی باز و خشنی دارند که به احتباس پلاک کمک می‌کند؛ پس هرچه لبه سوپراجینجیوال‌تر، برداشت پلاک آسان‌تر و لثه سالم‌تر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی ترمیم‌ها لبه‌ی باز و خشنی دارند که به احتباس پلاک کمک می‌کند؛ پس هرچه لبه سوپراجینجیوال‌تر، برداشت پلاک آسان‌تر و لثه سالم‌تر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9f6ff71812aa888e71be0f607a674e51317b3faf1c47bb01cf9c794026122421"
+        ],
+        "explanation": "همین را می‌خواستم. هیچ ماده و هیچ تکنیکی این واقعیت را حذف نمی‌کند؛ تنها می‌توانی لبه را جایی بگذاری که قابل تمیز کردن باشد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین را می‌خواستم. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هیچ ماده و هیچ تکنیکی این واقعیت را حذف نمی‌کند؛ تنها می‌توانی لبه را جایی بگذاری که قابل تمیز کردن باشد."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T12:58:13.533Z"
+      }
+    },
+    {
+      "id": "question:19716",
+      "sourceId": "19716",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "e9aba6760a406e26078202ecb6f2285e573f9019ef1b64ce921c3494cbfeb830",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "درمانگری لبه را ۲ میلی‌متر زیرلثه‌ای می‌گذارد و می‌گوید «به بیمار نخ دندان و واترجت آموزش می‌دهم، پس مشکلی نیست». چه چیزی نادیده گرفته شده؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "درمانگری لبه را ۲ میلی‌متر زیرلثه‌ای می‌گذارد و می‌گوید «به بیمار نخ دندان و واترجت آموزش می‌دهم، پس مشکلی نیست». چه چیزی نادیده گرفته شده؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اکثریت بیماران فقط مسواک می‌زنند، و مسواک تنها ۰٫۵ میلی‌متر زیرلثه‌ای را تمیز می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استدلال درست است، چون آموزش رفتار بیمار را تضمین می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشکال فقط این است که واترجت گران است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشکال این است که نخ دندان تنها تا ۱ میلی‌متر زیر لثه می‌رسد و آب‌پاش در لبه‌ی زیرلثه‌ای اثری ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d27e9b7aa8f97b79442529d472ef37a7caa2a25273d6c50262511a34f4589a94",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اکثریت بیماران فقط مسواک می‌زنند، و مسواک تنها ۰٫۵ میلی‌متر زیرلثه‌ای را تمیز می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اکثریت بیماران فقط مسواک می‌زنند، و مسواک تنها ۰٫۵ میلی‌متر زیرلثه‌ای را تمیز می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "9e8a55c867cc890c3382184c2f036f3dd17ad0be6b93b3382a23876bd1c1f7bd",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "استدلال درست است، چون آموزش رفتار بیمار را تضمین می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استدلال درست است، چون آموزش رفتار بیمار را تضمین می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "c7e109ef42ce5de5ebdf9393b7a4e90e6a14faa210485fa62ec68978c5e6c450",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اشکال فقط این است که واترجت گران است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشکال فقط این است که واترجت گران است"
+            }
+          ]
+        },
+        {
+          "id": "fb7b864d92f9170de0a4f9b2112dc2d9358ba154dcd59495a43a48f47d51a1c2",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اشکال این است که نخ دندان تنها تا ۱ میلی‌متر زیر لثه می‌رسد و آب‌پاش در لبه‌ی زیرلثه‌ای اثری ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشکال این است که نخ دندان تنها تا ۱ میلی‌متر زیر لثه می‌رسد و آب‌پاش در لبه‌ی زیرلثه‌ای اثری ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d27e9b7aa8f97b79442529d472ef37a7caa2a25273d6c50262511a34f4589a94"
+        ],
+        "explanation": "طراحی باید بر پایه‌ی رفتار واقعی بیماران باشد، نه رفتار آرمانی‌ای که آموزش می‌دهی.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "طراحی باید بر پایه‌ی رفتار واقعی بیماران باشد، نه رفتار آرمانی‌ای که آموزش می‌دهی."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T12:58:41.034Z"
+      }
+    },
+    {
+      "id": "question:19720",
+      "sourceId": "19720",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "a8ff2590eb54b75b7d4ab63888cdeb0dc721c8747ed86477f84e580437d51b57",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام گزاره درباره‌ی سازگاری مواد مختلف لبه با سلامت لثه درست است و پیامد بالینی‌اش چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام گزاره درباره‌ی سازگاری مواد مختلف لبه با سلامت لثه درست است و پیامد بالینی‌اش چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لبه‌های فلزی، سرامیکی و رزینی با صافی یکسان، به یک اندازه با لثه سازگارند؛ پس اگر لثه ملتهب است، جنس ماده متهم نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سرامیک به دلیل سطح گلیزشده همیشه با لثه سازگارتر از فلز است؛ پس اگر لثه ملتهب است، نخستین اقدام تعویض ترمیم فلزی با روکش تمام‌سرامیک است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فلز به دلیل امکان پالیش آینه‌ای همیشه با لثه سازگارتر از رزین است؛ پس در ناحیه‌ی زیرلثه‌ای هرگز نباید لبه‌ی رزینی یا کامپوزیتی گذاشت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سازگاری را جنس ماده تعیین می‌کند نه صافی سطح؛ پس پالیش بیشتر نمی‌تواند ضعف ذاتی یک ماده را جبران کند و انتخاب ماده مهم‌ترین تصمیم است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ff3117fc04b78b711456d8ba4466cd7fe9bca6fcbb6b29116c93259189d90d3e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "لبه‌های فلزی، سرامیکی و رزینی با صافی یکسان، به یک اندازه با لثه سازگارند؛ پس اگر لثه ملتهب است، جنس ماده متهم نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "لبه‌های فلزی، سرامیکی و رزینی با صافی یکسان، به یک اندازه با لثه سازگارند؛ پس اگر لثه ملتهب است، جنس ماده متهم نیست"
+            }
+          ]
+        },
+        {
+          "id": "b561ae7135728e5a0e1ba786ddfbeb9ad4f992e567a393b298a6a127ef02d53d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سرامیک به دلیل سطح گلیزشده همیشه با لثه سازگارتر از فلز است؛ پس اگر لثه ملتهب است، نخستین اقدام تعویض ترمیم فلزی با روکش تمام‌سرامیک است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سرامیک به دلیل سطح گلیزشده همیشه با لثه سازگارتر از فلز است؛ پس اگر لثه ملتهب است، نخستین اقدام تعویض ترمیم فلزی با روکش تمام‌سرامیک است"
+            }
+          ]
+        },
+        {
+          "id": "0d78795c5852fa893f9c62fb515e23ed2259e35700a1ad767463f1d6a9c4aded",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "فلز به دلیل امکان پالیش آینه‌ای همیشه با لثه سازگارتر از رزین است؛ پس در ناحیه‌ی زیرلثه‌ای هرگز نباید لبه‌ی رزینی یا کامپوزیتی گذاشت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فلز به دلیل امکان پالیش آینه‌ای همیشه با لثه سازگارتر از رزین است؛ پس در ناحیه‌ی زیرلثه‌ای هرگز نباید لبه‌ی رزینی یا کامپوزیتی گذاشت"
+            }
+          ]
+        },
+        {
+          "id": "6cbcaee145eb618f6d82162283a1a324999394275dc84649f3c998632c73643e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سازگاری را جنس ماده تعیین می‌کند نه صافی سطح؛ پس پالیش بیشتر نمی‌تواند ضعف ذاتی یک ماده را جبران کند و انتخاب ماده مهم‌ترین تصمیم است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سازگاری را جنس ماده تعیین می‌کند نه صافی سطح؛ پس پالیش بیشتر نمی‌تواند ضعف ذاتی یک ماده را جبران کند و انتخاب ماده مهم‌ترین تصمیم است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ff3117fc04b78b711456d8ba4466cd7fe9bca6fcbb6b29116c93259189d90d3e"
+        ],
+        "explanation": "همین است. این دقیقاً همان سه عاملی است که در درس پیش گفتیم در کنترل توست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "این دقیقاً همان سه عاملی است که در درس پیش گفتیم در کنترل توست."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T12:58:25.525Z"
+      }
+    },
+    {
+      "id": "question:19721",
+      "sourceId": "19721",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "c9eadc58cffce90a91862a92afa5c72f91988d70eddef467c244b9d46de73ef9",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام حالت برای حفظ سلامت لثه ترجیح دارد و پروفایل خروج باید چه چیزی را دنبال کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام حالت برای حفظ سلامت لثه ترجیح دارد و پروفایل خروج باید چه چیزی را دنبال کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کانتور اهمیتی ندارد اگر لبه بالای لثه باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روکش پرکانتور بهتر است چون لثه را کنار می‌زند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روکش کمی کم‌کانتور بهتر از پرکانتور است؛ و پروفایل خروج باید آناتومی دندان در آپیکال لبه را دنبال کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پروفایل خروج باید همیشه محدب‌تر از دندان طبیعی باشد تا لثه را از غذا محافظت کند و فشار ملایمی بر آن بیاورد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e806e6c6b7c42d2db47f631e2d58a4d78ff5e7fa009295ecfd42f820505ebe31",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کانتور اهمیتی ندارد اگر لبه بالای لثه باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کانتور اهمیتی ندارد اگر لبه بالای لثه باشد"
+            }
+          ]
+        },
+        {
+          "id": "89fad6bdcc89bbdcf1c3a8e86ee992523fbb800f54527775135dde379a1ead7b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "روکش پرکانتور بهتر است چون لثه را کنار می‌زند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "روکش پرکانتور بهتر است چون لثه را کنار می‌زند"
+            }
+          ]
+        },
+        {
+          "id": "d889f7f8892c01c5e23ac6ccbfc521ca2f189567a7f6aa7382ea3e6ba4bbc462",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "روکش کمی کم‌کانتور بهتر از پرکانتور است؛ و پروفایل خروج باید آناتومی دندان در آپیکال لبه را دنبال کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "روکش کمی کم‌کانتور بهتر از پرکانتور است؛ و پروفایل خروج باید آناتومی دندان در آپیکال لبه را دنبال کند"
+            }
+          ]
+        },
+        {
+          "id": "882f076fca3ac53d20addc8d7eef05a748d8ef9b3108dbe39c00a2c2e1da87ac",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "پروفایل خروج باید همیشه محدب‌تر از دندان طبیعی باشد تا لثه را از غذا محافظت کند و فشار ملایمی بر آن بیاورد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پروفایل خروج باید همیشه محدب‌تر از دندان طبیعی باشد تا لثه را از غذا محافظت کند و فشار ملایمی بر آن بیاورد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d889f7f8892c01c5e23ac6ccbfc521ca2f189567a7f6aa7382ea3e6ba4bbc462"
+        ],
+        "explanation": "کاملاً درست. پروفایل خروج، ادامه‌ی آناتومی دندان در آپیکال لبه است؛ هر برآمدگی اضافه، جای پلاک می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کاملاً درست. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پروفایل خروج، ادامه‌ی آناتومی دندان در آپیکال لبه است"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ هر برآمدگی اضافه، جای پلاک می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-17T12:58:31.307Z"
+      }
+    },
+    {
+      "id": "question:19724",
+      "sourceId": "19724",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "727f10d53ea2820f286b9ee2a5a22a60fb7c584dc7d9c8a4bd73c31abb0222e8",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه‌ی پرسش‌ها را باید پیش از هر تراش با لبه‌ی زیرلثه‌ای از خود پرسید؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه‌ی پرسش‌ها را باید پیش از هر تراش با لبه‌ی زیرلثه‌ای از خود پرسید؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آیا بیمار براکسیسم دارد؟ آیا اکلوژن کلاس ۱ است؟ آیا مولر سوم وجود دارد؟ آیا پس از سمان‌گذاری نایت‌گارد لازم است؟ آیا راهنمای کانین در حرکات طرفی برقرار است؟"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آیا رنگ ماده مناسب است؟ آیا سمان کافی دارم؟ آیا بیمار بیمه دارد؟"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آیا دندان درمان ریشه شده؟ آیا آرتیکولاتور تنظیم شده؟ آیا فیس‌بو گرفته‌ام؟ آیا رکورد بایت در رابطه‌ی سنتریک است؟ آیا شید را زیر نور روز و پیش از تراش گرفته‌ام؟"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آیا واقعاً ناچار به زیرلثه‌ای رفتنم؟ آیا بیمار ابزار بهداشتی‌ای دارد که به آن عمق برسد؟ آیا فضای کافی تراشیده‌ام تا تکنسین مجبور به پرکانتور کردن نشود؟"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "77941abc34baac100490ba9912e2d77f8e4fd5dcc9fd323b283c280dcf80e44f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "آیا بیمار براکسیسم دارد؟ آیا اکلوژن کلاس ۱ است؟ آیا مولر سوم وجود دارد؟ آیا پس از سمان‌گذاری نایت‌گارد لازم است؟ آیا راهنمای کانین در حرکات طرفی برقرار است؟",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آیا بیمار براکسیسم دارد؟ آیا اکلوژن کلاس ۱ است؟ آیا مولر سوم وجود دارد؟ آیا پس از سمان‌گذاری نایت‌گارد لازم است؟ آیا راهنمای کانین در حرکات طرفی برقرار است؟"
+            }
+          ]
+        },
+        {
+          "id": "e1b77ff8f323371fe73b6d93d7b307545dca2709c2b206ed96df9e47ef9664f4",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "آیا رنگ ماده مناسب است؟ آیا سمان کافی دارم؟ آیا بیمار بیمه دارد؟",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آیا رنگ ماده مناسب است؟ آیا سمان کافی دارم؟ آیا بیمار بیمه دارد؟"
+            }
+          ]
+        },
+        {
+          "id": "8977d4291797aa78e1f2803a09e97bf808be64a1f893f9a57f9bd5ec56ea72bb",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آیا دندان درمان ریشه شده؟ آیا آرتیکولاتور تنظیم شده؟ آیا فیس‌بو گرفته‌ام؟ آیا رکورد بایت در رابطه‌ی سنتریک است؟ آیا شید را زیر نور روز و پیش از تراش گرفته‌ام؟",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آیا دندان درمان ریشه شده؟ آیا آرتیکولاتور تنظیم شده؟ آیا فیس‌بو گرفته‌ام؟ آیا رکورد بایت در رابطه‌ی سنتریک است؟ آیا شید را زیر نور روز و پیش از تراش گرفته‌ام؟"
+            }
+          ]
+        },
+        {
+          "id": "eab3a6a5baf9cd55b831ce664db4fd080614b6e72715f79daae561ae20f5967e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "آیا واقعاً ناچار به زیرلثه‌ای رفتنم؟ آیا بیمار ابزار بهداشتی‌ای دارد که به آن عمق برسد؟ آیا فضای کافی تراشیده‌ام تا تکنسین مجبور به پرکانتور کردن نشود؟",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آیا واقعاً ناچار به زیرلثه‌ای رفتنم؟ آیا بیمار ابزار بهداشتی‌ای دارد که به آن عمق برسد؟ آیا فضای کافی تراشیده‌ام تا تکنسین مجبور به پرکانتور کردن نشود؟"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "eab3a6a5baf9cd55b831ce664db4fd080614b6e72715f79daae561ae20f5967e"
+        ],
+        "explanation": "بله، درست است. ضرورت، دسترسی، و فضا؛ سه پرسشی که کل این درس را جمع می‌کنند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بله، درست است. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ضرورت، دسترسی، و فضا؛ سه پرسشی که کل این درس را جمع می‌کنند."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T12:58:37.543Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:c2b409e7ee6f3154db64f555c8da5ccbf412bba4e932b873c7b1a5b621025d01",
+      "at": "2026-11-17T12:57:58.862Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:91b0c45ee7260c0a83113bb48414ee8923adb1d4d782671b48966a9df5ed7a58",
+      "at": "2026-11-17T12:58:00.483Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:19714",
+      "at": "2026-11-17T12:58:02.120Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:19716",
+      "at": "2026-11-17T12:58:15.116Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:19720",
+      "at": "2026-11-17T12:58:20.930Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:19721",
+      "at": "2026-11-17T12:58:27.142Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:19724",
+      "at": "2026-11-17T12:58:32.916Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:19716",
+      "at": "2026-11-17T12:58:39.142Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

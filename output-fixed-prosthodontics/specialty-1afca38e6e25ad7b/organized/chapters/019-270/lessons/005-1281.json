@@ -1,0 +1,3419 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1281/lesson.json",
+  "id": "1281",
+  "title": "درس پنجم: مرور یونیت ۵.۳",
+  "specialtyKey": "1afca38e6e25ad7b",
+  "chapter": {
+    "id": "270",
+    "title": "فریم‌ورک، آلیاژ و ریخته‌گری",
+    "position": 19
+  },
+  "position": 5,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:a9d4a3e33e2b5c203f1a311004cc234a7db5e88e04b89da9d03053c00ebc18d3",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "3938a3bd1601a210f8a4005ab36b4e035b0f86118586fe30ea10caa1ac0f027f",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "از موم تا فلز"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این یونیت یک زنجیره‌ی مادی است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " طراحی فریم‌ورک ← انتخاب آلیاژ ← اسپرو و اینوستمنت ← برنت‌اوت ← ریخته‌گری ← بازرسی عیوب. هر حلقه اعداد و مبادله‌های خودش را دارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اعداد فریم‌ورک:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ضخامت حداقلی پرسلن در فصل‌مشترک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۵ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ ارتفاع کالر در موم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۰٫۵ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ استاپ ابزار کات‌بک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ فاصله‌ی استاپ سنتریک از اتصال پرسلن-فلز "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دست‌کم ۱٫۵ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ و زاویه‌ی سطح ونیرشونده با فریم‌ورک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۹۰ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اعداد آلیاژ:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سایش مینا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۱۰ میکرومتر در سال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ آستانه‌ی سختی مینا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۳۵۰ VHN"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ تطابق ضریب انبساط حرارتی در حدود "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۵ در ۱۰⁻⁶ بر درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ فلزات "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۳٫۵ تا ۱۴٫۵"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و پرسلن‌ها "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۳٫۰ تا ۱۴٫۰"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ دمای انتقال شیشه‌ای "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵۰۰ تا ۷۰۰ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ و چگالی طلا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۹٫۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، پالادیوم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۲٫۰"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، نیکل "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸٫۹"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، کبالت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸٫۸"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اعداد ریخته‌گری:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اسپرو "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲ تا ۲٫۵ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با زاویه‌ی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۳۵ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ پوشش اینوستمنت روی الگو "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۶ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ مرز پایداری گچ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۵۰ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ برنت‌اوت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۵۰ یا ۴۸۰ درجه به مدت ۴۵ دقیقه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ روش شتاب‌یافته "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۵ + ۱۵ دقیقه با کوره‌ی ۸۱۵ درجه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ حداقل ضخامت موم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰٫۳ میلی‌متر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ و جرم آلیاژ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶ / ۹ / ۱۲ گرم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک قاعده‌ی جهت‌دار که فراموشش گران است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ضریب انقباض حرارتی فلز باید اندکی بالاتر از پرسلن باشد تا سرامیک در تنش فشاری پسماند سودمند قرار گیرد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو سازوکار مقاومت به خوردگی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در آلیاژهای نجیب، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نجابت ذاتی اتم‌ها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ در فلزات پایه، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پسیواسیون با لایه‌ی اکسید کروم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در این مرور، ۱۳ خوشه‌ی مفهومی از هر چهار درس با هم می‌آیند — با تأکید بر انتخاب آلیاژ در موقعیت‌های واقعی و بر عیب‌یابی ریختگی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و گردش کار دیجیتال:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای ورود به آن، شکل مطلوب دندان را پیش از تراش ثبت می‌کنی: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسکن داخل‌دهانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دندان یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسکن آزمایشگاهی کست یا قالب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیش از درمان؛ اگر آناتومی خود دندان مناسب نیست، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصویر آینه‌ای دندان دیگری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، به‌ویژه در ناحیه‌ی زیبایی؛"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اسکن "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واکس‌آپ تشخیصی یا ترمیم موقتی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " که در دهان تأیید شده؛ و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کتابخانه‌ی دندان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نرم‌افزار. و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ساخت افزایشی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌تواند تیتانیوم و آلیاژهایش را، به شرط "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پودر ریزدانه‌ی مناسب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، بسازد؛ برخلاف ریخته‌گری تیتانیوم که به تجهیزات ویژه نیاز دارد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:20951",
+      "sourceId": "20951",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 7.14286%;",
+      "contentKey": "969048550a3d5a793d420bd7bde901ce8e7c2920b35e04c685538633be8b0371",
+      "position": 2,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام توالی، زنجیره‌ی ساخت یک ترمیم متال‌سرامیک را درست نشان می‌دهد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام توالی، زنجیره‌ی ساخت یک ترمیم متال‌سرامیک را درست نشان می‌دهد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسپروگذاری ← واکس تا کانتور کامل ← کات‌بک ← اینوست ← برنت‌اوت ← لایه‌گذاری پرسلن ← ریخته‌گری ← بازرسی عیوب"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کات‌بک روی دای ← واکس تا کانتور کامل ← بازسازی کالر ← اینوست ← ریخته‌گری ← برنت‌اوت ← بازرسی عیوب ← لایه‌گذاری پرسلن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واکس تا کانتور کامل ← کات‌بک ← بازسازی کالر ← اسپرو ← اینوست ← برنت‌اوت ← ریخته‌گری ← بازرسی ← پرسلن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واکس تا کانتور کامل ← ریخته‌گری ← کات‌بک ← اینوست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0a34a0572730d607765ec306ab9a7818292720b640957eb09f77b4210c82df97",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اسپروگذاری ← واکس تا کانتور کامل ← کات‌بک ← اینوست ← برنت‌اوت ← لایه‌گذاری پرسلن ← ریخته‌گری ← بازرسی عیوب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اسپروگذاری ← واکس تا کانتور کامل ← کات‌بک ← اینوست ← برنت‌اوت ← لایه‌گذاری پرسلن ← ریخته‌گری ← بازرسی عیوب"
+            }
+          ]
+        },
+        {
+          "id": "7a7e69d07c0afabf60c1442ab8138fb8ec7ed8a60b29edf543c6e7b410ab3242",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کات‌بک روی دای ← واکس تا کانتور کامل ← بازسازی کالر ← اینوست ← ریخته‌گری ← برنت‌اوت ← بازرسی عیوب ← لایه‌گذاری پرسلن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کات‌بک روی دای ← واکس تا کانتور کامل ← بازسازی کالر ← اینوست ← ریخته‌گری ← برنت‌اوت ← بازرسی عیوب ← لایه‌گذاری پرسلن"
+            }
+          ]
+        },
+        {
+          "id": "de814cac2e8afef89dd052deee54127f27a18bcd0cd69b0eadce59d492a1faac",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "واکس تا کانتور کامل ← کات‌بک ← بازسازی کالر ← اسپرو ← اینوست ← برنت‌اوت ← ریخته‌گری ← بازرسی ← پرسلن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "واکس تا کانتور کامل ← کات‌بک ← بازسازی کالر ← اسپرو ← اینوست ← برنت‌اوت ← ریخته‌گری ← بازرسی ← پرسلن"
+            }
+          ]
+        },
+        {
+          "id": "2474fbc6fa5dbef3ef7dfb54baf297e771ddc92deb8ddcc571a2a62a1f401ca8",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "واکس تا کانتور کامل ← ریخته‌گری ← کات‌بک ← اینوست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "واکس تا کانتور کامل ← ریخته‌گری ← کات‌بک ← اینوست"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "de814cac2e8afef89dd052deee54127f27a18bcd0cd69b0eadce59d492a1faac"
+        ],
+        "explanation": "آفرین. کالر هنگام ری‌فلو کردن مارجین از بین می‌رود و درست پیش از اینوست بازسازی می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کالر هنگام ری‌فلو کردن مارجین از بین می‌رود و درست پیش از اینوست بازسازی می‌شود."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:02:20.804Z"
+      }
+    },
+    {
+      "id": "question:20955",
+      "sourceId": "20955",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "8fc3652804cdc468ad0087c1463b0c5e151f457d20b8e48bc218d21393ca15c9",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در ارزیابی الگو با موم پودری، یک استاپ سنتریک تنها ۰٫۸ میلی‌متر از اتصال پرسلن-فلز فاصله دارد. چه باید کرد و چرا؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در ارزیابی الگو با موم پودری، یک استاپ سنتریک تنها ۰٫۸ میلی‌متر از اتصال پرسلن-فلز فاصله دارد. چه باید کرد و چرا؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارتفاع کالر افزایش یابد تا فریم‌ورک صلب‌تر شود و اتصال زیر بار خم نشود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مشکلی نیست؛ ۰٫۸ میلی‌متر کافی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضخامت پرسلن در همان ناحیه تا ۲ میلی‌متر بیشتر شود تا استاپ نزدیک اتصال، بار اکلوزال را بی‌خطر تحمل کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طراحی کات‌بک تغییر کند تا فاصله دست‌کم ۱٫۵ میلی‌متر شود، وگرنه فلز تغییر شکل می‌دهد و پرسلن می‌شکند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e1520bb30a45b681f1b6721731fd1b986c038d9562622e649652623a156ec4fd",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ارتفاع کالر افزایش یابد تا فریم‌ورک صلب‌تر شود و اتصال زیر بار خم نشود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ارتفاع کالر افزایش یابد تا فریم‌ورک صلب‌تر شود و اتصال زیر بار خم نشود"
+            }
+          ]
+        },
+        {
+          "id": "4cd0fe98a3e35a9e2ce03182357df51e64d4b297b8e7ee3a2d64cb4300367126",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مشکلی نیست؛ ۰٫۸ میلی‌متر کافی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مشکلی نیست؛ ۰٫۸ میلی‌متر کافی است"
+            }
+          ]
+        },
+        {
+          "id": "147a34ab73fddd08490a5304242a494ff795227316d807e32c770babc77017fe",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ضخامت پرسلن در همان ناحیه تا ۲ میلی‌متر بیشتر شود تا استاپ نزدیک اتصال، بار اکلوزال را بی‌خطر تحمل کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ضخامت پرسلن در همان ناحیه تا ۲ میلی‌متر بیشتر شود تا استاپ نزدیک اتصال، بار اکلوزال را بی‌خطر تحمل کند"
+            }
+          ]
+        },
+        {
+          "id": "0f8b6acb6b2477eed6a6a8130570041ee56dcec8177ddd2b9ffb1eecc3f5c024",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "طراحی کات‌بک تغییر کند تا فاصله دست‌کم ۱٫۵ میلی‌متر شود، وگرنه فلز تغییر شکل می‌دهد و پرسلن می‌شکند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "طراحی کات‌بک تغییر کند تا فاصله دست‌کم ۱٫۵ میلی‌متر شود، وگرنه فلز تغییر شکل می‌دهد و پرسلن می‌شکند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "0f8b6acb6b2477eed6a6a8130570041ee56dcec8177ddd2b9ffb1eecc3f5c024"
+        ],
+        "explanation": "همین است. همین‌جاست که ارزیابی پیش از کات‌بک ارزشش را نشان می‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین است. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "همین‌جاست که ارزیابی پیش از کات‌بک ارزشش را نشان می‌دهد."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:02:24.252Z"
+      }
+    },
+    {
+      "id": "question:20958",
+      "sourceId": "20958",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 21.4286%;",
+      "contentKey": "0fd82d8d2255ef0983c95b364b2f6e13fbf864c3ee87811cf472d26aff970ae3",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام جفت اطلاعات، محاسبه‌ی درست هزینه‌ی فلز را ممکن می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام جفت اطلاعات، محاسبه‌ی درست هزینه‌ی فلز را ممکن می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها تعداد واحدها و نوع پرسلن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وزن ریختگی پس از پرداخت و قیمت روز طلا، چون چگالی همه‌ی آلیاژهای دندانی تقریباً برابر، حدود ۱۲ گرم بر میلی‌لیتر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حجم ریختگی (متوسط ۰٫۰۸ و پانتیک تا ۰٫۲۵ میلی‌لیتر) و چگالی آلیاژ (از زیر ۸ تا بیش از ۱۸ گرم بر میلی‌لیتر)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها سختی آلیاژ و زمان پرداخت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "67576a182c5688f850517f60e3b9d570bcd5356ae821954fae1e1a4b80dfd2bd",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تنها تعداد واحدها و نوع پرسلن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها تعداد واحدها و نوع پرسلن"
+            }
+          ]
+        },
+        {
+          "id": "4105a5a9874b947a8ea3fb4e500523132021e750cfb4c3e29e27ec2c09205456",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "وزن ریختگی پس از پرداخت و قیمت روز طلا، چون چگالی همه‌ی آلیاژهای دندانی تقریباً برابر، حدود ۱۲ گرم بر میلی‌لیتر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وزن ریختگی پس از پرداخت و قیمت روز طلا، چون چگالی همه‌ی آلیاژهای دندانی تقریباً برابر، حدود ۱۲ گرم بر میلی‌لیتر است"
+            }
+          ]
+        },
+        {
+          "id": "329717f4ed9735220292585bddfc3ef6fcdf6c3dfd9a47f104bae73bd90a2e8a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "حجم ریختگی (متوسط ۰٫۰۸ و پانتیک تا ۰٫۲۵ میلی‌لیتر) و چگالی آلیاژ (از زیر ۸ تا بیش از ۱۸ گرم بر میلی‌لیتر)",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حجم ریختگی (متوسط ۰٫۰۸ و پانتیک تا ۰٫۲۵ میلی‌لیتر) و چگالی آلیاژ (از زیر ۸ تا بیش از ۱۸ گرم بر میلی‌لیتر)"
+            }
+          ]
+        },
+        {
+          "id": "95c65d82401cc0b5ed9046c84404e971375f0a620b6ee10efef3ae7780e33cb7",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تنها سختی آلیاژ و زمان پرداخت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها سختی آلیاژ و زمان پرداخت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "329717f4ed9735220292585bddfc3ef6fcdf6c3dfd9a47f104bae73bd90a2e8a"
+        ],
+        "explanation": "هزینه‌ی ذاتی فلز را با حجم ضرب در چگالی و قیمت واحد حساب کن، نه با وزن تنها.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "هزینه‌ی ذاتی فلز را با حجم ضرب در چگالی و قیمت واحد حساب کن، نه با وزن تنها."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:02:27.745Z"
+      }
+    },
+    {
+      "id": "question:20960",
+      "sourceId": "20960",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "8218ef855943b62ab1db7f6a9beab2fc8c63f1d8c3ffd334b17b65c4e26d03cc",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مجموعه، اعداد فرایند ریخته‌گری را درست جفت می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه، اعداد فرایند ریخته‌گری را درست جفت می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسپرو ۲ تا ۲٫۵ میلی‌متر، زاویه ۱۳۵ درجه، اینوستمنت روی الگو حدود ۶ میلی‌متر، حداقل ضخامت موم ۰٫۳ میلی‌متر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسپرو ۶ میلی‌متر، زاویه ۹۰ درجه، اینوستمنت روی الگو حدود ۲ میلی‌متر، حداقل ضخامت موم ۲ میلی‌متر برای کالر و کانکتور"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسپرو ۰٫۳ میلی‌متر، زاویه ۴۵ درجه، اینوستمنت روی الگو حدود ۱۳۵ میلی‌متر، حداقل ضخامت موم ۲٫۵ میلی‌متر در کالر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی اعداد به دما مربوط‌اند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9c796046b9d6af3c3fcea8d5365a72eb8c7647516f4124d0e4cb0715c2f9719d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اسپرو ۲ تا ۲٫۵ میلی‌متر، زاویه ۱۳۵ درجه، اینوستمنت روی الگو حدود ۶ میلی‌متر، حداقل ضخامت موم ۰٫۳ میلی‌متر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اسپرو ۲ تا ۲٫۵ میلی‌متر، زاویه ۱۳۵ درجه، اینوستمنت روی الگو حدود ۶ میلی‌متر، حداقل ضخامت موم ۰٫۳ میلی‌متر"
+            }
+          ]
+        },
+        {
+          "id": "ea8bd74d86c3e2d6ca493da1cb08f14cd35f4cfff7f58766fb20cbc33e9089cb",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اسپرو ۶ میلی‌متر، زاویه ۹۰ درجه، اینوستمنت روی الگو حدود ۲ میلی‌متر، حداقل ضخامت موم ۲ میلی‌متر برای کالر و کانکتور",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اسپرو ۶ میلی‌متر، زاویه ۹۰ درجه، اینوستمنت روی الگو حدود ۲ میلی‌متر، حداقل ضخامت موم ۲ میلی‌متر برای کالر و کانکتور"
+            }
+          ]
+        },
+        {
+          "id": "9085e5642d882ed6dcd3138395c7baf662b369e0f87e860b042f532bee1d789c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اسپرو ۰٫۳ میلی‌متر، زاویه ۴۵ درجه، اینوستمنت روی الگو حدود ۱۳۵ میلی‌متر، حداقل ضخامت موم ۲٫۵ میلی‌متر در کالر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اسپرو ۰٫۳ میلی‌متر، زاویه ۴۵ درجه، اینوستمنت روی الگو حدود ۱۳۵ میلی‌متر، حداقل ضخامت موم ۲٫۵ میلی‌متر در کالر"
+            }
+          ]
+        },
+        {
+          "id": "c0478f4d8ca9c5625d00588801245db8760587c514475b5a107a93d53e3d9b35",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همه‌ی اعداد به دما مربوط‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی اعداد به دما مربوط‌اند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9c796046b9d6af3c3fcea8d5365a72eb8c7647516f4124d0e4cb0715c2f9719d"
+        ],
+        "explanation": "موم نازک‌تر از ۰٫۳ میلی‌متر خطر ریختگی ناقص دارد.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "موم نازک‌تر از ۰٫۳ میلی‌متر خطر ریختگی ناقص دارد."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:02:31.107Z"
+      }
+    },
+    {
+      "id": "question:20965",
+      "sourceId": "20965",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 35.7143%;",
+      "contentKey": "b4101c205be743194dfd4da9d3a47ffd34c09e953de25a6c4d137b925b04dd2a",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "آلیاژهای Au-Pd و Au-Pd-Ag نسبت به Au-Pt-Pd چه برتری‌هایی دارند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آلیاژهای Au-Pd و Au-Pd-Ag نسبت به Au-Pt-Pd چه برتری‌هایی دارند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقاومت به خوردگی و تارنیش بیشتر به دلیل طلای بالاتر، ولی استحکام تسلیم و مدول کمتر، پس خیز خمشی بیشتر زیر بار جویدن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چگالی بیشتر و استحکام کمتر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استحکام تسلیم و مدول بالاتر با چگالی کمتر؛ پس مقاوم‌تر به نیروی جویدن، خیز کمتر، و ترمیم بیشتر با همان هزینه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سختی بیشتر از مینا"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0c4dce30979906602ebad20dfc49430d206be578054614e2ceac0c8602454cb5",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مقاومت به خوردگی و تارنیش بیشتر به دلیل طلای بالاتر، ولی استحکام تسلیم و مدول کمتر، پس خیز خمشی بیشتر زیر بار جویدن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقاومت به خوردگی و تارنیش بیشتر به دلیل طلای بالاتر، ولی استحکام تسلیم و مدول کمتر، پس خیز خمشی بیشتر زیر بار جویدن"
+            }
+          ]
+        },
+        {
+          "id": "459431f59b846a561131791dcdc1d54081970ee02b4241e4e75b5508304aa6f1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چگالی بیشتر و استحکام کمتر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چگالی بیشتر و استحکام کمتر"
+            }
+          ]
+        },
+        {
+          "id": "103f602bd1e647c75a2ae00be1059ba206fc8562afd7feef00658a0de88816c2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "استحکام تسلیم و مدول بالاتر با چگالی کمتر؛ پس مقاوم‌تر به نیروی جویدن، خیز کمتر، و ترمیم بیشتر با همان هزینه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استحکام تسلیم و مدول بالاتر با چگالی کمتر؛ پس مقاوم‌تر به نیروی جویدن، خیز کمتر، و ترمیم بیشتر با همان هزینه"
+            }
+          ]
+        },
+        {
+          "id": "52edf26d5b8e01f7f86d22cb62fe2e5dd3c4cb2ff7805b3aac8ac42869e65436",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سختی بیشتر از مینا",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سختی بیشتر از مینا"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "103f602bd1e647c75a2ae00be1059ba206fc8562afd7feef00658a0de88816c2"
+        ],
+        "explanation": "درست گفتی. برتری مکانیکی و اقتصادی با هم.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست گفتی. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "برتری مکانیکی و اقتصادی با هم."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:02:34.635Z"
+      }
+    },
+    {
+      "id": "question:20968",
+      "sourceId": "20968",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "342b1d5f79aabb95815c18b48b9928f2a3608a1a73c1204280a672aae5414bf5",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "آلیاژهای پالادیوم-نقره چه جایگاه اقتصادی‌ای دارند و بهایش چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آلیاژهای پالادیوم-نقره چه جایگاه اقتصادی‌ای دارند و بهایش چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها گزینه‌ی سازگار با اینوستمنت گچ‌باند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گران‌ترین گزینه؛ بدون هیچ عیبی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارزان‌ترین آلیاژ نجیب با بهترین خواص مکانیکی، بی‌هیچ خطری برای رنگ پرسلن یا آلودگی کوره‌ی پخت پرسلن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مصالحه‌ای میان آلیاژهای پرنجیب گران و فلزات پایه‌ی ارزان؛ با خطر سبز شدن پرسلن و آلودگی کوره"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ea21b58f55df0df17b956a91aafdc3206dd51c5519509e99c67ec69793a81298",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تنها گزینه‌ی سازگار با اینوستمنت گچ‌باند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها گزینه‌ی سازگار با اینوستمنت گچ‌باند"
+            }
+          ]
+        },
+        {
+          "id": "0e46c23eea4b4eb842d2bd07d07f9435c7b3221d5e9ef30bf43148bb10a66e59",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "گران‌ترین گزینه؛ بدون هیچ عیبی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گران‌ترین گزینه؛ بدون هیچ عیبی"
+            }
+          ]
+        },
+        {
+          "id": "e695065adf6ba57bb403f6f88965ee1ae178ce0279711ae68bce7c8e4ac665b2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ارزان‌ترین آلیاژ نجیب با بهترین خواص مکانیکی، بی‌هیچ خطری برای رنگ پرسلن یا آلودگی کوره‌ی پخت پرسلن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ارزان‌ترین آلیاژ نجیب با بهترین خواص مکانیکی، بی‌هیچ خطری برای رنگ پرسلن یا آلودگی کوره‌ی پخت پرسلن"
+            }
+          ]
+        },
+        {
+          "id": "6a3bffe3a6b3b0bf71b75445b92c2888c3be5ff2c8f3e6620e018cbdda072b17",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مصالحه‌ای میان آلیاژهای پرنجیب گران و فلزات پایه‌ی ارزان؛ با خطر سبز شدن پرسلن و آلودگی کوره",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مصالحه‌ای میان آلیاژهای پرنجیب گران و فلزات پایه‌ی ارزان؛ با خطر سبز شدن پرسلن و آلودگی کوره"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6a3bffe3a6b3b0bf71b75445b92c2888c3be5ff2c8f3e6620e018cbdda072b17"
+        ],
+        "explanation": "انتخاب دقیق پرسلن این خطر را مدیریت می‌کند.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "انتخاب دقیق پرسلن این خطر را مدیریت می‌کند."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:02:38.217Z"
+      }
+    },
+    {
+      "id": "question:20970",
+      "sourceId": "20970",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "adc1fa43cc3dd003db134825670d68599b356c790d820f7a71681c3635f281ae",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "پرسلن پس از سرد شدن از کوره ترک می‌خورد و فریم‌ورک درست طراحی شده است. کدام علت را باید بررسی کرد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پرسلن پس از سرد شدن از کوره ترک می‌خورد و فریم‌ورک درست طراحی شده است. کدام علت را باید بررسی کرد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ناسازگاری ضریب انقباض حرارتی فلز و پرسلن، به‌ویژه اگر ضریب فلز پایین‌تر از پرسلن باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان بیش از حد کوتاه نگهداری در دمای نهایی پخت، که گلیز سطح را ناقص و مات گذاشته است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استفاده از اسپروی مومی که خاکستر آن در فصل‌مشترک فلز و پرسلن گیر افتاده و باند را ضعیف کرده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انبساط زیاد اینوستمنت که ریختگی را گشاد و فیت آن روی دای را شل کرده است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e0a1d757356941637e2eadf3d0cd8f618e195c9bf46da0adc104bb0ea7ec2e08",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ناسازگاری ضریب انقباض حرارتی فلز و پرسلن، به‌ویژه اگر ضریب فلز پایین‌تر از پرسلن باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ناسازگاری ضریب انقباض حرارتی فلز و پرسلن، به‌ویژه اگر ضریب فلز پایین‌تر از پرسلن باشد"
+            }
+          ]
+        },
+        {
+          "id": "b530c64199e938d04f95a3d4422b376af6de214355d62be71b1611a99898afcc",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "زمان بیش از حد کوتاه نگهداری در دمای نهایی پخت، که گلیز سطح را ناقص و مات گذاشته است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان بیش از حد کوتاه نگهداری در دمای نهایی پخت، که گلیز سطح را ناقص و مات گذاشته است"
+            }
+          ]
+        },
+        {
+          "id": "ebdc7f83127e955e171213e08f679137045c1e327396c1a1c712829b601a27ef",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "استفاده از اسپروی مومی که خاکستر آن در فصل‌مشترک فلز و پرسلن گیر افتاده و باند را ضعیف کرده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استفاده از اسپروی مومی که خاکستر آن در فصل‌مشترک فلز و پرسلن گیر افتاده و باند را ضعیف کرده"
+            }
+          ]
+        },
+        {
+          "id": "ad59c41210203f859aa42333916b04937b094a8206eab372a63aa0c95e6a2b3d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "انبساط زیاد اینوستمنت که ریختگی را گشاد و فیت آن روی دای را شل کرده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انبساط زیاد اینوستمنت که ریختگی را گشاد و فیت آن روی دای را شل کرده است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e0a1d757356941637e2eadf3d0cd8f618e195c9bf46da0adc104bb0ea7ec2e08"
+        ],
+        "explanation": "آنگاه پرسلن در تنش کششی می‌ماند و ترک می‌خورد.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "آنگاه پرسلن در تنش کششی می‌ماند و ترک می‌خورد."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:02:41.703Z"
+      }
+    },
+    {
+      "id": "question:20972",
+      "sourceId": "20972",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "5c47a1c3c4a3498fd9b6f845a3bada52435913f5769cd376008db067c0ca276f",
+      "position": 9,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کل سطح ریختگی زبر درآمده است. علت کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کل سطح ریختگی زبر درآمده است. علت کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جرم ناکافی آلیاژ که فشار ریخته‌گری را کم کرده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انبساط ناکافی اینوستمنت به دلیل لاینر کم یا نبود لاینر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسپروی بیش از حد پهن که آخر از همه جامد شده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تجزیه‌ی اینوستمنت از دمای برنت‌اوت بیش از حد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "1ecbc47d46f06e490c3c9ae6e2e0bc10c5d7018d02222678380c20b46e0a98d1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "جرم ناکافی آلیاژ که فشار ریخته‌گری را کم کرده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جرم ناکافی آلیاژ که فشار ریخته‌گری را کم کرده است"
+            }
+          ]
+        },
+        {
+          "id": "eb9ebece1fe3f3d4aeaa516d7241a8b261e99efa6ab8b080e74ef43ec4c7ee5f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "انبساط ناکافی اینوستمنت به دلیل لاینر کم یا نبود لاینر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انبساط ناکافی اینوستمنت به دلیل لاینر کم یا نبود لاینر"
+            }
+          ]
+        },
+        {
+          "id": "6e07173d28dfea56c5037929a71a632d94cc18919d56c928d5a8710e101f7826",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اسپروی بیش از حد پهن که آخر از همه جامد شده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اسپروی بیش از حد پهن که آخر از همه جامد شده است"
+            }
+          ]
+        },
+        {
+          "id": "aaac2c2e56e8bf8f554ae3429f90af54b510b48edfe7d0596b4c7ed81db47e27",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تجزیه‌ی اینوستمنت از دمای برنت‌اوت بیش از حد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تجزیه‌ی اینوستمنت از دمای برنت‌اوت بیش از حد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "aaac2c2e56e8bf8f554ae3429f90af54b510b48edfe7d0596b4c7ed81db47e27"
+        ],
+        "explanation": "در اینوستمنت‌های کربن‌دار، سوختن کربن هم زبری را بیشتر می‌کند.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "در اینوستمنت‌های کربن‌دار، سوختن کربن هم زبری را بیشتر می‌کند."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:03:17.020Z"
+      }
+    },
+    {
+      "id": "question:20977",
+      "sourceId": "20977",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 60%;",
+      "contentKey": "90a797a6e3a83e59d0504f9da0bcfaaecccce3e187b32d221f1052a941dd83d9",
+      "position": 10,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا ریختگی‌ای که اندکی بزرگ‌تر باشد مطلوب است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا ریختگی‌ای که اندکی بزرگ‌تر باشد مطلوب است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون برای نشست دقیق سودمند است، به شرط آنکه به شیوه‌ای کنترل‌شده باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون فضای بیشتری برای لایه‌های اپک و پرسلن روی فریم‌ورک فلزی فراهم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون ریختگی بزرگ‌تر دیواره‌ی نازک‌تری دارد و وزن ترمیم را کم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون ریختگی بزرگ‌تر سختی آلیاژ را کم و برنیش کردن مارجین را بسیار آسان می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "f93b915dce310572eff6b68f546c0525b230c8ac8242c386973f3cb369760b46",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون برای نشست دقیق سودمند است، به شرط آنکه به شیوه‌ای کنترل‌شده باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون برای نشست دقیق سودمند است، به شرط آنکه به شیوه‌ای کنترل‌شده باشد"
+            }
+          ]
+        },
+        {
+          "id": "b0b6600c040c49ad08bc5b763b1ea80c23562723b49f9008699a7618bc63d382",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون فضای بیشتری برای لایه‌های اپک و پرسلن روی فریم‌ورک فلزی فراهم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون فضای بیشتری برای لایه‌های اپک و پرسلن روی فریم‌ورک فلزی فراهم می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "a743cb2b99abd2ff8929fcfca3d52c7e6915f274bc4333e6dc738e124a35ef17",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون ریختگی بزرگ‌تر دیواره‌ی نازک‌تری دارد و وزن ترمیم را کم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون ریختگی بزرگ‌تر دیواره‌ی نازک‌تری دارد و وزن ترمیم را کم می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "c0ceb8be6c8d9aacb3e5f5e04363e341c5a352fb3b0ee85595c2f548bcc169c6",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون ریختگی بزرگ‌تر سختی آلیاژ را کم و برنیش کردن مارجین را بسیار آسان می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون ریختگی بزرگ‌تر سختی آلیاژ را کم و برنیش کردن مارجین را بسیار آسان می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f93b915dce310572eff6b68f546c0525b230c8ac8242c386973f3cb369760b46"
+        ],
+        "explanation": "درست است. همان منطق فضای سمان، این بار از سمت اینوستمنت.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "همان منطق فضای سمان، این بار از سمت اینوستمنت."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:02:51.221Z"
+      }
+    },
+    {
+      "id": "question:20979",
+      "sourceId": "20979",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 66.6667%;",
+      "contentKey": "e35ad843bb156fa9598ab074c744714febfe8f2f5fee47577a38594655adf57c",
+      "position": 11,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا طراحی سطوح اکلوزال عملکردی در فلز ترجیح دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا طراحی سطوح اکلوزال عملکردی در فلز ترجیح دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون فلز ارزان‌تر از پرسلن است و زمان ساخت کمتر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون دستیابی به اکلوژن دقیق آسان‌تر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون سطح فلزی در لبخند طبیعی‌تر دیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون سبک‌تر از پرسلن است و بار کمتری می‌آورد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "604314d2825826e95fbd506aa331a7f1d9f8bbdcbd49bca986b333455956491f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون فلز ارزان‌تر از پرسلن است و زمان ساخت کمتر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون فلز ارزان‌تر از پرسلن است و زمان ساخت کمتر می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "ff5e1a666954ef298f29deaa464748612e0ec57ba1c3dae7c92b1446376b2d4f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون دستیابی به اکلوژن دقیق آسان‌تر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون دستیابی به اکلوژن دقیق آسان‌تر است"
+            }
+          ]
+        },
+        {
+          "id": "b6e20ee5db8836b28b5a7eb9b8f418e8eae3492353d82acba8bebdbe9def9c86",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون سطح فلزی در لبخند طبیعی‌تر دیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون سطح فلزی در لبخند طبیعی‌تر دیده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "ec4b0e033ca82f5845150524441ee0441392f16bc35a5133c2bb927225c6c40d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون سبک‌تر از پرسلن است و بار کمتری می‌آورد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون سبک‌تر از پرسلن است و بار کمتری می‌آورد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ff5e1a666954ef298f29deaa464748612e0ec57ba1c3dae7c92b1446376b2d4f"
+        ],
+        "explanation": "کاملاً درست. فلز، مینای مقابل را هم کمتر از پرسلن می‌ساید.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کاملاً درست. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "فلز، مینای مقابل را هم کمتر از پرسلن می‌ساید."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:02:56.540Z"
+      }
+    },
+    {
+      "id": "question:20983",
+      "sourceId": "20983",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 73.3333%;",
+      "contentKey": "503db6cf5db836e20aa4d0b8f47ed431ec8bb14df387bf29e076deac71b37eac",
+      "position": 12,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "خطر انتخاب یک آلیاژ جدید چیست و مثالش کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خطر انتخاب یک آلیاژ جدید چیست و مثالش کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلیاژهای جدید با اینوستمنت فسفات‌باند ناسازگارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلیاژهای جدید همیشه گران‌ترند و با تجهیزات ریخته‌گری معمولی ناسازگارند؛ مانند آلیاژهای پرپالادیوم که بدون مشعل چنددهانه‌ی گاز-اکسیژن اصلاً ذوب نمی‌شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلیاژهای جدید همیشه سخت‌ترند؛ مانند Pd-Cu-Ga"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عملکرد بالینی معیوب ممکن است در آزمون آزمایشگاهی یا کارآزمایی کوتاه‌مدت پیدا نشود؛ مانند آلیاژهای پایه‌مس با مقاومت به خوردگی بسیار ضعیف"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "52a91569a80cdd169f35809ce9a85b8050830382d9bced98796c3a87567c12fb",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "آلیاژهای جدید با اینوستمنت فسفات‌باند ناسازگارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آلیاژهای جدید با اینوستمنت فسفات‌باند ناسازگارند"
+            }
+          ]
+        },
+        {
+          "id": "1e65f2501e4d02d4175bf2e9f581f6af7771565f83b0f6389acb107afd176e2a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "آلیاژهای جدید همیشه گران‌ترند و با تجهیزات ریخته‌گری معمولی ناسازگارند؛ مانند آلیاژهای پرپالادیوم که بدون مشعل چنددهانه‌ی گاز-اکسیژن اصلاً ذوب نمی‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آلیاژهای جدید همیشه گران‌ترند و با تجهیزات ریخته‌گری معمولی ناسازگارند؛ مانند آلیاژهای پرپالادیوم که بدون مشعل چنددهانه‌ی گاز-اکسیژن اصلاً ذوب نمی‌شوند"
+            }
+          ]
+        },
+        {
+          "id": "eef7ec0ce61f32eca576411c18dce557902b48c7d31737097987a7acda20fbeb",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آلیاژهای جدید همیشه سخت‌ترند؛ مانند Pd-Cu-Ga",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آلیاژهای جدید همیشه سخت‌ترند؛ مانند Pd-Cu-Ga"
+            }
+          ]
+        },
+        {
+          "id": "48c937c5262d5dd05c0a5a88828a38c11dd54e86869d1b09cd74012e80e41efd",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "عملکرد بالینی معیوب ممکن است در آزمون آزمایشگاهی یا کارآزمایی کوتاه‌مدت پیدا نشود؛ مانند آلیاژهای پایه‌مس با مقاومت به خوردگی بسیار ضعیف",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عملکرد بالینی معیوب ممکن است در آزمون آزمایشگاهی یا کارآزمایی کوتاه‌مدت پیدا نشود؛ مانند آلیاژهای پایه‌مس با مقاومت به خوردگی بسیار ضعیف"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "48c937c5262d5dd05c0a5a88828a38c11dd54e86869d1b09cd74012e80e41efd"
+        ],
+        "explanation": "عالی. آلیاژهای تثبیت‌شده هم معایبی دارند، ولی معایبشان مستند و پیش‌بینی‌پذیر است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "عالی. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "آلیاژهای تثبیت‌شده هم معایبی دارند، ولی معایبشان مستند و پیش‌بینی‌پذیر است."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:03:20.569Z"
+      }
+    },
+    {
+      "id": "question:20986",
+      "sourceId": "20986",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "f42c2dfcd0ec2679daf1a1d34f1c3f6c6ea35d8037fce5f29f2ec3c8dbef7219",
+      "position": 13,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "هنگام ریخته‌گری آلیاژهای متال‌سرامیک، چه حفاظتی و با چه هدف دوگانه‌ای لازم است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هنگام ریخته‌گری آلیاژهای متال‌سرامیک، چه حفاظتی و با چه هدف دوگانه‌ای لازم است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گاگل رنگی، هم برای محافظت از چشم و هم برای امکان دیدن مستقیم مذاب"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عینک شفاف معمولی، هم برای محافظت از چشم و هم برای دیدن رنگ واقعی مذاب بدون فیلتر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روپوش سربی، هم برای محافظت از پرتو فرابنفش مشعل و هم برای مهار گرمای رینگ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماسک جوشکاری کاملاً تیره، هم برای محافظت از چشم و هم برای پوشاندن کامل نور مذاب"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0eb863c6053ffd414e445caf175670c296f94bb728e404df44a58a5389584944",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "گاگل رنگی، هم برای محافظت از چشم و هم برای امکان دیدن مستقیم مذاب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گاگل رنگی، هم برای محافظت از چشم و هم برای امکان دیدن مستقیم مذاب"
+            }
+          ]
+        },
+        {
+          "id": "1e99b94c637952c4d158ea79caedec05dbd570124f04cc5be2d97f07ab7e4c70",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "عینک شفاف معمولی، هم برای محافظت از چشم و هم برای دیدن رنگ واقعی مذاب بدون فیلتر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عینک شفاف معمولی، هم برای محافظت از چشم و هم برای دیدن رنگ واقعی مذاب بدون فیلتر"
+            }
+          ]
+        },
+        {
+          "id": "15dbff74006e82d3ccfa287e7831566e38ae6754b11e78f82b942f4eaed48fa9",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "روپوش سربی، هم برای محافظت از پرتو فرابنفش مشعل و هم برای مهار گرمای رینگ",
+          "content": [
+            {
+              "tag": "text",
+              "text": "روپوش سربی، هم برای محافظت از پرتو فرابنفش مشعل و هم برای مهار گرمای رینگ"
+            }
+          ]
+        },
+        {
+          "id": "3f19c73b396051c12490b2021319ad57357f821b1f955eba7ce938ec06efc2d3",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ماسک جوشکاری کاملاً تیره، هم برای محافظت از چشم و هم برای پوشاندن کامل نور مذاب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماسک جوشکاری کاملاً تیره، هم برای محافظت از چشم و هم برای پوشاندن کامل نور مذاب"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "0eb863c6053ffd414e445caf175670c296f94bb728e404df44a58a5389584944"
+        ],
+        "explanation": "برای این آلیاژها مشعل گاز-اکسیژن لازم است.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "برای این آلیاژها مشعل گاز-اکسیژن لازم است."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:03:24.101Z"
+      }
+    },
+    {
+      "id": "question:20988",
+      "sourceId": "20988",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 76.4706%;",
+      "contentKey": "8da4f6b3cff6c15c08f65b7b04dfcce0fb0e144fef96bf6cac6675eb1615a158",
+      "position": 14,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام گزاره درباره‌ی تیتانیوم در این یونیت درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام گزاره درباره‌ی تیتانیوم در این یونیت درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ریخته‌گری‌اش خلأ یا گاز بی‌اثر و تجهیزات ویژه می‌خواهد و لایه‌ی سخت آلفا-کیس می‌سازد؛ ولی ساخت افزایشی با پودر ریزدانه‌ی مناسب ممکن است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ریخته‌گری‌اش از آلیاژهای طلا ساده‌تر است، چون نقطه‌ی ذوب پایین و واکنش‌پذیری کمی دارد؛ ولی ساخت افزایشی برای آن ممکن نیست و پودرش در دسترس نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ساخت افزایشی برای تیتانیوم ممکن نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تیتانیوم مقاومت به خوردگی ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "dfef3fe258e61592f683c38b5730ec2eb67bb1b1d6b262c20537da8e80ee79d1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ریخته‌گری‌اش خلأ یا گاز بی‌اثر و تجهیزات ویژه می‌خواهد و لایه‌ی سخت آلفا-کیس می‌سازد؛ ولی ساخت افزایشی با پودر ریزدانه‌ی مناسب ممکن است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ریخته‌گری‌اش خلأ یا گاز بی‌اثر و تجهیزات ویژه می‌خواهد و لایه‌ی سخت آلفا-کیس می‌سازد؛ ولی ساخت افزایشی با پودر ریزدانه‌ی مناسب ممکن است"
+            }
+          ]
+        },
+        {
+          "id": "9115fba1e988f86f9dce5173df4d05f11c0a7cccd08b5394415fdea80b28cd0e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ریخته‌گری‌اش از آلیاژهای طلا ساده‌تر است، چون نقطه‌ی ذوب پایین و واکنش‌پذیری کمی دارد؛ ولی ساخت افزایشی برای آن ممکن نیست و پودرش در دسترس نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ریخته‌گری‌اش از آلیاژهای طلا ساده‌تر است، چون نقطه‌ی ذوب پایین و واکنش‌پذیری کمی دارد؛ ولی ساخت افزایشی برای آن ممکن نیست و پودرش در دسترس نیست"
+            }
+          ]
+        },
+        {
+          "id": "82d52fc4297d3dc1bc79f0b9ecf7bf1793347ce43eb48aae285cf0d8d7f67ca7",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ساخت افزایشی برای تیتانیوم ممکن نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ساخت افزایشی برای تیتانیوم ممکن نیست"
+            }
+          ]
+        },
+        {
+          "id": "9e6fe4de40575caefe783dede13916d9ce7000fcac25a8b407d4de664aae8108",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تیتانیوم مقاومت به خوردگی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تیتانیوم مقاومت به خوردگی ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "dfef3fe258e61592f683c38b5730ec2eb67bb1b1d6b262c20537da8e80ee79d1"
+        ],
+        "explanation": "همین دشواری‌ها، پذیرش جهانی ریخته‌گری تیتانیوم را بازداشته است.",
+        "content": [
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "همین دشواری‌ها، پذیرش جهانی ریخته‌گری تیتانیوم را بازداشته است."
+              }
+            ]
+          }
+        ],
+        "observedAt": "2026-11-17T14:03:13.523Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:a9d4a3e33e2b5c203f1a311004cc234a7db5e88e04b89da9d03053c00ebc18d3",
+      "at": "2026-11-17T14:02:17.238Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "question:20951",
+      "at": "2026-11-17T14:02:18.854Z",
+      "progress": "width: 7.14286%;"
+    },
+    {
+      "stepId": "question:20955",
+      "at": "2026-11-17T14:02:22.364Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:20958",
+      "at": "2026-11-17T14:02:25.837Z",
+      "progress": "width: 21.4286%;"
+    },
+    {
+      "stepId": "question:20960",
+      "at": "2026-11-17T14:02:29.192Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:20965",
+      "at": "2026-11-17T14:02:32.720Z",
+      "progress": "width: 35.7143%;"
+    },
+    {
+      "stepId": "question:20968",
+      "at": "2026-11-17T14:02:36.255Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:20970",
+      "at": "2026-11-17T14:02:39.823Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:20972",
+      "at": "2026-11-17T14:02:43.279Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:20977",
+      "at": "2026-11-17T14:02:47.179Z",
+      "progress": "width: 60%;"
+    },
+    {
+      "stepId": "question:20979",
+      "at": "2026-11-17T14:02:52.836Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:20983",
+      "at": "2026-11-17T14:02:58.139Z",
+      "progress": "width: 73.3333%;"
+    },
+    {
+      "stepId": "question:20986",
+      "at": "2026-11-17T14:03:03.894Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:20988",
+      "at": "2026-11-17T14:03:09.511Z",
+      "progress": "width: 76.4706%;"
+    },
+    {
+      "stepId": "question:20972",
+      "at": "2026-11-17T14:03:15.123Z",
+      "progress": "width: 82.3529%;"
+    },
+    {
+      "stepId": "question:20983",
+      "at": "2026-11-17T14:03:18.632Z",
+      "progress": "width: 88.2353%;"
+    },
+    {
+      "stepId": "question:20986",
+      "at": "2026-11-17T14:03:22.185Z",
+      "progress": "width: 94.1176%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
