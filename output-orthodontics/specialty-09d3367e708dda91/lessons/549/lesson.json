@@ -1,0 +1,2167 @@
+{
+  "schemaVersion": 3,
+  "id": "549",
+  "sourceUrl": "https://app.dentigoapp.com/fa/lesson/549",
+  "title": "درس سوم: آنالیز Steiner",
+  "specialtyKey": "09d3367e708dda91",
+  "specialtyName": "ارتودنسی",
+  "chapterId": "123",
+  "chapterTitle": "یونیت 2.4: رادیوگرافی و سفالومتری",
+  "chapterPosition": 8,
+  "lessonPosition": 3,
+  "runId": "2026-11-16T22-14-48-013Z",
+  "startedAt": "2026-11-16T22:51:44.945Z",
+  "updatedAt": "2026-11-16T22:52:38.021Z",
+  "status": "captured",
+  "steps": [
+    {
+      "id": "theory:1062078bdfbeac5857df41db4b432b71fe59f8f18598e3d4be204ffcb8f5e143",
+      "position": 1,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 0%;",
+      "questionType": "unknown",
+      "title": "درس ۳: آنالیز Steiner",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سه عدد اسکلتی Steiner"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اندازه‌گیری"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "چه می‌گوید"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نُرم"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "SNA"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "موقعیت ساژیتال ماگزیلا نسبت به قاعده‌ی جمجمه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۸۲ درجه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "SNB"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "موقعیت ساژیتال مندیبل"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۸۰ درجه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ANB"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "رابطه‌ی دو فک با هم (SNA منهای SNB)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۲ درجه"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ANB بالای ۴ درجه به کلاس II اسکلتی و ANB منفی به کلاس III اشاره دارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا استاینر این سه را کنار هم گذاشت؟ چون هر کدام به‌تنهایی ناقص است. SNA بالا می‌تواند از ماگزیلای جلو آمده باشد — یا از قاعده‌ی جمجمه‌ای با هندسه‌ی متفاوت."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تنها با خواندن هر سه با هم می‌فهمی "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کدام فک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " عامل مشکل است — و همین، جهت درمان را تعیین می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 880 400",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "856",
+                        "y": "30"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آنالیز Steiner — SNA، SNB و ANB"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {
+                        "fill": "none",
+                        "stroke": "currentColor",
+                        "stroke-width": "2"
+                      },
+                      "children": [
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M180 150 L 560 130"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#C25B5B",
+                        "cx": "180",
+                        "cy": "150",
+                        "r": "6"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "170",
+                        "y": "144"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "S"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#C25B5B",
+                        "cx": "560",
+                        "cy": "130",
+                        "r": "6"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "570",
+                        "y": "124"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "N"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M560 130 L 610 262",
+                        "fill": "none",
+                        "stroke": "#2E9E6B",
+                        "stroke-width": "2.4"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#2E9E6B",
+                        "cx": "610",
+                        "cy": "262",
+                        "r": "6"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#2E9E6B",
+                        "x": "622",
+                        "y": "266"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "A"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M560 130 L 578 330",
+                        "fill": "none",
+                        "stroke": "#7A8BD6",
+                        "stroke-width": "2.4"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attributes": {
+                        "fill": "#7A8BD6",
+                        "cx": "578",
+                        "cy": "330",
+                        "r": "6"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#7A8BD6",
+                        "x": "590",
+                        "y": "336"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "B"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M508 137 A 56 56 0 0 0 545 182",
+                        "fill": "none",
+                        "stroke": "#2E9E6B",
+                        "stroke-width": "2.2"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#2E9E6B",
+                        "x": "486",
+                        "y": "176"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "SNA"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "486",
+                        "y": "196"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نُرم ≈ ۸۲°"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M494 135 A 70 70 0 0 0 540 200",
+                        "fill": "none",
+                        "stroke": "#7A8BD6",
+                        "stroke-width": "2.2"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#7A8BD6",
+                        "x": "410",
+                        "y": "228"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "SNB"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "410",
+                        "y": "248"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نُرم ≈ ۸۰°"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M592 210 A 90 90 0 0 0 585 250",
+                        "fill": "none",
+                        "stroke": "#D6A756",
+                        "stroke-width": "2.6"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#D6A756",
+                        "x": "646",
+                        "y": "216"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ANB"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "646",
+                        "y": "236"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نُرم ≈ ۲°"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "#D6A756",
+                        "stroke": "#D6A756",
+                        "stroke-width": "1.8",
+                        "x": "24",
+                        "y": "288",
+                        "width": "360",
+                        "height": "94"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#D6A756",
+                        "x": "364",
+                        "y": "314"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ANB = SNA − SNB"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "364",
+                        "y": "338"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "یک تفاضل است، پس اجزایش را پنهان می‌کند."
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "364",
+                        "y": "360"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هر دو زاویه به نازیون وابسته‌اند؛ جابه‌جایی آن هر دو را می‌چرخاند."
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#C25B5B",
+                        "x": "856",
+                        "y": "378"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ANB را هرگز تنها نخوان — SNA و SNB را جداگانه گزارش کن."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زوایای SNA، SNB و ANB و وابستگی مشترکشان به نقطه‌ی نازیون."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:b4f747879ba000d4598eb7ee17a197070d557b424467004372c1e97e5144d310",
+      "position": 2,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 12.5%;",
+      "questionType": "unknown",
+      "title": "درس ۳: آنالیز Steiner",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اعداد دندانی Steiner"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اندازه‌گیری"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نُرم"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "انسیزور بالا به خط NA — زاویه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۲۲ درجه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "انسیزور بالا به خط NA — فاصله"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۴ میلی‌متر"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "انسیزور پایین به خط NB — زاویه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۲۵ درجه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "انسیزور پایین به خط NB — فاصله"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۴ میلی‌متر"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "زاویه‌ی بین‌انسیزوری"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۱۳۱ درجه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پلن مندیبولار به S-N"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۳۲ درجه"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا برای هر انسیزور هم "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زاویه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و هم "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاصله"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سنجیده می‌شود؟ چون این دو اطلاعات متفاوتی می‌دهند: زاویه شیب دندان را نشان می‌دهد و فاصله موقعیت آن را."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دندانی می‌تواند شیب طبیعی داشته باشد ولی کل آن جلوتر از حد نشسته باشد — و درمان این دو یکسان نیست: یکی تورک می‌خواهد و دیگری حرکت بدنه‌ای."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "زاویه‌ی بین‌انسیزوری را هم همین‌طور بخوان: کمتر از نُرم یعنی انسیزورها پروکلاین‌اند و بیشتر از نُرم یعنی رتروکلاین."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:ff3dddc38e6dcf71911665426f679e82124bbab5c83d4c80ec6e552592e33ec3",
+      "position": 3,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 25%;",
+      "questionType": "unknown",
+      "title": "درس ۳: آنالیز Steiner",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اشتباه رایج در تفسیر ANB"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ANB یک زاویه‌ی "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسبی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است و به این عوامل وابسته:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موقعیت نقطه‌ی "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "N"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — بالاتر یا جلوتر بودن نازیون"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرخش کل "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فک‌ها"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " نسبت به قاعده‌ی جمجمه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ریمادلینگ آلوئولار نقاط "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "A و B"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 قاعده‌ی طلایی: "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ANB را هرگز تنها نخوان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". همیشه SNA و SNB را کنارش بگذار تا بفهمی کدام فک مقصر است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یک مثال که خطر را نشان می‌دهد: دو بیمار هر دو ANB برابر ۶ درجه دارند. در یکی SNA برابر ۸۸ و SNB برابر ۸۲ — یعنی ماگزیلای جلو آمده. در دیگری SNA برابر ۸۰ و SNB برابر ۷۴ — یعنی مندیبل عقب‌مانده."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "برچسب هر دو «کلاس II اسکلتی» است، اما درمانشان کاملاً متفاوت: یکی مهار ماگزیلا می‌خواهد و دیگری پیشبرد مندیبل."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:6612",
+      "position": 4,
+      "kind": "question",
+      "sourceQuestionId": "6612",
+      "sourceStepId": null,
+      "sourceProgress": "width: 37.5%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: آنالیز Steiner",
+      "prompt": "در بیماری SNA برابر ۸۲ و SNB برابر ۷۶ درجه است. تفسیر کدام است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیماری SNA برابر ۸۲ و SNB برابر ۷۶ درجه است. تفسیر کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماگزیلای جلوآمده با مندیبل طبیعی و رابطه‌ی اسکلتی کلاس II"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رابطه‌ی اسکلتی کلاس III با مندیبل جلوآمده و ماگزیلای طبیعی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماگزیلای طبیعی، مندیبل عقب‌رفته و کلاس II اسکلتی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رابطه کاملاً طبیعی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "ماگزیلای جلوآمده با مندیبل طبیعی و رابطه‌ی اسکلتی کلاس II",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماگزیلای جلوآمده با مندیبل طبیعی و رابطه‌ی اسکلتی کلاس II"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "رابطه‌ی اسکلتی کلاس III با مندیبل جلوآمده و ماگزیلای طبیعی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رابطه‌ی اسکلتی کلاس III با مندیبل جلوآمده و ماگزیلای طبیعی"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "ماگزیلای طبیعی، مندیبل عقب‌رفته و کلاس II اسکلتی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماگزیلای طبیعی، مندیبل عقب‌رفته و کلاس II اسکلتی"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "رابطه کاملاً طبیعی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رابطه کاملاً طبیعی"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "2"
+        ],
+        "correctOptionHashes": [
+          "252507c0e918bde21b315594558e43090c41870ec226f79a47ae52bef177854d"
+        ],
+        "correctOptionTexts": [
+          "ماگزیلای طبیعی، مندیبل عقب‌رفته و کلاس II اسکلتی"
+        ],
+        "explanation": "SNA در محدوده نُرم است و SNB پایین، پس مقصر مندیبل است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "SNA در محدوده نُرم است و SNB پایین، پس مقصر مندیبل است."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ماگزیلای جلوآمده با مندیبل طبیعی و رابطه‌ی اسکلتی کلاس II",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "رابطه‌ی اسکلتی کلاس III با مندیبل جلوآمده و ماگزیلای طبیعی",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ماگزیلای طبیعی، مندیبل عقب‌رفته و کلاس II اسکلتی",
+            "isCorrect": true
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "رابطه کاملاً طبیعی",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-16T22:52:25.387Z"
+      }
+    },
+    {
+      "id": "question:6614",
+      "position": 5,
+      "kind": "question",
+      "sourceQuestionId": "6614",
+      "sourceStepId": null,
+      "sourceProgress": "width: 44.4444%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: آنالیز Steiner",
+      "prompt": "موقعیت نقطه نازیون می‌تواند بر مقدار ANB اثر بگذارد حتی اگر روابط واقعی فکی تغییر نکرده باشد.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "موقعیت نقطه نازیون می‌تواند بر مقدار ANB اثر بگذارد حتی اگر روابط واقعی فکی تغییر نکرده باشد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "true"
+        ],
+        "correctOptionHashes": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "correctOptionTexts": [
+          "صحیح"
+        ],
+        "explanation": "این یکی از محدودیت‌های ذاتی ANB است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این یکی از محدودیت‌های ذاتی ANB است."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": true
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-16T22:52:29.346Z"
+      }
+    },
+    {
+      "id": "question:6616",
+      "position": 6,
+      "kind": "question",
+      "sourceQuestionId": "6616",
+      "sourceStepId": null,
+      "sourceProgress": "width: 50%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: آنالیز Steiner",
+      "prompt": "زاویه انسیزور پایین نسبت به خط NB در آنالیز Steiner، نُرم تقریبی چه مقدار دارد؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "زاویه انسیزور پایین نسبت به خط NB در آنالیز Steiner، نُرم تقریبی چه مقدار دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۵۰ درجه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۱۰ درجه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۲۵ درجه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۹۰ درجه"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "حدود ۵۰ درجه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۵۰ درجه"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "حدود ۱۰ درجه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۱۰ درجه"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "حدود ۲۵ درجه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۲۵ درجه"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "حدود ۹۰ درجه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۹۰ درجه"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "2"
+        ],
+        "correctOptionHashes": [
+          "6162b27458c9e3afe90b900f0b0e5ac2359e134392c2f0826c6d3d8ab6bb7d8e"
+        ],
+        "correctOptionTexts": [
+          "حدود ۲۵ درجه"
+        ],
+        "explanation": "حدود ۲۵ درجه، همراه با فاصله حدود ۴ میلی‌متر.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "حدود ۲۵ درجه، همراه با فاصله حدود ۴ میلی‌متر."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "حدود ۵۰ درجه",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "حدود ۱۰ درجه",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "حدود ۲۵ درجه",
+            "isCorrect": true
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "حدود ۹۰ درجه",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-16T22:52:08.086Z"
+      }
+    },
+    {
+      "id": "question:6620",
+      "position": 7,
+      "kind": "question",
+      "sourceQuestionId": "6620",
+      "sourceStepId": null,
+      "sourceProgress": "width: 60%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: آنالیز Steiner",
+      "prompt": "کاهش زاویه پلن مندیبولار با الگوی رشد عمودی و تمایل به اپن‌بایت قدامی همراه است.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کاهش زاویه پلن مندیبولار با الگوی رشد عمودی و تمایل به اپن‌بایت قدامی همراه است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "false"
+        ],
+        "correctOptionHashes": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "correctOptionTexts": [
+          "غلط"
+        ],
+        "explanation": "برعکس است: زاویه‌ی بالای پلن مندیبولار با الگوی عمودی، چرخش خلفی مندیبل و تمایل به اپن‌بایت همراه است؛ زاویه‌ی پایین با الگوی افقی و تمایل به دیپ‌بایت.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "برعکس است: زاویه‌ی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بالای"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " پلن مندیبولار با الگوی عمودی، چرخش خلفی مندیبل و تمایل به اپن‌بایت همراه است؛ زاویه‌ی پایین با الگوی افقی و تمایل به دیپ‌بایت."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": false
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-16T22:52:32.795Z"
+      }
+    },
+    {
+      "id": "question:6624",
+      "position": 8,
+      "kind": "question",
+      "sourceQuestionId": "6624",
+      "sourceStepId": null,
+      "sourceProgress": "width: 63.6364%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: آنالیز Steiner",
+      "prompt": "بیماری دارای SNA برابر ۸۸، SNB برابر ۸۴ و ANB برابر ۴ درجه است. کدام تفسیر دقیق‌تر است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری دارای SNA برابر ۸۸، SNB برابر ۸۴ و ANB برابر ۴ درجه است. کدام تفسیر دقیق‌تر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو فک عقب‌رفته‌اند و قاعده‌ی جمجمه‌ی بیمار از متوسط بلندتر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو فک جلوآمده‌اند ولی رابطه‌ی بین‌فکی تقریباً طبیعی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رابطه‌ی کلاس III شدید با مندیبل جلوآمده و ماگزیلای کاملاً طبیعی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اطلاعات برای تفسیر کافی نیست و باید سفالوگرام دوباره گرفته شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "هر دو فک عقب‌رفته‌اند و قاعده‌ی جمجمه‌ی بیمار از متوسط بلندتر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو فک عقب‌رفته‌اند و قاعده‌ی جمجمه‌ی بیمار از متوسط بلندتر است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "هر دو فک جلوآمده‌اند ولی رابطه‌ی بین‌فکی تقریباً طبیعی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو فک جلوآمده‌اند ولی رابطه‌ی بین‌فکی تقریباً طبیعی است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "رابطه‌ی کلاس III شدید با مندیبل جلوآمده و ماگزیلای کاملاً طبیعی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رابطه‌ی کلاس III شدید با مندیبل جلوآمده و ماگزیلای کاملاً طبیعی"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "اطلاعات برای تفسیر کافی نیست و باید سفالوگرام دوباره گرفته شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اطلاعات برای تفسیر کافی نیست و باید سفالوگرام دوباره گرفته شود"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "1"
+        ],
+        "correctOptionHashes": [
+          "55cc5e3c69d29f458037deefa0c66d9507331bf4055177ff355881d8d4b2bec9"
+        ],
+        "correctOptionTexts": [
+          "هر دو فک جلوآمده‌اند ولی رابطه‌ی بین‌فکی تقریباً طبیعی است"
+        ],
+        "explanation": "هر دو فک جلوآمده‌اند ولی تفاضلشان نزدیک نُرم است؛ این بایماکسیلاری پروتروژن را فقط با خواندن هر سه عدد کنار هم می‌بینی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هر دو فک جلوآمده‌اند ولی تفاضلشان نزدیک نُرم است؛ این بایماکسیلاری پروتروژن را فقط با خواندن هر سه عدد کنار هم می‌بینی."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "هر دو فک عقب‌رفته‌اند و قاعده‌ی جمجمه‌ی بیمار از متوسط بلندتر است",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "هر دو فک جلوآمده‌اند ولی رابطه‌ی بین‌فکی تقریباً طبیعی است",
+            "isCorrect": true
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "رابطه‌ی کلاس III شدید با مندیبل جلوآمده و ماگزیلای کاملاً طبیعی",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "اطلاعات برای تفسیر کافی نیست و باید سفالوگرام دوباره گرفته شود",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-16T22:52:36.141Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:1062078bdfbeac5857df41db4b432b71fe59f8f18598e3d4be204ffcb8f5e143",
+      "at": "2026-11-16T22:51:46.374Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:b4f747879ba000d4598eb7ee17a197070d557b424467004372c1e97e5144d310",
+      "at": "2026-11-16T22:51:47.969Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:ff3dddc38e6dcf71911665426f679e82124bbab5c83d4c80ec6e552592e33ec3",
+      "at": "2026-11-16T22:51:49.561Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:6612",
+      "at": "2026-11-16T22:51:51.178Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:6614",
+      "at": "2026-11-16T22:51:59.059Z",
+      "progress": "width: 44.4444%;"
+    },
+    {
+      "stepId": "question:6616",
+      "at": "2026-11-16T22:52:04.263Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:6620",
+      "at": "2026-11-16T22:52:09.699Z",
+      "progress": "width: 60%;"
+    },
+    {
+      "stepId": "question:6624",
+      "at": "2026-11-16T22:52:18.139Z",
+      "progress": "width: 63.6364%;"
+    },
+    {
+      "stepId": "question:6612",
+      "at": "2026-11-16T22:52:23.513Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:6614",
+      "at": "2026-11-16T22:52:26.972Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:6620",
+      "at": "2026-11-16T22:52:30.916Z",
+      "progress": "width: 83.3333%;"
+    },
+    {
+      "stepId": "question:6624",
+      "at": "2026-11-16T22:52:34.406Z",
+      "progress": "width: 91.6667%;"
+    }
+  ],
+  "warnings": [],
+  "theoryPageCount": 3,
+  "questionCount": 5,
+  "completion": {
+    "heading": "تبریک به تو…!",
+    "at": "2026-11-16T22:52:38.021Z"
+  },
+  "validation": {
+    "issues": [],
+    "countsVerified": false,
+    "sourceFinished": true
+  }
+}

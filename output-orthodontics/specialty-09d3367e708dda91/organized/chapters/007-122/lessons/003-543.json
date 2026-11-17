@@ -1,0 +1,1539 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/543/lesson.json",
+  "id": "543",
+  "title": "درس سوم: پیش‌بینی فضا: Moyers و Tanaka-Johnston",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "122",
+    "title": "یونیت 2.3: آنالیز مدل و فضا",
+    "position": 7
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:80b7408aecb48ec1df32a2d4850215cc4d64bd41a86b2b6e871c914ce357c299",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "6cc0e3ce8d13596a5a45324533295c075cdea3b48ca83cee61b93893f35ed6de",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مسئله دوره مختلط"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در دوره‌ی مختلط، کانین و پرمولرها هنوز نروییده‌اند. پس چطور آنالیز فضا کنیم؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "باید عرض این دندان‌های "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نروییده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را پیش‌بینی کنیم. سه راه داریم:"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌گیری از "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رادیوگرافی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — دقیق، اما وابسته به کیفیت تصویر و بزرگ‌نمایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جدول‌های "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پیش‌بینی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " مویرز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "معادله‌های "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رگرسیونی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تاناکا-جانستون"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا این کار ارزش دارد؟ چون تصمیم‌های مهم دوره‌ی مختلط — حفظ فضای لی‌وی، کشیدن سریالی، یا صرفاً پایش — همه به همین برآورد وابسته‌اند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یک نکته درباره‌ی روش رادیوگرافیک: در پانورامیک، بزرگ‌نمایی در نواحی مختلف یکسان نیست. اگر از رادیوگرافی اندازه می‌گیری، از "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پری‌اپیکال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " استفاده کن و ضریب تصحیح را با یک ساختار با اندازه‌ی معلوم به دست بیاور."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:a7fb0840978904d4f3ffb9369dd914ac91dbdc8e02f430f6b5ae70613a2eb1bb",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "26b481f5828649d0977b78f56e22f99cb4e30dac11e7f7d2292d0f45975561fb",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "روش Moyers"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پایه‌ی کار: مجموع عرض "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چهار انسیزور پایین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اندازه‌گیری می‌شود، سپس از جدول احتمالاتی، عرض کانین و پرمولرها خوانده می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انسیزورهای پایین انتخاب شده‌اند چون زود رویش می‌کنند و به‌راحتی قابل اندازه‌گیری‌اند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جدول در سطوح احتمال مختلف ارائه می‌شود؛ معمولاً سطح "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۷۵٪"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " استفاده می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برای هر دو قوس قابل استفاده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا سطح ۷۵٪ و نه ۵۰٪؟ چون خطای برآورد در دو جهت پیامد یکسانی ندارد. اگر فضا را "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیشتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از واقع برآورد کنی و بعد کم بیاوری، طرح درمان باید عوض شود — که پرهزینه است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سطح ۷۵٪ عمداً کمی محافظه‌کارانه است و همین، خطای پرهزینه‌تر را کم می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نکته‌ی اجرایی: انسیزورها را با کولیس دقیق و در بیشترین عرض مزیودیستالی بسنج — خطای نیم میلی‌متری در این چهار دندان، در خروجی چند برابر می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:a08fc219f76523195bd8d4023f726c53c1cb5ce0e1f371738f6bd191cb68f24a",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "7bfdac9f2ea2c2ad2011ecfaf78e9558152efe7996fbc9535a5b8e57f327aa86",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "روش Tanaka-Johnston: بدون جدول"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ساده‌ترین روش — فقط یک محاسبه‌ی ذهنی:"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "قوس"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فرمول"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "پایین"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نصف مجموع عرض ۴ انسیزور پایین "
+                            },
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+ ۱۰٫۵"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " میلی‌متر = عرض کانین و پرمولرهای یک سمت"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "بالا"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نصف همان مجموع "
+                            },
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "+ ۱۱٫۰"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " میلی‌متر"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 مزیت: بدون جدول، بدون رادیوگرافی، قابل انجام کنار صندلی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ محدودیت مشترک هر دو روش: بر جمعیت‌های خاصی بنا شده‌اند و ممکن است در سایر قومیت‌ها دقت کمتری داشته باشند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "راه عملی برای مدیریت این محدودیت: نتیجه را به‌عنوان یک "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بازه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در نظر بگیر نه یک عدد قطعی، و در کیس‌های مرزی که تصمیم کشیدن یا نکشیدن به یکی دو میلی‌متر بستگی دارد، به روش رادیوگرافیک یا پایش بیشتر تکیه کن."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و در هر حال، پیش از تصمیم برگشت‌ناپذیر، برآورد را با رویش واقعی دندان‌ها بازبینی کن."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:6498",
+      "sourceId": "6498",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "68ae68ae6ee385bcda392a24ae6e8fc8634e087289d8e0ba483a47244a77cdfa",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کودک ۹ ساله‌ای در دوره مختلط با کراودینگ خفیف قدامی مراجعه کرده است. مناسب‌ترین گام برای تصمیم‌گیری درباره نیاز به مدیریت فضا کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کودک ۹ ساله‌ای در دوره مختلط با کراودینگ خفیف قدامی مراجعه کرده است. مناسب‌ترین گام برای تصمیم‌گیری درباره نیاز به مدیریت فضا کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتظار تا رویش کامل دندان‌های دائمی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آنالیز فضای دوره‌ی مختلط با روش پیش‌بینی برای برآورد کمبود آینده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن فوری کانین‌های شیری تا انسیزورهای دائمی خودبه‌خود ردیف شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شروع درمان ثابت کامل"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "086e953fbc957524df1a19faddc967a1d99ea018b04bee7f331a7af5ce873a93",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "انتظار تا رویش کامل دندان‌های دائمی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انتظار تا رویش کامل دندان‌های دائمی"
+            }
+          ]
+        },
+        {
+          "id": "56fd1ec4d4d72794aca5badf1cb65cd9dc30ff5dfa41c45292315ef692c80c2c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "آنالیز فضای دوره‌ی مختلط با روش پیش‌بینی برای برآورد کمبود آینده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آنالیز فضای دوره‌ی مختلط با روش پیش‌بینی برای برآورد کمبود آینده"
+            }
+          ]
+        },
+        {
+          "id": "a805190c7e28ff0ac4df713b1afddc65095a4b491f484814cd5edcc4f2514d9a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کشیدن فوری کانین‌های شیری تا انسیزورهای دائمی خودبه‌خود ردیف شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن فوری کانین‌های شیری تا انسیزورهای دائمی خودبه‌خود ردیف شوند"
+            }
+          ]
+        },
+        {
+          "id": "5e68369c72f0701b3e33d8962947b647eab3ef9620f8db0003768edb25a11d2a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "شروع درمان ثابت کامل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شروع درمان ثابت کامل"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "56fd1ec4d4d72794aca5badf1cb65cd9dc30ff5dfa41c45292315ef692c80c2c"
+        ],
+        "explanation": "پیش‌بینی به تو می‌گوید آیا باید فضای لی‌وی را حفظ کنی یا برنامه‌ی دیگری لازم است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پیش‌بینی به تو می‌گوید آیا باید فضای لی‌وی را حفظ کنی یا برنامه‌ی دیگری لازم است."
+          }
+        ],
+        "observedAt": "2026-11-16T22:46:06.265Z"
+      }
+    },
+    {
+      "id": "question:6501",
+      "sourceId": "6501",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "3aa19fb27fe2a15a62055d7bcaf927b16e5a10bdc25fe2e7293f770a0650fed5",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مزیت اصلی روش Moyers نسبت به اندازه‌گیری رادیوگرافیک دندان‌های نروییده چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مزیت اصلی روش Moyers نسبت به اندازه‌گیری رادیوگرافیک دندان‌های نروییده چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقت بسیار بالاتر، چون خطای بزرگ‌نمایی رادیوگرافی را ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعیین دقیق زمان رویش کانین و پرمولرها از روی عرض انسیزورها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بی‌نیازی از پرتوگیری و امکان انجام سریع کنار صندلی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "امکان استفاده در بزرگسالانی که دندان‌هایشان کامل رویش کرده"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b2887489624b6684a47328e8c95895f344d7b7f2d0f5c988786006ec61aefe1b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دقت بسیار بالاتر، چون خطای بزرگ‌نمایی رادیوگرافی را ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دقت بسیار بالاتر، چون خطای بزرگ‌نمایی رادیوگرافی را ندارد"
+            }
+          ]
+        },
+        {
+          "id": "004056d7df1af98e2e3436964c9859cb2486abb557765c48084870e0905b5212",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تعیین دقیق زمان رویش کانین و پرمولرها از روی عرض انسیزورها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تعیین دقیق زمان رویش کانین و پرمولرها از روی عرض انسیزورها"
+            }
+          ]
+        },
+        {
+          "id": "ca6e5e711b52da0f872fc358a4881c2d6b94a1ea641bead3a0f40d7995131ea2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "بی‌نیازی از پرتوگیری و امکان انجام سریع کنار صندلی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بی‌نیازی از پرتوگیری و امکان انجام سریع کنار صندلی"
+            }
+          ]
+        },
+        {
+          "id": "36f1e36657079b672874e68cfefadbaf67e2c3663adb29cd4a7a386c13866653",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "امکان استفاده در بزرگسالانی که دندان‌هایشان کامل رویش کرده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "امکان استفاده در بزرگسالانی که دندان‌هایشان کامل رویش کرده"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ca6e5e711b52da0f872fc358a4881c2d6b94a1ea641bead3a0f40d7995131ea2"
+        ],
+        "explanation": "سادگی و نبود پرتوگیری، مزیت اصلی روش‌های جدولی است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "سادگی و نبود پرتوگیری، مزیت اصلی روش‌های جدولی است."
+          }
+        ],
+        "observedAt": "2026-11-16T22:46:31.262Z"
+      }
+    },
+    {
+      "id": "question:6504",
+      "sourceId": "6504",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 55.5556%;",
+      "contentKey": "de05515b2681cd798903de6a07f8b86bf295336b7ae32ea212cbbeb10657a559",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مجموع عرض چهار انسیزور پایین بیماری ۲۳ میلی‌متر است. بر اساس Tanaka-Johnston، عرض برآوردی کانین و پرمولرهای یک سمت قوس پایین تقریباً چقدر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مجموع عرض چهار انسیزور پایین بیماری ۲۳ میلی‌متر است. بر اساس Tanaka-Johnston، عرض برآوردی کانین و پرمولرهای یک سمت قوس پایین تقریباً چقدر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۱۱٫۵ میلی‌متر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۲۲ میلی‌متر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۳۳٫۵ میلی‌متر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۴۶ میلی‌متر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "6a10e72e05f8324613a1d4e0f7b506f9bcdcaeed41db61f0348d5c8defcf12ca",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حدود ۱۱٫۵ میلی‌متر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۱۱٫۵ میلی‌متر"
+            }
+          ]
+        },
+        {
+          "id": "26b6906b1b0741a5541872c1b126e6ba20121cc3110013a4a223430778b3b109",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "حدود ۲۲ میلی‌متر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۲۲ میلی‌متر"
+            }
+          ]
+        },
+        {
+          "id": "3788e51a0380f6f483f215583705b3cce81c97c5049538e02aefa91812c571dc",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "حدود ۳۳٫۵ میلی‌متر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۳۳٫۵ میلی‌متر"
+            }
+          ]
+        },
+        {
+          "id": "22f269a58b03de73de194dadcbe09957ccdcc1cc0ef61dead3d8ed2fd80e970d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "حدود ۴۶ میلی‌متر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۴۶ میلی‌متر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "26b6906b1b0741a5541872c1b126e6ba20121cc3110013a4a223430778b3b109"
+        ],
+        "explanation": "نصف ۲۳ می‌شود ۱۱٫۵ و با افزودن ۱۰٫۵ به حدود ۲۲ میلی‌متر می‌رسیم.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نصف ۲۳ می‌شود ۱۱٫۵ و با افزودن ۱۰٫۵ به حدود ۲۲ میلی‌متر می‌رسیم."
+          }
+        ],
+        "observedAt": "2026-11-16T22:46:34.750Z"
+      }
+    },
+    {
+      "id": "question:6506",
+      "sourceId": "6506",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 60%;",
+      "contentKey": "0b4e179d5b131dfd5bd7c0283127520a2eb8caabfc1ca4aa398fe36120132e00",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در کیس‌های مرزی، ترکیب روش پیش‌بینی با اندازه‌گیری رادیوگرافیک، تصمیم‌گیری را مطمئن‌تر می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در کیس‌های مرزی، ترکیب روش پیش‌بینی با اندازه‌گیری رادیوگرافیک، تصمیم‌گیری را مطمئن‌تر می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "وقتی تصمیم بین کشیدن و نکشیدن مرزی است، دقت بیشتری لازم است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "وقتی تصمیم بین کشیدن و نکشیدن مرزی است، دقت بیشتری لازم است."
+          }
+        ],
+        "observedAt": "2026-11-16T22:46:22.509Z"
+      }
+    },
+    {
+      "id": "question:6508",
+      "sourceId": "6508",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 70%;",
+      "contentKey": "89206f5508a6f25aac0fa68aeef54e1a551fb667bfa98d425392b5ef9762d40a",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در آنالیز فضای دوره مختلط، فضای لی‌وی چه نقشی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در آنالیز فضای دوره مختلط، فضای لی‌وی چه نقشی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ نقشی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به فضای مورد نیاز اضافه می‌شود، چون پرمولرها از مولرهای شیری پهن‌ترند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جزو اقلام تأمین فضاست و می‌تواند بخشی از کمبود را جبران کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کراودینگ را بیشتر می‌کند، چون با افتادن مولر شیری، مولر اول مزیالی جابه‌جا می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4d7d8b79a7b78f3bd7eb59c53775c197754e57ebcc051891ac81a0fa22f27579",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هیچ نقشی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ نقشی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "373a4414a01c9981f1dd81972a4ff2ded249dae5304ee34fa973c5343d305612",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "به فضای مورد نیاز اضافه می‌شود، چون پرمولرها از مولرهای شیری پهن‌ترند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به فضای مورد نیاز اضافه می‌شود، چون پرمولرها از مولرهای شیری پهن‌ترند"
+            }
+          ]
+        },
+        {
+          "id": "8bc278c2df4e58c0cf6e9f56837a0b7bfe23b8c79523e18d212c0a23de70c1a2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "جزو اقلام تأمین فضاست و می‌تواند بخشی از کمبود را جبران کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جزو اقلام تأمین فضاست و می‌تواند بخشی از کمبود را جبران کند"
+            }
+          ]
+        },
+        {
+          "id": "6bdf6aac8474ecc15172feacd61fbf7e93976e5ff02656a0089df66d945c062a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کراودینگ را بیشتر می‌کند، چون با افتادن مولر شیری، مولر اول مزیالی جابه‌جا می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کراودینگ را بیشتر می‌کند، چون با افتادن مولر شیری، مولر اول مزیالی جابه‌جا می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8bc278c2df4e58c0cf6e9f56837a0b7bfe23b8c79523e18d212c0a23de70c1a2"
+        ],
+        "explanation": "فضای لی‌وی یک راه واقعی تأمین فضاست که باید در معادله دیده شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "فضای لی‌وی یک راه واقعی تأمین فضاست که باید در معادله دیده شود."
+          }
+        ],
+        "observedAt": "2026-11-16T22:46:38.205Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:80b7408aecb48ec1df32a2d4850215cc4d64bd41a86b2b6e871c914ce357c299",
+      "at": "2026-11-16T22:45:55.049Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:a7fb0840978904d4f3ffb9369dd914ac91dbdc8e02f430f6b5ae70613a2eb1bb",
+      "at": "2026-11-16T22:45:56.617Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:a08fc219f76523195bd8d4023f726c53c1cb5ce0e1f371738f6bd191cb68f24a",
+      "at": "2026-11-16T22:45:58.215Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:6498",
+      "at": "2026-11-16T22:45:59.789Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:6501",
+      "at": "2026-11-16T22:46:07.870Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:6504",
+      "at": "2026-11-16T22:46:13.380Z",
+      "progress": "width: 55.5556%;"
+    },
+    {
+      "stepId": "question:6506",
+      "at": "2026-11-16T22:46:18.712Z",
+      "progress": "width: 60%;"
+    },
+    {
+      "stepId": "question:6508",
+      "at": "2026-11-16T22:46:24.076Z",
+      "progress": "width: 70%;"
+    },
+    {
+      "stepId": "question:6501",
+      "at": "2026-11-16T22:46:29.354Z",
+      "progress": "width: 72.7273%;"
+    },
+    {
+      "stepId": "question:6504",
+      "at": "2026-11-16T22:46:32.860Z",
+      "progress": "width: 81.8182%;"
+    },
+    {
+      "stepId": "question:6508",
+      "at": "2026-11-16T22:46:36.325Z",
+      "progress": "width: 90.9091%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

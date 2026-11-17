@@ -1,0 +1,977 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "question:8814",
+      "position": 4,
+      "kind": "question",
+      "sourceQuestionId": "8814",
+      "sourceStepId": null,
+      "sourceProgress": "width: 37.5%;",
+      "questionType": "single-choice",
+      "title": "درس ۱: زمان‌بندی و انتخاب بیمار در کلاس II",
+      "prompt": "در بیمار با SNA طبیعی و SNB کاهش‌یافته، کدام راهبرد ارتوپدیک منطقی‌تر است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیمار با SNA طبیعی و SNB کاهش‌یافته، کدام راهبرد ارتوپدیک منطقی‌تر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دستگاه فانکشنال برای جلو آوردن مندیبل"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هدگیر گردنی برای مهار رشد رو به جلوی ماگزیلا"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چین‌کاپ برای مهار رشد مندیبل و هدایت عمودی آن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماسک صورتی برای پروتراکشن ماگزیلا از سوچورها"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "دستگاه فانکشنال برای جلو آوردن مندیبل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دستگاه فانکشنال برای جلو آوردن مندیبل"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "هدگیر گردنی برای مهار رشد رو به جلوی ماگزیلا",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هدگیر گردنی برای مهار رشد رو به جلوی ماگزیلا"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "چین‌کاپ برای مهار رشد مندیبل و هدایت عمودی آن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چین‌کاپ برای مهار رشد مندیبل و هدایت عمودی آن"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "ماسک صورتی برای پروتراکشن ماگزیلا از سوچورها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ماسک صورتی برای پروتراکشن ماگزیلا از سوچورها"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "0"
+        ],
+        "correctOptionHashes": [
+          "b281fa1647dacbd30a61320247ddf571d8146aa63380703c1da56c733cd195af"
+        ],
+        "correctOptionTexts": [
+          "دستگاه فانکشنال برای جلو آوردن مندیبل"
+        ],
+        "explanation": "SNA طبیعی یعنی ماگزیلا سر جای خودش است و مشکل در مندیبل است؛ پس دستگاه فانکشنال.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "SNA طبیعی یعنی ماگزیلا سر جای خودش است و مشکل در مندیبل است؛ پس دستگاه فانکشنال."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "دستگاه فانکشنال برای جلو آوردن مندیبل",
+            "isCorrect": true
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "هدگیر گردنی برای مهار رشد رو به جلوی ماگزیلا",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "چین‌کاپ برای مهار رشد مندیبل و هدایت عمودی آن",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ماسک صورتی برای پروتراکشن ماگزیلا از سوچورها",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T00:07:36.546Z"
+      }
+    },
+    {
+      "id": "question:8816",
+      "position": 5,
+      "kind": "question",
+      "sourceQuestionId": "8816",
+      "sourceStepId": null,
+      "sourceProgress": "width: 44.4444%;",
+      "questionType": "letter-order",
+      "jumble": {
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ن"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ی"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "د"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ر"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "گ"
+          }
+        ],
+        "slotCount": 5,
+        "slotTexts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "correctSlots": false,
+        "correctWord": ""
+      },
+      "title": "درس ۱: زمان‌بندی و انتخاب بیمار در کلاس II",
+      "prompt": "روش CVM بلوغ اسکلتی را از روی شکل مهره‌های ......... در سفالومتری جانبی ارزیابی می‌کند.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "روش CVM بلوغ اسکلتی را از روی شکل مهره‌های ......... در سفالومتری جانبی ارزیابی می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "د"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "status": "observed-text",
+        "correctText": "گردنی",
+        "textEvidence": {
+          "submittedText": "گردنی",
+          "sourceRevealedWord": "",
+          "slotsMarkedCorrect": true,
+          "feedbackClass": "feedback show ok"
+        },
+        "correctOptionHashes": [],
+        "correctOptionKeys": [],
+        "correctOptionTexts": [],
+        "explanation": "CVM یعنی بلوغ مهره‌های گردنی و روی همان سفالومتری جانبی خوانده می‌شود که به هر حال داری.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "CVM یعنی بلوغ مهره‌های گردنی و روی همان سفالومتری جانبی خوانده می‌شود که به هر حال داری."
+          }
+        ],
+        "options": [],
+        "observedAt": "2026-11-17T00:07:16.594Z"
+      }
+    },
+    {
+      "id": "question:8819",
+      "position": 6,
+      "kind": "question",
+      "sourceQuestionId": "8819",
+      "sourceStepId": null,
+      "sourceProgress": "width: 55.5556%;",
+      "questionType": "single-choice",
+      "title": "درس ۱: زمان‌بندی و انتخاب بیمار در کلاس II",
+      "prompt": "اورجت شدید با خطر تروما به ثنایاهای بالا، یک اندیکاسیون روشن برای فاز اول زودهنگام است.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اورجت شدید با خطر تروما به ثنایاهای بالا، یک اندیکاسیون روشن برای فاز اول زودهنگام است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "true"
+        ],
+        "correctOptionHashes": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "correctOptionTexts": [
+          "صحیح"
+        ],
+        "explanation": "پیشگیری از شکستگی ثنایا هدفی قابل دفاع است؛ در کارآزمایی‌ها هم کودکانی که زود درمان شدند ترومای کمتری داشتند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پیشگیری از شکستگی ثنایا هدفی قابل دفاع است؛ در کارآزمایی‌ها هم کودکانی که زود درمان شدند ترومای کمتری داشتند."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": true
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T00:07:22.410Z"
+      }
+    },
+    {
+      "id": "question:8822",
+      "position": 7,
+      "kind": "question",
+      "sourceQuestionId": "8822",
+      "sourceStepId": null,
+      "sourceProgress": "width: 66.6667%;",
+      "questionType": "single-choice",
+      "title": "درس ۱: زمان‌بندی و انتخاب بیمار در کلاس II",
+      "prompt": "درمان ارتوپدیک در بیماری که رشد او پایان یافته، اثر اسکلتی معناداری ندارد.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "درمان ارتوپدیک در بیماری که رشد او پایان یافته، اثر اسکلتی معناداری ندارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "true"
+        ],
+        "correctOptionHashes": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "correctOptionTexts": [
+          "صحیح"
+        ],
+        "explanation": "پس از پایان رشد، گزینه‌ها کاموفلاژ یا جراحی‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پس از پایان رشد، گزینه‌ها کاموفلاژ یا جراحی‌اند."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": true
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-17T00:07:40.077Z"
+      }
+    },
+    {
+      "id": "question:8824",
+      "position": 8,
+      "kind": "question",
+      "sourceQuestionId": "8824",
+      "sourceStepId": null,
+      "sourceProgress": "width: 70%;",
+      "questionType": "single-choice",
+      "title": "درس ۱: زمان‌بندی و انتخاب بیمار در کلاس II",
+      "prompt": "کدام مجموعه ارزیابی پیش از تصمیم درباره درمان ارتوپدیک کلاس II ضروری است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه ارزیابی پیش از تصمیم درباره درمان ارتوپدیک کلاس II ضروری است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اورجت، رابطه‌ی مولر، شدت کراودینگ و الگوی رویش دندان‌ها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رابطه‌ی مولر، اورجت و اوربایت، سن تقویمی و انگیزه‌ی والدین برای شروع درمان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سن تقویمی و قد فعلی بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محل اختلاف اسکلتی، سن اسکلتی، الگوی عمودی صورت و وضعیت همکاری"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "اورجت، رابطه‌ی مولر، شدت کراودینگ و الگوی رویش دندان‌ها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اورجت، رابطه‌ی مولر، شدت کراودینگ و الگوی رویش دندان‌ها"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "رابطه‌ی مولر، اورجت و اوربایت، سن تقویمی و انگیزه‌ی والدین برای شروع درمان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رابطه‌ی مولر، اورجت و اوربایت، سن تقویمی و انگیزه‌ی والدین برای شروع درمان"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "سن تقویمی و قد فعلی بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سن تقویمی و قد فعلی بیمار"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "محل اختلاف اسکلتی، سن اسکلتی، الگوی عمودی صورت و وضعیت همکاری",
+          "content": [
+            {
+              "tag": "text",
+              "text": "محل اختلاف اسکلتی، سن اسکلتی، الگوی عمودی صورت و وضعیت همکاری"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "3"
+        ],
+        "correctOptionHashes": [
+          "f356258b74fd10e8eb9e480e732cc1b63cf0f1f4e136209aa8ec255f107fb1d6"
+        ],
+        "correctOptionTexts": [
+          "محل اختلاف اسکلتی، سن اسکلتی، الگوی عمودی صورت و وضعیت همکاری"
+        ],
+        "explanation": "آفرین. هر یک از این چهار می‌تواند یک گزینه را حذف یا تأیید کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. هر یک از این چهار می‌تواند یک گزینه را حذف یا تأیید کند."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "اورجت، رابطه‌ی مولر، شدت کراودینگ و الگوی رویش دندان‌ها",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "رابطه‌ی مولر، اورجت و اوربایت، سن تقویمی و انگیزه‌ی والدین برای شروع درمان",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "سن تقویمی و قد فعلی بیمار",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "محل اختلاف اسکلتی، سن اسکلتی، الگوی عمودی صورت و وضعیت همکاری",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-17T00:07:33.056Z"
+      }
+    }
+  ]
+}

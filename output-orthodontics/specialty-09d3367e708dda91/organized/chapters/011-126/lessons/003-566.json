@@ -1,0 +1,1892 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/566/lesson.json",
+  "id": "566",
+  "title": "درس سوم: قانون سوم نیوتون و تعادل سیستم نیرویی",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "126",
+    "title": "یونیت 3.2: اصول بیومکانیک",
+    "position": 11
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:4582de662160836df904c6081c7f4b61d43995bc4e1a8e575e53263bd68e4317",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "e63cf1b5c5fe2516b80c65602be451b1f834b6f10944b488ba17d1bf90a6ffed",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قانونی که هیچ‌کس نمی‌تواند دور بزند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هر نیرویی که به یک دندان وارد می‌کنی، "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی مساوی و مخالف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به جای دیگری وارد می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یعنی در ارتودنسی هیچ حرکتی «رایگان» نیست:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "می‌خواهی کانین را عقب ببری ← مولر به جلو کشیده می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "می‌خواهی قدامی‌ها را اینترود کنی ← خلفی‌ها اکسترود می‌شوند و تاج مولر به دیستال تیپ می‌خورد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انکوریج"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یعنی مقاومت در برابر همین نیروی واکنشی؛ اگر واحد پشتیبان جابه‌جا شود و فضا را مصرف کند، می‌گوییم انکوریج از دست رفته است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و سه راهبرد کلی برای مدیریت آن وجود دارد که در یونیت انکوریج به آن‌ها می‌رسیم: "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توزیع"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نیروی واکنشی روی دندان‌های بیشتر، "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تقویت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " واحد پشتیبان با دستگاه‌های کمکی، یا "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حذف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آن با انتقال واکنش به استخوان."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "گزینه‌ی سوم — انکوریج اسکلتی مثل مینی‌اسکرو — قانون سوم را دور نمی‌زند؛ فقط واکنش را از دندان‌ها برمی‌دارد و به استخوان می‌دهد. برای همین تنها راهی است که دندان‌های پشتیبان را کاملاً از واکنش دور نگه می‌دارد؛ دو گزینه‌ی اول فقط اثر را رقیق می‌کنند."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 880 400",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "856",
+                        "y": "30"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انواع حرکت دندانی و نسبت M/F"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "#C25B5B",
+                            "x": "80",
+                            "y": "72"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تیپینگ کنترل‌نشده"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M52 96 v92 q0 44 16 74 q7 13 12 0 q16 -30 16 -74 v-92 z",
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M52 96 v92 q0 44 16 74 q7 13 12 0 q16 -30 16 -74 v-92 z",
+                            "fill": "none",
+                            "stroke": "#C25B5B",
+                            "stroke-width": "2"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "circle",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "cx": "80",
+                            "cy": "192",
+                            "r": "5"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "circle",
+                          "attributes": {
+                            "fill": "#C25B5B",
+                            "cx": "80",
+                            "cy": "224",
+                            "r": "6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "80",
+                            "y": "296"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "M/F ≈ صفر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "80",
+                            "y": "316"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تاج و ریشه در دو جهت"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "#D6A756",
+                            "x": "80",
+                            "y": "72"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تیپینگ کنترل‌شده"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M52 96 v92 q0 44 16 74 q7 13 12 0 q16 -30 16 -74 v-92 z",
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M52 96 v92 q0 44 16 74 q7 13 12 0 q16 -30 16 -74 v-92 z",
+                            "fill": "none",
+                            "stroke": "#D6A756",
+                            "stroke-width": "2"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "circle",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "cx": "80",
+                            "cy": "192",
+                            "r": "5"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "circle",
+                          "attributes": {
+                            "fill": "#D6A756",
+                            "cx": "80",
+                            "cy": "262",
+                            "r": "6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "80",
+                            "y": "296"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "M/F ≈ ۵ به ۱"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "80",
+                            "y": "316"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اپکس تقریباً ثابت"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "#2E9E6B",
+                            "x": "80",
+                            "y": "72"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حرکت بدنه‌ای"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M52 96 v92 q0 44 16 74 q7 13 12 0 q16 -30 16 -74 v-92 z",
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M52 96 v92 q0 44 16 74 q7 13 12 0 q16 -30 16 -74 v-92 z",
+                            "fill": "none",
+                            "stroke": "#2E9E6B",
+                            "stroke-width": "2"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "circle",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "cx": "80",
+                            "cy": "192",
+                            "r": "5"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "80",
+                            "y": "296"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "M/F ≈ ۱۰ به ۱"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "80",
+                            "y": "316"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تاج و ریشه به یک اندازه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "#7A8BD6",
+                            "x": "80",
+                            "y": "72"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تورک ریشه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M52 96 v92 q0 44 16 74 q7 13 12 0 q16 -30 16 -74 v-92 z",
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M52 96 v92 q0 44 16 74 q7 13 12 0 q16 -30 16 -74 v-92 z",
+                            "fill": "none",
+                            "stroke": "#7A8BD6",
+                            "stroke-width": "2"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "circle",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "cx": "80",
+                            "cy": "192",
+                            "r": "5"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "circle",
+                          "attributes": {
+                            "fill": "#7A8BD6",
+                            "cx": "80",
+                            "cy": "106",
+                            "r": "6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "80",
+                            "y": "296"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "M/F بیش از ۱۲ به ۱"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "80",
+                            "y": "316"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "لبه‌ی انسیزال تقریباً ثابت"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "440",
+                        "y": "356"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دایره‌ی کم‌رنگ = مرکز مقاومت، دایره‌ی پررنگ = مرکز چرخش"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "440",
+                        "y": "380"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "با افزایش نسبت M/F، مرکز چرخش از تاج به سمت اپکس و سپس فراتر از آن جابه‌جا می‌شود."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با افزایش نسبت M/F، مرکز چرخش از تاج به سمت اپکس و فراتر از آن جابه‌جا می‌شود."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:6af0d447d562d48d8ffb32df37f52e5595f469c6c574e749e2c0505643235b09",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "2de832d2bea35763fbdf06fde4ce90841a54ea3f687bd1e4cddc047ba46b2ccb",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کانتی‌لِوِر: ساده‌ترین سیستم قابل محاسبه"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کانتی‌لور سیمی است که یک سرش کاملاً در اسلات درگیر است و سر دیگرش تنها "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تماس نقطه‌ای"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارد."
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "سمت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "چه چیزی دریافت می‌کند"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "درگیر کامل"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نیرو به‌همراه ممان"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نقطه‌ای"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تنها نیرو"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 مزیت بزرگ: سیستم نیرویی آن دقیقاً "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قابل محاسبه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است — می‌دانی چه نیرویی به کدام دندان می‌رسد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا این اهمیت دارد؟ چون در سیستم‌های پیچیده‌ی چنددندانی، نیروها و ممان‌ها به‌قدری در هم می‌روند که پیش‌بینی دقیق عملاً ناممکن می‌شود. کانتی‌لور، مکانیک را به یک معادله‌ی روشن تقلیل می‌دهد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و همین است که در حرکات دشوار — مانند آپرایتینگ مولر یا اینتروژن موضعی — کانتی‌لور را به انتخاب مطمئن‌تری از مکانیک قوس‌محور تبدیل می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نمونه‌ی رایج دیگر، ترکشن کانین نهفته است: کشیدن مستقیم کانین از آرچ‌وایر اصلی، خود سیم را خم می‌کند و دندان‌های مجاور را اینترود می‌کند؛ کانتی‌لور جداگانه از واحد پشتیبانِ تثبیت‌شده، نیروی مشخصی می‌دهد و بقیه‌ی قوس را دست‌نخورده می‌گذارد. در مکانیک پیوسته، که همه‌ی دندان‌ها روی یک سیم‌اند، هر خم و هر نیرو به همه‌ی دندان‌های درگیر پخش می‌شود و پیش‌بینی دقیق ممکن نیست."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:6069eac2585004f26d9b8134d106f2d68668862290379e4aed8fe8ecbeb9c5fa",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "651cefbb7b6edd76f1178c26b4263112807ccc16d1c3d397fa975ceb0f23496c",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تعادل: مجموع نیروها و ممان‌ها صفر است"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در هر سیستم ارتودنتیک بسته:"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مجموع نیروها صفر، مجموع ممان‌ها صفر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یعنی اگر جایی نیرو یا ممان اضافه کردی، جای دیگری باید آن را جبران کند — چه بخواهی چه نخواهی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ خطای رایج: طراحی مکانیک بدون پرسیدن «نیروی واکنشی کجا می‌رود؟» — و نتیجه‌اش حرکات ناخواسته‌ای است که در ویزیت بعد غافلگیرت می‌کنند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "روش عملی برای پرهیز از این خطا: پیش از هر فعال‌سازی، سیستم را روی کاغذ بکش و هر نیرو را با "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جفت واکنشی‌اش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بنویس. اگر نتوانستی جفت را پیدا کنی، یعنی هنوز سیستم را نفهمیده‌ای."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و نکته‌ی مهم درباره‌ی ممان: ممان‌ها هم باید تراز شوند. سیستمی که نیروهایش متعادل است ولی ممان‌هایش نه، کل قوس را می‌چرخاند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یادت باشد ممان داخل براکت تنها وقتی ساخته می‌شود که سیم بتواند "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کوپل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بسازد. سیم مستطیلی اول باید "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لقی (play)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " میان خود و اسلات را طی کند و بچرخد تا با دیواره‌ها درگیر شود؛ هرچه سیم کوچک‌تر از اسلات، لقی بیشتر و تورک کمتر. سیم گرد، هرچقدر ضخیم، در اسلات می‌چرخد و هیچ کوپل تورکی نمی‌سازد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:7630",
+      "sourceId": "7630",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "2f925afead6b3b155ce373b1df761f4b20c8ee5bc0a1f976e8c7b5cda5e71e3b",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "هنگام رترکشن کانین با کشش از مولر، نیروی واکنش چه اثری دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هنگام رترکشن کانین با کشش از مولر، نیروی واکنش چه اثری دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مولر به سمت مزیال کشیده می‌شود و بخشی از فضا را مصرف می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ اثری ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کانین هنگام حرکت به دیستال اکسترود می‌شود و اوربایت قدامی بیشتر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مولر زیر نیروی واکنش اینترود می‌شود و ارتفاع خلفی دندانی کم می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "051b4e6737a63198805f5657db586ddec4a6f60b25253c65399eca2235603fce",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مولر به سمت مزیال کشیده می‌شود و بخشی از فضا را مصرف می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مولر به سمت مزیال کشیده می‌شود و بخشی از فضا را مصرف می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "ed9f9eaa0e61c34a3f6486c9fd47e37697455d6a9ec12c2e6e4082912c702774",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هیچ اثری ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ اثری ندارد"
+            }
+          ]
+        },
+        {
+          "id": "e95b1b4aa878ed716f7b6cd75e53e3ee50d52eea1ec4d248dfab6ad1ebc7b61e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کانین هنگام حرکت به دیستال اکسترود می‌شود و اوربایت قدامی بیشتر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کانین هنگام حرکت به دیستال اکسترود می‌شود و اوربایت قدامی بیشتر می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "4d7c0c4144ab46ca6e4785b02eb4316735dfb091ca8d2df1d29c49e810ff27f0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مولر زیر نیروی واکنش اینترود می‌شود و ارتفاع خلفی دندانی کم می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مولر زیر نیروی واکنش اینترود می‌شود و ارتفاع خلفی دندانی کم می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "051b4e6737a63198805f5657db586ddec4a6f60b25253c65399eca2235603fce"
+        ],
+        "explanation": "مولری که جلو می‌آید یعنی انکوریج از دست رفته است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مولری که جلو می‌آید یعنی انکوریج از دست رفته است."
+          }
+        ],
+        "observedAt": "2026-11-16T23:08:54.833Z"
+      }
+    },
+    {
+      "id": "question:7634",
+      "sourceId": "7634",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "6939af7cd5f31feb3c95182a121c820376ea74213741e0983b872f3381113ef2",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "سیستم یک‌کوپلی از نظر استاتیکی معین است و نیروهای آن با محاسبه ساده قابل تعیین‌اند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سیستم یک‌کوپلی از نظر استاتیکی معین است و نیروهای آن با محاسبه ساده قابل تعیین‌اند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "قابل محاسبه بودن، مزیت اصلی مکانیک سگمنتال است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "قابل محاسبه بودن، مزیت اصلی مکانیک سگمنتال است."
+          }
+        ],
+        "observedAt": "2026-11-16T23:09:00.099Z"
+      }
+    },
+    {
+      "id": "question:7637",
+      "sourceId": "7637",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "8b5154e7735e540297e2b27ef760ac4d9396bc8bdbc77d4ece97914897017f6f",
+      "position": 6,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "مقاومت دندان‌های پشتیبان در برابر نیروی واکنش، ......... نام دارد و مدیریت آن بخش اصلی طراحی مکانیک است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مقاومت دندان‌های پشتیبان در برابر نیروی واکنش، ......... نام دارد و مدیریت آن بخش اصلی طراحی مکانیک است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ج"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "انکوریج",
+        "explanation": "انکوریج یعنی مدیریت همان نیروی واکنش.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "انکوریج یعنی مدیریت همان نیروی واکنش."
+          }
+        ],
+        "observedAt": "2026-11-16T23:09:09.181Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 7,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ک"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ا"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ج"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ن"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "و"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "ر"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "ی"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:7640",
+      "sourceId": "7640",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "884041b630c7923b7be9dae6921a0a806f6c293d9a5ee0829af8772b350587dc",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "آنچه انتقال تورک را ممکن می‌کند آلیاژ سیم است نه ابعاد آن؛ سیم نیکل-تیتانیوم گرد هم تورک را به دندان منتقل می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آنچه انتقال تورک را ممکن می‌کند آلیاژ سیم است نه ابعاد آن؛ سیم نیکل-تیتانیوم گرد هم تورک را به دندان منتقل می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "نادرست است؛ تورک از یک کوپل می‌آید و کوپل تنها وقتی شکل می‌گیرد که مقطع مستطیلی سیم با دیواره‌های اسلات درگیر شود؛ آلیاژ فقط شدت نیرو را تعیین می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نادرست است؛ تورک از یک "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کوپل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌آید و کوپل تنها وقتی شکل می‌گیرد که مقطع مستطیلی سیم با دیواره‌های اسلات درگیر شود؛ آلیاژ فقط شدت نیرو را تعیین می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T23:09:23.386Z"
+      }
+    },
+    {
+      "id": "question:7644",
+      "sourceId": "7644",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 77.7778%;",
+      "contentKey": "a02ef4d5f46d4ac66e5681aee46837a9d17c543e327eff2f84dbf49d9da195ae",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بیماری با کراودینگ شدید و انکوریج بحرانی، درمانگر می‌خواهد کانین‌ها را بدون از دست دادن فضای مولر عقب ببرد. کدام رویکرد با اصول تعادل سازگارتر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیماری با کراودینگ شدید و انکوریج بحرانی، درمانگر می‌خواهد کانین‌ها را بدون از دست دادن فضای مولر عقب ببرد. کدام رویکرد با اصول تعادل سازگارتر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش نیروی کشش برای تسریع حرکت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن زنجیر الاستیک از مولر با نیروی سنگین تا کانین پیش از آنکه مولر فرصت جابه‌جایی پیدا کند عقب برود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استفاده از انکوریج اسکلتی (مینی‌اسکرو) تا نیروی واکنش به‌جای مولر به استخوان منتقل شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نادیده گرفتن حرکت مولر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0bd10ee20ff7519bc2a5cd771c2964ed04450adcaa7d37ef2b9c866b337864b6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "افزایش نیروی کشش برای تسریع حرکت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش نیروی کشش برای تسریع حرکت"
+            }
+          ]
+        },
+        {
+          "id": "71688f4afccfcaa0cf2f3f80676d12aef95e1578e0d497a8f731db41dc4c9f46",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کشیدن زنجیر الاستیک از مولر با نیروی سنگین تا کانین پیش از آنکه مولر فرصت جابه‌جایی پیدا کند عقب برود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن زنجیر الاستیک از مولر با نیروی سنگین تا کانین پیش از آنکه مولر فرصت جابه‌جایی پیدا کند عقب برود"
+            }
+          ]
+        },
+        {
+          "id": "bcba62de3338884188f3a4709c29367a4f4ee9f62b8a279445f9894a300548c8",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "استفاده از انکوریج اسکلتی (مینی‌اسکرو) تا نیروی واکنش به‌جای مولر به استخوان منتقل شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استفاده از انکوریج اسکلتی (مینی‌اسکرو) تا نیروی واکنش به‌جای مولر به استخوان منتقل شود"
+            }
+          ]
+        },
+        {
+          "id": "32a07ba5e93f44089267ed51a3c9f6f36945fea07cfa83a83ad0712ce26ef589",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نادیده گرفتن حرکت مولر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نادیده گرفتن حرکت مولر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "bcba62de3338884188f3a4709c29367a4f4ee9f62b8a279445f9894a300548c8"
+        ],
+        "explanation": "TAD تنها لنگری است که در برابر نیروی واکنش حرکت نمی‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "TAD تنها لنگری است که در برابر نیروی واکنش حرکت نمی‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T23:09:19.862Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:4582de662160836df904c6081c7f4b61d43995bc4e1a8e575e53263bd68e4317",
+      "at": "2026-11-16T23:08:41.685Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:6af0d447d562d48d8ffb32df37f52e5595f469c6c574e749e2c0505643235b09",
+      "at": "2026-11-16T23:08:43.276Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:6069eac2585004f26d9b8134d106f2d68668862290379e4aed8fe8ecbeb9c5fa",
+      "at": "2026-11-16T23:08:44.873Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:7630",
+      "at": "2026-11-16T23:08:46.453Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:7634",
+      "at": "2026-11-16T23:08:56.433Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:7637",
+      "at": "2026-11-16T23:09:01.653Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:7640",
+      "at": "2026-11-16T23:09:10.764Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:7644",
+      "at": "2026-11-16T23:09:16.128Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:7640",
+      "at": "2026-11-16T23:09:21.457Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

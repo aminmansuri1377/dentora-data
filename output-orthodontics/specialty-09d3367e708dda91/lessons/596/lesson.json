@@ -1,0 +1,1560 @@
+{
+  "schemaVersion": 3,
+  "id": "596",
+  "sourceUrl": "https://app.dentigoapp.com/fa/lesson/596",
+  "title": "درس سوم: طراحی و فعال‌سازی اپلاینس متحرک",
+  "specialtyKey": "09d3367e708dda91",
+  "specialtyName": "ارتودنسی",
+  "chapterId": "132",
+  "chapterTitle": "یونیت 4.3: اپلاینس‌های متحرک",
+  "chapterPosition": 17,
+  "lessonPosition": 3,
+  "runId": "2026-11-16T22-14-48-013Z",
+  "startedAt": "2026-11-16T23:39:12.823Z",
+  "updatedAt": "2026-11-16T23:39:50.767Z",
+  "status": "captured",
+  "steps": [
+    {
+      "id": "theory:56f974edac5e5a194505ca01eccfebeeeb7900f2675446995cc23fb473e188f1",
+      "position": 1,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 0%;",
+      "questionType": "unknown",
+      "title": "درس ۳: طراحی و فعال‌سازی اپلاینس متحرک",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پنج پرسش پیش از طراحی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پیش از سفارش هر دستگاه، به این پنج پرسش پاسخ بده:"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کدام دندان باید حرکت کند و "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "در چه جهتی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جزء فعال مناسب آن جهت کدام است؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گیر از "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کدام دندان‌ها"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تأمین می‌شود؟ هرگز از دندانی که باید حرکت کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آیا اکلوژن مانع حرکت است؟ اگر بله، "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بایت پلن"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " لازم است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی بازتابی کجا می‌رود و چه اثری دارد؟"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 نوشتن پاسخ این پنج پرسش پیش از تماس با آزمایشگاه، بیشتر شکست‌های دستگاه متحرک را حذف می‌کند. نکته اینجاست که این‌ها را باید "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روی کاغذ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نوشت، نه در ذهن مرور کرد — چون هر پرسش بی‌پاسخ، در دهان به یک مشکل تبدیل می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 پرسش سوم بیش از بقیه فراموش می‌شود. کلاسپی که روی دندان هدف نشسته، هم‌زمان می‌خواهد آن را نگه دارد و حرکت دهد — یعنی دستگاه کار خودش را خنثی می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ پرسش پنجم را جدی بگیر: در دستگاه متحرک، انکوریج معمولاً از دندان‌های باقی‌مانده و مخاط پالات می‌آید و ظرفیت محدودی دارد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:f5f7147164685647f4770fe8fd1ea1ae12d90da65adf4cb96fcf7e3430cfebc4",
+      "position": 2,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 12.5%;",
+      "questionType": "unknown",
+      "title": "درس ۳: طراحی و فعال‌سازی اپلاینس متحرک",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مقدار فعال‌سازی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اعداد کلیدی فعال‌سازی که باید بدانی:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حرکت مطلوب دندان با دستگاه متحرک معمولاً حدود "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ میلی‌متر در ماه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فعال‌سازی متعارف فنر: حدود "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱٫۵ تا ۲ میلی‌متر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در هر ویزیت — نه بیشتر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاصله‌ی ویزیت‌ها معمولاً "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۳ تا ۴ هفته"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی مناسب برای تیپینگ ساده: در محدوده‌ی "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سبک"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، حدود ۳۵ تا ۶۰ گرم (برای ثنایا نزدیک حد پایین)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این اعداد با هم سازگارند: فعال‌سازی ۱٫۵ تا ۲ میلی‌متری، در طول ۳ تا ۴ هفته حدود ۱ میلی‌متر حرکت می‌دهد و فنر تا ویزیت بعد نیروی مؤثری دارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ نشانه‌های فعال‌سازی بیش از حد را بشناس: درد شدید که بیش از چند روز طول بکشد، لق شدن محسوس دندان، و افتادن مکرر دستگاه. هر سه یعنی نیرو را کم کن."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 و نکته‌ای که خلاف انتظار است: نیروی بیشتر، حرکت را سریع‌تر نمی‌کند. نیروی زیاد ناحیه‌ی هیالینیزاسیون بزرگ‌تری می‌سازد و حرکت را "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌کند — علاوه بر خطر تحلیل ریشه."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:ff0c6fd0c06572ef029b6561851ffbbfb2e26238f1edee3fa45036049864cd7e",
+      "position": 3,
+      "kind": "theory",
+      "sourceQuestionId": null,
+      "sourceStepId": null,
+      "sourceProgress": "width: 25%;",
+      "questionType": "unknown",
+      "title": "درس ۳: طراحی و فعال‌سازی اپلاینس متحرک",
+      "prompt": "",
+      "content": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بایت پلن: کی لازم است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "گاهی فنر درست است، نیرو درست است، دستگاه هم استفاده می‌شود — اما دندان تکان نمی‌خورد. علت معمولاً یکی است: اکلوژن راه را بسته."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "وقتی دندان مقابل مانع حرکت است — مثلاً در کراس‌بایت قدامی با اوربایت عمیق یا در دیپ‌بایت — "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بایت پلن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اکلوژن را موقتاً باز می‌کند و مسیر عبور دندان را آزاد می‌سازد."
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نوع"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کاربرد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بایت پلن قدامی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "باز کردن بایت خلفی، اصلاح دیپ‌بایت"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بایت پلن خلفی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "آزاد کردن قدام برای عبور دندان از کراس‌بایت"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 بدون آزاد کردن اکلوژن، فنر هرچقدر هم قوی باشد دندان را حرکت نمی‌دهد؛ فقط نیرو را به دندان مقابل منتقل می‌کند و در نهایت دستگاه را می‌اندازد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 بایت پلن اثر جانبی مفیدی هم دارد: با جدا نگه داشتن دندان‌های خلفی، به آن‌ها فرصت "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رویش عمودی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌دهد — که در دیپ‌بایت دقیقاً همان چیزی است که می‌خواهی. یعنی یک قطعه، هم مانع را برمی‌دارد و هم بخشی از درمان است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ اما در کراس‌بایت قدامی دندانی کودک، باز کردن بایت معمولاً لازم نیست؛ بایت پلن فقط وقتی لازم می‌شود که اوربایت خیلی عمیق باشد یا کودک دندان‌هایش را به هم فشار دهد. دستگاه را بدون بایت پلن شروع کن؛ اگر پس از حدود دو ماه دندان‌های قوس مقابل هم‌جهت با دندان هدف جابه‌جا شدند، قفل اکلوزالی در کار است و آن وقت بایت را باز کن (با بایت پلن یا رزین روی مولرهای پایین). بایت پلن بی‌دلیل، خطر رویش بیش از حد دندان‌هایی را دارد که در تماس نیستند؛ پس از اصلاح هم آن را به‌تدریج کم کن یا بردار تا دندان‌های خلفی دوباره به تماس برسند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:8240",
+      "position": 4,
+      "kind": "question",
+      "sourceQuestionId": "8240",
+      "sourceStepId": null,
+      "sourceProgress": "width: 37.5%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: طراحی و فعال‌سازی اپلاینس متحرک",
+      "prompt": "پیش از سفارش دستگاه، باید مشخص باشد نیروی بازتابی به کدام واحد می‌رسد و چه اثری دارد.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پیش از سفارش دستگاه، باید مشخص باشد نیروی بازتابی به کدام واحد می‌رسد و چه اثری دارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "true"
+        ],
+        "correctOptionHashes": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "correctOptionTexts": [
+          "صحیح"
+        ],
+        "explanation": "هر نیروی فعال واکنشی دارد که به دندان‌های پشتیبان و کام می‌رسد؛ این واکنش را باید پیش از سفارش دید.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هر نیروی فعال واکنشی دارد که به دندان‌های پشتیبان و کام می‌رسد؛ این واکنش را باید پیش از سفارش دید."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": true
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-16T23:39:27.247Z"
+      }
+    },
+    {
+      "id": "question:8244",
+      "position": 5,
+      "kind": "question",
+      "sourceQuestionId": "8244",
+      "sourceStepId": null,
+      "sourceProgress": "width: 50%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: طراحی و فعال‌سازی اپلاینس متحرک",
+      "prompt": "کدام مجموعه، نشانه فعال‌سازی بیش از حد است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مجموعه، نشانه فعال‌سازی بیش از حد است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درد طولانی، لقی محسوس دندان و افتادن مکرر دستگاه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش بزاق در هفته‌ی اول"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییر رنگ آکریل"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "احساس فشار خفیف و کمی حساسیت به جویدن در دو روز اول پس از فعال‌سازی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "درد طولانی، لقی محسوس دندان و افتادن مکرر دستگاه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "درد طولانی، لقی محسوس دندان و افتادن مکرر دستگاه"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "افزایش بزاق در هفته‌ی اول",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش بزاق در هفته‌ی اول"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "تغییر رنگ آکریل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تغییر رنگ آکریل"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "احساس فشار خفیف و کمی حساسیت به جویدن در دو روز اول پس از فعال‌سازی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "احساس فشار خفیف و کمی حساسیت به جویدن در دو روز اول پس از فعال‌سازی"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "0"
+        ],
+        "correctOptionHashes": [
+          "6353304f69f9d15ce04812fa24cd112d2c97fd1c897fe2b7ed9787d8d1107013"
+        ],
+        "correctOptionTexts": [
+          "درد طولانی، لقی محسوس دندان و افتادن مکرر دستگاه"
+        ],
+        "explanation": "این سه نشانه با هم یعنی نیرو را کم کن.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این سه نشانه با هم یعنی نیرو را کم کن."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "درد طولانی، لقی محسوس دندان و افتادن مکرر دستگاه",
+            "isCorrect": true
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "افزایش بزاق در هفته‌ی اول",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "تغییر رنگ آکریل",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "احساس فشار خفیف و کمی حساسیت به جویدن در دو روز اول پس از فعال‌سازی",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-16T23:39:33.177Z"
+      }
+    },
+    {
+      "id": "question:8245",
+      "position": 6,
+      "kind": "question",
+      "sourceQuestionId": "8245",
+      "sourceStepId": null,
+      "sourceProgress": "width: 62.5%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: طراحی و فعال‌سازی اپلاینس متحرک",
+      "prompt": "نقش بایت پلن در اصلاح کراس‌بایت قدامی چیست؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نقش بایت پلن در اصلاح کراس‌بایت قدامی چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش نیروی فنر با تکیه‌ی بخشی از آن بر آکریل"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش گیر دستگاه با درگیر کردن دندان‌های مقابل"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باز کردن موقت اکلوژن برای عبور دندان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تقویت پایه‌ی آکریلی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "کاهش نیروی فنر با تکیه‌ی بخشی از آن بر آکریل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش نیروی فنر با تکیه‌ی بخشی از آن بر آکریل"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "افزایش گیر دستگاه با درگیر کردن دندان‌های مقابل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش گیر دستگاه با درگیر کردن دندان‌های مقابل"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "باز کردن موقت اکلوژن برای عبور دندان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باز کردن موقت اکلوژن برای عبور دندان"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "تقویت پایه‌ی آکریلی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تقویت پایه‌ی آکریلی"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "2"
+        ],
+        "correctOptionHashes": [
+          "1cc903ba98841e8ce03a69510cadc2238ced7fea599f85267d18593769ae5643"
+        ],
+        "correctOptionTexts": [
+          "باز کردن موقت اکلوژن برای عبور دندان"
+        ],
+        "explanation": "وقتی دندان مقابل راه را بسته، بایت پلن اکلوژن را موقتاً باز می‌کند تا ثنایا از روی آن بگذرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "وقتی دندان مقابل راه را بسته، بایت پلن اکلوژن را موقتاً باز می‌کند تا ثنایا از روی آن بگذرد."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "کاهش نیروی فنر با تکیه‌ی بخشی از آن بر آکریل",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "افزایش گیر دستگاه با درگیر کردن دندان‌های مقابل",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "باز کردن موقت اکلوژن برای عبور دندان",
+            "isCorrect": true
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "تقویت پایه‌ی آکریلی",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-16T23:39:38.702Z"
+      }
+    },
+    {
+      "id": "question:8249",
+      "position": 7,
+      "kind": "question",
+      "sourceQuestionId": "8249",
+      "sourceStepId": null,
+      "sourceProgress": "width: 75%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: طراحی و فعال‌سازی اپلاینس متحرک",
+      "prompt": "در هر ویزیت باید علاوه بر فعال‌سازی، گیر کلاسپ‌ها و سلامت بافت نرم زیر آکریل بررسی شود.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در هر ویزیت باید علاوه بر فعال‌سازی، گیر کلاسپ‌ها و سلامت بافت نرم زیر آکریل بررسی شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "true"
+        ],
+        "correctOptionHashes": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "correctOptionTexts": [
+          "صحیح"
+        ],
+        "explanation": "فعال‌سازی بدون بررسی گیر و بافت، کار را نیمه‌تمام می‌گذارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "فعال‌سازی بدون بررسی گیر و بافت، کار را نیمه‌تمام می‌گذارد."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": true
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-16T23:39:43.609Z"
+      }
+    },
+    {
+      "id": "question:8252",
+      "position": 8,
+      "kind": "question",
+      "sourceQuestionId": "8252",
+      "sourceStepId": null,
+      "sourceProgress": "width: 87.5%;",
+      "questionType": "single-choice",
+      "title": "درس ۳: طراحی و فعال‌سازی اپلاینس متحرک",
+      "prompt": "اپلاینس متحرک عمدتاً حرکت بدنه‌ای ایجاد می‌کند و برای تیپینگ کنترل‌شده مناسب نیست.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اپلاینس متحرک عمدتاً حرکت بدنه‌ای ایجاد می‌کند و برای تیپینگ کنترل‌شده مناسب نیست."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "false"
+        ],
+        "correctOptionHashes": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "correctOptionTexts": [
+          "غلط"
+        ],
+        "explanation": "جای دو حرکت عوض شده: دستگاه متحرک با یک نقطه‌ی تماس روی تاج، عمدتاً تیپینگ می‌دهد؛ حرکت بدنه‌ای به کوپل نیاز دارد که این دستگاه به‌سختی می‌سازد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "جای دو حرکت عوض شده: دستگاه متحرک با یک نقطه‌ی تماس روی تاج، عمدتاً "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "تیپینگ"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌دهد؛ حرکت بدنه‌ای به کوپل نیاز دارد که این دستگاه به‌سختی می‌سازد."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": false
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-16T23:39:48.868Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:56f974edac5e5a194505ca01eccfebeeeb7900f2675446995cc23fb473e188f1",
+      "at": "2026-11-16T23:39:14.184Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:f5f7147164685647f4770fe8fd1ea1ae12d90da65adf4cb96fcf7e3430cfebc4",
+      "at": "2026-11-16T23:39:15.753Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:ff0c6fd0c06572ef029b6561851ffbbfb2e26238f1edee3fa45036049864cd7e",
+      "at": "2026-11-16T23:39:17.330Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:8240",
+      "at": "2026-11-16T23:39:18.930Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:8244",
+      "at": "2026-11-16T23:39:28.844Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:8245",
+      "at": "2026-11-16T23:39:34.782Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:8249",
+      "at": "2026-11-16T23:39:40.315Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:8252",
+      "at": "2026-11-16T23:39:45.195Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "warnings": [],
+  "theoryPageCount": 3,
+  "questionCount": 5,
+  "completion": {
+    "heading": "تبریک به تو…!",
+    "at": "2026-11-16T23:39:50.766Z"
+  },
+  "validation": {
+    "issues": [],
+    "countsVerified": false,
+    "sourceFinished": true
+  }
+}

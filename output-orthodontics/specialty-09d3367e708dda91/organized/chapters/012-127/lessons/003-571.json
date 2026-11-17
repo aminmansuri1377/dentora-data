@@ -1,0 +1,1400 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/571/lesson.json",
+  "id": "571",
+  "title": "درس سوم: نیکل-تیتانیوم و حافظه شکلی",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "127",
+    "title": "یونیت 3.3: سیم‌ها و آلیاژهای ارتودنسی",
+    "position": 12
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:25e2530b5f411eaeadeee8cdf944533e53bd994ad36ed8e2e6c02b9c9daccaa0",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "f867f81721a38c79c6141ba0bfedf73b44e5a1768a5a2d86949e37f7766da835",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آلیاژی که مثل بقیه رفتار نمی‌کند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نیکل-تیتانیوم در دهه‌ی ۱۹۷۰ وارد ارتودنسی شد و تراز اولیه را دگرگون کرد. تفاوتش با استیل در یک چیز است: "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییر فاز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این آلیاژ دو ساختار بلوری دارد که به یکدیگر تبدیل می‌شوند:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آستنیت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — ساختار پایدار در دمای بالاتر و بدون تنش؛ سفت‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مارتنزیت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — ساختار پایدار در دمای پایین‌تر یا زیر تنش؛ نرم‌تر و تغییرشکل‌پذیرتر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در استیل، خم کردن یعنی جابه‌جایی دائمی اتم‌ها. در NiTi، بخش بزرگی از تغییر شکل صرف "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تبدیل ساختار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌شود — و چون این تبدیل برگشت‌پذیر است، سیم شکل اولیه‌اش را به یاد می‌آورد."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/BF-ORTHO-16.webp",
+                  "alt": "منحنی تنش-کرنش سوپرالاستیسیته در سیم نیکل-تیتانیوم آستنیتی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/e8fb5aa5fecccf8469384cf5e0d4f34e35eb4e0d7c3af1e429b563ae898bd729.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سوپرالاستیسیته: در ناحیه‌ی گذار فازی، سیم با تغییر ساختار از آستنیت به مارتنزیت کرنش زیادی را بدون افزایش تنش تحمل می‌کند. منحنی باربرداری (قرمز، هنگام ردیف شدن دندان‌ها) پایین‌تر از منحنی بارگذاری است — یعنی نیروی نسبتاً ثابت در دامنه‌ی بلند. "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مأخذ: Proffit, Contemporary Orthodontics, 7th ed, Fig. 9.6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:3f591f4f66b4f95cbc80f657c8aef92836e9f37022a06fc1801af0a7a7cf06c4",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "21b5b66140ef1327e886d5cec61b1c3469b0ae4ab7a7cf6ac347d50a7a6c5e99",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سوپرالاستیسیته: نیروی ثابت در دامنه‌ی بلند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "وقتی سیم آستنیتی را خم می‌کنی، پس از مقدار مشخصی تنش، ساختار شروع به تبدیل شدن به مارتنزیت می‌کند. در این ناحیه اتفاق عجیبی می‌افتد: "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کرنش زیاد می‌شود اما تنش تقریباً ثابت می‌ماند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "روی نمودار، این ناحیه یک "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پلاتو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است — و دو پلاتوی جداگانه داریم:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پلاتوی "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بارگذاری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، هنگام جا زدن سیم در براکت‌های نامرتب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پلاتوی "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "باربرداری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، هنگام برگشت سیم و حرکت دندان‌ها — که "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پایین‌تر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از پلاتوی بارگذاری است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 آنچه به دندان می‌رسد، پلاتوی "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باربرداری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است. یعنی سیم NiTi در دامنه‌ی بلندی از تغییر شکل، نیروی تقریباً یکسان و سبکی می‌دهد — دقیقاً آن چیزی که بیولوژی حرکت دندانی می‌خواهد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:59288c8816a731d15a02f21888bdbb5b66e83247e9f145ba5ffc6454976350c1",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "b3421f1d7661f1b3475b25fcf47afd30cb7b2a1816c654e3a8b9299be03ff6c2",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اشتباه رایج بالینی: NiTi را جای استیل نگذار"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سه محدودیت که اگر نادیده گرفته شوند، دردسر می‌سازند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱، خم نمی‌شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فرم‌پذیری NiTi تقریباً صفر است. هر خمی که بزنی یا برمی‌گردد یا سیم را می‌شکند. برای خم مرتبه‌ی اول و دوم باید سراغ استیل یا TMA بروی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲، به دما حساس است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سیم‌های حرارتی در دمای دهان فعال می‌شوند؛ با نوشیدنی سرد موقتاً نرم و کم‌نیرو می‌شوند. همین ویژگی گاهی به کار می‌آید — اسپری سرد، جا زدن سیم در کراودینگ شدید را آسان‌تر می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۳، نیروی سبکش همیشه مزیت نیست."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در فاز فینیشینگ که به کنترل دقیق تورک و موقعیت نیاز داری، نیروی ملایم و لقی زیاد NiTi کافی نیست — آن‌جا سیم مستطیلی استیل کار می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یک ملاحظه‌ی ایمنی: نزدیک یک‌پنجم مردم به نیکل واکنش پوستی نشان می‌دهند، اما واکنش مخاطی واقعی به اپلاینس نادر است؛ نشانه‌ی معمولش قرمزی و تورم گسترده‌ی مخاط، یک تا دو روز پس از نصب اپلاینس است. NiTi نزدیک به نیمی نیکل دارد و استیل حدود ۸٪؛ در بیمار حساس، سیم بتاتیتانیوم (TMA) و براکت تیتانیومی جایگزین مناسب‌اند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:14457",
+      "sourceId": "14457",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "2a51d78946e4572540ea4ade25252ab7b9e6d0313eb9017054f0a44c3a844629",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا سیم NiTi پس از خارج کردن از دهان، شکل اولیه‌اش را بازمی‌یابد در حالی که سیم استیل خم‌شده خم می‌ماند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا سیم NiTi پس از خارج کردن از دهان، شکل اولیه‌اش را بازمی‌یابد در حالی که سیم استیل خم‌شده خم می‌ماند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون NiTi سخت‌تر از استیل است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون تغییر شکل در NiTi از تبدیل فاز برگشت‌پذیر می‌آید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون NiTi نازک‌تر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون گرمای دهان NiTi را نرم می‌کند و پس از خروج، سرما خم را صاف می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "c34684fb323519541ac2edcaede53606c72211625e3d6b5044368a598fae2bb8",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون NiTi سخت‌تر از استیل است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون NiTi سخت‌تر از استیل است"
+            }
+          ]
+        },
+        {
+          "id": "919df7fd33483447e9bedd98aa9db402f2eac98382dfbe9865ab5459afe7d9df",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون تغییر شکل در NiTi از تبدیل فاز برگشت‌پذیر می‌آید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون تغییر شکل در NiTi از تبدیل فاز برگشت‌پذیر می‌آید"
+            }
+          ]
+        },
+        {
+          "id": "ebc57b88d6b76a65d76d9b523a9fdea1ed08fd5697b2b7ce7d74347c2ea6d90c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون NiTi نازک‌تر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون NiTi نازک‌تر است"
+            }
+          ]
+        },
+        {
+          "id": "d4846e34dc8503eab68d569c4fbcd13e0a5320efc8b2dbddc7a3ceb1bc0ff6b3",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون گرمای دهان NiTi را نرم می‌کند و پس از خروج، سرما خم را صاف می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون گرمای دهان NiTi را نرم می‌کند و پس از خروج، سرما خم را صاف می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "919df7fd33483447e9bedd98aa9db402f2eac98382dfbe9865ab5459afe7d9df"
+        ],
+        "explanation": "در استیل، عبور از حد الاستیک یعنی لغزش دائمی صفحات بلوری. در NiTi، همان تغییر شکل با تبدیل فاز جذب می‌شود و با برداشتن تنش برمی‌گردد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در استیل، عبور از حد الاستیک یعنی لغزش دائمی صفحات بلوری. در NiTi، همان تغییر شکل با تبدیل فاز جذب می‌شود و با برداشتن تنش برمی‌گردد."
+          }
+        ],
+        "observedAt": "2026-11-16T23:13:51.631Z"
+      }
+    },
+    {
+      "id": "question:14459",
+      "sourceId": "14459",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "f0e49f5d1a2bbd38c7e4666d8cf31300423afb9a2d33a47bbd6ddf4f6f123c51",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "پلاتوی باربرداری بالاتر از پلاتوی بارگذاری است، و همان است که نیروی رسیده به دندان را تعیین می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پلاتوی باربرداری بالاتر از پلاتوی بارگذاری است، و همان است که نیروی رسیده به دندان را تعیین می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "پلاتوی باربرداری پایین‌تر از پلاتوی بارگذاری است، پس گزاره نادرست است؛ این اختلاف را هیسترزیس می‌گویند و مزیت بالینی NiTi از همین می‌آید.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پلاتوی باربرداری "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "پایین‌تر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " از پلاتوی بارگذاری است، پس گزاره نادرست است؛ این اختلاف را هیسترزیس می‌گویند و مزیت بالینی NiTi از همین می‌آید."
+          }
+        ],
+        "observedAt": "2026-11-16T23:13:56.834Z"
+      }
+    },
+    {
+      "id": "question:14462",
+      "sourceId": "14462",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "b49c9a3d92818833f4262d975655c60673207f0e0a3c1d4806603eae3eef9bd5",
+      "position": 6,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "اسپری سرد، سیم NiTi حرارتی را موقتاً به فاز ......... می‌برد و جا زدن آن را در کراودینگ شدید آسان می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اسپری سرد، سیم NiTi حرارتی را موقتاً به فاز ......... می‌برد و جا زدن آن را در کراودینگ شدید آسان می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "م"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "مارتنزیت",
+        "explanation": "سرما سیم را به مارتنزیتِ نرم و تغییرشکل‌پذیر می‌برد؛ پس از جا زدن، گرمای دهان آن را دوباره آستنیتی و فعال می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "سرما سیم را به مارتنزیتِ نرم و تغییرشکل‌پذیر می‌برد؛ پس از جا زدن، گرمای دهان آن را دوباره آستنیتی و فعال می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T23:14:13.478Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 8,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ت"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ی"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ت"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ز"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "ن"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "ر"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "م"
+          },
+          {
+            "key": "7",
+            "position": 8,
+            "text": "ا"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:14465",
+      "sourceId": "14465",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "612a9a766f311bd103cb4732c36c54969b43d176b1ecab8e163bf5c5311ab85f",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "رزیلینس بالای NiTi با فرم‌پذیری بالا همراه است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "رزیلینس بالای NiTi با فرم‌پذیری بالا همراه است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "رزیلینس بالا و فرم‌پذیری بالا معمولاً در جهت مخالف هم‌اند، پس گزاره نادرست است؛ به همین دلیل هیچ سیمی جای دیگری را نمی‌گیرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "رزیلینس بالا و فرم‌پذیری بالا معمولاً در جهت مخالف هم‌اند، پس گزاره نادرست است؛ به همین دلیل هیچ سیمی جای دیگری را نمی‌گیرد."
+          }
+        ],
+        "observedAt": "2026-11-16T23:14:19.724Z"
+      }
+    },
+    {
+      "id": "question:14468",
+      "sourceId": "14468",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "74b395f81a19c1d1fa15a93b8695430d9d551f52c6159b478c5115d2c3fbac5b",
+      "position": 8,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "در بیمار با سابقه‌ی حساسیت به ......... باید جایگزین‌های بدون این فلز را در نظر گرفت.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیمار با سابقه‌ی حساسیت به ......... باید جایگزین‌های بدون این فلز را در نظر گرفت."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "نیکل",
+        "explanation": "واکنش پوستی به نیکل کم نیست، اما واکنش مخاطی واقعی به اپلاینس نادر است؛ در بیمار حساس، سیم بتاتیتانیوم (TMA) و براکت تیتانیومی جایگزین مناسبی‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "واکنش پوستی به نیکل کم نیست، اما واکنش مخاطی واقعی به اپلاینس نادر است؛ در بیمار حساس، سیم بتاتیتانیوم (TMA) و براکت تیتانیومی جایگزین مناسبی‌اند."
+          }
+        ],
+        "observedAt": "2026-11-16T23:14:25.270Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 4,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ک"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ی"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ل"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ن"
+          }
+        ]
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:25e2530b5f411eaeadeee8cdf944533e53bd994ad36ed8e2e6c02b9c9daccaa0",
+      "at": "2026-11-16T23:13:32.409Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:3f591f4f66b4f95cbc80f657c8aef92836e9f37022a06fc1801af0a7a7cf06c4",
+      "at": "2026-11-16T23:13:33.987Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:59288c8816a731d15a02f21888bdbb5b66e83247e9f145ba5ffc6454976350c1",
+      "at": "2026-11-16T23:13:35.571Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:14457",
+      "at": "2026-11-16T23:13:37.172Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:14459",
+      "at": "2026-11-16T23:13:53.231Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:14462",
+      "at": "2026-11-16T23:13:58.426Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:14465",
+      "at": "2026-11-16T23:14:15.107Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:14468",
+      "at": "2026-11-16T23:14:21.328Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

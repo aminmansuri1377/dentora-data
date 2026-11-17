@@ -1,0 +1,1528 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/541/lesson.json",
+  "id": "541",
+  "title": "درس اول: آنالیز مدل مطالعه",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "122",
+    "title": "یونیت 2.3: آنالیز مدل و فضا",
+    "position": 7
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:436c402df2c9e105afb4bd22c4174ac38331b8100860201cb789314e9fae9635",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "ccf9e5fcdfa409562a49d957687348ab3ba12eeca1908b013350ed73a5ee998c",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مدل مطالعه: چیزی که دهان نشان نمی‌دهد"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مدل یا اسکن دیجیتال سه کار می‌کند که معاینه‌ی بالینی نمی‌تواند:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دیدن قوس از "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نمای اکلوزال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — تقارن، فرم قوس، چرخش‌ها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اندازه‌گیری دقیق"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " عرض دندان و طول قوس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثبت دائمی وضعیت اولیه برای "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مقایسه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و مستندسازی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 امروز اسکنر داخل‌دهانی جای قالب آلژینات را گرفته، اما منطق تحلیل دقیقاً همان است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و مدل دیجیتال یک قابلیت افزوده دارد که مدل گچی نداشت: "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سوپرایمپوزیشن مدل‌های متوالی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". با آن می‌شود مقدار و جهت حرکت انجام‌شده را کمّی کرد و سال‌ها بعد، عود را از تغییر دیررس تفکیک نمود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "همین قابلیت است که بایگانی مدل پایان درمان را از یک کار اداری به یک ابزار بالینی تبدیل می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/BF-ORTHO-11.webp",
+                  "alt": "مدل دیجیتال حاصل از اسکن داخل‌دهانی در نرم‌افزار",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/a55b238aa0dfc5a9d65aade243e961ec37ebdae1e62c0cc67b90c5e922d4e11c.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مدل دیجیتال حاصل از اسکن داخل‌دهانی، با یا بدون بیس متقارن قابل نمایش است. مزیت بیس متقارن این است که تشخیص عدم تقارن درون قوس‌ها را برای چشم آسان‌تر می‌کند. این پنج نما، همان نماهایی هستند که به‌طور سنتی برای تشخیص و طرح درمان استفاده می‌شدند. "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مأخذ: Proffit, Contemporary Orthodontics, 7th ed, Fig. 6.49"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:a198deb651c03d315005e5010330bfddd471ac8182c0930eb01ab96e380014ee",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "1ef6db7318eb75e9b1a8a66cf69bc3f11d157fbe08bd7248435e7f60fca5b0f0",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سه فرم کلاسیک قوس"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فرم"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ویژگی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "مخروطی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "باریک در ناحیه‌ی کانین"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "بیضی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حد واسط مخروطی و مربعی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "مربعی"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پهن و صاف در قدام"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ قانون طلایی ثبات: فرم قوس "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اولیه‌ی بیمار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را حفظ کن. تحمیل قوس مربعی به بیماری با قوس مخروطی، زمینه‌ی عود را می‌چیند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا؟ چون فرم قوس بازتاب تعادل نیروهای عضلانی همان بیمار است. تغییر آن یعنی بردن دندان‌ها بیرون از منطقه‌ی تعادل — و آن‌جا، لب و زبان هر روز کار می‌کنند تا برشان گردانند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کاربرد عملی: آرچ‌وایرهای آماده در سه فرم عرضه می‌شوند. فرم را از روی مدل اولیه‌ی بیمار انتخاب کن، نه از روی آنچه در جعبه هست."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اگر فرم دو قوس در شروع درمان با هم نمی‌خواند، "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرم قوس پایین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مبناست — چون قوس پایین محدودتر است — و قوس بالا با آن هماهنگ می‌شود؛ مگر آنکه قوس پایین خودش، مثلاً با فشار لب یا عادت، تغییر شکل داده باشد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:c4c5477ddb1ca528bd15db19dd7289df672d232fd8c2d66a4fa2f2b0d01ccbf0",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "ee2309c4eabce51bcb628ab9409af5512d7226840d8df02712c051876a50c8e5",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چه چیزهایی را روی مدل بسنجیم؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عرض بین‌کانینی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عرض بین‌مولری"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تقارن"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دو نیمه‌ی قوس، با شبکه‌ی تقارن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عمق منحنی اشپی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — سطحی صاف روی لبه‌ی انسیزورها و کاسپ دیستال آخرین مولر بگذار و عمیق‌ترین فاصله تا نوک کاسپ‌ها را بسنج؛ صاف کردن این منحنی فضا مصرف می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عرض مزیودیستالی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " هر دندان — برای آنالیز فضا و بولتون"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وضعیت "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خط وسط"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " نسبت به رافه‌ی کامی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "از میان این پنج، "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عرض بین‌کانینی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیش از همه بر پایداری نتیجه اثر می‌گذارد: افزایش عرض بین‌کانینی، به‌ویژه در قوس پایین، تقریباً هیچ‌وقت پایدار نمی‌ماند. پس آن را به‌صورت یک عدد ثبت کن، نه یک برداشت کلی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و درباره‌ی خط وسط یک نکته‌ی ظریف: خط وسط دندانی را با "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رافه‌ی کامی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بسنج، نه با خط وسط دندانی قوس مقابل. اگر هر دو قوس منحرف باشند، مقایسه‌ی آن دو با هم چیزی را آشکار نمی‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اگر یک نیمه‌ی قوس به‌وضوح کوتاه‌تر است و خط وسط به همان سمت رفته، معمولاً در همان سمت فضا از دست رفته است — مثلاً پس از کشیدن زودرس دندان شیری و مهاجرت دندان‌های مجاور."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در نهایت این پنج عدد، ورودی مستقیم آنالیز فضا و طرح درمان‌اند — نه یک تمرین توصیفی."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:6466",
+      "sourceId": "6466",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "011bf2cca393880093b6dd481580757320a8a60220aa88757428e849bffe1e6f",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مزیت، مختص مدل مطالعه یا اسکن دیجیتال است و در معاینه بالینی مستقیم قابل دستیابی نیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مزیت، مختص مدل مطالعه یا اسکن دیجیتال است و در معاینه بالینی مستقیم قابل دستیابی نیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دیدن قوس از نمای اکلوزال و سنجش دقیق ابعاد آن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارزیابی رنگ و شفافیت مینا برای انتخاب شید ترمیم‌های پایانی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارزیابی التهاب و خون‌ریزی لثه در اطراف دندان‌های کراود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سنجش حساسیت دندان به سرما"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9e6d9b621329620b4548f7c5921cfdd8d64bc6d20ae90aad9a9c47e0a6d28e6a",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دیدن قوس از نمای اکلوزال و سنجش دقیق ابعاد آن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دیدن قوس از نمای اکلوزال و سنجش دقیق ابعاد آن"
+            }
+          ]
+        },
+        {
+          "id": "7abedb8cce896a3c0446d53187aa41097bcf698444344c01876c682f40e12235",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ارزیابی رنگ و شفافیت مینا برای انتخاب شید ترمیم‌های پایانی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ارزیابی رنگ و شفافیت مینا برای انتخاب شید ترمیم‌های پایانی"
+            }
+          ]
+        },
+        {
+          "id": "5cf58113dd54f936af2610a1b5ee9fbabc8f37768f78e30cea6f47c2bfd5a3c2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ارزیابی التهاب و خون‌ریزی لثه در اطراف دندان‌های کراود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ارزیابی التهاب و خون‌ریزی لثه در اطراف دندان‌های کراود"
+            }
+          ]
+        },
+        {
+          "id": "7e2e00f6e330e4a2d7802e74ed82689d5a36fea36bdab420d9c528140b32de50",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سنجش حساسیت دندان به سرما",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سنجش حساسیت دندان به سرما"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9e6d9b621329620b4548f7c5921cfdd8d64bc6d20ae90aad9a9c47e0a6d28e6a"
+        ],
+        "explanation": "نمای اکلوزال و اندازه‌گیری دقیق همان چیزی است که مدل به معاینه‌ی بالینی اضافه می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نمای اکلوزال و اندازه‌گیری دقیق همان چیزی است که مدل به معاینه‌ی بالینی اضافه می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T22:44:31.952Z"
+      }
+    },
+    {
+      "id": "question:6471",
+      "sourceId": "6471",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "0e7d04ff838195f88368ccb710bc319e2d4511b205dc6442a8485d48944e056f",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "درمانگری برای بیماری با قوس مخروطی، از آرچ‌وایر مربعی استاندارد استفاده می‌کند تا کراودینگ سریع‌تر برطرف شود. محتمل‌ترین پیامد بلندمدت چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "درمانگری برای بیماری با قوس مخروطی، از آرچ‌وایر مربعی استاندارد استفاده می‌کند تا کراودینگ سریع‌تر برطرف شود. محتمل‌ترین پیامد بلندمدت چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثبات بیشتر، چون قوس پهن‌تر جای بیشتری به زبان می‌دهد و فشار آن را کم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بهبود خودبه‌خود رابطه‌ی مولری"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کوتاه شدن درمان بدون هزینه‌ی زیستی، چون کراودینگ با پهن شدن قوس زودتر باز می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش عرض بین‌کانینی بیرون از محدوده‌ی پایدار، با خطر بالای عود و تحلیل لثه"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "822a4f81fe7cd136bab4b4191a99b5642585fd2dfb3e60082d55b8957ac0c934",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ثبات بیشتر، چون قوس پهن‌تر جای بیشتری به زبان می‌دهد و فشار آن را کم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ثبات بیشتر، چون قوس پهن‌تر جای بیشتری به زبان می‌دهد و فشار آن را کم می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "c62790c1186bc11d64bba061a9f6644c867088edb11c50714dac072e2caee04f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بهبود خودبه‌خود رابطه‌ی مولری",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بهبود خودبه‌خود رابطه‌ی مولری"
+            }
+          ]
+        },
+        {
+          "id": "74b440b1bff5af1320e524b7ef226384a60c55d2f8c9c5758f0e7113f7b4198c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کوتاه شدن درمان بدون هزینه‌ی زیستی، چون کراودینگ با پهن شدن قوس زودتر باز می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کوتاه شدن درمان بدون هزینه‌ی زیستی، چون کراودینگ با پهن شدن قوس زودتر باز می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "b0ce4c168442b7d60aba740dcce513f6c2a7dbebc09603a091ec8077130c9577",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "افزایش عرض بین‌کانینی بیرون از محدوده‌ی پایدار، با خطر بالای عود و تحلیل لثه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش عرض بین‌کانینی بیرون از محدوده‌ی پایدار، با خطر بالای عود و تحلیل لثه"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "b0ce4c168442b7d60aba740dcce513f6c2a7dbebc09603a091ec8077130c9577"
+        ],
+        "explanation": "فرم قوس تحمیلی دندان‌ها را از فضای خنثی بیرون می‌برد و لب و زبان آن‌ها را برمی‌گردانند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "فرم قوس تحمیلی دندان‌ها را از فضای خنثی بیرون می‌برد و لب و زبان آن‌ها را برمی‌گردانند."
+          }
+        ],
+        "observedAt": "2026-11-16T22:44:37.671Z"
+      }
+    },
+    {
+      "id": "question:6473",
+      "sourceId": "6473",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "1d40316fc4b00c83fe468e942147fa94125bb2ff19d0e9232867d0c4f35a2788",
+      "position": 6,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "خط برجسته‌ای در وسط کام که به‌عنوان مرجع ارزیابی تقارن قوس بالا و موقعیت خط وسط به کار می‌رود، رافه ......... نام دارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خط برجسته‌ای در وسط کام که به‌عنوان مرجع ارزیابی تقارن قوس بالا و موقعیت خط وسط به کار می‌رود، رافه ......... نام دارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "م"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "کامی",
+        "explanation": "رافه‌ی کامی (palatal raphe) مرجع تقارن قوس بالاست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "رافه‌ی کامی (palatal raphe) مرجع تقارن قوس بالاست."
+          }
+        ],
+        "observedAt": "2026-11-16T22:44:53.424Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 4,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "م"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ک"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ا"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ی"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:6476",
+      "sourceId": "6476",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "6553510eb1f7da4d70efd51ddc2f7588ba3b3687e32c8e0e6f72af29378e5de6",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "انحراف خط وسط دندانی می‌تواند ناشی از جابه‌جایی دندان‌ها، شیفت عملکردی یا عدم‌تقارن اسکلتی باشد و تعیین منشأ پیش از درمان ضروری است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "انحراف خط وسط دندانی می‌تواند ناشی از جابه‌جایی دندان‌ها، شیفت عملکردی یا عدم‌تقارن اسکلتی باشد و تعیین منشأ پیش از درمان ضروری است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "هر یک از این سه، درمانی کاملاً متفاوت دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هر یک از این سه، درمانی کاملاً متفاوت دارد."
+          }
+        ],
+        "observedAt": "2026-11-16T22:44:59.049Z"
+      }
+    },
+    {
+      "id": "question:6479",
+      "sourceId": "6479",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "2ff795d117b464f681e99078dbf051c981918891aaedb6924835adf769fffd54",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "صاف کردن منحنی اشپی فضا آزاد می‌کند و باید از نیاز فضایی کم شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "صاف کردن منحنی اشپی فضا آزاد می‌کند و باید از نیاز فضایی کم شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "صاف کردن منحنی اشپی فضا مصرف می‌کند، نه آزاد؛ پس عمق آن به ستون نیاز فضایی اضافه می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "صاف کردن منحنی اشپی فضا "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مصرف"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌کند، نه آزاد؛ پس عمق آن به ستون نیاز فضایی اضافه می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-16T22:45:04.513Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:436c402df2c9e105afb4bd22c4174ac38331b8100860201cb789314e9fae9635",
+      "at": "2026-11-16T22:44:12.188Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:a198deb651c03d315005e5010330bfddd471ac8182c0930eb01ab96e380014ee",
+      "at": "2026-11-16T22:44:13.793Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:c4c5477ddb1ca528bd15db19dd7289df672d232fd8c2d66a4fa2f2b0d01ccbf0",
+      "at": "2026-11-16T22:44:15.388Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:6466",
+      "at": "2026-11-16T22:44:17.001Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:6471",
+      "at": "2026-11-16T22:44:33.553Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:6473",
+      "at": "2026-11-16T22:44:39.269Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:6476",
+      "at": "2026-11-16T22:44:55.011Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:6479",
+      "at": "2026-11-16T22:45:00.638Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

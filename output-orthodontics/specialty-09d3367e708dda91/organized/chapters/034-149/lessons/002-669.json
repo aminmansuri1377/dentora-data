@@ -1,0 +1,1985 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/669/lesson.json",
+  "id": "669",
+  "title": "درس دوم: CBCT و هوش مصنوعی در ارتودنسی",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "149",
+    "title": "یونیت 8.4: ارتودنسی دیجیتال",
+    "position": 34
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:0756b7db3f2b4da8cc08de3180c206ec0e63f7c1f11eaeb042d35cdec4db3975",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "9076363e18dbbbada47a3d80d99437cd7396883e7706a0a69ed94e9e42f0b93f",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "CBCT و تصویربرداری سه‌بعدی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "CBCT اطلاعاتی می‌دهد که تصویر دوبعدی نمی‌تواند:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "موقعیت سه‌بعدی دندان نهفته"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و رابطه‌ی دقیقش با ریشه‌های مجاور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ضخامت پلیت باکال و لینگوال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پیش از حرکات پرخطر مانند اکسپنشن یا پروکلاین کردن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "وضعیت سوچور میدپالاتال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پیش از اکسپنشن در بزرگسال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آسیمتری شدید صورت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و ناهنجاری‌های مادرزادی یا سندرمی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اندازه‌گیری حجم راه هوایی با CBCT برای غربالگری آپنه‌ی خواب قابل اتکا نیست؛ تصویر ایستای بیمار بیدار، رفتار راه هوایی در خواب را نشان نمی‌دهد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اما دوز پرتو آن از رادیوگرافی متعارف بیشتر است و با بزرگ‌تر شدن محدوده‌ی تصویربرداری بالا می‌رود. اصل حاکم همان "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ALARA"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است: CBCT را وقتی بگیر که پاسخش "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصمیم تو را عوض کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 آزمون عملی پیش از تجویز: از خودت بپرس «اگر نتیجه الف باشد چه می‌کنم و اگر ب باشد چه؟» اگر پاسخ هر دو یکی است، تصویر لازم نیست."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ «شاید به دردمان بخورد» اندیکاسیون نیست — به‌ویژه در کودک، که هم بافت‌های در حال رشد حساس‌ترند و هم سال‌های بیشتری برای تجمع اثر پرتو پیش رو دارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 و وقتی CBCT گرفته می‌شود، "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "محدوده‌ی تصویربرداری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را به کوچک‌ترین حجم لازم محدود کن؛ این ساده‌ترین راه کاهش دوز است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:bf96850fd8bac038683e13076f5834a16161dc6e989d6f29441f6b9d4e41cbfb",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "4c641780b3f16c58a39111e47e2fadb52d58d6167f961cdf14ff5767b7b22b1a",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هوش مصنوعی در ارتودنسی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ابزارهای مبتنی بر یادگیری ماشین امروز در چند جا وارد شده‌اند:"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دیجیتایز خودکار لندمارک‌های سفالومتریک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — سریع و در بیشتر موارد دقیق، اما نیازمند بازبینی؛ خطای یک لندمارک، چند زاویه را جابه‌جا می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تخمین سن اسکلتی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از رادیوگرافی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش‌بینی نتیجه‌ی درمان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و پیشنهاد طرح."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پایش از راه دور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — بیمار با گوشی عکس می‌گیرد و نرم‌افزار پیشرفت را ارزیابی می‌کند و فاصله‌ی ویزیت‌ها را تنظیم."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در همه‌ی این موارد، خروجی یک "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیشنهاد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است که باید تأیید شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:c03874f2b5b91433b1d51afc225c4adfa6b1cd8ae5ac9b69fdf6f19bd2893253",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "894246043f662219b71dedef7874ece83ed9cd9e1eccf58c45572db791eb7bde",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اشتباه رایج: زنجیره‌ای که یک حلقه‌ی ضعیف دارد"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در جریان کار دیجیتال، خطای هر مرحله به مراحل بعد منتقل و اغلب پنهان می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اسکن ناقص در ناحیه‌ی خلفی → مدل مجازی نادرست → ستاپ بر پایه‌ی داده‌ی غلط → الاینر یا گاید که در دهان نمی‌نشیند. و در هر مرحله، خروجی همان‌قدر تمیز و قانع‌کننده به نظر می‌رسد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پس دو قاعده: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کیفیت اسکن را در همان جلسه کنترل کن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — بازبینی مدل پیش از ارسال، ارزان‌ترین نقطه‌ی اصلاح است. و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر خروجی خودکار را پیش از تأیید بازبینی کن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "فناوری سرعت و تکرارپذیری می‌دهد؛ مسئولیت صحت همچنان با توست."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 880 320",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "856",
+                        "y": "30"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "زنجیره‌ی دیجیتال و دو نقطه‌ی کنترل"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "rect",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.8",
+                            "x": "706",
+                            "y": "64",
+                            "width": "150",
+                            "height": "72"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "836",
+                            "y": "92"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اسکن"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "836",
+                            "y": "116"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "داده‌ی خام دهان"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M698 100 h-38",
+                        "stroke": "currentColor",
+                        "stroke-width": "2.2"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "rect",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.8",
+                            "x": "500",
+                            "y": "64",
+                            "width": "150",
+                            "height": "72"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "630",
+                            "y": "92"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مدل مجازی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "630",
+                            "y": "116"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بازسازی سه‌بعدی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M492 100 h-38",
+                        "stroke": "currentColor",
+                        "stroke-width": "2.2"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "rect",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.8",
+                            "x": "294",
+                            "y": "64",
+                            "width": "150",
+                            "height": "72"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "424",
+                            "y": "92"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ستاپ و طرح"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "424",
+                            "y": "116"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "موقعیت هدف"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M286 100 h-38",
+                        "stroke": "currentColor",
+                        "stroke-width": "2.2"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "rect",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.8",
+                            "x": "88",
+                            "y": "64",
+                            "width": "150",
+                            "height": "72"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "218",
+                            "y": "92"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ساخت و تحویل"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "218",
+                            "y": "116"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "الاینر، گاید، ترنسفر تری"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M781 148 v26",
+                        "stroke": "#2E9E6B",
+                        "stroke-width": "2.4"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "rect",
+                          "attributes": {
+                            "fill": "#2E9E6B",
+                            "stroke": "#2E9E6B",
+                            "stroke-width": "2",
+                            "x": "654",
+                            "y": "176",
+                            "width": "202",
+                            "height": "60"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "#2E9E6B",
+                            "x": "836",
+                            "y": "200"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کنترل ۱، کیفیت اسکن"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "836",
+                            "y": "222"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پیش از ارسال — ارزان‌ترین اصلاح"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M369 148 v26",
+                        "stroke": "#2E9E6B",
+                        "stroke-width": "2.4"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "rect",
+                          "attributes": {
+                            "fill": "#2E9E6B",
+                            "stroke": "#2E9E6B",
+                            "stroke-width": "2",
+                            "x": "242",
+                            "y": "176",
+                            "width": "216",
+                            "height": "60"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "#2E9E6B",
+                            "x": "438",
+                            "y": "200"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کنترل ۲، بازبینی طرح"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "438",
+                            "y": "222"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "IPR، اکسپنشن، موقعیت انسیزور"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "d": "M840 148 C 880 190 880 250 500 252 C 300 252 200 200 163 148",
+                        "fill": "none",
+                        "stroke": "#C4564E",
+                        "stroke-width": "2.2"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "#C4564E",
+                        "x": "520",
+                        "y": "272"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خطای هر مرحله بدون توقف به مرحله‌ی بعد می‌رود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "rect",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.4",
+                        "x": "24",
+                        "y": "284",
+                        "width": "832",
+                        "height": "30"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "836",
+                        "y": "304"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خروجی هر مرحله تمیز به نظر می‌رسد، حتی وقتی ورودی نادرست بوده — تنها بازبینی فعال خطا را آشکار می‌کند."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطای هر مرحله بدون توقف به مرحله‌ی بعد می‌رود — دو نقطه‌ی کنترل، ابتدا و انتهای زنجیره را پوشش می‌دهند."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:13649",
+      "sourceId": "13649",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "007a3a006ad83a4ddd090b57fddd6d4331f7e083925aaef2cf63fd6e20746a22",
+      "position": 4,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "طبق اصل ALARA، ......... پرتو را تا جایی که به‌طور معقول ممکن است پایین نگه می‌داری؛ پس CBCT را فقط وقتی بگیر که پاسخش تصمیمت را عوض کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "طبق اصل ALARA، ......... پرتو را تا جایی که به‌طور معقول ممکن است پایین نگه می‌داری؛ پس CBCT را فقط وقتی بگیر که پاسخش تصمیمت را عوض کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "د"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "دوز",
+        "explanation": "این اصل، به‌ویژه در کودک، مرز میان تصویربرداری موجه و غیرموجه را می‌کشد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این اصل، به‌ویژه در کودک، مرز میان تصویربرداری موجه و غیرموجه را می‌کشد."
+          }
+        ],
+        "observedAt": "2026-11-17T00:54:23.600Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 3,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ز"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "و"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "د"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:13653",
+      "sourceId": "13653",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "91a0442355078be4e98e057d3112b1345806c96ce793965dbafdf33dfe380a1c",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "پایش از راه دور در ارتودنسی چه امکانی می‌دهد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پایش از راه دور در ارتودنسی چه امکانی می‌دهد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حذف کامل ویزیت حضوری در درمان با الاینر، چون نشستن الاینر از روی عکس گوشی سنجیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارزیابی پیشرفت از روی تصاویری که بیمار می‌فرستد و تنظیم فاصله‌ی ویزیت‌ها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ادامه‌ی درمان بدون درمانگر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تشخیص خودکار پوسیدگی و بیماری پریودنتال از روی عکس‌های بیمار بدون نیاز به معاینه"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8762cb342e61c5b7413f2d17627aed38f91aa28e45d00f39f33604b72a14ec5b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حذف کامل ویزیت حضوری در درمان با الاینر، چون نشستن الاینر از روی عکس گوشی سنجیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حذف کامل ویزیت حضوری در درمان با الاینر، چون نشستن الاینر از روی عکس گوشی سنجیده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "5af6fb271f868550fb18a515de84d3b31ac66a65aceb1607b939dc1e09ce0f79",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ارزیابی پیشرفت از روی تصاویری که بیمار می‌فرستد و تنظیم فاصله‌ی ویزیت‌ها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ارزیابی پیشرفت از روی تصاویری که بیمار می‌فرستد و تنظیم فاصله‌ی ویزیت‌ها"
+            }
+          ]
+        },
+        {
+          "id": "ed21fac343cbe6ce3d7563b428c44325b53f4d398b6f49015a635175e31ebea4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ادامه‌ی درمان بدون درمانگر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ادامه‌ی درمان بدون درمانگر"
+            }
+          ]
+        },
+        {
+          "id": "342a0dda991d30bc340ce3406cafd46cdcc16528ceb73a56205be0003f1c938a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تشخیص خودکار پوسیدگی و بیماری پریودنتال از روی عکس‌های بیمار بدون نیاز به معاینه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تشخیص خودکار پوسیدگی و بیماری پریودنتال از روی عکس‌های بیمار بدون نیاز به معاینه"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5af6fb271f868550fb18a515de84d3b31ac66a65aceb1607b939dc1e09ce0f79"
+        ],
+        "explanation": "ارزش این ابزار در بهینه کردن زمان‌بندی است: ویزیت وقتی انجام شود که واقعاً لازم است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "ارزش این ابزار در بهینه کردن زمان‌بندی است: ویزیت وقتی انجام شود که واقعاً لازم است."
+          }
+        ],
+        "observedAt": "2026-11-17T00:54:32.922Z"
+      }
+    },
+    {
+      "id": "question:13656",
+      "sourceId": "13656",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "409a361328cadc22251cd803f7769600c79bef733fb5b3c3a2a6f9be2b36151a",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "درمانگری تحلیل سفالومتریک خودکار را بدون بازبینی لندمارک‌ها مبنای طرح درمان قرار می‌دهد. خطر اصلی چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "درمانگری تحلیل سفالومتریک خودکار را بدون بازبینی لندمارک‌ها مبنای طرح درمان قرار می‌دهد. خطر اصلی چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطای احتمالی یک لندمارک در چند شاخص پخش می‌شود و طرح روی داده‌ی نادرست بنا می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کندی کار، چون نرم‌افزار برای هر تصویر تازه باید دوباره روی داده‌های جدید آموزش ببیند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هزینه‌ی بیشتر، چون هر تحلیل خودکار جداگانه از اعتبار اشتراک سالانه‌ی نرم‌افزار کم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نارضایتی بیمار، چون گزارش خودکار زبان فنی دارد و با توضیح درمانگر ناهمخوان به نظر می‌رسد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a5a052026711c1a357ced9332fdabb20840006ed209c0142faabe468a43d3171",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "خطای احتمالی یک لندمارک در چند شاخص پخش می‌شود و طرح روی داده‌ی نادرست بنا می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطای احتمالی یک لندمارک در چند شاخص پخش می‌شود و طرح روی داده‌ی نادرست بنا می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "474ae97b0abf4765ac7683c9bfef909ce7a52772b1df3e080a4ae91a88e8f4d1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کندی کار، چون نرم‌افزار برای هر تصویر تازه باید دوباره روی داده‌های جدید آموزش ببیند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کندی کار، چون نرم‌افزار برای هر تصویر تازه باید دوباره روی داده‌های جدید آموزش ببیند"
+            }
+          ]
+        },
+        {
+          "id": "e6075aefd37be2038d2ac92ae5658d2eb34905454572cda230fc7f2e2ba6cbcc",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هزینه‌ی بیشتر، چون هر تحلیل خودکار جداگانه از اعتبار اشتراک سالانه‌ی نرم‌افزار کم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هزینه‌ی بیشتر، چون هر تحلیل خودکار جداگانه از اعتبار اشتراک سالانه‌ی نرم‌افزار کم می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "ca49d2ebc007e52a4cd5165e6efac8cebf80249482433322c3252268eed3ad96",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نارضایتی بیمار، چون گزارش خودکار زبان فنی دارد و با توضیح درمانگر ناهمخوان به نظر می‌رسد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نارضایتی بیمار، چون گزارش خودکار زبان فنی دارد و با توضیح درمانگر ناهمخوان به نظر می‌رسد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a5a052026711c1a357ced9332fdabb20840006ed209c0142faabe468a43d3171"
+        ],
+        "explanation": "درست! خطا در سطح داده رخ می‌دهد و در همه‌ی شاخص‌های وابسته منتشر می‌شود — و خروجی همچنان تمیز و قابل اتکا به نظر می‌رسد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست! خطا در سطح داده رخ می‌دهد و در همه‌ی شاخص‌های وابسته منتشر می‌شود — و خروجی همچنان تمیز و قابل اتکا به نظر می‌رسد."
+          }
+        ],
+        "observedAt": "2026-11-17T00:54:38.712Z"
+      }
+    },
+    {
+      "id": "question:13659",
+      "sourceId": "13659",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "e73998cd012d9f354980e720da238dbe703f3d9f56b7ad575972dd14f89b82d7",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دو قاعده‌ی حفاظت از زنجیره‌ی دیجیتال: کنترل کیفیت اسکن در همان جلسه، و پذیرفتن خروجی خودکار هنگامی که نرم‌افزار درجه‌ی اطمینان بالایی برای آن گزارش می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دو قاعده‌ی حفاظت از زنجیره‌ی دیجیتال: کنترل کیفیت اسکن در همان جلسه، و پذیرفتن خروجی خودکار هنگامی که نرم‌افزار درجه‌ی اطمینان بالایی برای آن گزارش می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "گزاره نادرست است؛ قاعده‌ی دوم بازبینی هر خروجی خودکار پیش از تأیید است، صرف‌نظر از درجه‌ی اطمینانی که نرم‌افزار گزارش می‌کند. آن عدد می‌گوید الگو چقدر به داده‌های آموزشی شبیه است، نه اینکه نتیجه برای این بیمار درست است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "گزاره نادرست است؛ قاعده‌ی دوم "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بازبینی هر خروجی خودکار پیش از تأیید"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است، صرف‌نظر از درجه‌ی اطمینانی که نرم‌افزار گزارش می‌کند. آن عدد می‌گوید الگو چقدر به داده‌های آموزشی شبیه است، نه اینکه نتیجه برای این بیمار درست است."
+          }
+        ],
+        "observedAt": "2026-11-17T00:54:57.167Z"
+      }
+    },
+    {
+      "id": "question:13661",
+      "sourceId": "13661",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 77.7778%;",
+      "contentKey": "10dc2cadd36f87ea89831b9f22878c45c349a3b30232ab68c4f7a1fe6607ea89",
+      "position": 8,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "ابزارهای خودکار در ارتودنسی، ......... هستند نه تصمیم‌گیرنده.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ابزارهای خودکار در ارتودنسی، ......... هستند نه تصمیم‌گیرنده."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "د"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "د"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "د"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ه"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "پیشنهاددهنده",
+        "explanation": "این تمایز، هم استفاده‌ی مؤثر از ابزار را ممکن می‌کند و هم مسئولیت حرفه‌ای را در جای خودش نگه می‌دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این تمایز، هم استفاده‌ی مؤثر از ابزار را ممکن می‌کند و هم مسئولیت حرفه‌ای را در جای خودش نگه می‌دارد."
+          }
+        ],
+        "observedAt": "2026-11-17T00:55:00.958Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 12,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "د"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ه"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ن"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ه"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "پ"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "د"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "ش"
+          },
+          {
+            "key": "7",
+            "position": 8,
+            "text": "ا"
+          },
+          {
+            "key": "8",
+            "position": 9,
+            "text": "ی"
+          },
+          {
+            "key": "9",
+            "position": 10,
+            "text": "د"
+          },
+          {
+            "key": "10",
+            "position": 11,
+            "text": "ن"
+          },
+          {
+            "key": "11",
+            "position": 12,
+            "text": "ه"
+          }
+        ]
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:0756b7db3f2b4da8cc08de3180c206ec0e63f7c1f11eaeb042d35cdec4db3975",
+      "at": "2026-11-17T00:54:11.749Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:bf96850fd8bac038683e13076f5834a16161dc6e989d6f29441f6b9d4e41cbfb",
+      "at": "2026-11-17T00:54:13.305Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:c03874f2b5b91433b1d51afc225c4adfa6b1cd8ae5ac9b69fdf6f19bd2893253",
+      "at": "2026-11-17T00:54:14.905Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:13649",
+      "at": "2026-11-17T00:54:16.475Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:13653",
+      "at": "2026-11-17T00:54:25.189Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:13656",
+      "at": "2026-11-17T00:54:34.474Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:13659",
+      "at": "2026-11-17T00:54:40.286Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:13661",
+      "at": "2026-11-17T00:54:45.680Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:13659",
+      "at": "2026-11-17T00:54:55.250Z",
+      "progress": "width: 80%;"
+    },
+    {
+      "stepId": "question:13661",
+      "at": "2026-11-17T00:54:58.783Z",
+      "progress": "width: 90%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

@@ -1,0 +1,1602 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/545/lesson.json",
+  "id": "545",
+  "title": "درس پنجم: روش‌های تأمین فضا و جمع‌بندی آنالیز",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "122",
+    "title": "یونیت 2.3: آنالیز مدل و فضا",
+    "position": 7
+  },
+  "position": 5,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:7ed61dc6cce361486ddd6b589f1340cd23ffae063ce7cbd584dffad3bbc92603",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "1e99e3afa711cb3588e09a36e0ec2e891e703f79b916ee3f6a9095771fdde9c9",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چهار راه برای ساختن فضا"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "روش"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فضای تقریبی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هزینه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "IPR"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حداکثر حدود ۳ تا ۴ میلی‌متر در قدامی‌ها"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کاهش برگشت‌ناپذیر مینا"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "اکسپنشن"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۰٫۷ میلی‌متر محیط قوس به‌ازای هر ۱ میلی‌متر افزایش عرض بین‌پرمولری"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ثبات، خطر تحلیل لثه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "پروکلیناسیون"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۲ میلی‌متر به‌ازای هر ۱ میلی‌متر جلو آمدن"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ثبات، پوشش پلیت باکال"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "کشیدن دندان"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۷ میلی‌متر به‌ازای هر پرمولر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "برگشت‌ناپذیر، اثر بر پروفایل"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هر ردیف این جدول یک "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "معامله"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، نه یک گزینه‌ی رایگان."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و ترتیب انتخاب معمولاً از کم‌هزینه‌ترین به پرهزینه‌ترین است — با یک استثنا: اگر پروفایل از ابتدا رترکشن را ایجاب کند، کشیدن دندان از همان اول انتخاب درست است، نه آخرین راه."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:547a3b530af9df41dc963c8e2c5b9032712969daf70ef9f0d7ec4494c3016c9b",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "91f1b3d910836e484c74b67935465dacfa063253e13c843f865e6284958cfd5b",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "IPR: قواعد ایمنی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضخامت مینای پروگزیمال قدامی پایین محدود است — حداکثر حدود "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰٫۲۵ میلی‌متر از هر سطح"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، یعنی حدود ۰٫۵ میلی‌متر از عرض هر انسیزور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پس از IPR حتماً "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پالیش و فلوراید موضعی"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در بیمار با خطر بالای پوسیدگی یا مینای نازک، محتاط باش"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 مزیت پنهان IPR: با پهن کردن سطوح تماس، "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثبات"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قدامی‌ها را هم بهبود می‌دهد — و هم‌زمان خطر مثلث لثه‌ای سیاه را کم می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دو خطای رایج در اجرا. اول، "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایجاد پله یا شیار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به‌جای سطح صاف — که هم تجمع پلاک می‌سازد و هم لغزش دندان‌ها را دشوار می‌کند. دوم، انجام همه‌ی IPR در یک جلسه به‌جای توزیع آن در طول درمان."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یک قاعده‌ی ایمنی: مقدار کل IPR را از ابتدا محاسبه و در پرونده ثبت کن. بدون سقف مکتوب، مقدار برداشته‌شده به‌تدریج از حد ایمن می‌گذرد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:5c24f65a682a383adb39910b8e7588698d826c03e1e026c9e84fe65574006eca",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "2a8cc7876eb0b3abb5260873f8bb3608dfeefa88c52a0c2b36d2b2acbaac9432",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برگه آنالیز فضا: الگوی نهایی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ستون بدهکار — مصرف فضا:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کراودینگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صاف کردن منحنی اشپی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رترکشن انسیزور، در صورت نیاز"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ستون بستانکار — تأمین فضا:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فضای لی‌وی، در دوره‌ی مختلط"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "IPR"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اکسپنشن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن دندان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👈 تا این دو ستون تراز نشوند، طرح درمان کامل نیست."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ارزش این برگه در همین است که "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تراز نشدن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را آشکار می‌کند. بسیاری از کیس‌هایی که در فینیشینگ گیر می‌کنند، کیس‌هایی‌اند که این معادله از ابتدا چند میلی‌متر کسری داشته و کسی رویش حساب نکرده."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یک توصیه‌ی عملی: این برگه را برای هر بیمار پر کن و در پرونده بگذار — حتی وقتی کیس ساده به نظر می‌رسد. پنج دقیقه وقت می‌برد و مرز میان طرح درمان و حدس زدن است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:6527",
+      "sourceId": "6527",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "6d7c095017368ca94c7e231467391b952f6d730afd518577747145e01c9cca65",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "هر روش تأمین فضا هزینه‌ای دارد که باید در برابر سود آن سنجیده شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هر روش تأمین فضا هزینه‌ای دارد که باید در برابر سود آن سنجیده شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "IPR مینا را کم می‌کند، اکسپنشن ثبات را تهدید می‌کند و کشیدن برگشت‌ناپذیر است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "IPR مینا را کم می‌کند، اکسپنشن ثبات را تهدید می‌کند و کشیدن برگشت‌ناپذیر است."
+          }
+        ],
+        "observedAt": "2026-11-16T22:48:13.451Z"
+      }
+    },
+    {
+      "id": "question:6531",
+      "sourceId": "6531",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 44.4444%;",
+      "contentKey": "f0b353c4d3bc481e4595b3fed587ca844146b80f0aff1e8913c88b7527f36ff2",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در کدام بیمار باید در انجام IPR محتاط‌تر بود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در کدام بیمار باید در انجام IPR محتاط‌تر بود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار با بهداشت عالی و مینای ضخیم که پیش‌تر هیچ درمان ارتودنسی نداشته"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار با پروفایل صاف که کشیدن دندان و رترکشن برای او مناسب نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار با کراودینگ خفیف"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار با ریسک بالای پوسیدگی و سابقه‌ی پوسیدگی پروگزیمال متعدد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ea9e030543c2f9984106df2a341fc4203e6cc93a5f306ae5e29579b3e7761d4c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بیمار با بهداشت عالی و مینای ضخیم که پیش‌تر هیچ درمان ارتودنسی نداشته",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیمار با بهداشت عالی و مینای ضخیم که پیش‌تر هیچ درمان ارتودنسی نداشته"
+            }
+          ]
+        },
+        {
+          "id": "a0a1085b8cce32b8bee2949e4f1eb605f7e43d5b2778c7cbec2712045be65320",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بیمار با پروفایل صاف که کشیدن دندان و رترکشن برای او مناسب نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیمار با پروفایل صاف که کشیدن دندان و رترکشن برای او مناسب نیست"
+            }
+          ]
+        },
+        {
+          "id": "6e824edb093a8524256794aedaed289e77a6b57416ec07725df5068f076e45a6",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "بیمار با کراودینگ خفیف",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیمار با کراودینگ خفیف"
+            }
+          ]
+        },
+        {
+          "id": "fac3b6ba20fdb3b8b65a784e4c6488cb00d689018bc17d0b47cb2290c1bce35f",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بیمار با ریسک بالای پوسیدگی و سابقه‌ی پوسیدگی پروگزیمال متعدد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیمار با ریسک بالای پوسیدگی و سابقه‌ی پوسیدگی پروگزیمال متعدد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "fac3b6ba20fdb3b8b65a784e4c6488cb00d689018bc17d0b47cb2290c1bce35f"
+        ],
+        "explanation": "کاهش مینا در بیمار پرریسک، خطر پوسیدگی را بیشتر می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کاهش مینا در بیمار پرریسک، خطر پوسیدگی را بیشتر می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T22:47:53.313Z"
+      }
+    },
+    {
+      "id": "question:6532",
+      "sourceId": "6532",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 55.5556%;",
+      "contentKey": "74ca22045059c017709255e171a301de99654758405efa04b8f085252914aa5f",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "به‌طور تقریبی، هر یک میلی‌متر افزایش عرض بین‌پرمولری چقدر به محیط قوس اضافه می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "به‌طور تقریبی، هر یک میلی‌متر افزایش عرض بین‌پرمولری چقدر به محیط قوس اضافه می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۱٫۵ تا ۲ میلی‌متر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۲ تا ۳ میلی‌متر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۰٫۷ میلی‌متر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ فضایی ایجاد نمی‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "634a4ffa8254ca1d9fb8d5edf48bcf334c2ef030853191959998f454e0734905",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حدود ۱٫۵ تا ۲ میلی‌متر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۱٫۵ تا ۲ میلی‌متر"
+            }
+          ]
+        },
+        {
+          "id": "6b5f06c885bb9cea26c85e496ba3d2c99185cc327bf35bc1175b8b782655cf92",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "حدود ۲ تا ۳ میلی‌متر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۲ تا ۳ میلی‌متر"
+            }
+          ]
+        },
+        {
+          "id": "7f06d2fd45e42ac314eb3add42ab89e24d03fecf45106e51d38c78c92b5dd883",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "حدود ۰٫۷ میلی‌متر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۰٫۷ میلی‌متر"
+            }
+          ]
+        },
+        {
+          "id": "b965d7943b1b33afbf772feefb7179060ee37e1e022e48fd6b99fcc0a6252add",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هیچ فضایی ایجاد نمی‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ فضایی ایجاد نمی‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "7f06d2fd45e42ac314eb3add42ab89e24d03fecf45106e51d38c78c92b5dd883"
+        ],
+        "explanation": "بازده اکسپنشن کمتر از یک‌به‌یک است: هر میلی‌متر عرض بین‌پرمولری حدود ۰٫۷ میلی‌متر به محیط قوس می‌افزاید.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بازده اکسپنشن کمتر از یک‌به‌یک است: هر میلی‌متر عرض بین‌پرمولری حدود ۰٫۷ میلی‌متر به محیط قوس می‌افزاید."
+          }
+        ],
+        "observedAt": "2026-11-16T22:47:58.699Z"
+      }
+    },
+    {
+      "id": "question:6537",
+      "sourceId": "6537",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 66.6667%;",
+      "contentKey": "2dd6e017931ed4b7fe0217c1dcea7e6a30ce8101a45161c86d9eca3553da2338",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در قوس پایینی، کراودینگ ۴ میلی‌متر و عمق منحنی اشپی ۲ میلی‌متر است و درمانگر می‌خواهد بدون کشیدن دندان درمان کند. نیاز فضایی کل چقدر است و از کجا باید تأمین شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در قوس پایینی، کراودینگ ۴ میلی‌متر و عمق منحنی اشپی ۲ میلی‌متر است و درمانگر می‌خواهد بدون کشیدن دندان درمان کند. نیاز فضایی کل چقدر است و از کجا باید تأمین شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۴ میلی‌متر نیاز، چون منحنی اشپی هنگام ردیف شدن خودبه‌خود صاف می‌شود و فضا نمی‌خواهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیازی به فضا نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲ میلی‌متر نیاز"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۶ میلی‌متر نیاز که باید از ترکیب IPR و اکسپنشن محدود تأمین شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "cf6372deaad18431955c0f88f1075ff45bd508b4b702f36d7da26b9cc12a7634",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "۴ میلی‌متر نیاز، چون منحنی اشپی هنگام ردیف شدن خودبه‌خود صاف می‌شود و فضا نمی‌خواهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۴ میلی‌متر نیاز، چون منحنی اشپی هنگام ردیف شدن خودبه‌خود صاف می‌شود و فضا نمی‌خواهد"
+            }
+          ]
+        },
+        {
+          "id": "32319fc54cec7d5d093c6816a4607712aa4dfc38795f34d30e626b25d6122420",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "نیازی به فضا نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیازی به فضا نیست"
+            }
+          ]
+        },
+        {
+          "id": "ffd4f58a03a54e1593e7933410a688814fba2eed1287cab2d50f0058ae62c296",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "۲ میلی‌متر نیاز",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۲ میلی‌متر نیاز"
+            }
+          ]
+        },
+        {
+          "id": "1986c98cc273daf9ca932c1a00256fffac93a7cc83d24d1cacb90f0f3da0453b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "حدود ۶ میلی‌متر نیاز که باید از ترکیب IPR و اکسپنشن محدود تأمین شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۶ میلی‌متر نیاز که باید از ترکیب IPR و اکسپنشن محدود تأمین شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1986c98cc273daf9ca932c1a00256fffac93a7cc83d24d1cacb90f0f3da0453b"
+        ],
+        "explanation": "کراودینگ به‌علاوه‌ی هزینه‌ی منحنی اشپی، نیاز واقعی را نشان می‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کراودینگ به‌علاوه‌ی هزینه‌ی منحنی اشپی، نیاز واقعی را نشان می‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-16T22:48:04.107Z"
+      }
+    },
+    {
+      "id": "question:6540",
+      "sourceId": "6540",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 77.7778%;",
+      "contentKey": "0d9a7e4e959647a522c4662a0b08a27e67d24681c243cef93a6cfd2384ae41ec",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیماری با کمبود فضای ۹ میلی‌متری در قوس پایین، پروفایل محدب با لب‌های پیش‌آمده و انسیزورهای پایین از قبل پروکلاین دارد. منطقی‌ترین برنامه کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری با کمبود فضای ۹ میلی‌متری در قوس پایین، پروفایل محدب با لب‌های پیش‌آمده و انسیزورهای پایین از قبل پروکلاین دارد. منطقی‌ترین برنامه کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اکسپنشن و پروکلیناسیون بیشتر برای پرهیز از کشیدن، چون پروفایل محدب با جلو آمدن لب بهتر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط IPR در قوس پایین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن پرمولر و استفاده از فضا هم برای رفع کراودینگ و هم رترکشن قدامی‌ها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رها کردن کراودینگ تا پایان رشد و سپس ارزیابی دوباره‌ی پروفایل و نیاز به کشیدن"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0fdc9732d0f8e6a82fd4ed5517f82dcf560551cd137af6134a2370e13c961059",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اکسپنشن و پروکلیناسیون بیشتر برای پرهیز از کشیدن، چون پروفایل محدب با جلو آمدن لب بهتر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اکسپنشن و پروکلیناسیون بیشتر برای پرهیز از کشیدن، چون پروفایل محدب با جلو آمدن لب بهتر می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "baebb4996912e91fa7aac26ff54e1b0860f2e785304a4fba1fcb5222bc69b3e6",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "فقط IPR در قوس پایین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط IPR در قوس پایین"
+            }
+          ]
+        },
+        {
+          "id": "c7193aa8c2395ceaeaf13da32a4f9eb93efaeacbe89c3bfbc72607a3fcb573e0",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کشیدن پرمولر و استفاده از فضا هم برای رفع کراودینگ و هم رترکشن قدامی‌ها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن پرمولر و استفاده از فضا هم برای رفع کراودینگ و هم رترکشن قدامی‌ها"
+            }
+          ]
+        },
+        {
+          "id": "bcbec588b3e5895141f366df112fcc1538c14ac455282be8e8cbd0688f55a998",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "رها کردن کراودینگ تا پایان رشد و سپس ارزیابی دوباره‌ی پروفایل و نیاز به کشیدن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رها کردن کراودینگ تا پایان رشد و سپس ارزیابی دوباره‌ی پروفایل و نیاز به کشیدن"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c7193aa8c2395ceaeaf13da32a4f9eb93efaeacbe89c3bfbc72607a3fcb573e0"
+        ],
+        "explanation": "هر سه یافته به یک سمت اشاره می‌کنند: کمبود شدید فضا، پروفایل محدب و انسیزورهای از پیش پروکلاین.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هر سه یافته به یک سمت اشاره می‌کنند: کمبود شدید فضا، پروفایل محدب و انسیزورهای از پیش پروکلاین."
+          }
+        ],
+        "observedAt": "2026-11-16T22:48:16.958Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:7ed61dc6cce361486ddd6b589f1340cd23ffae063ce7cbd584dffad3bbc92603",
+      "at": "2026-11-16T22:47:36.679Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:547a3b530af9df41dc963c8e2c5b9032712969daf70ef9f0d7ec4494c3016c9b",
+      "at": "2026-11-16T22:47:38.278Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:5c24f65a682a383adb39910b8e7588698d826c03e1e026c9e84fe65574006eca",
+      "at": "2026-11-16T22:47:39.842Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:6527",
+      "at": "2026-11-16T22:47:41.426Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:6531",
+      "at": "2026-11-16T22:47:49.493Z",
+      "progress": "width: 44.4444%;"
+    },
+    {
+      "stepId": "question:6532",
+      "at": "2026-11-16T22:47:54.916Z",
+      "progress": "width: 55.5556%;"
+    },
+    {
+      "stepId": "question:6537",
+      "at": "2026-11-16T22:48:00.319Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:6540",
+      "at": "2026-11-16T22:48:05.715Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:6527",
+      "at": "2026-11-16T22:48:11.582Z",
+      "progress": "width: 80%;"
+    },
+    {
+      "stepId": "question:6540",
+      "at": "2026-11-16T22:48:15.055Z",
+      "progress": "width: 90%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

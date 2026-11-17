@@ -1,0 +1,1661 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/567/lesson.json",
+  "id": "567",
+  "title": "درس چهارم: کنترل سه‌بعدی و اثرات جانبی ناخواسته",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "126",
+    "title": "یونیت 3.2: اصول بیومکانیک",
+    "position": 11
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:6a39bcf242815e67d787474d7c10df6b10f1d346861f47fd73bc18b7a9a38661",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "97aa8dc3362df5a37c1a84376b9ec43807f8e22a759cfd7c213f247ba2096d9d",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سه بُعد، سه کنترل"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بُعد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ابزار کنترل در براکت و سیم"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مزیودیستالی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "Tip"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " — آنگولیشن"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "باکولینگوالی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "Torque"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " — اینکلیناسیون"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "داخل-خارج"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "In-out"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " — ضخامت پایه‌ی براکت"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 پرسکریپشن براکت یعنی همین سه عدد که از پیش در براکت تعبیه شده‌اند تا نیازی به خم زدن دستی نباشد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و منشأ این ایده را در ماژول ۱ دیدیم: شش کلید اندروز، همین سه بُعد را به عدد تبدیل کرد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اما یک شرط دارد که همیشه گفته نمی‌شود: پرسکریپشن تنها زمانی درست عمل می‌کند که براکت در "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موقعیت دقیق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " روی تاج نشسته باشد. یک میلی‌متر خطا در ارتفاع براکت، هم ارتفاع نهایی دندان و هم تورک بیان‌شده را به‌طور محسوس تغییر می‌دهد: دندانی که براکتش جینجیوال‌تر چسبیده، با تسطیح سیم اکسترود می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "به همین دلیل باندینگ غیرمستقیم، بیش از یک راحتی است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:ed6ba28b5c0cea2a124bd2b258ff6333edd2bd8ed9518cff3b4ec6944aa370dd",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "fb41e4f924a862667b7a0943c6d46e164a88e2b534a3206957977aa0383fde21",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اثر گوه‌ای (Wedge effect)"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هر چیزی که ارتفاع خلفی را زیاد کند، مندیبل را حول کندیل "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ساعت‌گرد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌چرخاند:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چانه به عقب و پایین می‌رود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارتفاع صورت قدامی بیشتر می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اپن‌بایت بدتر و کلاس II تشدید می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ عوامل ایجاد اکستروژن خلفی ناخواسته: الاستیک کلاس II، منحنی معکوس اشپی، بایت‌پلین قدامی (که خلفی‌ها را آزاد می‌گذارد تا رویش کنند)، و حتی سیم مستطیلی سفت در قوس بالای گشاد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا این پدیده این‌قدر مهم است؟ چون "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اهرم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در کار است: هر ۱ میلی‌متر اکستروژن در ناحیه‌ی مولر، بایت قدامی را حدود ۲ میلی‌متر باز می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و همین اهرم است که در جهت معکوس، اینتروژن مولر با مینی‌اسکرو را به درمان مؤثر اپن‌بایت تبدیل می‌کند — یک پدیده، دو کاربرد متضاد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پس پیش از هر مکانیک عمودی، الگوی عمودی صورت (زاویه‌ی پلن مندیبولار یا FMA) را بخوان: در بیمار زاویه‌بالا اکستروژن خلفی دشمن است و کنترل عمودی (مثلاً هدگیر های‌پول یا مینی‌اسکرو) اولویت دارد؛ در بیمار زاویه‌پایین با دیپ‌بایت، همین اکستروژن می‌تواند به باز شدن بایت کمک کند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:db8da6ac9c9a4c0ba7ebc557cec78bb1cea4db604cfde3ca3594f5444a2a3597",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "c01950e2892d5fb47eb3bca7d7cb49a97fa1db3f732d3d240d74188e9f3f4631",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اثرات جانبی که باید از قبل پیش‌بینی کنی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حرکت هدف"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اثر جانبی رایج"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "الاستیک کلاس II"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اکستروژن مولر پایین، اکستروژن قدامی بالا، تیپینگ قدامی پایین"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بستن فضا با مکانیک اصطکاکی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تیپینگ کانین و از دست رفتن انکوریج مولر"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اکسپنشن با سیم"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تیپینگ باکالی تاج مولر، نه اکسپنشن اسکلتی (سوچور میدپالاتال در بزرگسال به نیروی سبک سیم پاسخ نمی‌دهد)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اینتروژن قدامی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پروکلیناسیون همان قدامی‌ها"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 هیچ‌کدام «خطا» نیستند — "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فیزیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "اند. کار تو پیش‌بینی و مهار آن‌هاست."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و هرکدام راه مهار مشخصی دارند: در الاستیک کلاس II، انتخاب بیمار هایپودایورجنت یا افزودن کنترل عمودی؛ در بستن فضا، تقویت انکوریج یا استفاده از مینی‌اسکرو؛ در اینتروژن قدامی، وارد کردن نیرو نزدیک‌تر به مرکز مقاومت یا سینچ‌بک کردن سیم."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نکته‌ی پایانی این یونیت: بیومکانیک به تو اجازه نمی‌دهد از این اثرها فرار کنی — اما اجازه می‌دهد "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتخاب کنی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کدامشان را بپذیری."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:7645",
+      "sourceId": "7645",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "80f391f016a77c0ac8a0186f6028c6b1d9882d0769293989c6852b7036f85c64",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام ویژگی براکت، شیب باکولینگوالی دندان را کنترل می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام ویژگی براکت، شیب باکولینگوالی دندان را کنترل می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "Torque"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "Tip"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "In-out"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارتفاع نصب"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b0343fba76a2326f351d4d5cfd29f6a9fa6315524c4f422ca77ecf3cdfe4cf5f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "Torque",
+          "content": [
+            {
+              "tag": "text",
+              "text": "Torque"
+            }
+          ]
+        },
+        {
+          "id": "232223f655829bc9c71da0ebc03689142b806f77f1c948a08d37c8efe3f9ec6d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "Tip",
+          "content": [
+            {
+              "tag": "text",
+              "text": "Tip"
+            }
+          ]
+        },
+        {
+          "id": "616eb467171d6388bbe092a9b7cdd94cf7f3ad83a6a932b74fe302ee3fa5deb7",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "In-out",
+          "content": [
+            {
+              "tag": "text",
+              "text": "In-out"
+            }
+          ]
+        },
+        {
+          "id": "fdb5d79dab2584e2436801d88e2c1b8865aefce12dd6da7c4b88b09a043743c0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ارتفاع نصب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ارتفاع نصب"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "b0343fba76a2326f351d4d5cfd29f6a9fa6315524c4f422ca77ecf3cdfe4cf5f"
+        ],
+        "explanation": "تورک همان اینکلیناسیون باکولینگوالی است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تورک همان اینکلیناسیون باکولینگوالی است."
+          }
+        ],
+        "observedAt": "2026-11-16T23:09:41.924Z"
+      }
+    },
+    {
+      "id": "question:7650",
+      "sourceId": "7650",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "29e8904dc9aa5b9f04f92d6327daadc39609af26cb0d6b5ee09ef6a4940f5b19",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار کلاس II با FMA برابر ۳۸ درجه و اپن‌بایت خفیف. درمانگر می‌خواهد از الاستیک کلاس II با نیروی بالا استفاده کند. ارزیابی درست کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار کلاس II با FMA برابر ۳۸ درجه و اپن‌بایت خفیف. درمانگر می‌خواهد از الاستیک کلاس II با نیروی بالا استفاده کند. ارزیابی درست کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتخاب مناسبی است؛ اکستروژن قدامی بالا لبه‌ها را به هم می‌رساند و اپن‌بایت را همزمان با اورجت می‌بندد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینتروژن مولر پایین ایجاد می‌کند و بایت خلفی را می‌بندد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطرناک است؛ اکستروژن ناشی از آن مندیبل را ساعتگرد می‌چرخاند و اپن‌بایت و کلاس II بدتر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ اثر عمودی ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "cbc23dc913ac95ca1af3eba98ab9c87fa5398ed1a2a95217d61a63b5d1c69ef2",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "انتخاب مناسبی است؛ اکستروژن قدامی بالا لبه‌ها را به هم می‌رساند و اپن‌بایت را همزمان با اورجت می‌بندد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انتخاب مناسبی است؛ اکستروژن قدامی بالا لبه‌ها را به هم می‌رساند و اپن‌بایت را همزمان با اورجت می‌بندد"
+            }
+          ]
+        },
+        {
+          "id": "9bb2416bfae893dd61ff0f264dce38a0ef17fbb71da2d1f607e2873752a44bb7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اینتروژن مولر پایین ایجاد می‌کند و بایت خلفی را می‌بندد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینتروژن مولر پایین ایجاد می‌کند و بایت خلفی را می‌بندد"
+            }
+          ]
+        },
+        {
+          "id": "7939fdd049433f1e31de462b67dad48151359893968fbdbb6efc2a995f9eab45",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "خطرناک است؛ اکستروژن ناشی از آن مندیبل را ساعتگرد می‌چرخاند و اپن‌بایت و کلاس II بدتر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطرناک است؛ اکستروژن ناشی از آن مندیبل را ساعتگرد می‌چرخاند و اپن‌بایت و کلاس II بدتر می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "76d9c4825f0735d990699d8e771aa5ae025df67099149f0de85f2121be60dd50",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هیچ اثر عمودی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ اثر عمودی ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "7939fdd049433f1e31de462b67dad48151359893968fbdbb6efc2a995f9eab45"
+        ],
+        "explanation": "در FMA بالا، الاستیک کلاس II پرقدرت یکی از خطرناک‌ترین انتخاب‌هاست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در FMA بالا، الاستیک کلاس II پرقدرت یکی از خطرناک‌ترین انتخاب‌هاست."
+          }
+        ],
+        "observedAt": "2026-11-16T23:10:07.703Z"
+      }
+    },
+    {
+      "id": "question:7653",
+      "sourceId": "7653",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 55.5556%;",
+      "contentKey": "f4675a9c7bcef282de3cc0e19de68636967dcc69af07a55dc56ab5b8e1f1d555",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "پس از اینتروژن قدامی‌های بالا برای اصلاح دیپ‌بایت، مشاهده می‌شود این دندان‌ها پروکلاین‌تر شده‌اند. علت چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پس از اینتروژن قدامی‌های بالا برای اصلاح دیپ‌بایت، مشاهده می‌شود این دندان‌ها پروکلاین‌تر شده‌اند. علت چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطای اندازه‌گیری روی سفالوگرام، چون اینتروژن زاویه‌ی انسیزور را به‌هیچ‌وجه تغییر نمی‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی اینتروژن اگر از جلوی مرکز مقاومت عبور کند، ممان پروکلیناسیون تولید می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دندان‌ها آنکیلوزه شده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیم اینتروژن بیش از حد نازک بوده و زیر نیرو تغییر شکل داده؛ باید سیم ضخیم‌تر گذاشت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e1be96bbb5bc27b0aad774d39df0137f05955cf7f5c84862c82d428347ec537e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "خطای اندازه‌گیری روی سفالوگرام، چون اینتروژن زاویه‌ی انسیزور را به‌هیچ‌وجه تغییر نمی‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطای اندازه‌گیری روی سفالوگرام، چون اینتروژن زاویه‌ی انسیزور را به‌هیچ‌وجه تغییر نمی‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "56dfc2496589bfd4697200c6f109851543fab1d26f3363a45b5b9e191426aa6b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "نیروی اینتروژن اگر از جلوی مرکز مقاومت عبور کند، ممان پروکلیناسیون تولید می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیروی اینتروژن اگر از جلوی مرکز مقاومت عبور کند، ممان پروکلیناسیون تولید می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "88ec054c0ab176d48a8ad03161cf88815cecc73fd03e9ca004921904fe74934a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دندان‌ها آنکیلوزه شده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دندان‌ها آنکیلوزه شده‌اند"
+            }
+          ]
+        },
+        {
+          "id": "85229ff9d557b925cafba6f2ed6279bff935958cc583ea3d7f77d8b6c6aa0633",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سیم اینتروژن بیش از حد نازک بوده و زیر نیرو تغییر شکل داده؛ باید سیم ضخیم‌تر گذاشت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سیم اینتروژن بیش از حد نازک بوده و زیر نیرو تغییر شکل داده؛ باید سیم ضخیم‌تر گذاشت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "56dfc2496589bfd4697200c6f109851543fab1d26f3363a45b5b9e191426aa6b"
+        ],
+        "explanation": "این اثر جانبی شناخته‌شده‌ی اینتروژن قدامی است؛ با نزدیک کردن نقطه‌ی اعمال نیرو به مرکز مقاومت یا سینچ‌بک کردن سیم مهار می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این اثر جانبی شناخته‌شده‌ی اینتروژن قدامی است؛ با نزدیک کردن نقطه‌ی اعمال نیرو به مرکز مقاومت یا سینچ‌بک کردن سیم مهار می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-16T23:09:52.992Z"
+      }
+    },
+    {
+      "id": "question:7656",
+      "sourceId": "7656",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 66.6667%;",
+      "contentKey": "721b2b1ae99d4884b7428a41e3eece338911542ad685fae4c75834ad5964b41d",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در کیسی که اکستروژن مولر مطلوب است (دیپ‌بایت با صورت کوتاه)، اثر گوه‌ای الاستیک کلاس II چگونه ارزیابی می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در کیسی که اکستروژن مولر مطلوب است (دیپ‌بایت با صورت کوتاه)، اثر گوه‌ای الاستیک کلاس II چگونه ارزیابی می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همچنان مضر است و باید با TAD یا هدگیر های‌پول از همان ابتدا حذف شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در این بیمار هم اپن‌بایت شدید قدامی ایجاد می‌کند و باید از آن پرهیز کرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بی‌اثر است، چون الاستیک کلاس II فقط اثر ساژیتال دارد و مؤلفه‌ی عمودی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "می‌تواند مفید باشد و به بازکردن بایت و بهبود ارتفاع صورت کمک کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "820e48b605f1e6df60ba22bafeec78a90444b20564669d68e925b9aa9fc4943c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "همچنان مضر است و باید با TAD یا هدگیر های‌پول از همان ابتدا حذف شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همچنان مضر است و باید با TAD یا هدگیر های‌پول از همان ابتدا حذف شود"
+            }
+          ]
+        },
+        {
+          "id": "455a395b595baaba9b6bd998d7bb73244f84d9142de89b13e47a1e624146f322",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "در این بیمار هم اپن‌بایت شدید قدامی ایجاد می‌کند و باید از آن پرهیز کرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در این بیمار هم اپن‌بایت شدید قدامی ایجاد می‌کند و باید از آن پرهیز کرد"
+            }
+          ]
+        },
+        {
+          "id": "919a55d26c195726d307b1f92e8aa05d04cb32c675a2adfe8bfbc87c20b9510f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "بی‌اثر است، چون الاستیک کلاس II فقط اثر ساژیتال دارد و مؤلفه‌ی عمودی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بی‌اثر است، چون الاستیک کلاس II فقط اثر ساژیتال دارد و مؤلفه‌ی عمودی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "9f86e134d97ec43a401f27b56d6d8ff84366855184576a9cdeb4f488bd3e15a0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "می‌تواند مفید باشد و به بازکردن بایت و بهبود ارتفاع صورت کمک کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "می‌تواند مفید باشد و به بازکردن بایت و بهبود ارتفاع صورت کمک کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9f86e134d97ec43a401f27b56d6d8ff84366855184576a9cdeb4f488bd3e15a0"
+        ],
+        "explanation": "همان اثری که در زاویه بالا مضر است، در زاویه پایین می‌تواند مفید باشد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همان اثری که در زاویه بالا مضر است، در زاویه پایین می‌تواند مفید باشد."
+          }
+        ],
+        "observedAt": "2026-11-16T23:09:58.875Z"
+      }
+    },
+    {
+      "id": "question:7657",
+      "sourceId": "7657",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 77.7778%;",
+      "contentKey": "9d29dbe875d6a264f03f05a02ad2179c49d9005a2f7651f1ed7e2b35fd79f666",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام عامل تشخیصی بیشترین تأثیر را بر انتخاب مکانیک عمودی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام عامل تشخیصی بیشترین تأثیر را بر انتخاب مکانیک عمودی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعداد و اندازه‌ی ترمیم‌های اکلوزالی روی مولرها و پرمولرها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رنگ دندان‌ها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الگوی عمودی صورت (زاویه پلن مندیبولار / FMA)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سن تقویمی بیمار در زمان شروع درمان ارتودنسی ثابت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "54036c3eb0c73d11dea11c493656f8baf02858442aba4c1f55f3e756371127a1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تعداد و اندازه‌ی ترمیم‌های اکلوزالی روی مولرها و پرمولرها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تعداد و اندازه‌ی ترمیم‌های اکلوزالی روی مولرها و پرمولرها"
+            }
+          ]
+        },
+        {
+          "id": "e9bc5beea1ebdd11a8237071359357f910a9dc205fc84992db5aefde4393e40c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "رنگ دندان‌ها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رنگ دندان‌ها"
+            }
+          ]
+        },
+        {
+          "id": "07e72c19b317673b7441e0a730f96adbd8e806993ae48fd289d49ab322cdb151",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "الگوی عمودی صورت (زاویه پلن مندیبولار / FMA)",
+          "content": [
+            {
+              "tag": "text",
+              "text": "الگوی عمودی صورت (زاویه پلن مندیبولار / FMA)"
+            }
+          ]
+        },
+        {
+          "id": "8c58c8412ed428bdee61eb8cbf1a1338538ba9af1cd49462087f6f2b2d3a0d96",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سن تقویمی بیمار در زمان شروع درمان ارتودنسی ثابت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سن تقویمی بیمار در زمان شروع درمان ارتودنسی ثابت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "07e72c19b317673b7441e0a730f96adbd8e806993ae48fd289d49ab322cdb151"
+        ],
+        "explanation": "بُعد عمودی تعیین می‌کند اکستروژن به نفع توست یا به ضررت.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بُعد عمودی تعیین می‌کند اکستروژن به نفع توست یا به ضررت."
+          }
+        ],
+        "observedAt": "2026-11-16T23:10:04.264Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:6a39bcf242815e67d787474d7c10df6b10f1d346861f47fd73bc18b7a9a38661",
+      "at": "2026-11-16T23:09:29.432Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:ed6ba28b5c0cea2a124bd2b258ff6333edd2bd8ed9518cff3b4ec6944aa370dd",
+      "at": "2026-11-16T23:09:31.014Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:db8da6ac9c9a4c0ba7ebc557cec78bb1cea4db604cfde3ca3594f5444a2a3597",
+      "at": "2026-11-16T23:09:32.582Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:7645",
+      "at": "2026-11-16T23:09:34.176Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:7650",
+      "at": "2026-11-16T23:09:43.485Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:7653",
+      "at": "2026-11-16T23:09:49.129Z",
+      "progress": "width: 55.5556%;"
+    },
+    {
+      "stepId": "question:7656",
+      "at": "2026-11-16T23:09:54.623Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:7657",
+      "at": "2026-11-16T23:10:00.473Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:7650",
+      "at": "2026-11-16T23:10:05.828Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

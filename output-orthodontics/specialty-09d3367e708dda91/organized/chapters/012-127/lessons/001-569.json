@@ -1,0 +1,1740 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/569/lesson.json",
+  "id": "569",
+  "title": "درس اول: خواص مکانیکی سیم ارتودنسی",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "127",
+    "title": "یونیت 3.3: سیم‌ها و آلیاژهای ارتودنسی",
+    "position": 12
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:91b67c35a9673df58d20e2166aedab738e154cc4bd431065d360e40bf59acaac",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "bda8776bc5b4b76711e4c5c8b0b0837fb27259f50be4c5dd1e8cf003b03766df",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سه خاصیتی که سیم را تعریف می‌کنند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هر سیم ارتودنسی را با سه عدد می‌شناسیم. این سه، مستقل نیستند و رابطه‌ای ساده آن‌ها را به هم می‌بندد."
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "خاصیت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "یعنی چه"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "در بالین"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "Strength"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (استحکام)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حداکثر نیرویی که سیم می‌تواند بدهد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "چقدر می‌تواند کار کند"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "Stiffness"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (سفتی)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "شیب منحنی نیرو-تغییرشکل"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "چقدر نیرو به‌ازای هر میلی‌متر"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "Range"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "text",
+                              "text": " (دامنه)"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تا چه حد خم شود و برگردد"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "چقدر بی‌نظمی را تحمل می‌کند"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 رابطه‌ی کلیدی: "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "Strength = Stiffness × Range"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "معنای بالینی این ضرب مهم است: استحکام یک سیم را می‌توان از دو راه کاملاً متفاوت به دست آورد. سیمی سفت با دامنه‌ی کم، و سیمی نرم با دامنه‌ی بلند، ممکن است استحکام یکسانی داشته باشند اما رفتار بالینی‌شان هیچ شباهتی به هم ندارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در فاز تراز، سفتی کم و دامنه‌ی بلند می‌خواهیم؛ در فاز پایانی، درست برعکس. پس هیچ‌وقت سیم را با یک عدد نسنج."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/BF-ORTHO-17.webp",
+                  "alt": "جدول مقایسه‌ی مدول الاستیسیته و سختی نسبی آلیاژهای ارتودنسی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/fad906834070b5f7c9db8c18b517c341bf0db8c6ce603ab2cb1f103386b2d785.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سختی نسبی آلیاژها نسبت به استیل: استنلس استیل ۱٫۰۰، کبالت-کروم ۰٫۹۷، بتاتیتانیوم ۰٫۳۶، A-NiTi ۰٫۴۱، M-NiTi ۰٫۱۷. همین جدول توضیح می‌دهد چرا توالی سیم از NiTi شروع می‌شود و به استیل می‌رسد. "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مأخذ: Proffit, Contemporary Orthodontics, 7th ed, Table 9.2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:b07afe7b1b21035af5630e07303ed7fe54bee929df29433cfdb20ae4583ca465",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "8dcab991d99c26cc4e502b08bdd62c5a5e30e7884f39bff0d170f5ec14265377",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سیم ایده‌آل چه ویژگی‌هایی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اگر می‌شد سیم دلخواه را سفارش داد، فهرست خواسته‌ها این بود:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سفتی کم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ⬅️ نیروی سبک و ملایم، در محدوده‌ی بیولوژیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "دامنه‌ی زیاد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ⬅️ در کراودینگ شدید هم فعال بماند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "Formability"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ⬅️ بتوان خم زد بدون شکستن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مقاومت به خوردگی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ⬅️ در محیط مرطوب و اسیدی دهان دوام بیاورد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قابلیت جوش و لحیم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ⬅️ بتوان اجزای کمکی را به آن متصل کرد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اصطکاک کم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ⬅️ در مکانیک لغزشی نیرو هدر نرود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ هیچ سیمی همه‌ی این‌ها را با هم ندارد و این تصادفی نیست: چند مورد از این خواسته‌ها ذاتاً با هم در تضادند. رزیلینس بالا و دامنه‌ی بلند معمولاً با فرم‌پذیری پایین می‌آیند، و سیمی که خوب خم می‌شود معمولاً سفت است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 پاسخ ارتودنسی به این تضاد، جست‌وجوی سیم کامل نیست — "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توالی سیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است. در هر فاز، آلیاژی به کار می‌رود که خواسته‌ی همان فاز را برآورده کند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:2bb7af6356f6ba273bbb51c04ba130b071dffe39d1aabdb05093d8a3da37940b",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "40b44f7b43dea1806436c01eff56398344fa419201ad34250b99cd7578ea5d74",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اثر قطر و طول: دو اهرم قدرتمند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پیش از انتخاب آلیاژ، دو متغیر هندسی وجود دارند که اثرشان بر رفتار سیم از خودِ جنس آن هم بیشتر است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "برای سیم گرد:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفتی با "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "توان چهارم قطر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تغییر می‌کند ⬅️ دو برابر کردن قطر، سفتی را "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۶ برابر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفتی با "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "توان سوم طول"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " نسبت عکس دارد ⬅️ دو برابر کردن طول، سفتی را "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۸ برابر کم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هر دو رابطه توانی‌اند، نه خطی — و همین است که آن‌ها را به دو اهرم قدرتمند تبدیل می‌کند. تفاوت میان سیم ۰٫۰۱۶ و ۰٫۰۱۸ در نگاه اول ناچیز به نظر می‌رسد، اما سفتی — و نیرویی که به دندان می‌رسد — حدود ۱٫۶ برابر می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 به همین دلیل "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لوپ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌زنیم: لوپ طول مؤثر سیم میان دو براکت را زیاد می‌کند و در نتیجه نیرو را به‌شدت سبک‌تر و دامنه را بیشتر می‌کند — بدون آنکه آلیاژ عوض شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در سیم مستطیلی، بُعدی که در جهت خم قرار می‌گیرد تعیین‌کننده‌ی اصلی رفتار سیم است؛ به همین دلیل ۰٫۰۱۹×۰٫۰۲۵ و ۰٫۰۱۷×۰٫۰۲۵ رفتار متفاوتی دارند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:7701",
+      "sourceId": "7701",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "791bee304249a80662723e79c647627c6d0f604175cae8af1a89385e62ce90ab",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برای مرحله تراز اولیه در کراودینگ شدید، کدام ترکیب خواص مطلوب‌ترین است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای مرحله تراز اولیه در کراودینگ شدید، کدام ترکیب خواص مطلوب‌ترین است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفتی کم و دامنه زیاد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفتی زیاد و دامنه کم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفتی زیاد و دامنه زیاد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفتی کم و دامنه کم"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7cd1b28d5233813eca5728c5d4210a1376da941485f8891883dd4976dc41a122",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "سفتی کم و دامنه زیاد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفتی کم و دامنه زیاد"
+            }
+          ]
+        },
+        {
+          "id": "527ed26df51b108f0c4f136c2399b606d17833bbcc37dc50f166cc687a0fc7ba",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سفتی زیاد و دامنه کم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفتی زیاد و دامنه کم"
+            }
+          ]
+        },
+        {
+          "id": "aafbde3a2179fd3a0dd520cd3cc6dcb440161a070c300199f7722ee4369ffac6",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "سفتی زیاد و دامنه زیاد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفتی زیاد و دامنه زیاد"
+            }
+          ]
+        },
+        {
+          "id": "b62051ad454def0145172c942424bca73729c1cb7dbd533f1baa90b15a7d13c2",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سفتی کم و دامنه کم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفتی کم و دامنه کم"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "7cd1b28d5233813eca5728c5d4210a1376da941485f8891883dd4976dc41a122"
+        ],
+        "explanation": "نیروی سبک (سفتی کم) و تحمل بی‌نظمی زیاد (دامنه‌ی بلند) همان چیزی است که تراز اولیه لازم دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نیروی سبک (سفتی کم) و تحمل بی‌نظمی زیاد (دامنه‌ی بلند) همان چیزی است که تراز اولیه لازم دارد."
+          }
+        ],
+        "observedAt": "2026-11-16T23:12:16.679Z"
+      }
+    },
+    {
+      "id": "question:7704",
+      "sourceId": "7704",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "f8eeb11628aedbfcaaf168f3ca6a6a1495b3d466fc689e031456b57a5015b18e",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "درمانگری می‌خواهد با سیم استنلس‌استیل، نیروی ملایم‌تری برای بستن فضا تولید کند بدون آنکه قطر سیم را کم کند. کدام راهکار مؤثرتر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "درمانگری می‌خواهد با سیم استنلس‌استیل، نیروی ملایم‌تری برای بستن فضا تولید کند بدون آنکه قطر سیم را کم کند. کدام راهکار مؤثرتر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش نیروی کشش الاستیک"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استفاده از براکت پهن‌تر تا فاصله‌ی بین براکت‌ها کم شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کوتاه‌تر کردن سیم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزودن لوپ برای افزایش طول مؤثر سیم"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "78868520b92742edce0067625c344805f301235d532800353664b40785662bd0",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "افزایش نیروی کشش الاستیک",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش نیروی کشش الاستیک"
+            }
+          ]
+        },
+        {
+          "id": "a6d90a0e841cbb100ace01633a3e37a8de031ffd13a6539fabfb3e0d9f816ce2",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "استفاده از براکت پهن‌تر تا فاصله‌ی بین براکت‌ها کم شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استفاده از براکت پهن‌تر تا فاصله‌ی بین براکت‌ها کم شود"
+            }
+          ]
+        },
+        {
+          "id": "0648d284bb57370d891da0b35d4e0091fa6d05e2ac8bc771af763fe88986f204",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کوتاه‌تر کردن سیم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کوتاه‌تر کردن سیم"
+            }
+          ]
+        },
+        {
+          "id": "48de70c72e6074626dcec92221b39641de380854b0bf50fcfd88e1b841e868b9",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "افزودن لوپ برای افزایش طول مؤثر سیم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزودن لوپ برای افزایش طول مؤثر سیم"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "48de70c72e6074626dcec92221b39641de380854b0bf50fcfd88e1b841e868b9"
+        ],
+        "explanation": "لوپ طول مؤثر سیم را زیاد و در نتیجه سفتی را کم می‌کند؛ آلیاژ و قطر همان می‌ماند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "لوپ طول مؤثر سیم را زیاد و در نتیجه سفتی را کم می‌کند؛ آلیاژ و قطر همان می‌ماند."
+          }
+        ],
+        "observedAt": "2026-11-16T23:12:22.871Z"
+      }
+    },
+    {
+      "id": "question:7705",
+      "sourceId": "7705",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "c920781fb68987bcd784f7474472b2614a87cda1c4e4990c63e6b2be6bf0d27b",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مهم‌ترین مزیت سیم استنلس‌استیل در ارتودنسی چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مهم‌ترین مزیت سیم استنلس‌استیل در ارتودنسی چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی بسیار سبک و تقریباً ثابت در سراسر دامنه‌ی فعالیت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دامنه‌ی بسیار بلند که در کراودینگ شدید هم فعال می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حافظه‌ی شکلی و بازگشت به فرم اولیه پس از هر خم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفتی بالا، خم‌کاری عالی و هزینه‌ی پایین"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3b30aa9a0595fce5d181f865d8059c3da40802e55cc2404d1ae7c158a40a3ccd",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نیروی بسیار سبک و تقریباً ثابت در سراسر دامنه‌ی فعالیت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیروی بسیار سبک و تقریباً ثابت در سراسر دامنه‌ی فعالیت"
+            }
+          ]
+        },
+        {
+          "id": "9791ffe5e1995f2a53b7c73924d835c9a4307c44d7d9821140bb47afc27e749b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دامنه‌ی بسیار بلند که در کراودینگ شدید هم فعال می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دامنه‌ی بسیار بلند که در کراودینگ شدید هم فعال می‌ماند"
+            }
+          ]
+        },
+        {
+          "id": "5a309f46fdfe37a263470feb8ad3fd5891ce1cf46fbea5cff20d2d5b6989f420",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "حافظه‌ی شکلی و بازگشت به فرم اولیه پس از هر خم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حافظه‌ی شکلی و بازگشت به فرم اولیه پس از هر خم"
+            }
+          ]
+        },
+        {
+          "id": "8e1a4c2189c360851e34fc2e93cea39300838c49d3672fdd0af986acf444d5db",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سفتی بالا، خم‌کاری عالی و هزینه‌ی پایین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفتی بالا، خم‌کاری عالی و هزینه‌ی پایین"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8e1a4c2189c360851e34fc2e93cea39300838c49d3672fdd0af986acf444d5db"
+        ],
+        "explanation": "استنلس‌استیل را می‌توان دقیق خم کرد، کنترل بالایی می‌دهد و ارزان هم هست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "استنلس‌استیل را می‌توان دقیق خم کرد، کنترل بالایی می‌دهد و ارزان هم هست."
+          }
+        ],
+        "observedAt": "2026-11-16T23:12:42.985Z"
+      }
+    },
+    {
+      "id": "question:7710",
+      "sourceId": "7710",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 66.6667%;",
+      "contentKey": "775ccdb3bfb52a3d1e05d3fecd02c94e78f8160eb37034d544408b2c7f392a33",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا نمی‌توان روی سیم نیکل-تیتانیوم خم‌های دقیق مانند استنلس‌استیل زد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا نمی‌توان روی سیم نیکل-تیتانیوم خم‌های دقیق مانند استنلس‌استیل زد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون گران است و خم‌کاری، سیم گران‌قیمت را هدر می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون حافظه‌ی شکلی دارد و خم دائمی نمی‌پذیرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون مقطع آن برای نگه داشتن خم بیش از حد نازک است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون خم زدن لایه‌ی سطحی را می‌شکند و سیم در دهان زنگ می‌زند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "bd0ab88f5c4ca419acf94cbd88b17be8daad4d0a806efbdc1ccc838ca3606d7c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون گران است و خم‌کاری، سیم گران‌قیمت را هدر می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون گران است و خم‌کاری، سیم گران‌قیمت را هدر می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "d0cb054683931aa24fcefd7b2c2f8eb8886bd98cedea9ce57709212728b1f5f7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون حافظه‌ی شکلی دارد و خم دائمی نمی‌پذیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون حافظه‌ی شکلی دارد و خم دائمی نمی‌پذیرد"
+            }
+          ]
+        },
+        {
+          "id": "7b936a045d71f01ba7401dc5b812e0e621d9679c42c1fb9435679defca8cb1f1",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون مقطع آن برای نگه داشتن خم بیش از حد نازک است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون مقطع آن برای نگه داشتن خم بیش از حد نازک است"
+            }
+          ]
+        },
+        {
+          "id": "38a8991b27af06f6d4a7ac56673db3ca80973281adc4bd4599e4ceb936df83ba",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون خم زدن لایه‌ی سطحی را می‌شکند و سیم در دهان زنگ می‌زند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون خم زدن لایه‌ی سطحی را می‌شکند و سیم در دهان زنگ می‌زند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d0cb054683931aa24fcefd7b2c2f8eb8886bd98cedea9ce57709212728b1f5f7"
+        ],
+        "explanation": "همان ویژگی که NiTi را برای تراز عالی می‌کند، خم‌کاری آن را عملاً ناممکن می‌سازد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همان ویژگی که NiTi را برای تراز عالی می‌کند، خم‌کاری آن را عملاً ناممکن می‌سازد."
+          }
+        ],
+        "observedAt": "2026-11-16T23:12:46.446Z"
+      }
+    },
+    {
+      "id": "question:7711",
+      "sourceId": "7711",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 70%;",
+      "contentKey": "369f39173c2cfcab68140eb288d7c25b7eb070ed74714cf3d5a7057cb981fe8c",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "جایگاه آلیاژ تیتانیوم-مولیبدن (TMA) در میان سیم‌های ارتودنسی چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "جایگاه آلیاژ تیتانیوم-مولیبدن (TMA) در میان سیم‌های ارتودنسی چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفت‌ترین سیم موجود، مناسب مرحله‌ی کنترل تورک نهایی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حد میانی: سفتی متوسط، دامنه خوب و قابلیت خم‌کاری"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نرم‌ترین سیم با بیشترین دامنه، مناسب تراز اولیه در کراودینگ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط برای ریتینر ثابت کاربرد دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "42ea25a8de267e9829999b82142a81ae4ff188c53d95d608b4fd22394238b956",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "سفت‌ترین سیم موجود، مناسب مرحله‌ی کنترل تورک نهایی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفت‌ترین سیم موجود، مناسب مرحله‌ی کنترل تورک نهایی"
+            }
+          ]
+        },
+        {
+          "id": "50f95d6c8233ecb1691196a744740cacd674eba255982c39cd3a4749d04c2c45",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "حد میانی: سفتی متوسط، دامنه خوب و قابلیت خم‌کاری",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حد میانی: سفتی متوسط، دامنه خوب و قابلیت خم‌کاری"
+            }
+          ]
+        },
+        {
+          "id": "bf62b83c92aff515f476db0afa760cf37c036c281ed8fd0697e573587cd3deaf",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نرم‌ترین سیم با بیشترین دامنه، مناسب تراز اولیه در کراودینگ",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نرم‌ترین سیم با بیشترین دامنه، مناسب تراز اولیه در کراودینگ"
+            }
+          ]
+        },
+        {
+          "id": "43828096197da5496a4eba8830dc8449762b9e57e4bf7339441945297a7b1d5f",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فقط برای ریتینر ثابت کاربرد دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط برای ریتینر ثابت کاربرد دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "50f95d6c8233ecb1691196a744740cacd674eba255982c39cd3a4749d04c2c45"
+        ],
+        "explanation": "TMA میان NiTi و استنلس‌استیل می‌نشیند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "TMA میان NiTi و استنلس‌استیل می‌نشیند."
+          }
+        ],
+        "observedAt": "2026-11-16T23:12:39.477Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:91b67c35a9673df58d20e2166aedab738e154cc4bd431065d360e40bf59acaac",
+      "at": "2026-11-16T23:11:57.367Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:b07afe7b1b21035af5630e07303ed7fe54bee929df29433cfdb20ae4583ca465",
+      "at": "2026-11-16T23:11:58.981Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:2bb7af6356f6ba273bbb51c04ba130b071dffe39d1aabdb05093d8a3da37940b",
+      "at": "2026-11-16T23:12:00.545Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:7701",
+      "at": "2026-11-16T23:12:02.139Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:7704",
+      "at": "2026-11-16T23:12:18.283Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:7705",
+      "at": "2026-11-16T23:12:24.485Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:7710",
+      "at": "2026-11-16T23:12:30.077Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:7711",
+      "at": "2026-11-16T23:12:35.589Z",
+      "progress": "width: 70%;"
+    },
+    {
+      "stepId": "question:7705",
+      "at": "2026-11-16T23:12:41.067Z",
+      "progress": "width: 80%;"
+    },
+    {
+      "stepId": "question:7710",
+      "at": "2026-11-16T23:12:44.558Z",
+      "progress": "width: 90%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

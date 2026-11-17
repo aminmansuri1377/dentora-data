@@ -1,0 +1,2102 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/564/lesson.json",
+  "id": "564",
+  "title": "درس اول: نیرو، ممان و کوپل",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "126",
+    "title": "یونیت 3.2: اصول بیومکانیک",
+    "position": 11
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:ea15d8d8a9aa2ed07f5d27708c766dc0acb981f4059ba4ba76e0bf85bf8e2a5c",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "67b914357b6703eb98290744716fbd0d64660fb794fdeb798614583a5afefbc2",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سه واژه‌ای که همه بیومکانیک روی آن‌ها سوار است"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مفهوم"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تعریف"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "واحد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "نیرو"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کشش یا فشاری که دندان را جابه‌جا می‌کند"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "گرم"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "ممان"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نیرو ضرب در فاصله‌ی عمودی تا مرکز مقاومت — می‌چرخاند"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "گرم-میلی‌متر"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "کوپل"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "دو نیروی مساوی و مخالف — چرخش خالص بدون جابه‌جایی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "گرم-میلی‌متر"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 نکته‌ی کلیدی: نیرویی که از "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مرکز مقاومت نگذرد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، همیشه هم جابه‌جا می‌کند و هم می‌چرخاند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تفاوت ممان و کوپل را با یک تصویر به یاد بسپار: "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ممان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از یک نیروی خارج از مرکز می‌آید، پس همیشه با جابه‌جایی همراه است. "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کوپل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از دو نیروی متعادل می‌آید، پس فقط می‌چرخاند و جابه‌جا نمی‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و همین تمایز است که کنترل نوع حرکت را ممکن می‌سازد: با افزودن کوپل به نیرو، می‌توانی چرخش ناخواسته را خنثی کنی بدون آنکه جهت جابه‌جایی عوض شود."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "svg",
+                  "attributes": {
+                    "viewBox": "0 0 880 380",
+                    "width": "100%"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "856",
+                        "y": "30"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نیرو، ممان و کوپل"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "rect",
+                          "attributes": {
+                            "fill": "#7A8BD6",
+                            "stroke": "#7A8BD6",
+                            "stroke-width": "2",
+                            "x": "600",
+                            "y": "54",
+                            "width": "256",
+                            "height": "250"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "#7A8BD6",
+                            "x": "836",
+                            "y": "82"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نیرو"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M714 120 v78 q0 40 14 66 q6 12 12 0 q14 -26 14 -66 v-78 z",
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M700 140 h-52",
+                            "stroke": "#7A8BD6",
+                            "stroke-width": "3.4"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "836",
+                            "y": "292"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "یک بردار در نقطه‌ی اعمال — تاج را هل می‌دهد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "rect",
+                          "attributes": {
+                            "fill": "#D6A756",
+                            "stroke": "#D6A756",
+                            "stroke-width": "2",
+                            "x": "312",
+                            "y": "54",
+                            "width": "256",
+                            "height": "250"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "#D6A756",
+                            "x": "548",
+                            "y": "82"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ممان"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M426 120 v78 q0 40 14 66 q6 12 12 0 q14 -26 14 -66 v-78 z",
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "circle",
+                          "attributes": {
+                            "fill": "#D6A756",
+                            "cx": "440",
+                            "cy": "196",
+                            "r": "5"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M412 140 h-40",
+                            "stroke": "#D6A756",
+                            "stroke-width": "3"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M440 196 L 412 140",
+                            "stroke": "#D6A756",
+                            "stroke-width": "1.6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "#D6A756",
+                            "x": "404",
+                            "y": "176"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "d"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M470 210 A 40 40 0 0 1 424 240",
+                            "fill": "none",
+                            "stroke": "#D6A756",
+                            "stroke-width": "2.6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "548",
+                            "y": "292"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "M = F × d — چون خط اثر از مرکز مقاومت نمی‌گذرد"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "g",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "rect",
+                          "attributes": {
+                            "fill": "#2E9E6B",
+                            "stroke": "#2E9E6B",
+                            "stroke-width": "2",
+                            "x": "24",
+                            "y": "54",
+                            "width": "256",
+                            "height": "250"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "#2E9E6B",
+                            "x": "260",
+                            "y": "82"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کوپل"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M138 120 v78 q0 40 14 66 q6 12 12 0 q14 -26 14 -66 v-78 z",
+                            "fill": "currentColor",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M124 130 h-42",
+                            "stroke": "#2E9E6B",
+                            "stroke-width": "3"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M192 168 h42",
+                            "stroke": "#2E9E6B",
+                            "stroke-width": "3"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M124 130 L 192 168",
+                            "stroke": "#2E9E6B",
+                            "stroke-width": "1.4"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "text",
+                          "attributes": {
+                            "fill": "currentColor",
+                            "x": "260",
+                            "y": "292"
+                          },
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "دو نیروی برابر و مخالف با فاصله — چرخش خالص"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "440",
+                        "y": "342"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کوپل به دو نقطه‌ی تماس کنترل‌شده نیاز دارد — به همین دلیل فنر تک‌تماسی هرگز تورک نمی‌دهد."
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "attributes": {
+                        "fill": "currentColor",
+                        "x": "440",
+                        "y": "366"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نسبت M/F است که تعیین می‌کند تیپینگ رخ دهد یا حرکت بدنه‌ای یا تورک ریشه."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیرو، ممان و کوپل — سه مفهوم پایه‌ی هر سیستم نیرویی ارتودنتیک."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:21bbcbef84e9fc9a0f90184a65e11e120f82ee8e4a803fa1a7b2ac575fe704b2",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "7b99112a97c648d6ddde5b7ce250d0253a854742724482318b3967dab9d20097",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا براکت روی تاج است، نه روی مرکز مقاومت؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مرکز مقاومت دندان تک‌ریشه‌ای حدوداً در "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک‌سوم تا نصف طول ریشه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از کرست آلوئول قرار دارد — یعنی جایی داخل استخوان که به آن دسترسی نداریم."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ما نیرو را روی "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "براکت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و روی تاج وارد می‌کنیم، پس همیشه فاصله‌ای تا مرکز مقاومت داریم — و همیشه ممان تولید می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 به همین دلیل نیروی ساده روی براکت، همیشه "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تیپینگ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌دهد نه حرکت بدنه‌ای."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یک نکته که در ارتودنسی بزرگسال حیاتی می‌شود: موقعیت مرکز مقاومت "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ثابت نیست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". با تحلیل استخوان، کرست آلوئول پایین می‌آید و مرکز مقاومت هم با آن پایین می‌رود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نتیجه: بازوی ممان بلندتر می‌شود و همان نیروی همیشگی، تیپینگ بیشتری می‌سازد — برای همان حرکت به نسبت M/F بالاتری نیاز داری."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "راه دیگر کم کردن تیپینگ، نزدیک کردن "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خط اثر نیرو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به مرکز مقاومت است — مثلاً با هوک رترکشن بلندتر. ممان برابر نیرو ضرب در فاصله است: ۱۰۰ گرم در فاصله‌ی ۱۰ میلی‌متری، ۱۰۰۰ گرم-میلی‌متر ممان می‌سازد؛ هرچه فاصله کوتاه‌تر، ممان تیپینگ کمتر."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:ca63fa065c6ad2830f6268b70cc75da3449863b22c85716b86e57e3bb7d81e3f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "926025c4be63ad111603e38dc06c4b52c98e7fd5d29067e59daa8a037cce96bf",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نسبت M/F: کلید کنترل نوع حرکت"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نسبت ممانِ کوپل به نیرو تعیین می‌کند دندان چگونه حرکت کند:"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نسبت M/F تقریبی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نوع حرکت"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "صفر"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تیپینگ کنترل‌نشده"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حدود ۱ تا ۷ به ۱"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تیپینگ کنترل‌شده"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حدود ۸ تا ۱۰ به ۱"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "b",
+                              "attributes": {},
+                              "children": [
+                                {
+                                  "tag": "text",
+                                  "text": "حرکت بدنه‌ای"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "بیش از ۱۰ به ۱"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "حرکت ریشه (تورک)"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ این اعداد تقریبی‌اند و به طول ریشه بستگی دارند، اما "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترتیبشان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " همیشه ثابت است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "راه فهم شهودی: با افزایش M/F، "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مرکز چرخش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از مرکز مقاومت به سمت اپکس و سپس دورتر از آن حرکت می‌کند. وقتی مرکز چرخش به بی‌نهایت برسد، حرکت بدنه‌ای داری."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کاربرد عملی: اگر می‌بینی دندان تیپ می‌خورد در حالی که حرکت بدنه‌ای می‌خواستی، مشکل در مقدار نیرو نیست — در نبود ممان کافی است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این کوپل را سیم در اسلات می‌سازد. اگر سیم فقط در یک انتها کاملاً درگیر باشد و انتهای دیگر تماس نقطه‌ای داشته باشد، سیستم "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک‌کوپلی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است و نیروهایش را می‌توان با معادلات تعادل دقیق حساب کرد؛ اگر در هر دو انتها درگیر باشد، سیستم "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوکوپلی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و از نظر استاتیکی نامعین است. به همین دلیل مکانیک سگمنتال بیشتر بر سیستم‌های یک‌کوپلی تکیه می‌کند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:7472",
+      "sourceId": "7472",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "b1c00c65839b04a606dde35f6bfc9d02ebb7db1e1b3d6bb3124810839020c455",
+      "position": 4,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "حاصل‌ضرب نیرو در فاصله عمودی آن تا مرکز مقاومت، ......... نام دارد و باعث چرخش دندان می‌شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "حاصل‌ضرب نیرو در فاصله عمودی آن تا مرکز مقاومت، ......... نام دارد و باعث چرخش دندان می‌شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "م"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "م"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "ممان",
+        "explanation": "آفرین. ممان (Moment) عامل چرخش است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. ممان (Moment) عامل چرخش است."
+          }
+        ],
+        "observedAt": "2026-11-16T23:07:26.600Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 4,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ن"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "م"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ا"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "م"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:7476",
+      "sourceId": "7476",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "8c532ea3aac692aafc9d63d6af35125a08c531a7ee34009fa8f330a1b81b637d",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دانشجویی مرکز مقاومت و مرکز چرخش را یکی می‌داند. تفاوت اصلی این دو چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دانشجویی مرکز مقاومت و مرکز چرخش را یکی می‌داند. تفاوت اصلی این دو چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مرکز مقاومت با هر نیروی تازه جابه‌جا می‌شود، ولی مرکز چرخش همیشه در نیمه‌ی ریشه‌ی درون استخوان ثابت می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو دقیقاً یک نقطه‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مرکز چرخش همیشه روی اپکس است و مرکز مقاومت همیشه روی کرست آلوئول؛ دو نقطه‌ی ثابت و جدا از هم‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مرکز مقاومت را آناتومی و حمایت استخوانی تعیین می‌کند؛ مرکز چرخش با سیستم نیرویی تغییر می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "abbfae684514d7132dcbf521f74d36be84ed37004c21fe63887cc3b04f084c32",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مرکز مقاومت با هر نیروی تازه جابه‌جا می‌شود، ولی مرکز چرخش همیشه در نیمه‌ی ریشه‌ی درون استخوان ثابت می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مرکز مقاومت با هر نیروی تازه جابه‌جا می‌شود، ولی مرکز چرخش همیشه در نیمه‌ی ریشه‌ی درون استخوان ثابت می‌ماند"
+            }
+          ]
+        },
+        {
+          "id": "94d49d94a82cda730f9068048f96f070d0382c7f2b7ac17b37627350ddb8e8cd",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هر دو دقیقاً یک نقطه‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو دقیقاً یک نقطه‌اند"
+            }
+          ]
+        },
+        {
+          "id": "c8f9d7cd0a8f9417d5abb0e4645b7f01a53d578ed5e10f25a0fe3a7bafbbe18b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مرکز چرخش همیشه روی اپکس است و مرکز مقاومت همیشه روی کرست آلوئول؛ دو نقطه‌ی ثابت و جدا از هم‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مرکز چرخش همیشه روی اپکس است و مرکز مقاومت همیشه روی کرست آلوئول؛ دو نقطه‌ی ثابت و جدا از هم‌اند"
+            }
+          ]
+        },
+        {
+          "id": "051e23b3ae7d4598e1549c9054a1f2b7e258c41d79f6cbd19599ee574cb6b135",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مرکز مقاومت را آناتومی و حمایت استخوانی تعیین می‌کند؛ مرکز چرخش با سیستم نیرویی تغییر می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مرکز مقاومت را آناتومی و حمایت استخوانی تعیین می‌کند؛ مرکز چرخش با سیستم نیرویی تغییر می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "051e23b3ae7d4598e1549c9054a1f2b7e258c41d79f6cbd19599ee574cb6b135"
+        ],
+        "explanation": "مرکز چرخش را تو با نسبت M/F تعیین می‌کنی؛ مرکز مقاومت را آناتومی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مرکز چرخش را تو با نسبت M/F تعیین می‌کنی؛ مرکز مقاومت را آناتومی."
+          }
+        ],
+        "observedAt": "2026-11-16T23:07:35.886Z"
+      }
+    },
+    {
+      "id": "question:7478",
+      "sourceId": "7478",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "fbe155e6486806f3e83c3ccf594e9d509792a1bfec32d0a479f1ade71d02f53c",
+      "position": 6,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "وقتی نسبت M/F برابر صفر باشد، دندان دچار تیپینگ ......... می‌شود که در آن تاج و ریشه در دو جهت مخالف حرکت می‌کنند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "وقتی نسبت M/F برابر صفر باشد، دندان دچار تیپینگ ......... می‌شود که در آن تاج و ریشه در دو جهت مخالف حرکت می‌کنند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "د"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ش"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "کنترلنشده",
+        "explanation": "تیپینگ کنترل‌نشده، ساده‌ترین و اغلب نامطلوب‌ترین حرکت است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تیپینگ کنترل‌نشده، ساده‌ترین و اغلب نامطلوب‌ترین حرکت است."
+          }
+        ],
+        "observedAt": "2026-11-16T23:07:42.366Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 9,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ن"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ت"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ک"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ه"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "ن"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "ل"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "د"
+          },
+          {
+            "key": "7",
+            "position": 8,
+            "text": "ر"
+          },
+          {
+            "key": "8",
+            "position": 9,
+            "text": "ش"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:7480",
+      "sourceId": "7480",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "9bddc8eaaf09abb82f8b4066149f9e6d07e1283d239c530c14528519d898b7a4",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "سیستم نیرویی «یک‌کوپلی» چه ویژگی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سیستم نیرویی «یک‌کوپلی» چه ویژگی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیم تنها در یک انتها به‌طور کامل درگیر است و انتهای دیگر آزاد یا نقطه‌ای است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ نیرویی تولید نمی‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیم در هر دو انتها به‌طور کامل در اسلات درگیر است و در هر انتها یک کوپل جداگانه می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها در بیماران بزرگسال با حمایت استخوانی کم کاربرد دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "2caf6829f798f883e32678712b31f803325ac3e5b97e3c562044d1485edd7535",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "سیم تنها در یک انتها به‌طور کامل درگیر است و انتهای دیگر آزاد یا نقطه‌ای است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سیم تنها در یک انتها به‌طور کامل درگیر است و انتهای دیگر آزاد یا نقطه‌ای است"
+            }
+          ]
+        },
+        {
+          "id": "8fae4866209ca34ffd94f860307d4abc54c699353f7619054da71d1c092f81ba",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هیچ نیرویی تولید نمی‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ نیرویی تولید نمی‌کند"
+            }
+          ]
+        },
+        {
+          "id": "859a25c8d4c5a1945d489dd78bae8d00681056315dfaba3119cfa16144aa3ab8",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "سیم در هر دو انتها به‌طور کامل در اسلات درگیر است و در هر انتها یک کوپل جداگانه می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سیم در هر دو انتها به‌طور کامل در اسلات درگیر است و در هر انتها یک کوپل جداگانه می‌سازد"
+            }
+          ]
+        },
+        {
+          "id": "dcaa9a5b1fec3d9df4bbe342a04bdac6d07444b425cd5777f40e0090926ebd5d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تنها در بیماران بزرگسال با حمایت استخوانی کم کاربرد دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها در بیماران بزرگسال با حمایت استخوانی کم کاربرد دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "2caf6829f798f883e32678712b31f803325ac3e5b97e3c562044d1485edd7535"
+        ],
+        "explanation": "در سیستم یک‌کوپلی، سیستم نیرویی از نظر استاتیکی معین و قابل پیش‌بینی است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در سیستم یک‌کوپلی، سیستم نیرویی از نظر استاتیکی معین و قابل پیش‌بینی است."
+          }
+        ],
+        "observedAt": "2026-11-16T23:07:48.492Z"
+      }
+    },
+    {
+      "id": "question:7484",
+      "sourceId": "7484",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "0df787d3779d1e5078c645f3ac4c2f4ce708b13009147a31e2d0a5b32027409c",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اگر بزرگی نیرو ثابت بماند، دور یا نزدیک کردن نقطه اعمال نیرو به مرکز مقاومت، ممان تولیدشده را عوض نمی‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اگر بزرگی نیرو ثابت بماند، دور یا نزدیک کردن نقطه اعمال نیرو به مرکز مقاومت، ممان تولیدشده را عوض نمی‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "گزاره غلط است؛ ممان حاصل‌ضرب نیرو در فاصله است؛ با نیروی ثابت، فاصله بیشتر یعنی ممان بزرگ‌تر.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "گزاره غلط است؛ ممان حاصل‌ضرب نیرو در فاصله است؛ با نیروی ثابت، فاصله بیشتر یعنی ممان "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بزرگ‌تر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-16T23:07:53.769Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:ea15d8d8a9aa2ed07f5d27708c766dc0acb981f4059ba4ba76e0bf85bf8e2a5c",
+      "at": "2026-11-16T23:07:14.543Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:21bbcbef84e9fc9a0f90184a65e11e120f82ee8e4a803fa1a7b2ac575fe704b2",
+      "at": "2026-11-16T23:07:16.131Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:ca63fa065c6ad2830f6268b70cc75da3449863b22c85716b86e57e3bb7d81e3f",
+      "at": "2026-11-16T23:07:17.725Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:7472",
+      "at": "2026-11-16T23:07:19.306Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:7476",
+      "at": "2026-11-16T23:07:28.190Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:7478",
+      "at": "2026-11-16T23:07:37.501Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:7480",
+      "at": "2026-11-16T23:07:43.967Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:7484",
+      "at": "2026-11-16T23:07:50.092Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

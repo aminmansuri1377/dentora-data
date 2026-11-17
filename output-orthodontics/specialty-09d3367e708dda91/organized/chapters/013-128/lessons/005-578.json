@@ -1,0 +1,1623 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/578/lesson.json",
+  "id": "578",
+  "title": "درس پنجم: دیباندینگ و پاکسازی مینا",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "128",
+    "title": "یونیت 3.4: اتچمنت‌ها و باندینگ",
+    "position": 13
+  },
+  "position": 5,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:ac10993fe41bbc259f4d8979e66d996863564e3e34cf5db13ffc2b615ffcf04c",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "774c50abe4ca23d81c66719de824e9658bf293a02cc865e71b889443b6034694",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دیباند: آخرین خطر برای مینا"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دیباند آخرین جلسه‌ی درمان است، اما از نظر خطر برای مینا یکی از پرمخاطره‌ترین آن‌هاست. دو هدف همزمان دارد که با هم در تعارض‌اند:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جدا کردن کامل براکت و "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تمام"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " باقی‌مانده‌ی چسب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حفظ حداکثری مینا"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هرچه برای رسیدن به هدف اول قاطع‌تر عمل کنی، هدف دوم بیشتر در خطر است. چسب باقی‌مانده رنگ می‌گیرد و پلاک جذب می‌کند؛ اما برداشتن بیش از حد آن، لایه‌ای از مینا را هم می‌برد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ پاکسازی چسب می‌تواند ده‌ها میکرون از مینا را بردارد — و برخلاف چسب، مینا برنمی‌گردد. پس روش و ابزار، نه سرعت، تعیین‌کننده‌اند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 و یک نکته‌ی حقوقی-بالینی: وضعیت مینا باید "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش از"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دیباند مستند شود. لکه‌ی سفیدی که پس از برداشتن براکت دیده می‌شود، معمولاً ماه‌ها پیش‌تر ایجاد شده است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:ff4b15d2e0077241dde22a38d65fe79edba94a024809382ccca7e473311e846f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "fa1146dc297172f8d1d45f8c6cb4374044f74e97f2328c45826480b13007073e",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مراحل ایمن دیباند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چهار مرحله که ترتیب و ابزارشان اهمیت دارد:"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مرحله"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نکته"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۱. برداشتن براکت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پلایر مخصوص روی پایه‌ی براکت، تا پایه خم شود"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۲. حذف چسب باقی‌مانده"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "فرز کارباید تنگستن با سرعت پایین یا متوسط"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۳. پالیش نهایی"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "خمیر پامیس و رابر کپ"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "۴. فلوراید"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "وارنیش پس از پاکسازی"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "روش مرحله‌ی اول تعیین‌کننده است: پلایر مخصوص با فشردن پایه، براکت فلزی را "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌کند تا شکست درون چسب یا میان چسب و براکت رخ دهد؛ کشیدن یا اهرم کردن با نیروی زیاد، نیرو را به مینا می‌رساند و خطر کندگی را بالا می‌برد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 براکت سرامیکی مورد خاصی است: به‌جای تغییر شکل، "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "می‌شکند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — و آنگاه چسب و قطعات باقی‌مانده باید تراشیده شوند که خطر آسیب را بیشتر می‌کند. حتماً از پلایر مخصوص همان براکت استفاده کن."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ مرحله‌ی چهارم را حذف نکن؛ بخشی از لایه‌ی سطحی غنی از فلوراید مینا در پاکسازی از دست رفته و وارنیش فلوراید رمینرالیزاسیون را شروع می‌کند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:18d0bf4daf8f59b619e6be62b16865dd273bb8a83afada34b66f9713ce9d227f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "a3b3e189468ee63e99ad435e2e2e91850c3247b98fda7af394cfda3935520a70",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پس از دیباند چه باید کرد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دیباند پایان کار نیست؛ آغاز مرحله‌ای است که نتیجه‌ی همه‌ی سال‌های قبل را حفظ می‌کند یا از دست می‌دهد."
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ارزیابی مینا"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": ثبت لکه‌های سفید و ترک‌های احتمالی، همراه با عکس بالینی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ریتینر فوری"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": قالب یا اسکن در همان جلسه — تأخیر یعنی عود. حرکت برگشتی از همان ساعات نخست شروع می‌شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فلوراید"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و توصیه‌های بهداشتی برای دوره‌ی پس از درمان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "رادیوگرافی پایان درمان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در صورت اندیکاسیون، برای ارزیابی وضعیت ریشه‌ها و استخوان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 قاعده: بیمار نباید "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بدون ریتینر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از مطب خارج شود. اگر ریتینر ثابت گذاشته نمی‌شود و ساخت پلاک زمان می‌برد، ریتینر موقت بگذار."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 جلسه‌ی دیباند بهترین زمان برای گفت‌وگو درباره‌ی ریتنشن است — بیمار سرحال است و نتیجه را می‌بیند. اگر این گفت‌وگو را به جلسه‌ی بعد موکول کنی، بخشی از انگیزه‌اش از دست می‌رود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:7860",
+      "sourceId": "7860",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "0c55a2cdebcfd8fa0a7d252b563450e2d8965d56cd5edd36a903169fd1720571",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا باقی گذاشتن چسب روی مینا پس از دیباند مشکل‌ساز است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا باقی گذاشتن چسب روی مینا پس از دیباند مشکل‌ساز است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط از نظر زیبایی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سطح زبر آن پلاک‌گیر است و به‌مرور رنگ می‌گیرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باعث حرکت دندان و عود می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مشکلی ندارد، چون چسب باقی‌مانده مینا را در برابر اسید محافظت می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "1325ee76c92f3506548fcf7a92729f0bdabcfe8bdc6f42e4f673252d1bfdb960",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "فقط از نظر زیبایی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط از نظر زیبایی"
+            }
+          ]
+        },
+        {
+          "id": "28ef9265ddc9ef7395719740301a6b8befa85d61e39ff483f0497f385010b1a7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سطح زبر آن پلاک‌گیر است و به‌مرور رنگ می‌گیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سطح زبر آن پلاک‌گیر است و به‌مرور رنگ می‌گیرد"
+            }
+          ]
+        },
+        {
+          "id": "ae0913c768ff948eb646a58cbe621de30348d990b357b987b58e94d1db6d475c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "باعث حرکت دندان و عود می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باعث حرکت دندان و عود می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "9228dd3b212c719bbf86ce9a7074d9678396a30596f67fb20654a719a68e1ceb",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مشکلی ندارد، چون چسب باقی‌مانده مینا را در برابر اسید محافظت می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مشکلی ندارد، چون چسب باقی‌مانده مینا را در برابر اسید محافظت می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "28ef9265ddc9ef7395719740301a6b8befa85d61e39ff483f0497f385010b1a7"
+        ],
+        "explanation": "چسب باقی‌مانده به‌مرور رنگ می‌گیرد و محل تجمع پلاک است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "چسب باقی‌مانده به‌مرور رنگ می‌گیرد و محل تجمع پلاک است."
+          }
+        ],
+        "observedAt": "2026-11-16T23:20:16.916Z"
+      }
+    },
+    {
+      "id": "question:7863",
+      "sourceId": "7863",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "88669084c82ab97ffeb5826c9c46617358925941bf22fb9a47da0b3a76d4f880",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "درمانگری برای سرعت بیشتر، چسب باقی‌مانده را با فرز الماسی و توربین پاک می‌کند. خطر اصلی چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "درمانگری برای سرعت بیشتر، چسب باقی‌مانده را با فرز الماسی و توربین پاک می‌کند. خطر اصلی چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "داغ شدن چسب و آزاد شدن مونومر روی لثه‌ی مجاور"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کند شدن سریع فرز، چون رزین از مینا سخت‌تر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برداشت مینای سالم و خراش‌های دائمی روی سطح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییر رنگ زرد چسب باقی‌مانده در اثر حرارت فرز"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b48a83993d6a85058564355b07f79625e0d67e9715c44e6c9ed8f84ef2005361",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "داغ شدن چسب و آزاد شدن مونومر روی لثه‌ی مجاور",
+          "content": [
+            {
+              "tag": "text",
+              "text": "داغ شدن چسب و آزاد شدن مونومر روی لثه‌ی مجاور"
+            }
+          ]
+        },
+        {
+          "id": "f38c7c2f597cc76ac75a762ed7ae9c45cc4381eaafdd86c35651a42299d8119b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کند شدن سریع فرز، چون رزین از مینا سخت‌تر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کند شدن سریع فرز، چون رزین از مینا سخت‌تر است"
+            }
+          ]
+        },
+        {
+          "id": "4930c443a394657db98186d2ce3194e116dd6f5c8da528008c945192f5a9921d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "برداشت مینای سالم و خراش‌های دائمی روی سطح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "برداشت مینای سالم و خراش‌های دائمی روی سطح"
+            }
+          ]
+        },
+        {
+          "id": "c9efd51b6fc9158e7d764262cbe718010b1e50328306dbca71d6d0af9ade9831",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تغییر رنگ زرد چسب باقی‌مانده در اثر حرارت فرز",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تغییر رنگ زرد چسب باقی‌مانده در اثر حرارت فرز"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "4930c443a394657db98186d2ce3194e116dd6f5c8da528008c945192f5a9921d"
+        ],
+        "explanation": "فرز الماسی با توربین، مینا را به‌سرعت و برگشت‌ناپذیر برمی‌دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "فرز الماسی با توربین، مینا را به‌سرعت و برگشت‌ناپذیر برمی‌دارد."
+          }
+        ],
+        "observedAt": "2026-11-16T23:20:51.146Z"
+      }
+    },
+    {
+      "id": "question:7865",
+      "sourceId": "7865",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 55.5556%;",
+      "contentKey": "fc07e3f3998aab50c763fabc57cbd4860bc200d14544e70cc073ef7a5a48be81",
+      "position": 6,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "برای حذف چسب باقی‌مانده پس از دیباند، فرز ......... تنگستن با سرعت کنترل‌شده توصیه می‌شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای حذف چسب باقی‌مانده پس از دیباند، فرز ......... تنگستن با سرعت کنترل‌شده توصیه می‌شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "د"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "کارباید",
+        "explanation": "فرز کارباید تنگستن، رزین را به‌راحتی می‌برد و روی مینا اثر کمی دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "فرز کارباید تنگستن، رزین را به‌راحتی می‌برد و روی مینا اثر کمی دارد."
+          }
+        ],
+        "observedAt": "2026-11-16T23:20:35.988Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 7,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ک"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ا"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "د"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ا"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "ر"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "ب"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "ی"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:7867",
+      "sourceId": "7867",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 66.6667%;",
+      "contentKey": "f4f1056b58c663caf89f1fd1123aa8b9b1c8408bbc4648b81d5da91d57504183",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام اقدام باید در جلسه دیباند برای مستندسازی انجام شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام اقدام باید در جلسه دیباند برای مستندسازی انجام شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تحویل ریتینر و ثبت تاریخ دیباند؛ عکس فقط اگر بیمار شکایت داشت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توصیه‌ی شفاهی و امضای بیمار زیر برگه‌ی پایان درمان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مستندسازی لازم نیست، چون عکس‌های پیش از درمان کافی‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عکس پایان درمان، ثبت وضعیت مینا و در صورت نیاز رادیوگرافی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "f8ac95bf9744a34b92fd37372f59a96f2d910eb01929cc627e805516c11d7e32",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تحویل ریتینر و ثبت تاریخ دیباند؛ عکس فقط اگر بیمار شکایت داشت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تحویل ریتینر و ثبت تاریخ دیباند؛ عکس فقط اگر بیمار شکایت داشت"
+            }
+          ]
+        },
+        {
+          "id": "58acbbda881abd31cefafe5bcd8413f902a2d0c2ba8dafacc54547e21b9b46f1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "توصیه‌ی شفاهی و امضای بیمار زیر برگه‌ی پایان درمان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "توصیه‌ی شفاهی و امضای بیمار زیر برگه‌ی پایان درمان"
+            }
+          ]
+        },
+        {
+          "id": "4fad4ab12138a4917daa76f8565bfa5718f873ea60a7418cb2e446c062e17f23",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مستندسازی لازم نیست، چون عکس‌های پیش از درمان کافی‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مستندسازی لازم نیست، چون عکس‌های پیش از درمان کافی‌اند"
+            }
+          ]
+        },
+        {
+          "id": "e5062bc63f26f61eb5162dc5d7b1c00b03cd9953d77c873b8734429bbba284ac",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "عکس پایان درمان، ثبت وضعیت مینا و در صورت نیاز رادیوگرافی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عکس پایان درمان، ثبت وضعیت مینا و در صورت نیاز رادیوگرافی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e5062bc63f26f61eb5162dc5d7b1c00b03cd9953d77c873b8734429bbba284ac"
+        ],
+        "explanation": "این مستندات هم ارزش بالینی دارند و هم ارزش حقوقی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این مستندات هم ارزش بالینی دارند و هم ارزش حقوقی."
+          }
+        ],
+        "observedAt": "2026-11-16T23:20:42.213Z"
+      }
+    },
+    {
+      "id": "question:7872",
+      "sourceId": "7872",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 77.7778%;",
+      "contentKey": "07ecb8289bdf5396e6a9bb7493e2ea5a25309af6645e35a369f2216147ce033e",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در جلسه دیباند، آزمایشگاه اعلام می‌کند ریتینر ثابت تا سه روز دیگر آماده نمی‌شود. بهترین اقدام کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در جلسه دیباند، آزمایشگاه اعلام می‌کند ریتینر ثابت تا سه روز دیگر آماده نمی‌شود. بهترین اقدام کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دیباند و فرستادن بیمار بدون ریتینر، چون عود در سه روز ناچیز است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "توصیه به پرهیز از غذای سفت و بستن دهان در خواب تا ریتینر برسد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به تعویق انداختن دیباند تا سه روز"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ریتینر متحرک موقت در همان جلسه تا آماده شدن ریتینر ثابت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3cd9389a567cb643936d9e768c19f67143f52e77ab78e6c6b786cdab7ffad8b0",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دیباند و فرستادن بیمار بدون ریتینر، چون عود در سه روز ناچیز است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دیباند و فرستادن بیمار بدون ریتینر، چون عود در سه روز ناچیز است"
+            }
+          ]
+        },
+        {
+          "id": "436a82bf008b7ed68544820fb8309089d1c7ceba39e1f3c9d4b9b8d7321782e3",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "توصیه به پرهیز از غذای سفت و بستن دهان در خواب تا ریتینر برسد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "توصیه به پرهیز از غذای سفت و بستن دهان در خواب تا ریتینر برسد"
+            }
+          ]
+        },
+        {
+          "id": "a6bbfa1c77a3a3fe793c6006b0ef51826e7f41af94d77da8cae632ee33aaf1dd",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "به تعویق انداختن دیباند تا سه روز",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به تعویق انداختن دیباند تا سه روز"
+            }
+          ]
+        },
+        {
+          "id": "5a981709b9c95f6d5dee173196a8c413026e75a49481054fb0bfb0743ddcb02f",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ریتینر متحرک موقت در همان جلسه تا آماده شدن ریتینر ثابت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ریتینر متحرک موقت در همان جلسه تا آماده شدن ریتینر ثابت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5a981709b9c95f6d5dee173196a8c413026e75a49481054fb0bfb0743ddcb02f"
+        ],
+        "explanation": "پوشش ریتنشن نباید حتی یک روز قطع شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پوشش ریتنشن نباید حتی یک روز قطع شود."
+          }
+        ],
+        "observedAt": "2026-11-16T23:20:47.621Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:ac10993fe41bbc259f4d8979e66d996863564e3e34cf5db13ffc2b615ffcf04c",
+      "at": "2026-11-16T23:20:04.944Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:ff4b15d2e0077241dde22a38d65fe79edba94a024809382ccca7e473311e846f",
+      "at": "2026-11-16T23:20:06.523Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:18d0bf4daf8f59b619e6be62b16865dd273bb8a83afada34b66f9713ce9d227f",
+      "at": "2026-11-16T23:20:08.090Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:7860",
+      "at": "2026-11-16T23:20:09.675Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:7863",
+      "at": "2026-11-16T23:20:18.511Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:7865",
+      "at": "2026-11-16T23:20:29.091Z",
+      "progress": "width: 55.5556%;"
+    },
+    {
+      "stepId": "question:7867",
+      "at": "2026-11-16T23:20:37.578Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:7872",
+      "at": "2026-11-16T23:20:43.813Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:7863",
+      "at": "2026-11-16T23:20:49.218Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

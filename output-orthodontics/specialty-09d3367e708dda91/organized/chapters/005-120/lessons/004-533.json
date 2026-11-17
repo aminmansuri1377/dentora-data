@@ -1,0 +1,1775 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/533/lesson.json",
+  "id": "533",
+  "title": "درس چهارم: طبقه‌بندی‌های مکمل (British و Ackerman-Proffit)",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "120",
+    "title": "ماژول 2: تشخیص و طرح درمان، یونیت 2.1: طبقه‌بندی مال‌اکلوژن",
+    "position": 5
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:a70a7553b673603fba5a12c949d633f5e2e9371e621f66e398c6cd148588a906",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "f28acbecfcaadf056a52a94da49729d47ddda4200eeb39622790e0b7916a0908",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سیستم Ackerman-Proffit: پر کردن جای خالی Angle"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سیستم اکرمن-پروفیت پنج ویژگی را جدا از هم توصیف می‌کند:"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ردیف‌بندی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — کراودینگ یا فاصله"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پروفایل"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — محدب، صاف، مقعر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عرضی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — کراس‌بایت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ساژیتال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — کلاس انگل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عمودی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — اپن‌بایت یا دیپ‌بایت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مزیت بزرگ: تشخیص را از یک "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برچسب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به یک "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پروفایل چندبعدی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تبدیل می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تفاوت عملی را با یک مثال ببین. «کلاس II دیویژن ۱» یک برچسب است. اما «کراودینگ متوسط، پروفایل محدب، بدون مشکل عرضی، کلاس II ساژیتال، دیپ‌بایت» یک "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فهرست مشکلات"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است که مستقیماً به طرح درمان تبدیل می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و مزیت پنهانش: هیچ بُعدی را نمی‌شود از قلم انداخت، چون همه باید پر شوند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:8c8b4477ba4d15c9364bc0c6cd4ad0ed491ffcd70ebcf7ecb7081330650113e4",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "1cebbbb7cdb61ca7b8cd72e390432c2974812792d5cae6352dd9af48c58d76ca",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "طبقه‌بندی بریتانیایی انسیزورها"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "طبقه‌بندی بریتانیایی به‌جای مولر، بر پایه‌ی رابطه‌ی "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انسیزورها"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کار می‌کند:"
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کلاس"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تعریف"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "I"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "لبه‌ی انسیزور پایین روی سینگولوم سطح پالاتال انسیزور بالا یا درست زیر آن"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "II دیویژن ۱"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "لبه‌ی پایین عقب‌تر از سینگولوم؛ انسیزورهای بالا پروکلاین یا با شیب متوسط"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "II دیویژن ۲"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "لبه‌ی پایین عقب‌تر از سینگولوم؛ انسیزورهای مرکزی بالا رتروکلاین"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "III"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "لبه‌ی پایین جلوتر از سینگولوم"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مزیت اصلی: مستقل از موقعیت مولر است — پس در کیس‌هایی که مولر اول کشیده شده یا مهاجرت کرده، همچنان معتبر می‌ماند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و مزیت دوم که کمتر گفته می‌شود: چون بر پایه‌ی انسیزور است، مستقیماً به آنچه بیمار می‌بیند و به هدف زیبایی درمان نزدیک‌تر است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:2ec284cce62f9bc1e0cf43bf6f883d277502a0b86defc2b7050981df3d27d1ce",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "4a49c4b4a949f4b9b7a420dc994f76ac7da1276ef93c200a78c531779db556e5",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام سیستم را کِی به کار ببریم؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "موقعیت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ابزار مناسب"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ارتباط سریع با همکار"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "انگل"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مولر اول غایب یا جابه‌جا"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "طبقه‌بندی انسیزوری بریتانیایی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "تشخیص کامل و طرح درمان"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اکرمن-پروفیت به‌همراه ارزیابی اسکلتی"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 این سه رقیب هم نیستند — "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مکمل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یکدیگرند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در عمل، یک درمانگر باتجربه هر سه را در یک جلسه به کار می‌برد: با انگل شروع می‌کند چون سریع است، اگر مرجع مولر مشکوک بود به طبقه‌بندی انسیزوری می‌رود، و برای نوشتن فهرست مشکلات از چارچوب چندبعدی استفاده می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یک قاعده‌ی ثابت: هرچه ابزار برای "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارتباط"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به کار می‌رود ساده‌تر باشد بهتر است؛ هرچه برای "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصمیم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " به کار می‌رود کامل‌تر باشد بهتر."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:5873",
+      "sourceId": "5873",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "73649b6595074fa5bdc3d44074adf545fb93ad7d3c3c0e03a1fef775a8886477",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام توصیف با رویکرد Ackerman-Proffit سازگارتر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام توصیف با رویکرد Ackerman-Proffit سازگارتر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلاس II دیویژن ۱ با رابطه‌ی مولری کلاس II کامل در هر دو سمت و اورجت زیاد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کراودینگ متوسط، پروفایل محدب، کراس‌بایت خلفی راست، کلاس II، دیپ‌بایت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مولر کلاس II راست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اورجت ۶ میلی‌متر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a58402e4a0e832b666459b8789afc1cfbeeed7a041ca27f8e0bf97f37741b4e3",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کلاس II دیویژن ۱ با رابطه‌ی مولری کلاس II کامل در هر دو سمت و اورجت زیاد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلاس II دیویژن ۱ با رابطه‌ی مولری کلاس II کامل در هر دو سمت و اورجت زیاد"
+            }
+          ]
+        },
+        {
+          "id": "b763f6f892d41c3f5a72fd24607dd8d104e8e8f6fd52fda3aac3893acf0054e8",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کراودینگ متوسط، پروفایل محدب، کراس‌بایت خلفی راست، کلاس II، دیپ‌بایت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کراودینگ متوسط، پروفایل محدب، کراس‌بایت خلفی راست، کلاس II، دیپ‌بایت"
+            }
+          ]
+        },
+        {
+          "id": "a7e51da7350d9f210bea5ede13f2e2697a79297cf2697c8b164367abe60726f0",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مولر کلاس II راست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مولر کلاس II راست"
+            }
+          ]
+        },
+        {
+          "id": "8e52df6460187ba18db3451500b7277264099d9275f5b529850a2ea84bfdb76e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اورجت ۶ میلی‌متر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اورجت ۶ میلی‌متر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "b763f6f892d41c3f5a72fd24607dd8d104e8e8f6fd52fda3aac3893acf0054e8"
+        ],
+        "explanation": "این توصیف همه‌ی ابعاد را پوشش می‌دهد و مستقیماً به طرح درمان می‌رسد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این توصیف همه‌ی ابعاد را پوشش می‌دهد و مستقیماً به طرح درمان می‌رسد."
+          }
+        ],
+        "observedAt": "2026-11-16T22:36:23.139Z"
+      }
+    },
+    {
+      "id": "question:5875",
+      "sourceId": "5875",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "a03c15e83aa23abe09ddd92f854d9b1f8e4d4d5dc3bc9166352160edaa06951b",
+      "position": 5,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "در طبقه‌بندی بریتانیایی کلاس I، لبه‌ی انسیزور پایین روی ......... سطح پالاتال انسیزور بالا یا درست زیر آن قرار می‌گیرد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در طبقه‌بندی بریتانیایی کلاس I، لبه‌ی انسیزور پایین روی ......... سطح پالاتال انسیزور بالا یا درست زیر آن قرار می‌گیرد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "م"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "س"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "سینگولوم",
+        "explanation": "سینگولوم انسیزور بالا مرجع همه‌ی کلاس‌های این سیستم است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "سینگولوم انسیزور بالا مرجع همه‌ی کلاس‌های این سیستم است."
+          }
+        ],
+        "observedAt": "2026-11-16T22:36:30.979Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 8,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "گ"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ل"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "م"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "س"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "و"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "ن"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "ی"
+          },
+          {
+            "key": "7",
+            "position": 8,
+            "text": "و"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:5879",
+      "sourceId": "5879",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "d159793ade3ea5370fd56b8da020452e72a39165c3acc32901e314f73daa2f9f",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیماری با کراودینگ ۶ میلی‌متری در قوس پایین و فاصله ۳ میلی‌متری در قوس بالا مراجعه کرده است. کدام بررسی تکمیلی بیشترین اولویت را دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری با کراودینگ ۶ میلی‌متری در قوس پایین و فاصله ۳ میلی‌متری در قوس بالا مراجعه کرده است. کدام بررسی تکمیلی بیشترین اولویت را دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بررسی رویش مولرهای سوم پایین به‌عنوان علت کراودینگ قوس پایین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رادیوگرافی پانورامیک برای بررسی تحلیل ریشه‌ی انسیزورهای بالا"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آنالیز بولتون برای سنجش عدم‌تناسب اندازه‌ی دندان‌ها"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اندازه‌گیری عمق منحنی اشپی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "59cc23a4af7f86ed1cbc8c494559dfbd3d19f9d21f01f18b42e153b588975663",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بررسی رویش مولرهای سوم پایین به‌عنوان علت کراودینگ قوس پایین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بررسی رویش مولرهای سوم پایین به‌عنوان علت کراودینگ قوس پایین"
+            }
+          ]
+        },
+        {
+          "id": "c379685e8220980d2dbb47e702e5e6b47ea76f0509a5d3cec1fe2cadfb69f943",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "رادیوگرافی پانورامیک برای بررسی تحلیل ریشه‌ی انسیزورهای بالا",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رادیوگرافی پانورامیک برای بررسی تحلیل ریشه‌ی انسیزورهای بالا"
+            }
+          ]
+        },
+        {
+          "id": "c10095db0107a2852c5d38eb8f87ccb118f514b09622f62face55d3a053dfc9f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آنالیز بولتون برای سنجش عدم‌تناسب اندازه‌ی دندان‌ها",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آنالیز بولتون برای سنجش عدم‌تناسب اندازه‌ی دندان‌ها"
+            }
+          ]
+        },
+        {
+          "id": "75af9bac5c778815942f0ae798e62943bb1545408b6bffd00037aedd8ceaee77",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اندازه‌گیری عمق منحنی اشپی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اندازه‌گیری عمق منحنی اشپی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c10095db0107a2852c5d38eb8f87ccb118f514b09622f62face55d3a053dfc9f"
+        ],
+        "explanation": "این الگو یکی از نشانه‌های کلاسیک عدم‌تناسب اندازه‌ی دندانی است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این الگو یکی از نشانه‌های کلاسیک عدم‌تناسب اندازه‌ی دندانی است."
+          }
+        ],
+        "observedAt": "2026-11-16T22:36:50.934Z"
+      }
+    },
+    {
+      "id": "question:5880",
+      "sourceId": "5880",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 66.6667%;",
+      "contentKey": "4e5a52fa32841e468a21a7046e57894c838149ef7a79891bd3963b97973a067e",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام گزاره درباره رابطه این سیستم‌های طبقه‌بندی درست‌تر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام گزاره درباره رابطه این سیستم‌های طبقه‌بندی درست‌تر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این سیستم‌ها رقیب یکدیگرند و درمانگر باید تنها یکی را انتخاب کند و همان را به کار ببرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها طبقه‌بندی Angle اعتبار علمی دارد و بقیه صرفاً جنبه‌ی آموزشی دارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه آن‌ها منسوخ شده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این سیستم‌ها مکمل یکدیگرند و هر کدام در موقعیتی کاربرد دارند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "363befd6276e9258d0870daaccefb77557358b6aa8e98d86445605154219cdcd",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "این سیستم‌ها رقیب یکدیگرند و درمانگر باید تنها یکی را انتخاب کند و همان را به کار ببرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این سیستم‌ها رقیب یکدیگرند و درمانگر باید تنها یکی را انتخاب کند و همان را به کار ببرد"
+            }
+          ]
+        },
+        {
+          "id": "3c53da943ee949f7a4304c127d240406753de94be1d5ad8ad819da3a6754c0f1",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تنها طبقه‌بندی Angle اعتبار علمی دارد و بقیه صرفاً جنبه‌ی آموزشی دارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها طبقه‌بندی Angle اعتبار علمی دارد و بقیه صرفاً جنبه‌ی آموزشی دارند"
+            }
+          ]
+        },
+        {
+          "id": "c13c056ef5df3c2531594b796c4913742b0d841cb30d15fdda931fb425a99a45",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "همه آن‌ها منسوخ شده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه آن‌ها منسوخ شده‌اند"
+            }
+          ]
+        },
+        {
+          "id": "585c2fbf4f42418824e6a1eddf87476cb5a72ba74130713ccaeb0625acc6525a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "این سیستم‌ها مکمل یکدیگرند و هر کدام در موقعیتی کاربرد دارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این سیستم‌ها مکمل یکدیگرند و هر کدام در موقعیتی کاربرد دارند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "585c2fbf4f42418824e6a1eddf87476cb5a72ba74130713ccaeb0625acc6525a"
+        ],
+        "explanation": "هر سیستم برای منظوری ساخته شده است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هر سیستم برای منظوری ساخته شده است."
+          }
+        ],
+        "observedAt": "2026-11-16T22:36:42.212Z"
+      }
+    },
+    {
+      "id": "question:5885",
+      "sourceId": "5885",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 77.7778%;",
+      "contentKey": "00bc25b02f73f43422dd89f22d0281116b8053a4f49114608ce2e11d3a7849a3",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام گزارش تشخیصی برای طراحی درمان کاربردی‌تر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام گزارش تشخیصی برای طراحی درمان کاربردی‌تر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلاس II دیویژن ۱ با مندیبل عقب‌رفته، اورجت ۷ میلی‌متر، الگوی عمودی، کراودینگ ۳ میلی‌متری پایین، پروفایل محدب"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلاس II دیویژن ۱ با اورجت ۷ میلی‌متر و دیپ‌بایت، همراه با توصیه به کشیدن دو پرمولر بالا و استفاده از انکوریج حداکثر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اورجت ۷ میلی‌متر، اوربایت ۵ میلی‌متر، کراودینگ ۳ میلی‌متری پایین و خط وسط منطبق، همه با خط‌کش در اکلوژن سنتریک ثبت شده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار نیاز به براکت دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ba6e81369c825797bb6ba5ce8df17460174c7e59e4073f55bbc689f51cc1933d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کلاس II دیویژن ۱ با مندیبل عقب‌رفته، اورجت ۷ میلی‌متر، الگوی عمودی، کراودینگ ۳ میلی‌متری پایین، پروفایل محدب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلاس II دیویژن ۱ با مندیبل عقب‌رفته، اورجت ۷ میلی‌متر، الگوی عمودی، کراودینگ ۳ میلی‌متری پایین، پروفایل محدب"
+            }
+          ]
+        },
+        {
+          "id": "61f3e6c261b8cc2abebde8f89abb54947ed1e09d1db44f92e5bf687d13b14417",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کلاس II دیویژن ۱ با اورجت ۷ میلی‌متر و دیپ‌بایت، همراه با توصیه به کشیدن دو پرمولر بالا و استفاده از انکوریج حداکثر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلاس II دیویژن ۱ با اورجت ۷ میلی‌متر و دیپ‌بایت، همراه با توصیه به کشیدن دو پرمولر بالا و استفاده از انکوریج حداکثر"
+            }
+          ]
+        },
+        {
+          "id": "97c90191fcd1f55f11ef8cb5017ed1446abe3cfe70a2f413e07ef9ac01174bb4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اورجت ۷ میلی‌متر، اوربایت ۵ میلی‌متر، کراودینگ ۳ میلی‌متری پایین و خط وسط منطبق، همه با خط‌کش در اکلوژن سنتریک ثبت شده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اورجت ۷ میلی‌متر، اوربایت ۵ میلی‌متر، کراودینگ ۳ میلی‌متری پایین و خط وسط منطبق، همه با خط‌کش در اکلوژن سنتریک ثبت شده"
+            }
+          ]
+        },
+        {
+          "id": "38539a0c269b01190d42174faadec4dada013fbbeea89db754635de60f582eb5",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بیمار نیاز به براکت دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیمار نیاز به براکت دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ba6e81369c825797bb6ba5ce8df17460174c7e59e4073f55bbc689f51cc1933d"
+        ],
+        "explanation": "آفرین! این گزارش مستقیماً مکانیک درمان، انتخاب انکوریج و تصمیم کشیدن یا نکشیدن را هدایت می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین! این گزارش مستقیماً مکانیک درمان، انتخاب انکوریج و تصمیم کشیدن یا نکشیدن را هدایت می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-16T22:36:47.446Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:a70a7553b673603fba5a12c949d633f5e2e9371e621f66e398c6cd148588a906",
+      "at": "2026-11-16T22:36:11.615Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:8c8b4477ba4d15c9364bc0c6cd4ad0ed491ffcd70ebcf7ecb7081330650113e4",
+      "at": "2026-11-16T22:36:13.211Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:2ec284cce62f9bc1e0cf43bf6f883d277502a0b86defc2b7050981df3d27d1ce",
+      "at": "2026-11-16T22:36:14.839Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:5873",
+      "at": "2026-11-16T22:36:16.407Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:5875",
+      "at": "2026-11-16T22:36:24.753Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:5879",
+      "at": "2026-11-16T22:36:32.600Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:5880",
+      "at": "2026-11-16T22:36:38.519Z",
+      "progress": "width: 66.6667%;"
+    },
+    {
+      "stepId": "question:5885",
+      "at": "2026-11-16T22:36:43.770Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:5879",
+      "at": "2026-11-16T22:36:49.046Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

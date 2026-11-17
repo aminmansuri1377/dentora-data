@@ -1,0 +1,1676 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/609/lesson.json",
+  "id": "609",
+  "title": "درس دوم: بستن فضا: لوپ‌ها و مکانیک سگمنتال",
+  "specialtyKey": "09d3367e708dda91",
+  "chapter": {
+    "id": "135",
+    "title": "یونیت 5.2: مدیریت فضا",
+    "position": 20
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:3c77ec74412449b57286148150ca9140e88b9b5a9604893137ffd013e9df707c",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "f0d929e2875afeb6ea3ed3a306a2acb6ca14ddc6f83859cab494f95d7080c6e7",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "لوپ: حذف اصطکاک، ورود پیچیدگی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در مکانیک لوپ، منطق کاملاً برعکس اسلایدینگ است: دندان روی سیم نمی‌لغزد؛ خودِ سیم "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خم شده و باز می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و دندان‌ها را با خود می‌برد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چون هیچ لغزشی رخ نمی‌دهد، هیچ اصطکاکی هم در کار نیست — و همین مزیت اصلی این روش است."
+                }
+              ]
+            },
+            {
+              "tag": "table",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "tbody",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "مزیت"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "th",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "هزینه"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "اصطکاک و بایندینگ حذف می‌شود"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ساخت دقیق و وقت‌گیر"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "کنترل دقیق نسبت M/F"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "نیازمند تسلط بیومکانیکی"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "پیش‌بینی‌پذیری بیشتر انکوریج"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "td",
+                          "attributes": {},
+                          "children": [
+                            {
+                              "tag": "text",
+                              "text": "ناراحتی بیشتر بافت نرم"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 ردیف دوم مهم‌ترین است. در اسلایدینگ، نسبت گشتاور به نیرو تا حد زیادی از دست تو خارج است. در لوپ، با خم‌هایی که در دو سر آن می‌زنی، این نسبت را "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمداً تعیین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌کنی — یعنی نوع حرکت (تیپینگ، حرکت بدنه‌ای، حرکت ریشه) را انتخاب می‌کنی نه اینکه امیدوار باشی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 به همین دلیل لوپ در موارد انکوریج بحرانی و در دست درمانگر مسلط، همچنان جایگاه خود را دارد — با اینکه اسلایدینگ ساده‌تر و رایج‌تر است."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/BF-ORTHO-25.webp",
+                  "alt": "لوپ‌های بستن فضا در دو طرف قوس",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/7c2b2f6c72a7544a0b6686733fc4e3593c28f40733a4b8d21a80a5412b9158ff.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لوپ‌های بستن فضا به‌صورت دوطرفه برای بستن فضای باقی‌مانده میان لترال و کانین بالا. به سگمنت قدامی چهار ثنایا توجه کن: بی‌آنکه روی سیم بلغزد فضا را می‌بندد — لوپ‌ها بسته می‌شوند و این سگمنت بدون اصطکاک عقب می‌رود تا به کانین برسد. "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مأخذ: Proffit, Contemporary Orthodontics, 7th ed, Fig. 9.31"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:4e437d6c66600d119d14b93fba5bbe1a3e12b59cf5f7634f358efc9239b4e65f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "61f60f9290a954b851df9d33d32f41473787b5f990423dc9a9326cbcb8540e3f",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سه عامل طراحی لوپ"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سه عامل، رفتار هر لوپی را تعیین می‌کنند:"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "طول سیم درگیر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": هرچه سیم بیشتری در لوپ به کار رود، نیرو ملایم‌تر و بازه‌ی فعالیت بلندتر می‌شود — همان قانون «توان سوم طول» که در یونیت سیم‌ها دیدی. افزودن هلیکس ساده‌ترین راه گنجاندن سیم بیشتر در لوپ است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "موقعیت لوپ"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": لوپ نزدیک‌تر به یک سگمنت، گشتاور بیشتری به همان سگمنت می‌دهد. این مستقیم‌ترین ابزار کنترل انکوریج در مکانیک لوپ است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خم‌های گیبل (آلفا و بتا)"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": خم‌های تعبیه‌شده در دو سر لوپ، نسبت M/F و در نتیجه نوع حرکت هر سگمنت را تعیین می‌کنند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 قاعده‌ی عملی که از عامل دوم می‌آید: لوپ متقارن در وسط فضا ← حرکت متقارن دو سگمنت. لوپ نزدیک به خلف ← گشتاور بیشتر روی خلف؛ خلف ناچار بدنه‌ای حرکت می‌کند و قدام تیپ می‌کند، پس انکوریج خلفی بیشتر می‌شود. لوپ نزدیک به قدام برعکس عمل می‌کند و سهم جلو آمدن خلف را بیشتر می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 یعنی صرفاً با جابه‌جا کردن محل لوپ روی سیم، می‌توانی تصمیم بگیری که فضا با حرکت کدام واحد بسته شود — بدون هیچ دستگاه اضافه‌ای."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ اما این دقت، بی‌هزینه نیست: لوپی که با یک میلی‌متر خطا در موقعیت یا با خم نادرست ساخته شود، سیستم نیروی متفاوتی می‌دهد. اینجا دقت ساخت، بخشی از درمان است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:a9872995704fb670ea7fc4a66e374a44af0d41934f68dc7ebeedb583d763fbcc",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "e9b101f8ad75fe5c02cbd0fd22c991f258f3b0a301c43b1f38cc5f6759f25208",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مکانیک سگمنتال"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مکانیک سگمنتال، رویکردی است که مسئله را از پایه متفاوت می‌بیند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در این رویکرد، قوس به "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "واحدهای مجزا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تقسیم می‌شود و میان آن‌ها یک "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فنر یا کانتی‌لِوِر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " با سیستم نیروی معلوم قرار می‌گیرد."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سگمنت خلفی به هم بسته و به یک واحد مقاوم تبدیل می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سگمنت قدامی جدا نگه داشته می‌شود"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیستم نیرو میان دو واحد "
+                    },
+                    {
+                      "tag": "b",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قابل محاسبه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است، نه حدسی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "💡 تفاوت بنیادی با سیم پیوسته همین‌جاست. در سیم پیوسته، هر دندان با همه‌ی دندان‌های دیگر در تعامل است و سیستم نیرو "
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نامعین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌شود — نمی‌توان دقیقاً گفت چه نیرویی به کدام دندان می‌رسد. در مکانیک سگمنتال، تعداد نقاط تماس محدود است و می‌توان نیرو را محاسبه کرد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "👉 قوس یوتیلیتی و کانتی‌لِوِر اینتروژن، شناخته‌شده‌ترین نمونه‌های این رویکردند: نیروی معلوم و قابل اندازه‌گیری، به‌جای نیروی نامعین سیم پیوسته."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "⚠️ به همین دلیل در اینتروژن واقعی ثنایاها — که در آن مقدار دقیق نیرو حیاتی است — مکانیک سگمنتال بر سیم پیوسته ترجیح دارد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:8547",
+      "sourceId": "8547",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "f19a694a0745dc8c6d896356daa2f14ff5143c8afd68643d5d9fbe872cb0e7d0",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مورد هزینه عملی مکانیک لوپ محسوب می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مورد هزینه عملی مکانیک لوپ محسوب می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش اصطکاک"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیاز به سیم NiTi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از دست رفتن کنترل انکوریج، چون لوپ نسبت M/F را از اختیار درمانگر خارج می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان ساخت بیشتر، نیاز به تسلط بیومکانیکی و ناراحتی بیشتر بافت نرم"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5ca69c19e1a195e40713721dad98fb44979c4fa93cd57387e7ced65d44f50486",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "افزایش اصطکاک",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش اصطکاک"
+            }
+          ]
+        },
+        {
+          "id": "ebb99936690e67edced835f377c66b703722381a774406849338b59edef3b07e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "نیاز به سیم NiTi",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیاز به سیم NiTi"
+            }
+          ]
+        },
+        {
+          "id": "c490cd7ad473fc30fe6d29385755ad31cef92d0ed5b5ab3603ebeec600dd0d1b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "از دست رفتن کنترل انکوریج، چون لوپ نسبت M/F را از اختیار درمانگر خارج می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از دست رفتن کنترل انکوریج، چون لوپ نسبت M/F را از اختیار درمانگر خارج می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "7aed1495d7686ab9c6273659bf76369bfe5d95b1b953dd8c68191ed610b0d1e5",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "زمان ساخت بیشتر، نیاز به تسلط بیومکانیکی و ناراحتی بیشتر بافت نرم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان ساخت بیشتر، نیاز به تسلط بیومکانیکی و ناراحتی بیشتر بافت نرم"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "7aed1495d7686ab9c6273659bf76369bfe5d95b1b953dd8c68191ed610b0d1e5"
+        ],
+        "explanation": "دقت بیشتر، بهای خود را دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقت بیشتر، بهای خود را دارد."
+          }
+        ],
+        "observedAt": "2026-11-16T23:53:35.411Z"
+      }
+    },
+    {
+      "id": "question:8548",
+      "sourceId": "8548",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "7d0daa17a3ca253f4f64031cde9d5890465ffee5022a62aad28296c576821146",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "افزایش طول سیم به‌کاررفته در لوپ چه اثری دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "افزایش طول سیم به‌کاررفته در لوپ چه اثری دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی ملایم‌تر و بازه فعالیت بلندتر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بدون اثر بر نیرو"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی سنگین‌تر و بازه‌ی فعالیت کوتاه‌تر، چون سیم بیشتری درگیر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش اصطکاک"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5d36fd4e4949b996274155818be5077d75988b09d7f48cb8b1d46aaef99c7189",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نیروی ملایم‌تر و بازه فعالیت بلندتر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیروی ملایم‌تر و بازه فعالیت بلندتر"
+            }
+          ]
+        },
+        {
+          "id": "8e50727319818dfd21e02bb52cd812f3c098571ea78bf97ad30a669d97408d2c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بدون اثر بر نیرو",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بدون اثر بر نیرو"
+            }
+          ]
+        },
+        {
+          "id": "c22fb1eb75ea93ea7e047949ffd8967db267e95e293a006907955125553d771e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نیروی سنگین‌تر و بازه‌ی فعالیت کوتاه‌تر، چون سیم بیشتری درگیر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیروی سنگین‌تر و بازه‌ی فعالیت کوتاه‌تر، چون سیم بیشتری درگیر است"
+            }
+          ]
+        },
+        {
+          "id": "5ca69c19e1a195e40713721dad98fb44979c4fa93cd57387e7ced65d44f50486",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "افزایش اصطکاک",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش اصطکاک"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5d36fd4e4949b996274155818be5077d75988b09d7f48cb8b1d46aaef99c7189"
+        ],
+        "explanation": "همان قانون طول که در فنرها دیدیم.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همان قانون طول که در فنرها دیدیم."
+          }
+        ],
+        "observedAt": "2026-11-16T23:53:40.885Z"
+      }
+    },
+    {
+      "id": "question:8553",
+      "sourceId": "8553",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "0cb9005b3f64586db6b157ec9599444fb46b9c3ee8b5af75c0337ab74c26ed38",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "نقش خم‌های تعبیه‌شده در دو سر لوپ چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نقش خم‌های تعبیه‌شده در دو سر لوپ چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط زیبایی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش اصطکاک"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعیین نسبت M/F و در نتیجه نوع حرکت دندان‌های دو سگمنت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش گیر براکت، چون سیم خم‌دار محکم‌تر در اسلات قفل می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5415a0938fdec0c57454f4c7c82f5aff8287091db8239eba6c88543d2fb2e84f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "فقط زیبایی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط زیبایی"
+            }
+          ]
+        },
+        {
+          "id": "2e997de1eb8913684d4d2b204fea88f300f1a1b37697c37a3db2adcf6a3abca8",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کاهش اصطکاک",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش اصطکاک"
+            }
+          ]
+        },
+        {
+          "id": "e81299f21b734bebee7126fcff74f3e7e09281c25eff184ae8d04657f95a8f2b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تعیین نسبت M/F و در نتیجه نوع حرکت دندان‌های دو سگمنت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تعیین نسبت M/F و در نتیجه نوع حرکت دندان‌های دو سگمنت"
+            }
+          ]
+        },
+        {
+          "id": "df9042f3154247c4cab9aaec43235f0accab1ddf2de7fb3b9526ab0950193bc0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "افزایش گیر براکت، چون سیم خم‌دار محکم‌تر در اسلات قفل می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش گیر براکت، چون سیم خم‌دار محکم‌تر در اسلات قفل می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e81299f21b734bebee7126fcff74f3e7e09281c25eff184ae8d04657f95a8f2b"
+        ],
+        "explanation": "این خم‌ها گشتاور تولید می‌کنند و نوع حرکت را تعیین می‌کنند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این خم‌ها گشتاور تولید می‌کنند و نوع حرکت را تعیین می‌کنند."
+          }
+        ],
+        "observedAt": "2026-11-16T23:53:47.013Z"
+      }
+    },
+    {
+      "id": "question:8555",
+      "sourceId": "8555",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "83f21c89a988f1dcc7cc11c81bb57a9b4aea0a985529f65d2cecf0c5261fc311",
+      "position": 7,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "فنری که تنها از یک سر به دستگاه متصل است و در سر دیگر نیروی معلومی وارد می‌کند، ......... نام دارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "فنری که تنها از یک سر به دستگاه متصل است و در سر دیگر نیروی معلومی وارد می‌کند، ......... نام دارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "کانتیلور",
+        "explanation": "کانتی‌لِوِر (Cantilever).",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کانتی‌لِوِر (Cantilever)."
+          }
+        ],
+        "observedAt": "2026-11-16T23:54:04.058Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 8,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ت"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ی"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ک"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ن"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "ل"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "ا"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "و"
+          },
+          {
+            "key": "7",
+            "position": 8,
+            "text": "ر"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:8559",
+      "sourceId": "8559",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 87.5%;",
+      "contentKey": "8e0aff25b62b1bdcc109da3bbdee632ad1e9ccab67d676d9995a854b058f7a33",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار با نیاز به انکوریج ماکزیمم در بستن فضای کشیدن پرمولر، پروفایل محدب و ثنایاهایی که باید با حرکت بدنه‌ای عقب بروند. جامع‌ترین انتخاب مکانیکی کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار با نیاز به انکوریج ماکزیمم در بستن فضای کشیدن پرمولر، پروفایل محدب و ثنایاهایی که باید با حرکت بدنه‌ای عقب بروند. جامع‌ترین انتخاب مکانیکی کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسلایدینگ ساده با پاورچین و نیروی زیاد تا رتراکشن پیش از اتلاف انکوریج تمام شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرچ‌وایر NiTi پیوسته همراه با الاستیک کلاس II تا قدام بدون فشار به مولر عقب برود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مکانیک لوپ یا سگمنتال با M/F طراحی‌شده، یا اسلایدینگ با انکوریج اسکلتی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کم کردن هدف رتراکشن قدام و پذیرفتن پروفایل محدب تا انکوریج اصلاً به خطر نیفتد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "70cd1431d19f737dfe248728bb8a6cb856f4211d0ddf42c5a9e323980203f4ad",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اسلایدینگ ساده با پاورچین و نیروی زیاد تا رتراکشن پیش از اتلاف انکوریج تمام شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اسلایدینگ ساده با پاورچین و نیروی زیاد تا رتراکشن پیش از اتلاف انکوریج تمام شود"
+            }
+          ]
+        },
+        {
+          "id": "dc7169de82c337d686ec00baacf6852f724640a962944392cb013ab6f1dc02fe",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "آرچ‌وایر NiTi پیوسته همراه با الاستیک کلاس II تا قدام بدون فشار به مولر عقب برود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آرچ‌وایر NiTi پیوسته همراه با الاستیک کلاس II تا قدام بدون فشار به مولر عقب برود"
+            }
+          ]
+        },
+        {
+          "id": "efe77f81c24755c47922d716c387dde25d22f229dcdb607d497ac8bd7655e28e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مکانیک لوپ یا سگمنتال با M/F طراحی‌شده، یا اسلایدینگ با انکوریج اسکلتی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مکانیک لوپ یا سگمنتال با M/F طراحی‌شده، یا اسلایدینگ با انکوریج اسکلتی"
+            }
+          ]
+        },
+        {
+          "id": "10dd775d33871526439fc76970683ff5ded1db5a9992223102b6cb8547bdac29",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کم کردن هدف رتراکشن قدام و پذیرفتن پروفایل محدب تا انکوریج اصلاً به خطر نیفتد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کم کردن هدف رتراکشن قدام و پذیرفتن پروفایل محدب تا انکوریج اصلاً به خطر نیفتد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "efe77f81c24755c47922d716c387dde25d22f229dcdb607d497ac8bd7655e28e"
+        ],
+        "explanation": "عالی! حرکت بدنه‌ای ثنایاها با انکوریج ماکزیمم، کنترل دقیق ممان یا تکیه‌گاهی مستقل از دندان‌ها می‌خواهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "عالی! حرکت بدنه‌ای ثنایاها با انکوریج ماکزیمم، کنترل دقیق ممان یا تکیه‌گاهی مستقل از دندان‌ها می‌خواهد."
+          }
+        ],
+        "observedAt": "2026-11-16T23:54:13.538Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:3c77ec74412449b57286148150ca9140e88b9b5a9604893137ffd013e9df707c",
+      "at": "2026-11-16T23:53:15.763Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:4e437d6c66600d119d14b93fba5bbe1a3e12b59cf5f7634f358efc9239b4e65f",
+      "at": "2026-11-16T23:53:17.311Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:a9872995704fb670ea7fc4a66e374a44af0d41934f68dc7ebeedb583d763fbcc",
+      "at": "2026-11-16T23:53:18.901Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:8547",
+      "at": "2026-11-16T23:53:20.483Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:8548",
+      "at": "2026-11-16T23:53:37.042Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:8553",
+      "at": "2026-11-16T23:53:42.489Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:8555",
+      "at": "2026-11-16T23:53:48.579Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:8559",
+      "at": "2026-11-16T23:54:05.648Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
