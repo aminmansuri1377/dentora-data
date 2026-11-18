@@ -1,0 +1,1512 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2667/lesson.json",
+  "id": "2667",
+  "title": "درس دوم: پارگی و ترمیم ورق",
+  "specialtyKey": "99094e62eefded52",
+  "chapter": {
+    "id": "540",
+    "title": "برداشتن رابردم، پارگی و خطاهای رایج",
+    "position": 6
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:892634d8f42f5304d98436281f7c354146789b8a50b272b3229c94e56a729025",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "69ca69355c8961dc684cb39e4b04976318c608d3336963adc56b3a3b420ad114",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا ورق پاره می‌شود"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در تراش باکس مزیال پرمولر دوم پایین، فرز به سپتوم ورق می‌خورد و ورق میان دو دندان جر می‌خورد. حالا بزاق از همان‌جا به باکس می‌آید و ترمیم هنوز نیمه‌کاره است. این پارگی را چطور می‌شد پیشگیری کرد و حالا چه می‌کنی؟"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/isol-fig-1-6-2-s1.webp",
+                  "alt": "کلمپی که روی ورق بی‌سوراخ گذاشته شده؛ ورق باید شل کشیده شود و فک‌ها کُند باشند تا ورق سوراخ نشود.",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/464c2d5c63604af02cd2ee90bed04a52c275230b45e2a87db25a7e5eefe1cbf9.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلمپی که روی ورق بی‌سوراخ گذاشته شده؛ ورق باید شل کشیده شود و فک‌ها کُند باشند تا ورق سوراخ نشود. "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Summitt's Fundamentals of Operative Dentistry — Fig. 8-15)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ورق پاره یعنی ایزولاسیون ضعیف: بزاق به میدان می‌رسد و ورق دیگر از بیمار محافظت نمی‌کند. پس کمی دقت برای پیشگیری می‌ارزد. پارگی معمولاً از یکی از این‌ها می‌آید:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ورق کهنه:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " هر ورقی، لاتکس یا بدون لاتکس، با گذشت زمان مقاومتش در برابر پارگی را از دست می‌دهد. معمولاً وقتی می‌فهمی که ورق هنگام گذاشتن پاره شده است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ورق نازک:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ورق ضخیم‌تر کمتر پاره می‌شود؛ در درمان ریشه ورق نازک هنگام گذاشتن زود پاره می‌شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سوراخ:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " سوراخ خیلی کوچک زیر کشش زیاد پاره می‌شود، و پارگی سوراخ نامنظم از همان ناهمواری لبه شروع می‌شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کشش زیاد هنگام گذاشتن:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " کلمپ بال‌دار بزرگ‌تر است و سوراخ را بیشتر کش می‌دهد؛ در روش کلمپ اول، ورق بدون لاتکس زیر این کشش از هم می‌پاشد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تماس زبر یا سپتوم تاخورده"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " که به‌زور از تماس رد شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فرز"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در کار پروگزیمال، نزدیک سپتوم."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کلمپ روی ورق:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " وقتی کلمپ را روی ورق بر دندانی می‌گذاری که برایش سوراخ نزده‌ای، ورق سفت‌کشیده یا فک تیز ورق را سوراخ می‌کند و پارگی از همان‌جا راه می‌افتد."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:3109983bee19d60aa18ceef5910d802fc04ff51b7e15bf097def2189aa2b7d92",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "798b91ef438274cf2fa25bf88bf0fe12c9fee3730493dd72a7964061dbf95ec3",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پیشگیری و ترمیم پارگی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پیشگیری"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جعبه‌های ورق را دور از گرما نگه دار؛ جعبه‌های اضافه را می‌شود در یخچال گذاشت. ورق شکننده را دور بینداز و اگر تازه خریده‌ای، به فروشنده برگردان."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هنگام تراش پروگزیمال، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "وج چوبی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بین‌دندانی سپتوم را از فرز محافظت می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در درمان ریشه‌ی دندانی با پوسیدگی عمیق پروگزیمال، پوسیدگی سرویکال را پیش از رابردم بردار، بی‌آنکه وارد فضای پالپ شوی. فرز دیگر بعداً ورق را نمی‌بُرد و مرز سرویکال تمیز را هم می‌بینی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلمپ روی ورق: فک‌ها کُند باشند و ورق شل روی دندان بیفتد."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اگر ورق پاره شد"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پارگی کوچک:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تکه‌ای ورق ببُر که از هر طرف حدود "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱ سانتی‌متر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از پارگی بزرگ‌تر باشد و آن را با چسب سیانوآکریلات روی پارگی بچسبان."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پارگی بزرگ:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پارگی‌ای که بزرگ است، یا از لبه‌ی سوراخ شروع شده و سیل دور گردن دندان را از بین برده، با وصله درست نمی‌شود. ورق را عوض کن، یا ورق دومی روی ورق اول بگذار."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نکته‌ی طلایی: ورق دوم روی ورق اول دو کاربرد دیگر هم دارد: نشت از سوراخ‌هایی که اندازه‌شان درست نبوده، و کار با مواد شیمیایی قوی."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/isol-fig-1-6-2-s2.webp",
+                  "alt": "گوه چوبی بین‌دندانی ورق را از برش فرز محافظت می‌کند.",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/0ebc0c751bc9fcfe68ae10d83bf129e7bd7bf6820d761a61a6dbf30ede9c5860.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گوه چوبی بین‌دندانی ورق را از برش فرز محافظت می‌کند. "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Summitt's Fundamentals of Operative Dentistry — Fig. 8-26)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:45622",
+      "sourceId": "45622",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "f3ade7d59838b3db08dd11b25e6bc2d82b91ee61ebbe996377764375e1016a7b",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "جعبه‌ای ورق که هفته‌ی پیش خریده‌ای، در آزمون کشیدن میان شست و انگشت اشاره به‌راحتی جر می‌خورد. کدام کار درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "جعبه‌ای ورق که هفته‌ی پیش خریده‌ای، در آزمون کشیدن میان شست و انگشت اشاره به‌راحتی جر می‌خورد. کدام کار درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ورق‌ها را یک شب در یخچال بگذاری تا کشسانی از دست‌رفته‌شان برگردد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ورق‌های شکننده را کنار بگذاری و جعبه را به فروشنده برگردانی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ورق‌ها را فقط برای درمان ریشه‌ی تک‌دندان به کار ببری"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش از گذاشتن، ورق‌ها را با لوبریکانت بیشتری چرب کنی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "589402343f78b9842e868e8a06c7208f8160e4611461bd5d0479ea43d2017c26",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ورق‌ها را یک شب در یخچال بگذاری تا کشسانی از دست‌رفته‌شان برگردد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ورق‌ها را یک شب در یخچال بگذاری تا کشسانی از دست‌رفته‌شان برگردد"
+            }
+          ]
+        },
+        {
+          "id": "ce2f87b0e08334c999a5946ba56383a59b8d7b78838b0768555e8d9ef30eab9a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ورق‌های شکننده را کنار بگذاری و جعبه را به فروشنده برگردانی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ورق‌های شکننده را کنار بگذاری و جعبه را به فروشنده برگردانی"
+            }
+          ]
+        },
+        {
+          "id": "bfb8481cedc3fa3c60960be0907ce557305191ea7af7ff9e36c5455ef96f1e87",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ورق‌ها را فقط برای درمان ریشه‌ی تک‌دندان به کار ببری",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ورق‌ها را فقط برای درمان ریشه‌ی تک‌دندان به کار ببری"
+            }
+          ]
+        },
+        {
+          "id": "4cece116261c3234f7df82a4538d6766761836fc8faca5a28cd3b060e91bd4a6",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "پیش از گذاشتن، ورق‌ها را با لوبریکانت بیشتری چرب کنی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پیش از گذاشتن، ورق‌ها را با لوبریکانت بیشتری چرب کنی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ce2f87b0e08334c999a5946ba56383a59b8d7b78838b0768555e8d9ef30eab9a"
+        ],
+        "explanation": "ورقی که در آزمون کشیدن به‌راحتی جر می‌خورد، شکننده است و در دهان هم پاره می‌شود. آن را دور بینداز؛ اگر تازه خریده‌ای، به فروشنده برگردان.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "ورقی که در آزمون کشیدن به‌راحتی جر می‌خورد، شکننده است و در دهان هم پاره می‌شود. آن را دور بینداز؛ اگر تازه خریده‌ای، به فروشنده برگردان."
+          }
+        ],
+        "observedAt": "2026-11-18T22:10:05.978Z"
+      }
+    },
+    {
+      "id": "question:45625",
+      "sourceId": "45625",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "2beb304cdebed50ef9f06edd6a3d6c0b6fe443c1a1808ae3b9b7525c2fa3d2fe",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دانشجو برای درمان ریشه‌ی مولر اول پایینی که پوسیدگی عمیق دیستال تا نزدیک لثه دارد، اول رابردم می‌گذارد و بعد پوسیدگی دیستال را با فرز برمی‌دارد. فرز سپتوم دیستال را می‌بُرد. کجای کار اشتباه بود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دانشجو برای درمان ریشه‌ی مولر اول پایینی که پوسیدگی عمیق دیستال تا نزدیک لثه دارد، اول رابردم می‌گذارد و بعد پوسیدگی دیستال را با فرز برمی‌دارد. فرز سپتوم دیستال را می‌بُرد. کجای کار اشتباه بود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برای درمان ریشه باید ورق نازک‌تری برمی‌داشت که زیر فرز کش بیاید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رابردم باید پس از باز کردن سقف پالپ و خارج کردن بافت پالپ تاجی گذاشته می‌شد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پوسیدگی سرویکال باید پیش از رابردم، بی‌ورود به فضای پالپ، برداشته می‌شد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کل پوسیدگی باید پیش از رابردم برداشته می‌شد، حتی اگر پالپ باز شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4ff26c535d746bd3a39a734ab062f930184671ef0124439fedbe4dca3ed57eff",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "برای درمان ریشه باید ورق نازک‌تری برمی‌داشت که زیر فرز کش بیاید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "برای درمان ریشه باید ورق نازک‌تری برمی‌داشت که زیر فرز کش بیاید"
+            }
+          ]
+        },
+        {
+          "id": "d5553af36fb96428ec227b450303e72b5a20b9650342fd8b132464fc1a30a55c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "رابردم باید پس از باز کردن سقف پالپ و خارج کردن بافت پالپ تاجی گذاشته می‌شد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رابردم باید پس از باز کردن سقف پالپ و خارج کردن بافت پالپ تاجی گذاشته می‌شد"
+            }
+          ]
+        },
+        {
+          "id": "851b47bdf473bd0652c964837c086d7599bce5139095cb98d2766b45ac7226f2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "پوسیدگی سرویکال باید پیش از رابردم، بی‌ورود به فضای پالپ، برداشته می‌شد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پوسیدگی سرویکال باید پیش از رابردم، بی‌ورود به فضای پالپ، برداشته می‌شد"
+            }
+          ]
+        },
+        {
+          "id": "e498f7bc1efb360b54dee941d84b6984ae92608abdd7637bba80e35e4171a45b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کل پوسیدگی باید پیش از رابردم برداشته می‌شد، حتی اگر پالپ باز شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کل پوسیدگی باید پیش از رابردم برداشته می‌شد، حتی اگر پالپ باز شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "851b47bdf473bd0652c964837c086d7599bce5139095cb98d2766b45ac7226f2"
+        ],
+        "explanation": "پوسیدگی عمیق پروگزیمال را پیش از رابردم بردار، ولی وارد فضای پالپ نشو. فرز دیگر بعداً ورق را نمی‌بُرد و مرز سرویکال تمیز را هم می‌بینی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پوسیدگی عمیق پروگزیمال را پیش از رابردم بردار، ولی وارد فضای پالپ نشو. فرز دیگر بعداً ورق را نمی‌بُرد و مرز سرویکال تمیز را هم می‌بینی."
+          }
+        ],
+        "observedAt": "2026-11-18T22:10:09.441Z"
+      }
+    },
+    {
+      "id": "question:45626",
+      "sourceId": "45626",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "6be6252dbd5d7bcb26faa5d0cc9c9cb0292508bf7776dc04fce3fe36edc52f17",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در ترمیم قدامی، می‌خواهی روی ورق، کلمپی بر کانینی بگذاری که برایش سوراخ نزده‌ای. کدام دو شرط جلوی پارگی ورق را می‌گیرد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در ترمیم قدامی، می‌خواهی روی ورق، کلمپی بر کانینی بگذاری که برایش سوراخ نزده‌ای. کدام دو شرط جلوی پارگی ورق را می‌گیرد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلمپ بال‌دار باشد و ورق پیش از کلمپ با وازلین چرب شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فک‌های کلمپ تیز باشند و ورق سفت روی دندان کشیده شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فک‌های کلمپ دندانه‌دار باشند و ورق دولایه روی دندان تا شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فک‌های کلمپ کُند باشند و ورق شل روی دندان بیفتد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d9c76af08190308e919f9f8c8fdb2975ade6e6ce300918daf0590b541ea59100",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کلمپ بال‌دار باشد و ورق پیش از کلمپ با وازلین چرب شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلمپ بال‌دار باشد و ورق پیش از کلمپ با وازلین چرب شود"
+            }
+          ]
+        },
+        {
+          "id": "fd52fce71d08d3094f4e5b09454db674399b5c81145c0cd8c3c45145251d9747",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "فک‌های کلمپ تیز باشند و ورق سفت روی دندان کشیده شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فک‌های کلمپ تیز باشند و ورق سفت روی دندان کشیده شود"
+            }
+          ]
+        },
+        {
+          "id": "8e12432c6ba452dfb258e19ba8797803ebb81a03a3c3d1ef7b895335bbaf8bb4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "فک‌های کلمپ دندانه‌دار باشند و ورق دولایه روی دندان تا شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فک‌های کلمپ دندانه‌دار باشند و ورق دولایه روی دندان تا شود"
+            }
+          ]
+        },
+        {
+          "id": "49eb7711fb9979ba13a759480197fc3ee49a3e5e89abee4aa910b58bc3b14675",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فک‌های کلمپ کُند باشند و ورق شل روی دندان بیفتد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فک‌های کلمپ کُند باشند و ورق شل روی دندان بیفتد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "49eb7711fb9979ba13a759480197fc3ee49a3e5e89abee4aa910b58bc3b14675"
+        ],
+        "explanation": "فک تیز یا ورقی که سفت روی دندان کشیده شده، زیر فشار فک سوراخ می‌شود و پارگی از همان‌جا راه می‌افتد. فک کُند و ورق شل این خطر را از میان می‌برد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "فک تیز یا ورقی که سفت روی دندان کشیده شده، زیر فشار فک سوراخ می‌شود و پارگی از همان‌جا راه می‌افتد. فک کُند و ورق شل این خطر را از میان می‌برد."
+          }
+        ],
+        "observedAt": "2026-11-18T22:10:12.936Z"
+      }
+    },
+    {
+      "id": "question:45629",
+      "sourceId": "45629",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "de8139a7bbb16d1dfbabf9e59483aa4eeaf9bad70dafe83a54aa43693bafeb87",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "وسط یک ترمیم طولانی کلاس II، پارگی کوچکی در ورق نزدیک گوشه‌ی دهان، دور از دندان‌ها، پیدا می‌شود. آن را چطور وصله می‌کنی؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "وسط یک ترمیم طولانی کلاس II، پارگی کوچکی در ورق نزدیک گوشه‌ی دهان، دور از دندان‌ها، پیدا می‌شود. آن را چطور وصله می‌کنی؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکه‌ای ورق که فقط حدود ۱ میلی‌متر از لبه‌ی پارگی بیرون می‌زند، با چسب سیانوآکریلات"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکه‌ای ورق که از هر طرف حدود ۱ سانتی‌متر بزرگ‌تر است، با چسب سیانوآکریلات"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکه‌ای ورق به اندازه‌ی خود پارگی، که با لوبریکانت محلول در آب روی ورق می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نوار چسب پزشکی از هر دو طرف ورق، بی هیچ تکه‌ی ورق اضافه"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5c95498fe29ed871eb15b1388a308385340a9c8bcfe11039793dd0c3e4e0fd2e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تکه‌ای ورق که فقط حدود ۱ میلی‌متر از لبه‌ی پارگی بیرون می‌زند، با چسب سیانوآکریلات",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تکه‌ای ورق که فقط حدود ۱ میلی‌متر از لبه‌ی پارگی بیرون می‌زند، با چسب سیانوآکریلات"
+            }
+          ]
+        },
+        {
+          "id": "6937dbc10f6468f31fa7b9cd5937628d3fde365e3b458cc4f953691941a3c18c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تکه‌ای ورق که از هر طرف حدود ۱ سانتی‌متر بزرگ‌تر است، با چسب سیانوآکریلات",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تکه‌ای ورق که از هر طرف حدود ۱ سانتی‌متر بزرگ‌تر است، با چسب سیانوآکریلات"
+            }
+          ]
+        },
+        {
+          "id": "7b7c3016f712d7550a5c3ebb83dbb156a8ab46630f6e75833dddc7fc7c6f8475",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تکه‌ای ورق به اندازه‌ی خود پارگی، که با لوبریکانت محلول در آب روی ورق می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تکه‌ای ورق به اندازه‌ی خود پارگی، که با لوبریکانت محلول در آب روی ورق می‌ماند"
+            }
+          ]
+        },
+        {
+          "id": "d3af0c83acfa67346ad8c791337aa3c75c8e2860be36e598f40c98659a73418f",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نوار چسب پزشکی از هر دو طرف ورق، بی هیچ تکه‌ی ورق اضافه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نوار چسب پزشکی از هر دو طرف ورق، بی هیچ تکه‌ی ورق اضافه"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6937dbc10f6468f31fa7b9cd5937628d3fde365e3b458cc4f953691941a3c18c"
+        ],
+        "explanation": "وصله باید از هر طرف حدود ۱ سانتی‌متر از پارگی بزرگ‌تر باشد تا روی ورق سالم بچسبد، و با چسب سیانوآکریلات روی پارگی نصب می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "وصله باید از هر طرف حدود ۱ سانتی‌متر از پارگی بزرگ‌تر باشد تا روی ورق سالم بچسبد، و با چسب سیانوآکریلات روی پارگی نصب می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-18T22:10:26.760Z"
+      }
+    },
+    {
+      "id": "question:45634",
+      "sourceId": "45634",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "7ea4c9dc37496e49ba82fe0f8b22803ec9ad1b7c438cce253e65bbd86ae7dca4",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در درمان ریشه‌ی پرمولر اول بالا، ورق از لبه‌ی سوراخ همان دندان جر می‌خورد و بزاق به حفره‌ی دسترسی می‌آید. کدام کار درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در درمان ریشه‌ی پرمولر اول بالا، ورق از لبه‌ی سوراخ همان دندان جر می‌خورد و بزاق به حفره‌ی دسترسی می‌آید. کدام کار درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکه‌ای ورق با حاشیه‌ی ۱ سانتی‌متر روی پارگی بچسبانی و درمان ریشه را ادامه دهی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ورق را عوض کنی یا ورق دومی روی ورق اول بگذاری؛ وصله سیل را برنمی‌گرداند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کار را با رول پنبه، ساکشن بزاق و HVE تا پایان همین جلسه، بی‌رابردم، ادامه دهی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلمپ را با کلمپ بزرگ‌تری عوض کنی تا ورق پاره را دور گردن دندان محکم‌تر نگه دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a540a570e64d36168f9c7c216e73b52931c36615634d3c6a49c74f4a12ee3680",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تکه‌ای ورق با حاشیه‌ی ۱ سانتی‌متر روی پارگی بچسبانی و درمان ریشه را ادامه دهی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تکه‌ای ورق با حاشیه‌ی ۱ سانتی‌متر روی پارگی بچسبانی و درمان ریشه را ادامه دهی"
+            }
+          ]
+        },
+        {
+          "id": "2134ac487bed754f5e51f33b10bb6351770b69175747c4ed22a92a757c8688ea",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ورق را عوض کنی یا ورق دومی روی ورق اول بگذاری؛ وصله سیل را برنمی‌گرداند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ورق را عوض کنی یا ورق دومی روی ورق اول بگذاری؛ وصله سیل را برنمی‌گرداند"
+            }
+          ]
+        },
+        {
+          "id": "34ec6bc85283da6aab726e132ae74606a20824509692a620c7339a12d4317b46",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کار را با رول پنبه، ساکشن بزاق و HVE تا پایان همین جلسه، بی‌رابردم، ادامه دهی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کار را با رول پنبه، ساکشن بزاق و HVE تا پایان همین جلسه، بی‌رابردم، ادامه دهی"
+            }
+          ]
+        },
+        {
+          "id": "5cf9a21c23d7f945c2a9e4c97540fa8b5eb44609f417b8b9aad2dce27c0caed4",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کلمپ را با کلمپ بزرگ‌تری عوض کنی تا ورق پاره را دور گردن دندان محکم‌تر نگه دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلمپ را با کلمپ بزرگ‌تری عوض کنی تا ورق پاره را دور گردن دندان محکم‌تر نگه دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "2134ac487bed754f5e51f33b10bb6351770b69175747c4ed22a92a757c8688ea"
+        ],
+        "explanation": "پارگی‌ای که از لبه‌ی سوراخ شروع شده، سیل دور گردن دندان را از بین برده و وصله آن را برنمی‌گرداند. ورق را عوض کن یا ورق دومی روی ورق اول بگذار.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پارگی‌ای که از لبه‌ی سوراخ شروع شده، سیل دور گردن دندان را از بین برده و وصله آن را برنمی‌گرداند. ورق را عوض کن یا ورق دومی روی ورق اول بگذار."
+          }
+        ],
+        "observedAt": "2026-11-18T22:10:29.899Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:892634d8f42f5304d98436281f7c354146789b8a50b272b3229c94e56a729025",
+      "at": "2026-11-18T22:10:00.487Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:3109983bee19d60aa18ceef5910d802fc04ff51b7e15bf097def2189aa2b7d92",
+      "at": "2026-11-18T22:10:02.457Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:45622",
+      "at": "2026-11-18T22:10:04.060Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:45625",
+      "at": "2026-11-18T22:10:07.538Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:45626",
+      "at": "2026-11-18T22:10:11.034Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:45629",
+      "at": "2026-11-18T22:10:14.535Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:45634",
+      "at": "2026-11-18T22:10:18.819Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:45629",
+      "at": "2026-11-18T22:10:24.924Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:45634",
+      "at": "2026-11-18T22:10:28.214Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
