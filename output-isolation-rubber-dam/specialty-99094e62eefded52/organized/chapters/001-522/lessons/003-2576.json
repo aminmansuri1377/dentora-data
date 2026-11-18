@@ -1,0 +1,1486 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2576/lesson.json",
+  "id": "2576",
+  "title": "درس سوم: قانون چهار نقطه و تست پایداری",
+  "specialtyKey": "99094e62eefded52",
+  "chapter": {
+    "id": "522",
+    "title": "دست به کار: رابردم گام‌به‌گام، کیت رابردم، کلمپ و قانون چهار نقطه",
+    "position": 1
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:05c49d3058511aae27efd4c436b23012bd0a12eb914020dfdf19747bef34f9ff",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "fc7b45bd26385816dffe9196c520024d607e4753f1c0a35734d54b535ee8b24f",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قانون چهار نقطه"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کلمپ را روی مولر اول پایین گذاشته‌ای. وقتی ورق را روی فریم می‌کشی، کلمپ ناگهان از دندان جدا می‌شود. از نمای باکال که نگاه می‌کنی، فقط یکی از دو نقطه‌ی فک باکال با دندان تماس داشته است. پیش از ورق، چه چیزی را باید وارسی می‌کردی؟"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/isol-fig-1-1-3-s1.webp",
+                  "alt": "قانون چهار نقطه: هر چهار نقطه‌ی تماس کلمپ هم‌زمان روی دندان نشسته‌اند.",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/f402c63ce95d6ce1582f82f2dfee2e77c094e9fb02dd0578ee0aa5181f3dafcf.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قانون چهار نقطه: هر چهار نقطه‌ی تماس کلمپ هم‌زمان روی دندان نشسته‌اند. "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Cardinali & Gorni. The Use of the Rubber Dam in Endodontics (StyleItaliano) — Fig. 8)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قانون چهار نقطه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هر چهار نقطه‌ی تماس کلمپ، دو نقطه در هر فک نزدیک لاین‌انگل‌های مزیال و دیستال، باید "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هم‌زمان"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " روی دندان بنشینند. این مهم‌ترین معیار انتخاب کلمپ است."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا چهار نقطه؟"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلمپ لق نمی‌شود، نمی‌چرخد و کج نمی‌شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فشار کلمپ میان چهار نقطه پخش می‌شود و آسیب به دندان کمتر است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلمپی که روی دندان تکان می‌خورد لثه و دندان را آسیب می‌زند و بیمار پس از کار درد یا حساسیت دارد."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "فقط نقطه‌ها باید دندان را لمس کنند. اگر بخش دیگری از فک به دندان بخورد، نقطه‌ها به هم نزدیک می‌شوند و کلمپ می‌چرخد یا می‌افتد. لازم نیست فک دقیق روی دندان جفت شود؛ سیل را ورق می‌سازد، نه کلمپ."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دو معیار اندازه"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کلمپ را در حال استراحت (باز نشده) با دندان مقایسه کن:"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاصله‌ی دو نقطه‌ی هر فک باید "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کمتر از قطر مزیودیستال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دندان باشد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فاصله‌ی دو فک باید "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کمتر از قطر باکولینگوال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " دندان باشد."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "انتخاب را معاینه تعیین می‌کند، نه برچسب کلمپ. اگر قانون چهار نقطه لازم دارد، کلمپ قدامی را روی پرمولر یا کلمپ پرمولر را روی مولر کوچک بگذار."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:e69e7ef1c38a5469bf06dd58c8aa16b1d245931c3fe2757fc246f322994f72e8",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "ef9c7303876e681c56f1b52e520c449c80d78de8fb955820cadbb13e5990baeb",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تست پایداری کلمپ"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نیروی گیر کلمپ از کمان می‌آید و هرچه فک‌ها بیشتر باز شوند، بیشتر است. اگر فاصله‌ی دو فک در حال استراحت تقریباً با قطر باکولینگوال دندان برابر باشد، کلمپ فقط وقتی دندان را می‌گیرد که کامل بسته شده؛ نیرویش کم است و با کشیدن ورق روی فریم می‌افتد، حتی اگر هر چهار نقطه‌اش روی دندان باشد."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/isol-fig-1-1-3-s2.webp",
+                  "alt": "تست پایداری پیش از گذاشتن ورق: کمان کلمپ رو به بیرون دهان کشیده می‌شود.",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/6776a8ba60ae6d15972b55137b72c74b13a980218336b1bee232f5e17e7779ee.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تست پایداری پیش از گذاشتن ورق: کمان کلمپ رو به بیرون دهان کشیده می‌شود. "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Cardinali & Gorni. The Use of the Rubber Dam in Endodontics (StyleItaliano) — Fig. 25–26)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "گام‌های تست"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلمپ را با نخ ایمنی ببند، روی دندان بگذار و دسته‌ی فورسپس را آرام رها کن تا دندان فشار را تدریجی بگیرد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از باکال و لینگوال نگاه کن: هر چهار نقطه روی دندان است؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آزمون اول: با انگشت روی فک‌ها فشار نوسانی بالا و پایین بده."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آزمون دوم، مهم‌تر: انگشت را دیستال کمان بگذار و کمان را رو به مزیال و بیرون دهان بکش. این همان نیرویی است که ورق کشیده روی فریم در تمام درمان به کمان وارد می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اگر کلمپ لق شد یا جابه‌جا شد، کلمپ دیگری بردار و تست را تکرار کن. فقط پس از قبولی، ورق را بگذار."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "همیشه اول کلمپ کم‌تهاجمی‌تر با فک صاف را امتحان کن و فقط اگر پایدار نشد، سراغ فک با شیب زیاد برو."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباه رایج:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فقط آزمون اول را انجام دادن. کلمپی که چهار نقطه‌اش روی دندان است ولی آزمون کشیدن کمان را نگذرانده، معمولاً همان لحظه‌ای که ورق را روی فریم می‌کشی از دندان جدا می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:44060",
+      "sourceId": "44060",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "50f9469101fc8ad15f716906e9eea06f68244f9bddbb045881dc6ed1607dd26e",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "طبق قانون چهار نقطه، کلمپی که درست انتخاب شده چگونه دندان را می‌گیرد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "طبق قانون چهار نقطه، کلمپی که درست انتخاب شده چگونه دندان را می‌گیرد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر چهار نقطه‌ی تماس هم‌زمان روی دندان می‌نشینند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو نقطه‌ی فک لینگوال پیش از فک باکال روی دندان می‌نشینند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تمام طول دو فک روی گردن دندان کامل و بی‌فاصله جفت می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو نقطه‌ی دیستال محکم و دو نقطه‌ی مزیال آزاد می‌مانند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "f8dc06b765345e3a7b8832e49f6bf66d8d0ad1ca8b69d108d677e3e7ecd24393",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر چهار نقطه‌ی تماس هم‌زمان روی دندان می‌نشینند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر چهار نقطه‌ی تماس هم‌زمان روی دندان می‌نشینند"
+            }
+          ]
+        },
+        {
+          "id": "b42aac4ad6d87e03e0cb16350c915fdbc2b7f815e9f61617bda40005be6c842e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دو نقطه‌ی فک لینگوال پیش از فک باکال روی دندان می‌نشینند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دو نقطه‌ی فک لینگوال پیش از فک باکال روی دندان می‌نشینند"
+            }
+          ]
+        },
+        {
+          "id": "7f85a2ec237efc1c8dc22dc916ea9b284603b9ce5bebff5514e7bc6c3401333e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تمام طول دو فک روی گردن دندان کامل و بی‌فاصله جفت می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تمام طول دو فک روی گردن دندان کامل و بی‌فاصله جفت می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "8d761283e8801d2c3d1e68f83378382f307e604eae4b15fd8d29c8ac2c0bc731",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دو نقطه‌ی دیستال محکم و دو نقطه‌ی مزیال آزاد می‌مانند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دو نقطه‌ی دیستال محکم و دو نقطه‌ی مزیال آزاد می‌مانند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f8dc06b765345e3a7b8832e49f6bf66d8d0ad1ca8b69d108d677e3e7ecd24393"
+        ],
+        "explanation": "در قانون چهار نقطه، دو نقطه‌ی هر فک نزدیک لاین‌انگل‌های مزیال و دیستال، و هر چهار با هم روی دندان می‌نشینند. کلمپ این‌طور نه می‌لرزد و نه می‌چرخد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در قانون چهار نقطه، دو نقطه‌ی هر فک نزدیک لاین‌انگل‌های مزیال و دیستال، و هر چهار با هم روی دندان می‌نشینند. کلمپ این‌طور نه می‌لرزد و نه می‌چرخد."
+          }
+        ],
+        "observedAt": "2026-11-18T21:23:41.471Z"
+      }
+    },
+    {
+      "id": "question:44065",
+      "sourceId": "44065",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "d97ced8363801cffce5c5509b5504474bd4da8958a9ff485c96e1f3f74f278d5",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دانشجویی فک کلمپ را آن‌قدر تراشیده که تمام لبه‌اش به گردن دندان بچسبد و می‌گوید: «حالا دیگر نشتی نداریم.» کدام اصلاح درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دانشجویی فک کلمپ را آن‌قدر تراشیده که تمام لبه‌اش به گردن دندان بچسبد و می‌گوید: «حالا دیگر نشتی نداریم.» کدام اصلاح درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید فک دیگر را هم تراشید تا هر دو جفت شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کار درست است؛ فقط باید نوک‌های تیزشده را هم بیشتر تیز کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کار درست است؛ فک جفت‌شده جای لیکوئید دم را می‌گیرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سیل کار ورق است؛ کلمپ فقط با چهار نقطه تماس داشته باشد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "617c967b8f576b0c0284e9e4bedcc42754c62e086acb475612c51e6075cb5f0a",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "باید فک دیگر را هم تراشید تا هر دو جفت شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید فک دیگر را هم تراشید تا هر دو جفت شوند"
+            }
+          ]
+        },
+        {
+          "id": "d0124c28c8df5b7358fdbb2b16b50f8d6fb3c329011db93c3e8dfbaae40fb66e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کار درست است؛ فقط باید نوک‌های تیزشده را هم بیشتر تیز کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کار درست است؛ فقط باید نوک‌های تیزشده را هم بیشتر تیز کند"
+            }
+          ]
+        },
+        {
+          "id": "05b418db462e085af6e8d2fd011935e783f6dbc8874bf042d646b9945b5e953d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کار درست است؛ فک جفت‌شده جای لیکوئید دم را می‌گیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کار درست است؛ فک جفت‌شده جای لیکوئید دم را می‌گیرد"
+            }
+          ]
+        },
+        {
+          "id": "32fee54e8243f001664553a109209267f70683692245f21fce1e2fc73347ace0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سیل کار ورق است؛ کلمپ فقط با چهار نقطه تماس داشته باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سیل کار ورق است؛ کلمپ فقط با چهار نقطه تماس داشته باشد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "32fee54e8243f001664553a109209267f70683692245f21fce1e2fc73347ace0"
+        ],
+        "explanation": "برداشت دانشجو اشتباه است: سیل را ورق می‌سازد و کلمپی که تمام فکش به دندان چسبیده، نقطه‌های تکیه‌اش را از دست داده و ناپایدارتر شده است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "برداشت دانشجو اشتباه است: سیل را ورق می‌سازد و کلمپی که تمام فکش به دندان چسبیده، نقطه‌های تکیه‌اش را از دست داده و ناپایدارتر شده است."
+          }
+        ],
+        "observedAt": "2026-11-18T21:23:47.077Z"
+      }
+    },
+    {
+      "id": "question:44066",
+      "sourceId": "44066",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "01b422afd2ac17781ae7fd63f7a946f5f073b43714188c4118ec89e9631b0f48",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کلمپی را در حال استراحت کنار یک مولر می‌گیری. کدام مقایسه نشان می‌دهد فاصله‌ی دو فکش مناسب این دندان است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کلمپی را در حال استراحت کنار یک مولر می‌گیری. کدام مقایسه نشان می‌دهد فاصله‌ی دو فکش مناسب این دندان است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمی بیشتر از قطر مزیودیستال دندان است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمی بیشتر از قطر باکولینگوال دندان است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقیقاً برابر با قطر مزیودیستال دندان است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمتر از قطر باکولینگوال دندان است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8577aba33114d6d1bec5694579a9f630b8146c3a9422468781089a7e0d6ddedc",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کمی بیشتر از قطر مزیودیستال دندان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کمی بیشتر از قطر مزیودیستال دندان است"
+            }
+          ]
+        },
+        {
+          "id": "e07e98482eca395b60f5870079e56678123772f07a3caddaf6f1ce24093d3b98",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کمی بیشتر از قطر باکولینگوال دندان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کمی بیشتر از قطر باکولینگوال دندان است"
+            }
+          ]
+        },
+        {
+          "id": "da4e02f148c3666088a37668749f424a79e36947c3d64da71cbc48bbb347b5e7",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دقیقاً برابر با قطر مزیودیستال دندان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دقیقاً برابر با قطر مزیودیستال دندان است"
+            }
+          ]
+        },
+        {
+          "id": "626373085f8cce8e82e778459f566935be43a44189baa8e143013032d5947b21",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کمتر از قطر باکولینگوال دندان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کمتر از قطر باکولینگوال دندان است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "626373085f8cce8e82e778459f566935be43a44189baa8e143013032d5947b21"
+        ],
+        "explanation": "در حال استراحت، فاصله‌ی دو فک باید کمتر از قطر باکولینگوال دندان باشد تا کلمپ پس از نشستن، باز بماند و با نیروی کمان دندان را بگیرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در حال استراحت، فاصله‌ی دو فک باید کمتر از قطر باکولینگوال دندان باشد تا کلمپ پس از نشستن، باز بماند و با نیروی کمان دندان را بگیرد."
+          }
+        ],
+        "observedAt": "2026-11-18T21:23:52.434Z"
+      }
+    },
+    {
+      "id": "question:44071",
+      "sourceId": "44071",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "65c616a6136f7f4a8127f4e057f0668bc9e59b12f66707a37f24bf0186b1c9af",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کلمپی هر چهار نقطه‌اش روی مولر است، ولی تقریباً بی‌آنکه باز شود روی دندان نشسته است. دانشجو می‌گوید: «قانون چهار نقطه رعایت شده، پس ورق را بگذار.» چه خطری در کار است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کلمپی هر چهار نقطه‌اش روی مولر است، ولی تقریباً بی‌آنکه باز شود روی دندان نشسته است. دانشجو می‌گوید: «قانون چهار نقطه رعایت شده، پس ورق را بگذار.» چه خطری در کار است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلمپ زیادی کوچک است و کمانش زیر فشار کشش ورق می‌شکند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی کمان زیاد است و کلمپ مینای دندان را ترک می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیروی کمان کم است و کلمپ هنگام کشیدن ورق می‌پرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلمپ زیادی پایین نشسته و ورق دیگر از رویش رد نمی‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "63fd2e6f49029bb02e16297c38ae8e3222f1c0e2c28f6dd687956337fd4f5884",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کلمپ زیادی کوچک است و کمانش زیر فشار کشش ورق می‌شکند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلمپ زیادی کوچک است و کمانش زیر فشار کشش ورق می‌شکند"
+            }
+          ]
+        },
+        {
+          "id": "5ceb4b5ec1837db798a24799f63bc111d1fba262194c65aa5d21c3245754d1b0",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "نیروی کمان زیاد است و کلمپ مینای دندان را ترک می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیروی کمان زیاد است و کلمپ مینای دندان را ترک می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "c463d65570e709ebfcd5aa7c9333b4b63905ff0133103061197ef2d987025185",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نیروی کمان کم است و کلمپ هنگام کشیدن ورق می‌پرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیروی کمان کم است و کلمپ هنگام کشیدن ورق می‌پرد"
+            }
+          ]
+        },
+        {
+          "id": "99ba1524869d985f0feb21da6f08a74497a933e8ab9d7b554e7572e409eac9bd",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کلمپ زیادی پایین نشسته و ورق دیگر از رویش رد نمی‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلمپ زیادی پایین نشسته و ورق دیگر از رویش رد نمی‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c463d65570e709ebfcd5aa7c9333b4b63905ff0133103061197ef2d987025185"
+        ],
+        "explanation": "چهار نقطه لازم است ولی کافی نیست. کلمپی که تقریباً باز نشده نیروی گیر کمی دارد و کشش ورق روی فریم آن را از دندان جدا می‌کند؛ آزمون کشیدن کمان همین را نشان می‌دهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "چهار نقطه لازم است ولی کافی نیست. کلمپی که تقریباً باز نشده نیروی گیر کمی دارد و کشش ورق روی فریم آن را از دندان جدا می‌کند؛ آزمون کشیدن کمان همین را نشان می‌دهد."
+          }
+        ],
+        "observedAt": "2026-11-18T21:24:07.417Z"
+      }
+    },
+    {
+      "id": "question:44074",
+      "sourceId": "44074",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "16b7f578c8e9dda362736d5213276c935ff59620b25839950e9271673bfbac3c",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در آزمون کشیدن کمان رو به مزیال، کلمپ از روی مولر بلند می‌شود، هرچند چهار نقطه‌اش پیش از آن روی دندان بود. گام بعد کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در آزمون کشیدن کمان رو به مزیال، کلمپ از روی مولر بلند می‌شود، هرچند چهار نقطه‌اش پیش از آن روی دندان بود. گام بعد کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلمپ دیگری بردار و هر دو آزمون را دوباره انجام بده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ورق را بگذار؛ کشش ورق خودش کلمپ را سر جایش نگه می‌دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آزمون دوم را کنار بگذار؛ آزمون اول برای این دندان کافی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همین کلمپ را بیشتر باز کن تا با فشار بیشتری روی دندان بنشیند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "bb2675633cd590bc5e33932498bb6ba5ab2db40db9f3e700b022b0776de0e072",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کلمپ دیگری بردار و هر دو آزمون را دوباره انجام بده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلمپ دیگری بردار و هر دو آزمون را دوباره انجام بده"
+            }
+          ]
+        },
+        {
+          "id": "422f9bee68f10b02ab2665025a5b89697451b2bb1d1641b8ea99e1aa586ed14e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "ورق را بگذار؛ کشش ورق خودش کلمپ را سر جایش نگه می‌دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ورق را بگذار؛ کشش ورق خودش کلمپ را سر جایش نگه می‌دارد"
+            }
+          ]
+        },
+        {
+          "id": "6115a35e2a60b6b338aacaa49fcf0c8a7f87843dec85bc66a4ac4c770efceaec",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آزمون دوم را کنار بگذار؛ آزمون اول برای این دندان کافی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آزمون دوم را کنار بگذار؛ آزمون اول برای این دندان کافی است"
+            }
+          ]
+        },
+        {
+          "id": "6d98d3a5da25a1b77c33914050a4d86d72971c899884993986bb38b0aba12e86",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همین کلمپ را بیشتر باز کن تا با فشار بیشتری روی دندان بنشیند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همین کلمپ را بیشتر باز کن تا با فشار بیشتری روی دندان بنشیند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "bb2675633cd590bc5e33932498bb6ba5ab2db40db9f3e700b022b0776de0e072"
+        ],
+        "explanation": "کلمپی که در آزمون کشیدن کمان جدا شد، با ورق هم جدا می‌شود. کلمپ دیگری انتخاب کن، اول با فک صاف‌تر و اگر لازم شد پرشیب‌تر، و هر دو آزمون را تکرار کن.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کلمپی که در آزمون کشیدن کمان جدا شد، با ورق هم جدا می‌شود. کلمپ دیگری انتخاب کن، اول با فک صاف‌تر و اگر لازم شد پرشیب‌تر، و هر دو آزمون را تکرار کن."
+          }
+        ],
+        "observedAt": "2026-11-18T21:24:10.930Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:05c49d3058511aae27efd4c436b23012bd0a12eb914020dfdf19747bef34f9ff",
+      "at": "2026-11-18T21:23:14.573Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:e69e7ef1c38a5469bf06dd58c8aa16b1d245931c3fe2757fc246f322994f72e8",
+      "at": "2026-11-18T21:23:16.664Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:44060",
+      "at": "2026-11-18T21:23:18.252Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:44065",
+      "at": "2026-11-18T21:23:43.086Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:44066",
+      "at": "2026-11-18T21:23:48.695Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:44071",
+      "at": "2026-11-18T21:23:54.038Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:44074",
+      "at": "2026-11-18T21:23:59.778Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:44071",
+      "at": "2026-11-18T21:24:05.531Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:44074",
+      "at": "2026-11-18T21:24:09.031Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
