@@ -1,0 +1,1337 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2483/lesson.json",
+  "id": "2483",
+  "title": "درس سوم: سلسله‌مراتب قابلیت باند (HOB)",
+  "specialtyKey": "4ed2aa7d30e2a50c",
+  "chapter": {
+    "id": "503",
+    "title": "اصول بیومیمتیک",
+    "position": 50
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:8b9b4a0c8bb3dad6879a65232deefc35ad5f5c325acf48f2d7fb14f03f36720d",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "609168f371d8d68f2904e92a6f50b4ad5043cfc08c3235e96086b42def6121bb",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "یک حفره، چهار سطح باند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حفره‌ی پوسیده‌ای را آماده می‌کنی و فرز از مینا به عاج سطحی، عاج متأثر از پوسیدگی و عاج عفونی می‌رسد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آیا باند روی همه‌ی این سطح‌ها یکسان است؟"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سلسله‌مراتب قابلیت باند (Hierarchy of Bondability - HOB)"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تفاوت در پتانسیل باندینگ، سرعت و کیفیت تشکیل لایه‌ی هیبرید و دوام باند در سوبستراهای مختلف دندانی؛ ناشی از ناهمگونی ساختاری، مورفولوژیکی و شیمیایی این سوبستراها."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مینا:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " باند به مینای اچ‌شده عمدتاً به تگ‌های رزینی ماکرو و میکرو در سطح اچ‌شده متکی است؛ حدود ۳۰ مگاپاسکال."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عاج سطحی (سالم):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " غنی از توبول‌های عاجی پرمایع با لایه‌ی اسمیر نازک؛ باند به تشکیل لایه‌ی هیبرید متکی است؛ حدود ۵۰ مگاپاسکال. کلید رسیدن به این پتانسیل: نفوذ کافی مونومرهای رزینی و تشکیل لایه‌ی هیبرید متراکم."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عاج متأثر از پوسیدگی (Affected / Inner Carious Dentin):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " هیبریداسیون چالش‌برانگیزتر است؛ حدود ۳۰ مگاپاسکال."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عاج عفونی (Infected / Outer Carious Dentin):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " لایه‌ی اسمیر ضخیم، دمینرالیزاسیون شدید و ساختار کلاژنی تخریب‌شده؛ نفوذ رزین و تشکیل لایه‌ی هیبرید بسیار محدود است؛ حدود ۱۵ مگاپاسکال یا کمتر."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بالاترین پتانسیل باند مال عاج سطحی سالم است، نه مینا؛ به شرط نفوذ کافی مونومر و لایه‌ی هیبرید متراکم."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:841c7802a9985817058782b80156706085ad9050a651bb31ee8af1b9002d575f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "be532dbabbd851a73258988e56d21fcfab6f632b27314c5010d6045b2e7808f1",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "HOB در کلینیک"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انتخاب استراتژی باندینگ:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " HOB بر انتخاب سیستم ادهزیو و تکنیک اچینگ (توتال‌اچ، سلف‌اچ) اثر می‌گذارد. مثلاً در عاج عفونی، سیستم‌های سلف‌اچ با pH پایین‌تر ممکن است به دلیل دمینرالیزاسیون بیشتر و نفوذ عمیق‌تر مؤثرتر باشند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "زمان‌بندی اچینگ و پرایمینگ:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " باید بر اساس نوع سوبسترا و سیستم ادهزیو تنظیم شود. اچینگ بیش از حد عاج می‌تواند به کلاپس شبکه‌ی کلاژنی و کاهش قدرت باند منجر شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "برداشت پوسیدگی:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " HOB در تعیین «نقاط پایانی برداشت پوسیدگی» (Caries Removal Endpoints - CRE) نقش دارد. برداشت کامل عاج عفونی برای رسیدن به باند بادوام‌تر ضروری است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "IDS و RC:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " درک HOB به فهم مکانیسم و مزایای «عایق‌بندی فوری عاج» (Immediate Dentin Sealing - IDS) و «پوشش رزین» (Resin Coating - RC) کمک می‌کند. این تکنیک‌ها با سیل کردن عاج بلافاصله پس از تراش و قبل از قالب‌گیری، به دنبال پایدارسازی لایه‌ی هیبرید و به حداقل رساندن استرس‌های پلیمریزاسیون‌اند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "HOB بر انتخاب روش‌های بالینی و در نهایت بر دوام و موفقیت ترمیم اثر می‌گذارد؛ هر سطحی که فرز به آن می‌رسد ظرفیت باند خودش را دارد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:42051",
+      "sourceId": "42051",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "50f7691bf1f7273ddfa4eea5d0965835fe2e54d16cd6d32b0c76e1de31687b06",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "تفاوت‌هایی که HOB توصیف می‌کند از ناهمگونی ساختاری، مورفولوژیکی و شیمیایی مینا، عاج سالم، عاج متأثر از پوسیدگی و عاج عفونی ناشی می‌شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تفاوت‌هایی که HOB توصیف می‌کند از ناهمگونی ساختاری، مورفولوژیکی و شیمیایی مینا، عاج سالم، عاج متأثر از پوسیدگی و عاج عفونی ناشی می‌شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "درست است. ریشه‌ی HOB در ناهمگونی ساختاری، مورفولوژیکی و شیمیایی این چهار سوبستراست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است. ریشه‌ی HOB در "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "ناهمگونی ساختاری، مورفولوژیکی و شیمیایی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " این چهار سوبستراست."
+          }
+        ],
+        "observedAt": "2026-11-18T17:16:03.366Z"
+      }
+    },
+    {
+      "id": "question:42053",
+      "sourceId": "42053",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "22bf656e60f64931da0038fc66eaa5bb8a1b60d15a873f1abe8b754f1e60fc9a",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام سوبسترا بالاترین پتانسیل باند را دارد و باند به آن بر چه چیزی متکی است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام سوبسترا بالاترین پتانسیل باند را دارد و باند به آن بر چه چیزی متکی است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مینای اچ‌شده، حدود ۳۰ مگاپاسکال، متکی بر تگ‌های رزینی ماکرو و میکرو"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مینای اچ‌شده، حدود ۵۰ مگاپاسکال، متکی بر تشکیل لایه‌ی هیبرید متراکم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عاج سطحی سالم، حدود ۵۰ مگاپاسکال، متکی بر تشکیل لایه‌ی هیبرید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عاج متأثر از پوسیدگی، حدود ۵۰ مگاپاسکال، متکی بر توبول‌های پرمایع"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "58e92bcbb466264f78f4b182ca636255ec15646a8807303304872ffd58748d78",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مینای اچ‌شده، حدود ۳۰ مگاپاسکال، متکی بر تگ‌های رزینی ماکرو و میکرو",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مینای اچ‌شده، حدود ۳۰ مگاپاسکال، متکی بر تگ‌های رزینی ماکرو و میکرو"
+            }
+          ]
+        },
+        {
+          "id": "73d219400a8625d513c8665ee00955cbcae4fe6ea156ce8f49a0f1c55fb3df57",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مینای اچ‌شده، حدود ۵۰ مگاپاسکال، متکی بر تشکیل لایه‌ی هیبرید متراکم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مینای اچ‌شده، حدود ۵۰ مگاپاسکال، متکی بر تشکیل لایه‌ی هیبرید متراکم"
+            }
+          ]
+        },
+        {
+          "id": "4c13fb8da59df3f1453f5fda568c027b8bf2426816286572768c07603704304a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "عاج سطحی سالم، حدود ۵۰ مگاپاسکال، متکی بر تشکیل لایه‌ی هیبرید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عاج سطحی سالم، حدود ۵۰ مگاپاسکال، متکی بر تشکیل لایه‌ی هیبرید"
+            }
+          ]
+        },
+        {
+          "id": "4f28d0c798aaf2e6b74da8260f90bdc96398d430b5c368221a6b212061214c0d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "عاج متأثر از پوسیدگی، حدود ۵۰ مگاپاسکال، متکی بر توبول‌های پرمایع",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عاج متأثر از پوسیدگی، حدود ۵۰ مگاپاسکال، متکی بر توبول‌های پرمایع"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "4c13fb8da59df3f1453f5fda568c027b8bf2426816286572768c07603704304a"
+        ],
+        "explanation": "درست. بالاترین پتانسیل مال عاج سطحی سالم است: حدود ۵۰ مگاپاسکال، با تکیه بر تشکیل لایه‌ی هیبرید.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. بالاترین پتانسیل مال "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "عاج سطحی سالم"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است: حدود ۵۰ مگاپاسکال، با تکیه بر تشکیل لایه‌ی هیبرید."
+          }
+        ],
+        "observedAt": "2026-11-18T17:16:08.804Z"
+      }
+    },
+    {
+      "id": "question:42058",
+      "sourceId": "42058",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "c77336d02db9c42b607e14f1b0d9927beabf8c7f7e5a131036d156b221d7d765",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در یک حفره‌ی پوسیده، ترتیب پتانسیل باند چهار سوبسترا از بیشترین به کمترین کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در یک حفره‌ی پوسیده، ترتیب پتانسیل باند چهار سوبسترا از بیشترین به کمترین کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مینای اچ‌شده؛ سپس عاج سطحی سالم؛ سپس عاج عفونی؛ و در آخر عاج متأثر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عاج سطحی سالم؛ سپس مینای اچ‌شده و عاج متأثر (هر دو حدود ۳۰)؛ و در آخر عاج عفونی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مینای اچ‌شده؛ سپس عاج متأثر؛ سپس عاج عفونی؛ و در آخر عاج سطحی سالم با توبول‌های پرمایع"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عاج عفونی؛ سپس عاج متأثر؛ سپس عاج سطحی سالم؛ و در آخر مینا، چون سخت‌ترین سطح دندان است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "08652838e607b1074741bf0812becf5198b7117a308a44d09ceb43533ff228e8",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مینای اچ‌شده؛ سپس عاج سطحی سالم؛ سپس عاج عفونی؛ و در آخر عاج متأثر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مینای اچ‌شده؛ سپس عاج سطحی سالم؛ سپس عاج عفونی؛ و در آخر عاج متأثر"
+            }
+          ]
+        },
+        {
+          "id": "4fc6d2e3357a74ac0d2902ca61736c801dbeb738cf6e010c7a1a7f8b2d6f0442",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "عاج سطحی سالم؛ سپس مینای اچ‌شده و عاج متأثر (هر دو حدود ۳۰)؛ و در آخر عاج عفونی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عاج سطحی سالم؛ سپس مینای اچ‌شده و عاج متأثر (هر دو حدود ۳۰)؛ و در آخر عاج عفونی"
+            }
+          ]
+        },
+        {
+          "id": "f497b883221cc934de18b5d1e9aa25a0e7dd8366709510964a829a94425898ab",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مینای اچ‌شده؛ سپس عاج متأثر؛ سپس عاج عفونی؛ و در آخر عاج سطحی سالم با توبول‌های پرمایع",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مینای اچ‌شده؛ سپس عاج متأثر؛ سپس عاج عفونی؛ و در آخر عاج سطحی سالم با توبول‌های پرمایع"
+            }
+          ]
+        },
+        {
+          "id": "291de303b02951bc7467729dc9e8a48265770f2ab53a5848de9bac909d665246",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "عاج عفونی؛ سپس عاج متأثر؛ سپس عاج سطحی سالم؛ و در آخر مینا، چون سخت‌ترین سطح دندان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عاج عفونی؛ سپس عاج متأثر؛ سپس عاج سطحی سالم؛ و در آخر مینا، چون سخت‌ترین سطح دندان است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "4fc6d2e3357a74ac0d2902ca61736c801dbeb738cf6e010c7a1a7f8b2d6f0442"
+        ],
+        "explanation": "آفرین. عاج سطحی سالم حدود ۵۰، مینای اچ‌شده و عاج متأثر هر دو حدود ۳۰، و عاج عفونی حدود ۱۵ یا کمتر.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. عاج سطحی سالم حدود ۵۰، مینای اچ‌شده و عاج متأثر هر دو حدود ۳۰، و "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "عاج عفونی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " حدود ۱۵ یا کمتر."
+          }
+        ],
+        "observedAt": "2026-11-18T17:16:31.708Z"
+      }
+    },
+    {
+      "id": "question:42061",
+      "sourceId": "42061",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "96cb9607c7a49c5c109faa21e526766d27df753f9e84a100dbd7c027fdb91b3c",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکارت برای «باند قوی‌تر» عاج را دو برابر زمان توصیه‌شده اچ می‌کند. کدام ارزیابی درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکارت برای «باند قوی‌تر» عاج را دو برابر زمان توصیه‌شده اچ می‌کند. کدام ارزیابی درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "زمان اچ اهمیتی ندارد؛ فقط نوع اسید مهم است و با اسید فسفریک هر مدتی قابل قبول است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کار درستی است؛ اچ طولانی‌تر عاج همیشه لایه‌ی هیبرید ضخیم‌تر و باند قوی‌تر و بادوام‌تری در برابر نیروهای جویدن می‌سازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کار درستی است، به شرط اینکه پس از اچ، سطح عاج را کاملاً خشک کند تا شبکه‌ی کلاژنی سفت و پایدار شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اچ بیش از حد عاج ممکن است کلاژن را کلاپس کند و قدرت باند را کم کند؛ زمان اچ تابع سوبسترا و سیستم است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "39380fcabad805b1e1d4d6cf8c0ca602d7f927586366f99173f554e95dc31782",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "زمان اچ اهمیتی ندارد؛ فقط نوع اسید مهم است و با اسید فسفریک هر مدتی قابل قبول است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "زمان اچ اهمیتی ندارد؛ فقط نوع اسید مهم است و با اسید فسفریک هر مدتی قابل قبول است"
+            }
+          ]
+        },
+        {
+          "id": "9994ead443ea90e351a32adfd4cdf26e65ea912ebbe222b72bb7ffddd2a7a9e5",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کار درستی است؛ اچ طولانی‌تر عاج همیشه لایه‌ی هیبرید ضخیم‌تر و باند قوی‌تر و بادوام‌تری در برابر نیروهای جویدن می‌سازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کار درستی است؛ اچ طولانی‌تر عاج همیشه لایه‌ی هیبرید ضخیم‌تر و باند قوی‌تر و بادوام‌تری در برابر نیروهای جویدن می‌سازد"
+            }
+          ]
+        },
+        {
+          "id": "f057e14dbaed462f28d735e8314a85b6df195990450ec17b6dfa1053a9d25ce8",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کار درستی است، به شرط اینکه پس از اچ، سطح عاج را کاملاً خشک کند تا شبکه‌ی کلاژنی سفت و پایدار شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کار درستی است، به شرط اینکه پس از اچ، سطح عاج را کاملاً خشک کند تا شبکه‌ی کلاژنی سفت و پایدار شود"
+            }
+          ]
+        },
+        {
+          "id": "d6d521ad642353aaf365dd95dbd4ce2c596de1dc4bcd6a8898b9db380af17e3b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اچ بیش از حد عاج ممکن است کلاژن را کلاپس کند و قدرت باند را کم کند؛ زمان اچ تابع سوبسترا و سیستم است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اچ بیش از حد عاج ممکن است کلاژن را کلاپس کند و قدرت باند را کم کند؛ زمان اچ تابع سوبسترا و سیستم است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d6d521ad642353aaf365dd95dbd4ce2c596de1dc4bcd6a8898b9db380af17e3b"
+        ],
+        "explanation": "آفرین. زمان اچینگ و پرایمینگ باید بر اساس نوع سوبسترا و سیستم ادهزیو تنظیم شود؛ اچ بیش از حد عاج کلاژن را کلاپس می‌کند و باند را ضعیف می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. زمان اچینگ و پرایمینگ باید "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بر اساس نوع سوبسترا و سیستم ادهزیو"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " تنظیم شود؛ اچ بیش از حد عاج کلاژن را کلاپس می‌کند و باند را ضعیف می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-18T17:16:19.792Z"
+      }
+    },
+    {
+      "id": "question:42063",
+      "sourceId": "42063",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "2009ac00d40407234a18535f493008a5772c5b12e02f4e9666712eb0e16ceec7",
+      "position": 7,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "برای دستیابی به باند بادوام‌تر، برداشت کامل عاج ............ ضروری است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای دستیابی به باند بادوام‌تر، برداشت کامل عاج ............ ضروری است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ع"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "عفونی",
+        "explanation": "درست است. برداشت کامل عاج عفونی برای باند بادوام‌تر ضروری است؛ HOB در تعیین نقاط پایانی برداشت پوسیدگی (CRE) نقش دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است. برداشت کامل "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "عاج عفونی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " برای باند بادوام‌تر ضروری است؛ HOB در تعیین نقاط پایانی برداشت پوسیدگی (CRE) نقش دارد."
+          }
+        ],
+        "observedAt": "2026-11-18T17:16:28.192Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 5,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "و"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ن"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ف"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ع"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "ی"
+          }
+        ]
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:8b9b4a0c8bb3dad6879a65232deefc35ad5f5c325acf48f2d7fb14f03f36720d",
+      "at": "2026-11-18T17:15:53.674Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:841c7802a9985817058782b80156706085ad9050a651bb31ee8af1b9002d575f",
+      "at": "2026-11-18T17:15:55.264Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:42051",
+      "at": "2026-11-18T17:15:56.879Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:42053",
+      "at": "2026-11-18T17:16:04.991Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:42058",
+      "at": "2026-11-18T17:16:10.414Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:42061",
+      "at": "2026-11-18T17:16:15.813Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:42063",
+      "at": "2026-11-18T17:16:21.376Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:42058",
+      "at": "2026-11-18T17:16:29.795Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

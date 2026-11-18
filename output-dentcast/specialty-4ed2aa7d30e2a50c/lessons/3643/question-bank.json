@@ -1,0 +1,914 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "question:57257",
+      "position": 3,
+      "kind": "question",
+      "sourceQuestionId": "57257",
+      "sourceStepId": null,
+      "sourceProgress": "width: 28.5714%;",
+      "questionType": "single-choice",
+      "title": "گزارش مورد؛ مشاهده و فرضیه",
+      "prompt": "تفاوت case report و case series چیست؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تفاوت case report و case series چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو گروه درمان و کنترل هم‌زمان دارند، ولی تعداد بیمارانشان متفاوت است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گزارش مورد چند بیمار است و case series یک بیمار است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گزارش مورد شرح یک بیمار است و case series شرح چند بیمار مشابه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "case series یعنی بیماران با قرعه درمان می‌گیرند و گزارش مورد کنترل تاریخی دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "هر دو گروه درمان و کنترل هم‌زمان دارند، ولی تعداد بیمارانشان متفاوت است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو گروه درمان و کنترل هم‌زمان دارند، ولی تعداد بیمارانشان متفاوت است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "گزارش مورد چند بیمار است و case series یک بیمار است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گزارش مورد چند بیمار است و case series یک بیمار است"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "گزارش مورد شرح یک بیمار است و case series شرح چند بیمار مشابه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گزارش مورد شرح یک بیمار است و case series شرح چند بیمار مشابه"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "case series یعنی بیماران با قرعه درمان می‌گیرند و گزارش مورد کنترل تاریخی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "case series یعنی بیماران با قرعه درمان می‌گیرند و گزارش مورد کنترل تاریخی دارد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "2"
+        ],
+        "correctOptionHashes": [
+          "a5456e082cbfa5864d0eba34f5033191894112025e285a0a670aac8f50865b99"
+        ],
+        "correctOptionTexts": [
+          "گزارش مورد شرح یک بیمار است و case series شرح چند بیمار مشابه"
+        ],
+        "explanation": "درست تشخیص دادی. case report شرح وضعیت یک بیمار، درمان و نتیجه است. case series چند بیمار با وضعیت مشابه را کنار هم گزارش می‌کند؛ مثال سه واکنش غیرعادی لثه، case series است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. case report شرح وضعیت یک بیمار، درمان و نتیجه است. case series چند بیمار با وضعیت مشابه را کنار هم گزارش می‌کند؛ مثال سه واکنش غیرعادی لثه، case series است."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "هر دو گروه درمان و کنترل هم‌زمان دارند، ولی تعداد بیمارانشان متفاوت است",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "گزارش مورد چند بیمار است و case series یک بیمار است",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "گزارش مورد شرح یک بیمار است و case series شرح چند بیمار مشابه",
+            "isCorrect": true
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "case series یعنی بیماران با قرعه درمان می‌گیرند و گزارش مورد کنترل تاریخی دارد",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-18T17:40:09.193Z"
+      }
+    },
+    {
+      "id": "question:57261",
+      "position": 4,
+      "kind": "question",
+      "sourceQuestionId": "57261",
+      "sourceStepId": null,
+      "sourceProgress": "width: 42.8571%;",
+      "questionType": "single-choice",
+      "title": "گزارش مورد؛ مشاهده و فرضیه",
+      "prompt": "مشابه بودن موارد در گزارش، ثابت می‌کند از ابتدا برای بررسی آن‌ها برنامه‌ریزی شده بود.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مشابه بودن موارد در گزارش، ثابت می‌کند از ابتدا برای بررسی آن‌ها برنامه‌ریزی شده بود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "false"
+        ],
+        "correctOptionHashes": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "correctOptionTexts": [
+          "غلط"
+        ],
+        "explanation": "درست تشخیص دادی. گزارش مورد از قبل برنامه‌ریزی نشده است؛ اول اتفاق رخ می‌دهد و بعد گزارش می‌شود. گروه مقایسه ندارد و این دو ویژگی، مشاهده را غیرنظام‌مند می‌کنند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. گزارش مورد از قبل برنامه‌ریزی نشده است؛ اول اتفاق رخ می‌دهد و بعد گزارش می‌شود. گروه مقایسه ندارد و این دو ویژگی، مشاهده را غیرنظام‌مند می‌کنند."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": false
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-18T17:40:14.168Z"
+      }
+    },
+    {
+      "id": "question:57264",
+      "position": 5,
+      "kind": "question",
+      "sourceQuestionId": "57264",
+      "sourceStepId": null,
+      "sourceProgress": "width: 57.1429%;",
+      "questionType": "single-choice",
+      "title": "گزارش مورد؛ مشاهده و فرضیه",
+      "prompt": "گزارش عارضه‌ی غیرمنتظره می‌تواند اولین هشدار به دیگران باشد.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "گزارش عارضه‌ی غیرمنتظره می‌تواند اولین هشدار به دیگران باشد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "true"
+        ],
+        "correctOptionHashes": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "correctOptionTexts": [
+          "صحیح"
+        ],
+        "explanation": "درست تشخیص دادی. گزارش مورد برای بیماری نادر یا جنبه‌ی تازه‌ی بیماری، معرفی درمان جدید و هشدار عارضه‌ی غیرمنتظره کاربرد دارد؛ جزئیات سیر بیمار هم ممکن است نکته‌ای تازه نشان دهند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. گزارش مورد برای بیماری نادر یا جنبه‌ی تازه‌ی بیماری، معرفی درمان جدید و هشدار عارضه‌ی غیرمنتظره کاربرد دارد؛ جزئیات سیر بیمار هم ممکن است نکته‌ای تازه نشان دهند."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": true
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-18T17:40:18.986Z"
+      }
+    },
+    {
+      "id": "question:57268",
+      "position": 6,
+      "kind": "question",
+      "sourceQuestionId": "57268",
+      "sourceStepId": null,
+      "sourceProgress": "width: 71.4286%;",
+      "questionType": "single-choice",
+      "title": "گزارش مورد؛ مشاهده و فرضیه",
+      "prompt": "چند پزشک موارد مشابهی گزارش کرده‌اند. برای گذشتن از احتمال رابطه به آزمودن آن، چه گامی لازم است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چند پزشک موارد مشابهی گزارش کرده‌اند. برای گذشتن از احتمال رابطه به آزمودن آن، چه گامی لازم است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اعلام اثر درمان در جمعیت چون چند پزشک آن را تکرار کرده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جمع کردن عنوان گزارش‌ها برای اثبات قطعی علت بدون مقایسه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طراحی مطالعه‌ی قوی‌تر برای آزمایش فرضیه‌ی شکل‌گرفته"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حذف نیاز به پژوهش بعدی به دلیل هم‌جهتی گزارش‌های موردی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "اعلام اثر درمان در جمعیت چون چند پزشک آن را تکرار کرده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اعلام اثر درمان در جمعیت چون چند پزشک آن را تکرار کرده‌اند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "جمع کردن عنوان گزارش‌ها برای اثبات قطعی علت بدون مقایسه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جمع کردن عنوان گزارش‌ها برای اثبات قطعی علت بدون مقایسه"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "طراحی مطالعه‌ی قوی‌تر برای آزمایش فرضیه‌ی شکل‌گرفته",
+          "content": [
+            {
+              "tag": "text",
+              "text": "طراحی مطالعه‌ی قوی‌تر برای آزمایش فرضیه‌ی شکل‌گرفته"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "حذف نیاز به پژوهش بعدی به دلیل هم‌جهتی گزارش‌های موردی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حذف نیاز به پژوهش بعدی به دلیل هم‌جهتی گزارش‌های موردی"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "2"
+        ],
+        "correctOptionHashes": [
+          "33167ebd7bb7b80537d86b8ddb361f788093077ac07a8f576970e64f3946bac3"
+        ],
+        "correctOptionTexts": [
+          "طراحی مطالعه‌ی قوی‌تر برای آزمایش فرضیه‌ی شکل‌گرفته"
+        ],
+        "explanation": "تکرار گزارش‌های مشابه فرضیه و توجه ایجاد می‌کند؛ پاسخ قطعی را خود آن گزارش‌ها نمی‌دهند. آزمون فرضیه به مطالعه‌ی قوی‌تر نیاز دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تکرار گزارش‌های مشابه فرضیه و توجه ایجاد می‌کند؛ پاسخ قطعی را خود آن گزارش‌ها نمی‌دهند. آزمون فرضیه به مطالعه‌ی قوی‌تر نیاز دارد."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "اعلام اثر درمان در جمعیت چون چند پزشک آن را تکرار کرده‌اند",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "جمع کردن عنوان گزارش‌ها برای اثبات قطعی علت بدون مقایسه",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "طراحی مطالعه‌ی قوی‌تر برای آزمایش فرضیه‌ی شکل‌گرفته",
+            "isCorrect": true
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "حذف نیاز به پژوهش بعدی به دلیل هم‌جهتی گزارش‌های موردی",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-18T17:40:24.462Z"
+      }
+    },
+    {
+      "id": "question:57270",
+      "position": 7,
+      "kind": "question",
+      "sourceQuestionId": "57270",
+      "sourceStepId": null,
+      "sourceProgress": "width: 85.7143%;",
+      "questionType": "single-choice",
+      "title": "گزارش مورد؛ مشاهده و فرضیه",
+      "prompt": "گزارش مورد، ممکن بودن رخداد را نشان می‌دهد نه معمول بودن آن را در جمعیت.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "گزارش مورد، ممکن بودن رخداد را نشان می‌دهد نه معمول بودن آن را در جمعیت."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "true"
+        ],
+        "correctOptionHashes": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "correctOptionTexts": [
+          "صحیح"
+        ],
+        "explanation": "درست تشخیص دادی. نمی‌دانیم بدون درمان چه می‌شد یا این افراد چقدر شبیه بیماران دیگرند. گزارش مورد می‌گوید اتفاق ممکن است بیفتد، نه این‌که معمولاً رخ می‌دهد یا درمان کار می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. نمی‌دانیم بدون درمان چه می‌شد یا این افراد چقدر شبیه بیماران دیگرند. گزارش مورد می‌گوید اتفاق ممکن است بیفتد، نه این‌که معمولاً رخ می‌دهد یا درمان کار می‌کند."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": true
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-18T17:40:29.379Z"
+      }
+    }
+  ]
+}

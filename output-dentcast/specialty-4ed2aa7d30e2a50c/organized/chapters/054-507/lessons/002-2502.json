@@ -1,0 +1,1357 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2502/lesson.json",
+  "id": "2502",
+  "title": "درس دوم: تراز شواهد ۱ — تجربی یا مشاهده‌ای؛ زمان نگاه و منبع داده‌ها",
+  "specialtyKey": "4ed2aa7d30e2a50c",
+  "chapter": {
+    "id": "507",
+    "title": "تراز شواهد: مطالعه‌ی بالینی را بخوان و بسنج",
+    "position": 54
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:c22a7f77986e70a9ce3959c0201525ead88ff827d2ee3b1f7380c19507045f84",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "b151e056ab26bac77fd312fce66fd581d64afb530197a025aa39f991edf394a0",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چه کسی گروه‌ها را تعیین می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مطالعه‌ی اثر درمان دو گروه دارد: گروه درمان و گروه کنترل. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سؤال اصلی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " این دو گروه چطور شکل می‌گیرند؟ چه کسی تعیین می‌کند هر بیمار در گروه درمان باشد یا گروه کنترل؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "جواب این سؤال، مطالعات بالینی را به دو خانواده‌ی بزرگ تقسیم می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مطالعه‌ی تجربی (experimental):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " محقق تعیین می‌کند. محقق است که تصمیم می‌گیرد این بیمار آنتی‌بیوتیک بگیرد و آن بیمار نگیرد، این بیمار با روش A درمان شود و آن بیمار با روش B. نه بیمار انتخاب کرده و نه دندانپزشک معالج؛ طرح مطالعه از قبل مشخص کرده است. برای همین درمان «تحت کنترل محقق» است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مطالعه‌ی مشاهده‌ای (observational):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " هیچ‌کس. بیماران همان درمانی را می‌گیرند که در روال عادی مطب می‌گرفتند، یا در معرض همان چیزی‌اند که در زندگی واقعی‌شان بوده (مثلاً بعضی سیگار می‌کشند و بعضی نه). محقق فقط از بیرون نگاه، ثبت و مقایسه می‌کند؛ مثلاً بدون تغییر دادن چیزی، بیمارانی را که دندانپزشکشان به آن‌ها آنتی‌بیوتیک داده با بیمارانی که نداده مقایسه می‌کند. گروه‌ها این‌جا هم هستند، ولی خودبه‌خود شکل گرفته‌اند، نه با تصمیم محقق."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا این فرق فقط فنی نیست"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در مطالعه‌ی مشاهده‌ای کسی گروه‌ها را عمداً شبیه هم نساخته و هیچ تضمینی نیست که دو گروه از اول مثل هم بوده باشند. مثال فرضی: در یک مطب، دندانپزشک فقط به بیمارانی آنتی‌بیوتیک می‌دهد که کشیدن دندانشان سخت‌تر بوده یا بیماری زمینه‌ای دارند. همان دلیلی که باعث شده این بیماران آنتی‌بیوتیک بگیرند، خودش روی نتیجه اثر می‌گذارد. آن وقت اگر گروه آنتی‌بیوتیک عارضه‌ی بیشتری داشت، نمی‌دانی آنتی‌بیوتیک بی‌اثر بوده یا این گروه از اول بیماران سخت‌تری بوده‌اند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در مطالعه‌ی تجربی، چون محقق گروه‌ها را می‌سازد، می‌تواند کاری کند که از اول شبیه هم باشند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:e93cc3b1899d2a339db821c9ca7d5b9274870dcb8bf9a2f486b906d3fa2ab682",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "ad73aa4f9a626377629dbc24f0e833d427efb4c5868f71e6ff19dc2ac0774ea0",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مطالعه‌ی مشاهده‌ای: کِی نگاه می‌کنی، داده از کجا می‌آید"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در مطالعات مشاهده‌ای محقق فقط نگاه می‌کند؛ پس این‌که «کِی» نگاه می‌کند و «داده‌ها را از کجا» می‌گیرد، نوع مطالعه را تعیین می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "جهت اول: زمانِ نگاه کردن"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "cross-sectional (مقطعی):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بیماران فقط در یک لحظه دیده می‌شوند و وضعیتشان در یک نقطه از زمان ثبت می‌شود. مثال فرضی: در یک روز مشخص از تعدادی بیمار می‌پرسی سیگار می‌کشند یا نه و هم‌زمان عمق پاکت پریودنتالشان را اندازه می‌گیری."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "longitudinal (طولی):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بیماران در طول زمان دنبال و بارها دیده می‌شوند؛ مثلاً همان بیماران را پنج سال دنبال می‌کنی و می‌بینی پاکت‌ها در سیگاری‌ها چطور تغییر می‌کند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "جهت دوم: منبع داده‌ها"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "prospective (آینده‌نگر):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " محقق از امروز به بعد اطلاعات تازه جمع می‌کند و بیماران را از این لحظه به جلو ثبت‌نام می‌کند. از اول می‌داند دنبال چه چیزی است و همان را ثبت می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "retrospective (گذشته‌نگر):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " داده‌ها از قبل وجود دارند و محقق فقط سراغشان می‌رود، مثل پرونده‌های دندانپزشکی سال‌های گذشته یا داده‌های سرشماری. او به اطلاعاتی تکیه می‌کند که کس دیگری، با هدف دیگری و شاید ناقص، در گذشته نوشته است؛ پرونده‌ای که سال‌ها پیش برای درمان نوشته شده، لزوماً چیزی را که امروز برای تحقیق لازم داریم ثبت نکرده."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این دو جهت مستقل از هم‌اند و با هم ترکیب می‌شوند: یک مطالعه‌ی طولی می‌تواند آینده‌نگر باشد (بیماران را از امروز ثبت‌نام می‌کنی و سال‌ها دنبال می‌کنی) یا گذشته‌نگر (پرونده‌های قدیمی را باز می‌کنی و سیر بیماران را در سال‌های گذشته بازسازی می‌کنی)."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "قدم بعد، معتبرترین نوع مطالعه‌ی تجربی است، یعنی RCT: محقق با چه ابزاری گروه‌ها را شبیه هم می‌سازد و چرا همین ابزار، RCT را معیار سنجش بقیه‌ی مطالعات کرده است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:42422",
+      "sourceId": "42422",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "7d6b0f48c55b4020fed23ea60fe900bda2d9ea70a9feb1d03298b214e913de01",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در مطالعه‌ای، طرح مطالعه از قبل مشخص کرده کدام بیمار با روش A و کدام با روش B درمان شود. این مطالعه از کدام خانواده است و چرا؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در مطالعه‌ای، طرح مطالعه از قبل مشخص کرده کدام بیمار با روش A و کدام با روش B درمان شود. این مطالعه از کدام خانواده است و چرا؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تجربی (experimental)؛ چون محقق تعیین کرده هر بیمار در کدام گروه باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مشاهده‌ای (observational)؛ چون محقق فقط نتیجه‌ی دو روش را ثبت و با هم مقایسه می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تجربی؛ چون هر بیمار پس از شنیدن توضیح دو روش، خودش یکی را انتخاب کرده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مشاهده‌ای؛ چون دندانپزشک معالج روش هر بیمار را تعیین کرده است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8bf6b862e0e1955e81e800b3a3d3c188e5afce8e3769885c2a2452ea4f3dced7",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تجربی (experimental)؛ چون محقق تعیین کرده هر بیمار در کدام گروه باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تجربی (experimental)؛ چون محقق تعیین کرده هر بیمار در کدام گروه باشد"
+            }
+          ]
+        },
+        {
+          "id": "12202cdf42e5ca521d0406d9f1d8eab420f9e8b9626433e21673cf55f7819931",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مشاهده‌ای (observational)؛ چون محقق فقط نتیجه‌ی دو روش را ثبت و با هم مقایسه می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مشاهده‌ای (observational)؛ چون محقق فقط نتیجه‌ی دو روش را ثبت و با هم مقایسه می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "e6e514f7834d08278d4843dce29258c086d842d6b90b517d03c17a23df668ec8",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تجربی؛ چون هر بیمار پس از شنیدن توضیح دو روش، خودش یکی را انتخاب کرده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تجربی؛ چون هر بیمار پس از شنیدن توضیح دو روش، خودش یکی را انتخاب کرده است"
+            }
+          ]
+        },
+        {
+          "id": "5c1be0006214826a9ec3b338a236f92dd87bc5f8104414ee80a56a638e0f2572",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مشاهده‌ای؛ چون دندانپزشک معالج روش هر بیمار را تعیین کرده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مشاهده‌ای؛ چون دندانپزشک معالج روش هر بیمار را تعیین کرده است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8bf6b862e0e1955e81e800b3a3d3c188e5afce8e3769885c2a2452ea4f3dced7"
+        ],
+        "explanation": "درست. وقتی طرح مطالعه از قبل مشخص کرده هر بیمار کدام درمان را بگیرد، محقق گروه‌ها را تعیین کرده و مطالعه تجربی است؛ درمان «تحت کنترل محقق» است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. وقتی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "طرح مطالعه از قبل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " مشخص کرده هر بیمار کدام درمان را بگیرد، محقق گروه‌ها را تعیین کرده و مطالعه تجربی است؛ درمان «تحت کنترل محقق» است."
+          }
+        ],
+        "observedAt": "2026-11-18T17:34:57.980Z"
+      }
+    },
+    {
+      "id": "question:42426",
+      "sourceId": "42426",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "be18903131499890d32037def5412f37865a51f291d9555413cd80b62be9fbcb",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در مطالعه‌ی مشاهده‌ای گروه درمان و گروه کنترل وجود ندارد و محقق فقط وضعیت یک گروه از بیماران را ثبت می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در مطالعه‌ی مشاهده‌ای گروه درمان و گروه کنترل وجود ندارد و محقق فقط وضعیت یک گروه از بیماران را ثبت می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست تشخیص دادی. در مطالعه‌ی مشاهده‌ای هم گروه‌ها وجود دارند و محقق آن‌ها را مقایسه می‌کند؛ فقط گروه‌ها خودبه‌خود شکل گرفته‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. در مطالعه‌ی مشاهده‌ای هم گروه‌ها وجود دارند و محقق آن‌ها را "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مقایسه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌کند؛ فقط گروه‌ها خودبه‌خود شکل گرفته‌اند."
+          }
+        ],
+        "observedAt": "2026-11-18T17:35:02.993Z"
+      }
+    },
+    {
+      "id": "question:42428",
+      "sourceId": "42428",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "71bd682e17a4f11be35772c103b07603273b763e7599d6a6fbfdb18cc22c7936",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در یک مطب، دندانپزشک فقط به بیمارانی آنتی‌بیوتیک می‌دهد که کشیدن دندانشان سخت‌تر بوده یا بیماری زمینه‌ای دارند. در یک مطالعه‌ی مشاهده‌ای روی این بیماران، گروه آنتی‌بیوتیک عارضه‌ی بیشتری داشته است. کدام نتیجه درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در یک مطب، دندانپزشک فقط به بیمارانی آنتی‌بیوتیک می‌دهد که کشیدن دندانشان سخت‌تر بوده یا بیماری زمینه‌ای دارند. در یک مطالعه‌ی مشاهده‌ای روی این بیماران، گروه آنتی‌بیوتیک عارضه‌ی بیشتری داشته است. کدام نتیجه درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آنتی‌بیوتیک بی‌اثر است، چون گروهی که آن را گرفته عارضه‌ی بیشتری داشته است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمی‌دانی آنتی‌بیوتیک بی‌اثر بوده یا این گروه از اول بیماران سخت‌تری بوده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نتیجه قابل اعتماد است، چون هر دو گروه در یک مطب و به دست یک دندانپزشک درمان شده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آنتی‌بیوتیک در بیماران با بیماری زمینه‌ای بی‌اثر است و در بقیه اثر دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "572014a1e4f8c5b947afbc43df27dfaed9c7f64a1180ceec77b5590cc7f2a296",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "آنتی‌بیوتیک بی‌اثر است، چون گروهی که آن را گرفته عارضه‌ی بیشتری داشته است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آنتی‌بیوتیک بی‌اثر است، چون گروهی که آن را گرفته عارضه‌ی بیشتری داشته است"
+            }
+          ]
+        },
+        {
+          "id": "79e0471f26d38530480d54bc7ac7e77a12219140f35be4e8655d17e3cddd8f2e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "نمی‌دانی آنتی‌بیوتیک بی‌اثر بوده یا این گروه از اول بیماران سخت‌تری بوده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نمی‌دانی آنتی‌بیوتیک بی‌اثر بوده یا این گروه از اول بیماران سخت‌تری بوده‌اند"
+            }
+          ]
+        },
+        {
+          "id": "82bcd75e7961f5c932df5c5e6e57fb482a2794fda536021d0cbc907bb56373eb",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نتیجه قابل اعتماد است، چون هر دو گروه در یک مطب و به دست یک دندانپزشک درمان شده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نتیجه قابل اعتماد است، چون هر دو گروه در یک مطب و به دست یک دندانپزشک درمان شده‌اند"
+            }
+          ]
+        },
+        {
+          "id": "5f0f38a2d0934d1d745956138a47bfba992bacd338f411d0e4feb6b766751205",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "آنتی‌بیوتیک در بیماران با بیماری زمینه‌ای بی‌اثر است و در بقیه اثر دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آنتی‌بیوتیک در بیماران با بیماری زمینه‌ای بی‌اثر است و در بقیه اثر دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "79e0471f26d38530480d54bc7ac7e77a12219140f35be4e8655d17e3cddd8f2e"
+        ],
+        "explanation": "درست. همان دلیلی که باعث شده این بیماران آنتی‌بیوتیک بگیرند، خودش روی نتیجه اثر می‌گذارد؛ پس معلوم نیست آنتی‌بیوتیک بی‌اثر بوده یا گروه از اول سخت‌تر بوده.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. همان دلیلی که باعث شده این بیماران آنتی‌بیوتیک بگیرند، "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "خودش روی نتیجه اثر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌گذارد؛ پس معلوم نیست آنتی‌بیوتیک بی‌اثر بوده یا گروه از اول سخت‌تر بوده."
+          }
+        ],
+        "observedAt": "2026-11-18T17:35:09.229Z"
+      }
+    },
+    {
+      "id": "question:42432",
+      "sourceId": "42432",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "c78b141293441ca084481789d232976f5d511682517185959f017b15d2551bec",
+      "position": 6,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "اگر محقق بیماران را فقط در یک لحظه ببیند و وضعیتشان را در یک نقطه از زمان ثبت کند، مطالعه cross-sectional یا ............ است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اگر محقق بیماران را فقط در یک لحظه ببیند و وضعیتشان را در یک نقطه از زمان ثبت کند، مطالعه cross-sectional یا ............ است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ع"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "م"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ط"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ق"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "مقطعی",
+        "explanation": "درست. مطالعه‌ای که وضعیت بیماران را در یک نقطه از زمان ثبت می‌کند مقطعی (cross-sectional) است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. مطالعه‌ای که وضعیت بیماران را در یک نقطه از زمان ثبت می‌کند "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مقطعی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " (cross-sectional) است."
+          }
+        ],
+        "observedAt": "2026-11-18T17:35:19.465Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 5,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ع"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ی"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "م"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ط"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "ق"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:42436",
+      "sourceId": "42436",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "7a32fa36dc0251c496ac64d1084e8050eaad56398d112d64fc5a262fd65f9a1f",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دو محقق می‌خواهند سیر بیماران را بسنجند؛ یکی بیماران را از امروز ثبت‌نام می‌کند، دیگری از پرونده‌های درمانی سال‌های گذشته استفاده می‌کند. تفاوت عملی مهم این دو در چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دو محقق می‌خواهند سیر بیماران را بسنجند؛ یکی بیماران را از امروز ثبت‌نام می‌کند، دیگری از پرونده‌های درمانی سال‌های گذشته استفاده می‌کند. تفاوت عملی مهم این دو در چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط در سرعت کار؛ داده‌های هر دو به یک اندازه قابل اعتمادند، چون هر دو از بیماران واقعی مطب آمده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در تجربی و مشاهده‌ای بودن؛ کسی که از امروز ثبت‌نام می‌کند گروه‌ها را خودش تعیین کرده و به همین دلیل مطالعه‌اش تجربی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در اعتماد به داده‌ها؛ پرونده‌ی قدیمی برای درمان نوشته شده و لزوماً چیزی را که امروز برای تحقیق لازم است ثبت نکرده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در زمان نگاه کردن؛ مطالعه‌ی پرونده‌ها همیشه مقطعی است و مطالعه‌ی از امروز همیشه طولی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3076d04239e4ade54e0f9cad784bed0c506fac8051c7ce48a67b0628a024d299",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "فقط در سرعت کار؛ داده‌های هر دو به یک اندازه قابل اعتمادند، چون هر دو از بیماران واقعی مطب آمده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط در سرعت کار؛ داده‌های هر دو به یک اندازه قابل اعتمادند، چون هر دو از بیماران واقعی مطب آمده‌اند"
+            }
+          ]
+        },
+        {
+          "id": "728959f596dc0f368d2b874849fa511d85bb6b4cfb51fcb378b612f3da004c6b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "در تجربی و مشاهده‌ای بودن؛ کسی که از امروز ثبت‌نام می‌کند گروه‌ها را خودش تعیین کرده و به همین دلیل مطالعه‌اش تجربی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در تجربی و مشاهده‌ای بودن؛ کسی که از امروز ثبت‌نام می‌کند گروه‌ها را خودش تعیین کرده و به همین دلیل مطالعه‌اش تجربی است"
+            }
+          ]
+        },
+        {
+          "id": "625cd678e2b4d16d091dd43d553af57c22275ca03fc88029b436f6ce07747ec3",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "در اعتماد به داده‌ها؛ پرونده‌ی قدیمی برای درمان نوشته شده و لزوماً چیزی را که امروز برای تحقیق لازم است ثبت نکرده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در اعتماد به داده‌ها؛ پرونده‌ی قدیمی برای درمان نوشته شده و لزوماً چیزی را که امروز برای تحقیق لازم است ثبت نکرده"
+            }
+          ]
+        },
+        {
+          "id": "d77dfb9616a52a71214e1420b661e39a6d5423842fb17a1209260e652fbd369a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "در زمان نگاه کردن؛ مطالعه‌ی پرونده‌ها همیشه مقطعی است و مطالعه‌ی از امروز همیشه طولی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در زمان نگاه کردن؛ مطالعه‌ی پرونده‌ها همیشه مقطعی است و مطالعه‌ی از امروز همیشه طولی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "625cd678e2b4d16d091dd43d553af57c22275ca03fc88029b436f6ce07747ec3"
+        ],
+        "explanation": "درست. تفاوت عملی آینده‌نگر و گذشته‌نگر در اعتماد به داده‌ها است: در گذشته‌نگر به اطلاعاتی تکیه می‌کنی که کس دیگری، با هدف دیگری و شاید ناقص، نوشته است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. تفاوت عملی آینده‌نگر و گذشته‌نگر "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "در اعتماد به داده‌ها"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است: در گذشته‌نگر به اطلاعاتی تکیه می‌کنی که کس دیگری، با هدف دیگری و شاید ناقص، نوشته است."
+          }
+        ],
+        "observedAt": "2026-11-18T17:35:29.199Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:c22a7f77986e70a9ce3959c0201525ead88ff827d2ee3b1f7380c19507045f84",
+      "at": "2026-11-18T17:34:46.130Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:e93cc3b1899d2a339db821c9ca7d5b9274870dcb8bf9a2f486b906d3fa2ab682",
+      "at": "2026-11-18T17:34:47.734Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:42422",
+      "at": "2026-11-18T17:34:49.324Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:42426",
+      "at": "2026-11-18T17:34:59.544Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:42428",
+      "at": "2026-11-18T17:35:04.604Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:42432",
+      "at": "2026-11-18T17:35:10.683Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:42436",
+      "at": "2026-11-18T17:35:21.089Z",
+      "progress": "width: 85.7143%;"
+    },
+    {
+      "stepId": "question:42436",
+      "at": "2026-11-18T17:35:27.307Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

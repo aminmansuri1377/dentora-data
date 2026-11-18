@@ -1,0 +1,1397 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2499/lesson.json",
+  "id": "2499",
+  "title": "درس سوم: طراحی خودمحافظ (Self-defensive design) و راه درست مقایسه‌ی ایمپلنت",
+  "specialtyKey": "4ed2aa7d30e2a50c",
+  "chapter": {
+    "id": "506",
+    "title": "دندان یا ایمپلنت؟ خواندن درست شواهد",
+    "position": 53
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:328f7ad63de9a32bbf326e495531e15336be379a2a4f40e56a35ae6af2fa7e8e",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "98c7eeffa1532a6e39d15773f88c0153c605d7ae746a8faaa69706b0a2586605",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سیستمی که بدن از آن محافظت نمی‌کند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نتایج یک مقاله را می‌خوانی که ایمپلنت و دندان را با عدد و درصد کنار هم گذاشته است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیش از نگاه کردن به عددها، چه سؤالی باید بپرسی؟ پاسخ از ماهیت خود ایمپلنت شروع می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ایمپلنت، سیستمی بدون حمایت بیولوژیک"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بدن از ایمپلنت مثل دندان محافظت نمی‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به همین دلیل، اگر قرار است در بلندمدت پایدار بماند، باید از ابتدا به‌صورت یک سیستم خودمحافظ (self-defensive) درمان شود."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "طراحی خودمحافظ یعنی"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جراحی با هدف "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "حفظ استخوان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، نه صرفاً جایگذاری ایمپلنت؛"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "طراحی پروتزی که "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بار، میکروحرکت و التهاب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را کنترل کند؛"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و تصمیم‌گیری‌ای که بداند ایمپلنت "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "حاشیه‌ی خطا ندارد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پایداری بلندمدت ایمپلنت از بیرون نمی‌آید؛ باید در خود درمان تعبیه شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:4eef1b9f0476eff596256fa4d89c924a71a4517d740eb9d15e417996e490d5c7",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "18b3cb9cdcd051661c3627ca34d36b4625fad7d2d7857a048ed78c5a7d9e7160",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پیش از نگاه کردن به درصدها"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مقایسه‌ی درست"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "از زاویه‌ی طراحی خودمحافظ، یک نکته‌ی مهم در تفسیر نتایج مقالات روشن می‌شود: مقایسه‌ی درست زمانی معنا دارد که هر سیستم طبق "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "منطق ذاتی خودش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " استفاده شده باشد."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اگر ایمپلنتی که بدون طراحی خودمحافظ به کار رفته، در کنار دندانی که از حمایت بیولوژیک برخوردار است قضاوت شود، آنچه مقایسه می‌شود صرفاً «ایمپلنت و دندان» نیست؛"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بلکه دو سیستم با سطح حفاظت کاملاً متفاوت هم هست."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سؤالی که پیش از عددها می‌پرسی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آیا ایمپلنت در این نتایج طبق منطق یک سیستم self-defensive به کار رفته است یا نه؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اگر پاسخ این سؤال روشن نباشد، عددها می‌توانند دقیق باشند، اما نتیجه‌گیری می‌تواند گمراه‌کننده باشد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:42394",
+      "sourceId": "42394",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "5b644c69ec6fed2a1092ed936bb984502ea6ae5ca90805f5366b3df3868afd90",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکارت می‌گوید: «بعد از جاگذاری ایمپلنت، بدن خودش مثل دندان از آن محافظت می‌کند؛ طراحی خاصی لازم نیست.» اشتباه این برداشت چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکارت می‌گوید: «بعد از جاگذاری ایمپلنت، بدن خودش مثل دندان از آن محافظت می‌کند؛ طراحی خاصی لازم نیست.» اشتباه این برداشت چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بدن از ایمپلنت مثل دندان محافظت نمی‌کند؛ ایمپلنت باید از ابتدا خودمحافظ درمان شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباهی ندارد؛ پس از جاگذاری، ایمپلنت هم مثل دندان بخشی از سیستم بیولوژیک بدن می‌شود و از حفاظت آن بهره می‌برد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباهش این است که فقط پیگیری بیشتر لازم است؛ طراحی درمان در پایداری ایمپلنت اثری ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباهش این است که بدن ایمپلنت را پس می‌زند و طراحی این را جبران نمی‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "28a67fcc4d7a8651ad7d5634310b555928c1155bd4f7d77ba67aa545efbd388d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بدن از ایمپلنت مثل دندان محافظت نمی‌کند؛ ایمپلنت باید از ابتدا خودمحافظ درمان شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بدن از ایمپلنت مثل دندان محافظت نمی‌کند؛ ایمپلنت باید از ابتدا خودمحافظ درمان شود"
+            }
+          ]
+        },
+        {
+          "id": "35a0d751106a78ba4adc1d294e0bee362cfaff789dbcf7ea8a734ea30670e16d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اشتباهی ندارد؛ پس از جاگذاری، ایمپلنت هم مثل دندان بخشی از سیستم بیولوژیک بدن می‌شود و از حفاظت آن بهره می‌برد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشتباهی ندارد؛ پس از جاگذاری، ایمپلنت هم مثل دندان بخشی از سیستم بیولوژیک بدن می‌شود و از حفاظت آن بهره می‌برد"
+            }
+          ]
+        },
+        {
+          "id": "0bef63f61534ecc2cbd20745a4983730e3cd1dbf18af826ed18753efc32c6f11",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اشتباهش این است که فقط پیگیری بیشتر لازم است؛ طراحی درمان در پایداری ایمپلنت اثری ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشتباهش این است که فقط پیگیری بیشتر لازم است؛ طراحی درمان در پایداری ایمپلنت اثری ندارد"
+            }
+          ]
+        },
+        {
+          "id": "aaf2ff83bfda4ecf2bf3bd34bfad549a7eac8d6f8d6419afbe4ab951307ad735",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اشتباهش این است که بدن ایمپلنت را پس می‌زند و طراحی این را جبران نمی‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشتباهش این است که بدن ایمپلنت را پس می‌زند و طراحی این را جبران نمی‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "28a67fcc4d7a8651ad7d5634310b555928c1155bd4f7d77ba67aa545efbd388d"
+        ],
+        "explanation": "آفرین. ایمپلنت حمایت بیولوژیک ندارد و بدن مثل دندان از آن محافظت نمی‌کند؛ پس باید از ابتدا به‌صورت سیستم خودمحافظ درمان شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. ایمپلنت "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "حمایت بیولوژیک"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " ندارد و بدن مثل دندان از آن محافظت نمی‌کند؛ پس باید از ابتدا به‌صورت سیستم خودمحافظ درمان شود."
+          }
+        ],
+        "observedAt": "2026-11-18T17:31:52.730Z"
+      }
+    },
+    {
+      "id": "question:42396",
+      "sourceId": "42396",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "36682c732776a2af1ea3a09b8eefbda2d2bd7721da85724949427a56db9ed85c",
+      "position": 4,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "در طراحی خودمحافظ، جراحی با هدف حفظ ............ انجام می‌شود، نه صرفاً جایگذاری ایمپلنت.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در طراحی خودمحافظ، جراحی با هدف حفظ ............ انجام می‌شود، نه صرفاً جایگذاری ایمپلنت."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "س"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "استخوان",
+        "explanation": "درست است. جراحی در طراحی خودمحافظ با هدف حفظ استخوان انجام می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است. جراحی در طراحی خودمحافظ با هدف حفظ "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "استخوان"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " انجام می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-18T17:32:00.149Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 7,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ن"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ا"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ا"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ت"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "و"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "خ"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "س"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:42399",
+      "sourceId": "42399",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "3bd4894abe44eb27e7d5bbdd94c330b1f68df8676a497f0e7c6e758fd99a9b71",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در طراحی خودمحافظ، تصمیم‌گیری بر این پایه است که ایمپلنت حاشیه‌ی خطای زیادی دارد و خطاهای کوچک را بدن جبران می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در طراحی خودمحافظ، تصمیم‌گیری بر این پایه است که ایمپلنت حاشیه‌ی خطای زیادی دارد و خطاهای کوچک را بدن جبران می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست تشخیص دادی. تصمیم‌گیری خودمحافظ یعنی تصمیمی که بداند ایمپلنت حاشیه‌ی خطا ندارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. تصمیم‌گیری خودمحافظ یعنی تصمیمی که بداند ایمپلنت "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "حاشیه‌ی خطا ندارد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "observedAt": "2026-11-18T17:32:19.937Z"
+      }
+    },
+    {
+      "id": "question:42401",
+      "sourceId": "42401",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "f7ae86d14bd5c692d886df07d675ad136039d3c44df17b6070b53a4f91d61be0",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مقایسه‌ی ایمپلنت و دندان در نتایج یک مقاله، چه زمانی معنا دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مقایسه‌ی ایمپلنت و دندان در نتایج یک مقاله، چه زمانی معنا دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی هر دو دقیقاً با یک روش درمان و یک منطق به کار رفته باشند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی هر سیستم طبق منطق ذاتی خودش استفاده شده باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقتی تعداد ایمپلنت‌ها و دندان‌های مطالعه دقیقاً برابر باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر وقت پیگیری مطالعه دست‌کم ده سال یا بیشتر طول کشیده باشد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ff378e1d744dc42559192a001fa71c5f397d7711457477dcb25d9474be9e6ff9",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "وقتی هر دو دقیقاً با یک روش درمان و یک منطق به کار رفته باشند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی هر دو دقیقاً با یک روش درمان و یک منطق به کار رفته باشند"
+            }
+          ]
+        },
+        {
+          "id": "307dda30d625a180f52ba93a357caa3ac7c9ee10808e587afaf9a0e038fd7ff3",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "وقتی هر سیستم طبق منطق ذاتی خودش استفاده شده باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی هر سیستم طبق منطق ذاتی خودش استفاده شده باشد"
+            }
+          ]
+        },
+        {
+          "id": "f8023249c914f305c4820ce3d02b688a8369d297ed054d681fde0ae3d8bc212d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "وقتی تعداد ایمپلنت‌ها و دندان‌های مطالعه دقیقاً برابر باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقتی تعداد ایمپلنت‌ها و دندان‌های مطالعه دقیقاً برابر باشد"
+            }
+          ]
+        },
+        {
+          "id": "edf0a2e211c60de547c6cb81d62369fd16de1cbdf28a853fb7441d2bb93df923",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هر وقت پیگیری مطالعه دست‌کم ده سال یا بیشتر طول کشیده باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر وقت پیگیری مطالعه دست‌کم ده سال یا بیشتر طول کشیده باشد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "307dda30d625a180f52ba93a357caa3ac7c9ee10808e587afaf9a0e038fd7ff3"
+        ],
+        "explanation": "درست. مقایسه‌ی درست زمانی معنا دارد که هر سیستم طبق منطق ذاتی خودش استفاده شده باشد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. مقایسه‌ی درست زمانی معنا دارد که هر سیستم طبق "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "منطق ذاتی خودش"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " استفاده شده باشد."
+          }
+        ],
+        "observedAt": "2026-11-18T17:32:10.396Z"
+      }
+    },
+    {
+      "id": "question:42404",
+      "sourceId": "42404",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "3ea3ab17cb9137661ac36d97500da0277529fa836238217eca3f18cef37167bc",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مقاله‌ای درصدهای نتیجه‌ی ایمپلنت و دندان را کنار هم گزارش کرده، ولی روشن نکرده ایمپلنت‌ها با چه منطقی جراحی و بازسازی شده‌اند. کدام برخورد با این مقاله درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مقاله‌ای درصدهای نتیجه‌ی ایمپلنت و دندان را کنار هم گزارش کرده، ولی روشن نکرده ایمپلنت‌ها با چه منطقی جراحی و بازسازی شده‌اند. کدام برخورد با این مقاله درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عددها را همان‌طور بپذیری؛ وقتی عددها دقیق باشند، نتیجه‌گیری مقاله درباره‌ی برتری دندان یا ایمپلنت هم خودبه‌خود و بی‌نیاز از هیچ پرسش دیگری درست است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش از عددها بپرسی ایمپلنت طبق منطق self-defensive به کار رفته یا نه؛ اگر روشن نیست، عددها شاید دقیق باشند ولی نتیجه‌گیری گمراه‌کننده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقاله را کامل کنار بگذاری؛ هر مقاله‌ای که ایمپلنت و دندان را کنار هم بگذارد، عددهایش هم دقیق نیست و ارزشی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط به طول پیگیری نگاه کنی؛ اگر پیگیری طولانی باشد، منطق به کار رفتن ایمپلنت در تفسیر نتیجه اهمیتی ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3e07250efe3bfa0d53e0371c9196477a359fc6df78b231586a2098116762b69c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "عددها را همان‌طور بپذیری؛ وقتی عددها دقیق باشند، نتیجه‌گیری مقاله درباره‌ی برتری دندان یا ایمپلنت هم خودبه‌خود و بی‌نیاز از هیچ پرسش دیگری درست است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عددها را همان‌طور بپذیری؛ وقتی عددها دقیق باشند، نتیجه‌گیری مقاله درباره‌ی برتری دندان یا ایمپلنت هم خودبه‌خود و بی‌نیاز از هیچ پرسش دیگری درست است"
+            }
+          ]
+        },
+        {
+          "id": "4968dbaddb751599ba22ba2e7490c41063a45a08f53c418fe021a4102a530443",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "پیش از عددها بپرسی ایمپلنت طبق منطق self-defensive به کار رفته یا نه؛ اگر روشن نیست، عددها شاید دقیق باشند ولی نتیجه‌گیری گمراه‌کننده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پیش از عددها بپرسی ایمپلنت طبق منطق self-defensive به کار رفته یا نه؛ اگر روشن نیست، عددها شاید دقیق باشند ولی نتیجه‌گیری گمراه‌کننده است"
+            }
+          ]
+        },
+        {
+          "id": "cdb68d1ce27ddd6d32c4bbb04d6980dff77909b1a7cafd574d91c101548e6eaa",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مقاله را کامل کنار بگذاری؛ هر مقاله‌ای که ایمپلنت و دندان را کنار هم بگذارد، عددهایش هم دقیق نیست و ارزشی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقاله را کامل کنار بگذاری؛ هر مقاله‌ای که ایمپلنت و دندان را کنار هم بگذارد، عددهایش هم دقیق نیست و ارزشی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "a0611c8cb5afaa626511c007ea4f5e3f5654da0cbbbb0e7fdfdb4fb75728f356",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فقط به طول پیگیری نگاه کنی؛ اگر پیگیری طولانی باشد، منطق به کار رفتن ایمپلنت در تفسیر نتیجه اهمیتی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط به طول پیگیری نگاه کنی؛ اگر پیگیری طولانی باشد، منطق به کار رفتن ایمپلنت در تفسیر نتیجه اهمیتی ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "4968dbaddb751599ba22ba2e7490c41063a45a08f53c418fe021a4102a530443"
+        ],
+        "explanation": "عالی. پیش از عددها باید پرسید ایمپلنت طبق منطق self-defensive به کار رفته یا نه؛ اگر پاسخ روشن نباشد، عددها می‌توانند دقیق باشند اما نتیجه‌گیری می‌تواند گمراه‌کننده باشد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "عالی. پیش از عددها باید پرسید ایمپلنت "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "طبق منطق self-defensive"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " به کار رفته یا نه؛ اگر پاسخ روشن نباشد، عددها می‌توانند دقیق باشند اما نتیجه‌گیری می‌تواند گمراه‌کننده باشد."
+          }
+        ],
+        "observedAt": "2026-11-18T17:32:16.448Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:328f7ad63de9a32bbf326e495531e15336be379a2a4f40e56a35ae6af2fa7e8e",
+      "at": "2026-11-18T17:31:43.547Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:4eef1b9f0476eff596256fa4d89c924a71a4517d740eb9d15e417996e490d5c7",
+      "at": "2026-11-18T17:31:45.156Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:42394",
+      "at": "2026-11-18T17:31:46.720Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:42396",
+      "at": "2026-11-18T17:31:54.353Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:42399",
+      "at": "2026-11-18T17:32:01.755Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:42401",
+      "at": "2026-11-18T17:32:06.872Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:42404",
+      "at": "2026-11-18T17:32:12.003Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:42399",
+      "at": "2026-11-18T17:32:18.039Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

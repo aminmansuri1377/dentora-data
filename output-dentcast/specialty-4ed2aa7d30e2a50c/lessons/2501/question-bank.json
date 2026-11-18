@@ -1,0 +1,1136 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "question:42408",
+      "position": 3,
+      "kind": "question",
+      "sourceQuestionId": "42408",
+      "sourceStepId": null,
+      "sourceProgress": "width: 28.5714%;",
+      "questionType": "single-choice",
+      "title": "درس ۱: تراز شواهد ۱ — validity، relevance و گروه کنترل",
+      "prompt": "به این‌که نتیجه‌ی یک مطالعه چقدر برای بیمار ما مهم و قابل استفاده است validity می‌گویند، و به این‌که آن نتیجه چقدر به حقیقت نزدیک است relevance.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "به این‌که نتیجه‌ی یک مطالعه چقدر برای بیمار ما مهم و قابل استفاده است validity می‌گویند، و به این‌که آن نتیجه چقدر به حقیقت نزدیک است relevance."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "false"
+        ],
+        "correctOptionHashes": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "correctOptionTexts": [
+          "غلط"
+        ],
+        "explanation": "درست تشخیص دادی. جای دو اسم برعکس شده است: نزدیکی به حقیقت validity است و کاربرد برای بیمار ما relevance.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. جای دو اسم برعکس شده است: نزدیکی به حقیقت "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "validity"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است و کاربرد برای بیمار ما "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "relevance"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": false
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-18T17:34:39.620Z"
+      }
+    },
+    {
+      "id": "question:42411",
+      "position": 4,
+      "kind": "question",
+      "sourceQuestionId": "42411",
+      "sourceStepId": null,
+      "sourceProgress": "width: 37.5%;",
+      "questionType": "letter-order",
+      "jumble": {
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "س"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ی"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ن"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "د"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "ب"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "ت"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "د"
+          },
+          {
+            "key": "7",
+            "position": 8,
+            "text": "ه"
+          }
+        ],
+        "slotCount": 8,
+        "slotTexts": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "correctSlots": false,
+        "correctWord": ""
+      },
+      "title": "درس ۱: تراز شواهد ۱ — validity، relevance و گروه کنترل",
+      "prompt": "دانستن نوع طراحی مطالعه فقط آن را ............ می‌کند و کیفیت اجرای هر مطالعه باید جداگانه سنجیده شود.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دانستن نوع طراحی مطالعه فقط آن را ............ می‌کند و کیفیت اجرای هر مطالعه باید جداگانه سنجیده شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "س"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "د"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ب"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "د"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ه"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "status": "observed-text",
+        "correctText": "دستهبندی",
+        "textEvidence": {
+          "submittedText": "دستهبندی",
+          "sourceRevealedWord": "",
+          "slotsMarkedCorrect": true,
+          "feedbackClass": "feedback show ok"
+        },
+        "correctOptionHashes": [],
+        "correctOptionKeys": [],
+        "correctOptionTexts": [],
+        "explanation": "درست. نوع طراحی فقط مطالعه را دسته‌بندی می‌کند؛ کیفیت اجرا کار جداگانه‌ای است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. نوع طراحی فقط مطالعه را "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دسته‌بندی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌کند؛ کیفیت اجرا کار جداگانه‌ای است."
+          }
+        ],
+        "options": [],
+        "observedAt": "2026-11-18T17:34:19.494Z"
+      }
+    },
+    {
+      "id": "question:42413",
+      "position": 5,
+      "kind": "question",
+      "sourceQuestionId": "42413",
+      "sourceStepId": null,
+      "sourceProgress": "width: 50%;",
+      "questionType": "single-choice",
+      "title": "درس ۱: تراز شواهد ۱ — validity، relevance و گروه کنترل",
+      "prompt": "در یک گزارش، بیشتر بیمارانی که بعد از کشیدن مولر سوم آنتی‌بیوتیک پروفیلاکتیک گرفته‌اند بدون عارضه خوب شده‌اند. درباره‌ی اثر آنتی‌بیوتیک چه می‌فهمی؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در یک گزارش، بیشتر بیمارانی که بعد از کشیدن مولر سوم آنتی‌بیوتیک پروفیلاکتیک گرفته‌اند بدون عارضه خوب شده‌اند. درباره‌ی اثر آنتی‌بیوتیک چه می‌فهمی؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چیزی نمی‌فهمی، چون نمی‌دانی اگر آنتی‌بیوتیک نمی‌گرفتند چه می‌شد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اثر آنتی‌بیوتیک ثابت شده است، چون بیشتر بیماران بدون عارضه خوب شده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اثر ثابت شده، اگر شمار بیماران گزارش زیاد باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آنتی‌بیوتیک فقط در کشیدن‌های ساده عوارض را کم کرده"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "چیزی نمی‌فهمی، چون نمی‌دانی اگر آنتی‌بیوتیک نمی‌گرفتند چه می‌شد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چیزی نمی‌فهمی، چون نمی‌دانی اگر آنتی‌بیوتیک نمی‌گرفتند چه می‌شد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "اثر آنتی‌بیوتیک ثابت شده است، چون بیشتر بیماران بدون عارضه خوب شده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اثر آنتی‌بیوتیک ثابت شده است، چون بیشتر بیماران بدون عارضه خوب شده‌اند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "اثر ثابت شده، اگر شمار بیماران گزارش زیاد باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اثر ثابت شده، اگر شمار بیماران گزارش زیاد باشد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "آنتی‌بیوتیک فقط در کشیدن‌های ساده عوارض را کم کرده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آنتی‌بیوتیک فقط در کشیدن‌های ساده عوارض را کم کرده"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "0"
+        ],
+        "correctOptionHashes": [
+          "abc70a8560b8d2e1c486f6d6bf5965e59ce60ea540f99bb015bb79a60e47f844"
+        ],
+        "correctOptionTexts": [
+          "چیزی نمی‌فهمی، چون نمی‌دانی اگر آنتی‌بیوتیک نمی‌گرفتند چه می‌شد"
+        ],
+        "explanation": "درست. شاید بدون آنتی‌بیوتیک هم همین‌قدر خوب می‌شدند؛ برای فهمیدن اثر، باید عده‌ای که گرفته‌اند با عده‌ای که نگرفته‌اند مقایسه شوند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. شاید بدون آنتی‌بیوتیک هم "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "همین‌قدر خوب می‌شدند"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ برای فهمیدن اثر، باید عده‌ای که گرفته‌اند با عده‌ای که نگرفته‌اند مقایسه شوند."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "چیزی نمی‌فهمی، چون نمی‌دانی اگر آنتی‌بیوتیک نمی‌گرفتند چه می‌شد",
+            "isCorrect": true
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "اثر آنتی‌بیوتیک ثابت شده است، چون بیشتر بیماران بدون عارضه خوب شده‌اند",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "اثر ثابت شده، اگر شمار بیماران گزارش زیاد باشد",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "آنتی‌بیوتیک فقط در کشیدن‌های ساده عوارض را کم کرده",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-18T17:34:25.309Z"
+      }
+    },
+    {
+      "id": "question:42418",
+      "position": 6,
+      "kind": "question",
+      "sourceQuestionId": "42418",
+      "sourceStepId": null,
+      "sourceProgress": "width: 62.5%;",
+      "questionType": "single-choice",
+      "title": "درس ۱: تراز شواهد ۱ — validity، relevance و گروه کنترل",
+      "prompt": "همکارت به گروهی از بیمارانش درمان تازه‌ای داده، همه خوب شده‌اند، و می‌خواهد بر همین اساس آن را برای همه‌ی بیمارانش به کار ببرد. کدام نقد درست است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکارت به گروهی از بیمارانش درمان تازه‌ای داده، همه خوب شده‌اند، و می‌خواهد بر همین اساس آن را برای همه‌ی بیمارانش به کار ببرد. کدام نقد درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مشکل فقط این است که باید نتیجه را روی همان بیماران با یک روش مرجع می‌سنجید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نقدی ندارد؛ وقتی همه‌ی بیماران بدون استثنا خوب شده‌اند، اثر درمان روشن است و گروه کنترل دیگر چیزی به آن اضافه نمی‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مشکل فقط کم بودن تعداد است؛ با چند برابر بیمار، حتی بدون گروه کنترل، تصمیمش قابل دفاع و مبنای درستی می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بدون گروه کنترل نمی‌داند بهبود کار درمان بوده یا خودبه‌خود؛ چنین شواهدی بسیار ضعیف است و نباید مبنای تصمیم باشد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "مشکل فقط این است که باید نتیجه را روی همان بیماران با یک روش مرجع می‌سنجید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مشکل فقط این است که باید نتیجه را روی همان بیماران با یک روش مرجع می‌سنجید"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "نقدی ندارد؛ وقتی همه‌ی بیماران بدون استثنا خوب شده‌اند، اثر درمان روشن است و گروه کنترل دیگر چیزی به آن اضافه نمی‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نقدی ندارد؛ وقتی همه‌ی بیماران بدون استثنا خوب شده‌اند، اثر درمان روشن است و گروه کنترل دیگر چیزی به آن اضافه نمی‌کند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "مشکل فقط کم بودن تعداد است؛ با چند برابر بیمار، حتی بدون گروه کنترل، تصمیمش قابل دفاع و مبنای درستی می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مشکل فقط کم بودن تعداد است؛ با چند برابر بیمار، حتی بدون گروه کنترل، تصمیمش قابل دفاع و مبنای درستی می‌شود"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "بدون گروه کنترل نمی‌داند بهبود کار درمان بوده یا خودبه‌خود؛ چنین شواهدی بسیار ضعیف است و نباید مبنای تصمیم باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بدون گروه کنترل نمی‌داند بهبود کار درمان بوده یا خودبه‌خود؛ چنین شواهدی بسیار ضعیف است و نباید مبنای تصمیم باشد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "3"
+        ],
+        "correctOptionHashes": [
+          "f0186fb8500ba337bb80c32e66792e341e0d67e0ee4d59d2a41f5c048dddee1c"
+        ],
+        "correctOptionTexts": [
+          "بدون گروه کنترل نمی‌داند بهبود کار درمان بوده یا خودبه‌خود؛ چنین شواهدی بسیار ضعیف است و نباید مبنای تصمیم باشد"
+        ],
+        "explanation": "درست. مطالعه‌ای که برای سؤال درمان گروه کنترل ندارد، شواهد بسیار ضعیفی است؛ اگر بیماران خوب شدند، معلوم نیست به‌خاطر درمان بوده یا خودبه‌خود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. مطالعه‌ای که برای سؤال درمان "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "گروه کنترل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " ندارد، شواهد بسیار ضعیفی است؛ اگر بیماران خوب شدند، معلوم نیست به‌خاطر درمان بوده یا خودبه‌خود."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "مشکل فقط این است که باید نتیجه را روی همان بیماران با یک روش مرجع می‌سنجید",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "نقدی ندارد؛ وقتی همه‌ی بیماران بدون استثنا خوب شده‌اند، اثر درمان روشن است و گروه کنترل دیگر چیزی به آن اضافه نمی‌کند",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "مشکل فقط کم بودن تعداد است؛ با چند برابر بیمار، حتی بدون گروه کنترل، تصمیمش قابل دفاع و مبنای درستی می‌شود",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "بدون گروه کنترل نمی‌داند بهبود کار درمان بوده یا خودبه‌خود؛ چنین شواهدی بسیار ضعیف است و نباید مبنای تصمیم باشد",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-18T17:34:31.187Z"
+      }
+    },
+    {
+      "id": "question:42420",
+      "position": 7,
+      "kind": "question",
+      "sourceQuestionId": "42420",
+      "sourceStepId": null,
+      "sourceProgress": "width: 75%;",
+      "questionType": "single-choice",
+      "title": "درس ۱: تراز شواهد ۱ — validity، relevance و گروه کنترل",
+      "prompt": "برای سنجیدن دقت یک روش تشخیصی هم، درست مثل سؤال اثر درمان، مطالعه باید دو گروه بیمار را با هم مقایسه کند.",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای سنجیدن دقت یک روش تشخیصی هم، درست مثل سؤال اثر درمان، مطالعه باید دو گروه بیمار را با هم مقایسه کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "false"
+        ],
+        "correctOptionHashes": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "correctOptionTexts": [
+          "غلط"
+        ],
+        "explanation": "درست تشخیص دادی. مقایسه‌ی دو گروه بیمار قاعده‌ی سؤال اثر درمان است؛ در سؤال دقت تشخیصی، روش روی همان بیماران با یک روش مرجع سنجیده می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. مقایسه‌ی دو گروه بیمار قاعده‌ی سؤال "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "اثر درمان"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است؛ در سؤال دقت تشخیصی، روش روی همان بیماران با یک روش مرجع سنجیده می‌شود."
+          }
+        ],
+        "options": [
+          {
+            "key": "true",
+            "position": 1,
+            "text": "صحیح",
+            "isCorrect": false
+          },
+          {
+            "key": "false",
+            "position": 2,
+            "text": "غلط",
+            "isCorrect": true
+          }
+        ],
+        "observedAt": "2026-11-18T17:34:36.100Z"
+      }
+    }
+  ]
+}
