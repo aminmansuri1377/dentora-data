@@ -1,0 +1,1403 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2444/lesson.json",
+  "id": "2444",
+  "title": "درس پنجم: وقتی هوش مصنوعی تنها از پزشک مجهز به آن بهتر عمل می‌کند",
+  "specialtyKey": "4ed2aa7d30e2a50c",
+  "chapter": {
+    "id": "495",
+    "title": "فراتر از اسکن",
+    "position": 43
+  },
+  "position": 5,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:966981b346595fd5d688345b407cd6d48d86663ff2ae767b7507681c95fd6f91",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "3d0bf00407d914f3b256316e7b66eb923e939c239669ee01e668e797d4278c60",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پزشک با GPT-4، پزشک بدون آن، و GPT-4 تنها"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اگر به پزشک دسترسی به ChatGPT بدهی، تشخیصش بهتر می‌شود؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یک کارآزمایی تصادفی‌شده دقیقاً همین را آزمود و جواب منفی بود."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "طرح مطالعه"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵۰ پزشک از سه دانشگاه معتبر آمریکا به‌صورت تصادفی در دو گروه: یک گروه GPT-4 به‌علاوه‌ی منابع همیشگی مثل UpToDate و Google؛ گروه دیگر فقط منابع همیشگی و بدون اجازه‌ی استفاده از هیچ مدل زبانی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر پزشک یک ساعت فرصت داشت روی شش کیس تشخیصی پیچیده کار کند. کیس‌ها بر اساس بیماران واقعی و هرگز منتشرنشده بودند؛ پس GPT-4 نمی‌توانست پاسخشان را از داده‌های آموزشی‌اش به خاطر داشته باشد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط تشخیص نهایی نمره نداشت؛ "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کل فرایند استدلال"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ارزیابی شد: تشخیص‌های افتراقی، شواهد موافق و مخالف هرکدام، و قدم‌های بعدی (تقریباً ساختار Assessment and Plan یادداشت بالینی)."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمره‌دهی blinded بود: نمره‌دهنده نمی‌دانست پاسخ از کدام گروه است، یا اصلاً از انسان است یا مدل؛ چون بازوی سومی هم بود: خود GPT-4 به‌تنهایی روی همان کیس‌ها، با یک prompt که تیم پژوهش با دقت طراحی کرده بود."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نتایج"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پزشک به‌علاوه‌ی GPT-4: حدود ۷۶ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پزشک با منابع معمول: حدود ۷۴ درصد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "GPT-4 تنها: حدود ۹۲ درصد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تفاوت دو درصدی دو گروه پزشک از نظر آماری معنادار نبود؛ اما مدل تنها ۱۶ درصد از پزشکان جلوتر بود و این تفاوت کاملاً معنادار بود. یعنی اضافه شدن پزشک به مدل، نتیجه را پایین آورد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:ac87f9d61ac7aadd3794d7ae517e919949338e06a67b48f3942f696b122c7a8c",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "97fdf3f2dd023e5af378ea6f0f6afc1a614a933bcb681f381fba39a5750561d6",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شکاف تعامل، نه شکاف توانایی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الگو در همه‌ی زیرگروه‌ها یکسان بود: فرقی نمی‌کرد شرکت‌کننده پزشک باتجربه باشد یا رزیدنت، و تجربه‌ی قبلی کار با ChatGPT هم چیزی را عوض نکرد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یافته‌ی فرعی: گروه GPT-4 حدود یک دقیقه در هر کیس سریع‌تر بود و کسانی که قبلاً با ChatGPT کار کرده بودند بیش از دو دقیقه؛ این تفاوت به معناداری آماری نرسید، اما جهتش امیدوارکننده است، چون در طبابت زمان همیشه کمیاب است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا ترکیب انسان و هوش مصنوعی جواب نداد"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نمره‌ی ۹۲ درصدی حاصل یک prompt بود که متخصصان با دقت ساخته بودند. پزشکان مطالعه هیچ آموزشی در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "prompt engineering"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " ندیده بودند و همان‌طور با مدل کار کردند که اکثر کاربران امروز کار می‌کنند؛ قوی‌ترین ابزار تشخیصی در دسترسشان عملاً خنثی شد. شکاف، شکاف توانایی مدل نیست؛ شکاف تعامل است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "راه حل: یا کلینیسین‌ها کار با این ابزارها را یاد بگیرند، یا سیستم‌ها prompt‌های بهینه را از قبل در خود داشته باشند تا کاربر مجبور نباشد متخصص prompting باشد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این نتایج به این معنا نیست که مدل باید بدون نظارت تشخیص بدهد. کیس‌ها خلاصه‌شده و تمیز بودند و همه‌ی اطلاعات لازم از قبل استخراج شده بود؛ بیمار واقعی پر از noise و ابهام است و بیرون کشیدن اطلاعات درست از دل آن، هنوز کار کلینیسین است."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سه درس برای دندانپزشکی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مطالعه روی پزشکان انجام شده، اما ساختار مسئله در دندانپزشکی هم برقرار است: یک کلینیسین، یک کیس تشخیصی و یک ابزار هوش مصنوعی در دسترس."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صرف دسترسی به هوش مصنوعی، تشخیص را بهتر نمی‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مهارت کار با این ابزارها یک مهارت بالینی جدید است: نحوه‌ی پرسیدن و نحوه‌ی استفاده از خروجی، همان چیزی است که بین ۷۶ و ۹۲ درصد فاصله انداخت."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عملکرد بالای مدل در کیس‌های تمیز به معنای آمادگی برای بالین واقعی نیست؛ قضاوت در شرایط ابهام همچنان قلمرو کلینیسین است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آینده‌ی تشخیص مسابقه بین انسان و هوش مصنوعی نیست؛ مسئله ساختن ترکیبی است که از هر دو جزء خود قوی‌تر باشد، نه ضعیف‌تر. بدون آموزش و بدون طراحی درست، هنوز به آن نقطه نرسیده‌ایم."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:41359",
+      "sourceId": "41359",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "58bdaf30c0896f80e0c4eecac2e0b20b564ff678aa73f116ee575f8eb1690624",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "علاوه بر دو گروه پزشک، بازوی سوم این کارآزمایی چه بود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "علاوه بر دو گروه پزشک، بازوی سوم این کارآزمایی چه بود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گروهی از پزشکان که فقط از Google استفاده کردند و به هیچ مدل زبانی دسترسی نداشتند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گروهی از دانشجویان پزشکی بدون هیچ ابزاری که همان شش کیس را در یک ساعت حل کردند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خود GPT-4 به‌تنهایی، با یک prompt که تیم پژوهش با دقت طراحی کرده بود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گروهی از پزشکان متخصص که پاسخ GPT-4 را ویرایش می‌کردند و نمره‌ی نهایی را خودشان تعیین می‌کردند تا اثر نظارت انسانی سنجیده شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "feda725ed1f001ed262c5d357978a393587c59700095486d7ef13891678fca50",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "گروهی از پزشکان که فقط از Google استفاده کردند و به هیچ مدل زبانی دسترسی نداشتند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گروهی از پزشکان که فقط از Google استفاده کردند و به هیچ مدل زبانی دسترسی نداشتند"
+            }
+          ]
+        },
+        {
+          "id": "d1e7b1ab2221db3306c64b3a9af4235ce4a3c109ab3b53cc3340af8776f5b787",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "گروهی از دانشجویان پزشکی بدون هیچ ابزاری که همان شش کیس را در یک ساعت حل کردند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گروهی از دانشجویان پزشکی بدون هیچ ابزاری که همان شش کیس را در یک ساعت حل کردند"
+            }
+          ]
+        },
+        {
+          "id": "831ff8714f2dcd2717002ef84b722e331b648428e56c12a5d61baff2631db743",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "خود GPT-4 به‌تنهایی، با یک prompt که تیم پژوهش با دقت طراحی کرده بود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خود GPT-4 به‌تنهایی، با یک prompt که تیم پژوهش با دقت طراحی کرده بود"
+            }
+          ]
+        },
+        {
+          "id": "688baff28d8fb7b9adcfce28dcdeb9286a213b8c6fe05fbc79d72778638ef9df",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "گروهی از پزشکان متخصص که پاسخ GPT-4 را ویرایش می‌کردند و نمره‌ی نهایی را خودشان تعیین می‌کردند تا اثر نظارت انسانی سنجیده شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گروهی از پزشکان متخصص که پاسخ GPT-4 را ویرایش می‌کردند و نمره‌ی نهایی را خودشان تعیین می‌کردند تا اثر نظارت انسانی سنجیده شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "831ff8714f2dcd2717002ef84b722e331b648428e56c12a5d61baff2631db743"
+        ],
+        "explanation": "آفرین. بازوی سوم خود GPT-4 به‌تنهایی بود، با یک prompt که تیم پژوهش با دقت طراحی کرده بود؛ برای همین نمره‌دهنده نمی‌دانست پاسخ از انسان است یا مدل.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. بازوی سوم "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "خود GPT-4 به‌تنهایی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " بود، با یک prompt که تیم پژوهش با دقت طراحی کرده بود؛ برای همین نمره‌دهنده نمی‌دانست پاسخ از انسان است یا مدل."
+          }
+        ],
+        "observedAt": "2026-11-18T15:57:28.218Z"
+      }
+    },
+    {
+      "id": "question:41362",
+      "sourceId": "41362",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "60de306dea634bead43edd75be6393a56a4f027dcca9a2e25e33c22b37480ed4",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "نمره‌دهی در این کارآزمایی blinded بود. این دقیقاً یعنی چه؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نمره‌دهی در این کارآزمایی blinded بود. این دقیقاً یعنی چه؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمره‌دهنده نمی‌دانست پاسخ متعلق به کدام گروه است، یا اصلاً از انسان است یا از مدل"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پزشکان نمی‌دانستند در کدام گروه‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "GPT-4 نمی‌دانست پاسخ درست کیس‌ها چیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمره‌دهنده پاسخ‌ها را بدون خواندن تشخیص‌های افتراقی و فقط بر اساس تشخیص نهایی نمره می‌داد تا تحت تأثیر طول پاسخ قرار نگیرد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "73766b8cc61fa1d18890ec012cbace024b32ac9734f9fde06b475e4625418fa2",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نمره‌دهنده نمی‌دانست پاسخ متعلق به کدام گروه است، یا اصلاً از انسان است یا از مدل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نمره‌دهنده نمی‌دانست پاسخ متعلق به کدام گروه است، یا اصلاً از انسان است یا از مدل"
+            }
+          ]
+        },
+        {
+          "id": "16ede116f385339b20df59514ea160637cc566bc3602ae859eb529ad52d86a5c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "پزشکان نمی‌دانستند در کدام گروه‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پزشکان نمی‌دانستند در کدام گروه‌اند"
+            }
+          ]
+        },
+        {
+          "id": "8028106b18a85d1f03ca724fcc62e6daa236de9576b5516d1f55f333a168f016",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "GPT-4 نمی‌دانست پاسخ درست کیس‌ها چیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "GPT-4 نمی‌دانست پاسخ درست کیس‌ها چیست"
+            }
+          ]
+        },
+        {
+          "id": "06879b9fffb4de2f50905acf7c701cd46f1e61ea8b4348c9f8714dbbae48c32f",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نمره‌دهنده پاسخ‌ها را بدون خواندن تشخیص‌های افتراقی و فقط بر اساس تشخیص نهایی نمره می‌داد تا تحت تأثیر طول پاسخ قرار نگیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نمره‌دهنده پاسخ‌ها را بدون خواندن تشخیص‌های افتراقی و فقط بر اساس تشخیص نهایی نمره می‌داد تا تحت تأثیر طول پاسخ قرار نگیرد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "73766b8cc61fa1d18890ec012cbace024b32ac9734f9fde06b475e4625418fa2"
+        ],
+        "explanation": "آفرین. نمره‌دهنده نمی‌دانست پاسخ از کدام گروه است، یا اصلاً از انسان است یا مدل؛ چون بازوی سومی هم بود: GPT-4 به‌تنهایی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. نمره‌دهنده نمی‌دانست پاسخ از کدام گروه است، یا "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "اصلاً از انسان است یا مدل"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ چون بازوی سومی هم بود: GPT-4 به‌تنهایی."
+          }
+        ],
+        "observedAt": "2026-11-18T15:57:33.572Z"
+      }
+    },
+    {
+      "id": "question:41364",
+      "sourceId": "41364",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "a85c6770b0f960d2393162f31c32d9537c4dd3dc7b8bb99dbff4a3c374dcbd59",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "تفاوت دو درصدی بین پزشکان دارای GPT-4 و پزشکان با منابع معمول، از نظر آماری معنادار نبود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تفاوت دو درصدی بین پزشکان دارای GPT-4 و پزشکان با منابع معمول، از نظر آماری معنادار نبود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "درست است. تفاوت ۷۶ و ۷۴ درصد از نظر آماری معنادار نبود؛ دسترسی به مدل عملاً هیچ کمکی نکرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است. تفاوت "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۷۶ و ۷۴ درصد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " از نظر آماری معنادار نبود؛ دسترسی به مدل عملاً هیچ کمکی نکرد."
+          }
+        ],
+        "observedAt": "2026-11-18T15:57:54.099Z"
+      }
+    },
+    {
+      "id": "question:41368",
+      "sourceId": "41368",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "649d3701fe6bbbf1599b504899559dd06a6a50c7a39dbea0e6c15acef26fc850",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "درباره‌ی زیرگروه‌ها و زمان صرف‌شده در این کارآزمایی، کدام گزاره درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "درباره‌ی زیرگروه‌ها و زمان صرف‌شده در این کارآزمایی، کدام گزاره درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رزیدنت‌ها با GPT-4 به‌طور معنادار بهتر شدند ولی پزشکان باتجربه نه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "الگو در همه‌ی زیرگروه‌ها یکسان بود؛ گروه GPT-4 حدود یک دقیقه در هر کیس سریع‌تر بود ولی این تفاوت معنادار نشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کسانی که قبلاً با ChatGPT کار کرده بودند به نمره‌ی مدل تنها رسیدند و رزیدنت‌ها به‌طور معنادار از پزشکان باتجربه عقب ماندند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گروه GPT-4 به‌طور معنادار کندتر بود، چون خواندن خروجی مدل وقت می‌گرفت، و فقط کسانی که قبلاً با ChatGPT کار کرده بودند نمره‌ی بهتری گرفتند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a5656b9dd2f9a636077c784b0a6b9c88e86e9ce642f6f1108894eb1040cdb6cf",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "رزیدنت‌ها با GPT-4 به‌طور معنادار بهتر شدند ولی پزشکان باتجربه نه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رزیدنت‌ها با GPT-4 به‌طور معنادار بهتر شدند ولی پزشکان باتجربه نه"
+            }
+          ]
+        },
+        {
+          "id": "548fb008ac9f634bd48ba88de19ee1e430c865b7d167fe1ee489b9b664fcc458",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "الگو در همه‌ی زیرگروه‌ها یکسان بود؛ گروه GPT-4 حدود یک دقیقه در هر کیس سریع‌تر بود ولی این تفاوت معنادار نشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "الگو در همه‌ی زیرگروه‌ها یکسان بود؛ گروه GPT-4 حدود یک دقیقه در هر کیس سریع‌تر بود ولی این تفاوت معنادار نشد"
+            }
+          ]
+        },
+        {
+          "id": "76dedfa36178530d10262469eed38f0f983cd95083b528988762887888909916",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کسانی که قبلاً با ChatGPT کار کرده بودند به نمره‌ی مدل تنها رسیدند و رزیدنت‌ها به‌طور معنادار از پزشکان باتجربه عقب ماندند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کسانی که قبلاً با ChatGPT کار کرده بودند به نمره‌ی مدل تنها رسیدند و رزیدنت‌ها به‌طور معنادار از پزشکان باتجربه عقب ماندند"
+            }
+          ]
+        },
+        {
+          "id": "ac51ef33b89008ba455811c2f1ab3a3490bc27f30fd6245d1e5f92b7311cb4ed",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "گروه GPT-4 به‌طور معنادار کندتر بود، چون خواندن خروجی مدل وقت می‌گرفت، و فقط کسانی که قبلاً با ChatGPT کار کرده بودند نمره‌ی بهتری گرفتند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گروه GPT-4 به‌طور معنادار کندتر بود، چون خواندن خروجی مدل وقت می‌گرفت، و فقط کسانی که قبلاً با ChatGPT کار کرده بودند نمره‌ی بهتری گرفتند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "548fb008ac9f634bd48ba88de19ee1e430c865b7d167fe1ee489b9b664fcc458"
+        ],
+        "explanation": "آفرین. الگو در همه‌ی زیرگروه‌ها یکسان بود، چه باتجربه چه رزیدنت، و تجربه‌ی قبلی ChatGPT هم چیزی را عوض نکرد. گروه GPT-4 حدود یک دقیقه سریع‌تر بود (با تجربه‌ی قبلی بیش از دو دقیقه)، ولی معنادار نشد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. الگو در همه‌ی زیرگروه‌ها "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "یکسان"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " بود، چه باتجربه چه رزیدنت، و تجربه‌ی قبلی ChatGPT هم چیزی را عوض نکرد. گروه GPT-4 حدود یک دقیقه سریع‌تر بود (با تجربه‌ی قبلی بیش از دو دقیقه)، ولی معنادار نشد."
+          }
+        ],
+        "observedAt": "2026-11-18T15:57:44.494Z"
+      }
+    },
+    {
+      "id": "question:41369",
+      "sourceId": "41369",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "5b7eeb0708e7c0fc13c0defa50369461a5cd422373dde5a58955fb21856b3a39",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کلینیک شما می‌خواهد یک مدل زبانی را در اختیار دندانپزشکان بگذارد تا تشخیص بهتر شود. کدام برداشت با این کارآزمایی سازگار است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کلینیک شما می‌خواهد یک مدل زبانی را در اختیار دندانپزشکان بگذارد تا تشخیص بهتر شود. کدام برداشت با این کارآزمایی سازگار است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بهتر است مدل بدون نظارت تشخیص بدهد، چون به‌تنهایی ۹۲٪ گرفت و از پزشکان جلو زد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کافی است مدل را در دسترس بگذارید؛ همین دسترسی تشخیص را به‌طور معنادار بهتر می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صرف دسترسی تشخیص را بهتر نمی‌کند؛ کار با ابزار مهارتی بالینی است که آموزش یا prompt بهینه می‌خواهد؛ و عملکرد مدل روی کیس تمیز یعنی آمادگی برای بالین واقعی و تشخیص بدون نظارت نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دندانپزشکان باتجربه نیازی به آموزش ندارند چون تجربه‌ی بالینی جای prompt engineering را می‌گیرد؛ کافی است رزیدنت‌ها آموزش ببینند و بعد مدل روی بیماران واقعی بدون بازبینی کلینیسین تشخیص بدهد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "05cb3d51ab45b9005680b3bca4f63e5c251347283c72d32809a02d86644c0738",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بهتر است مدل بدون نظارت تشخیص بدهد، چون به‌تنهایی ۹۲٪ گرفت و از پزشکان جلو زد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بهتر است مدل بدون نظارت تشخیص بدهد، چون به‌تنهایی ۹۲٪ گرفت و از پزشکان جلو زد"
+            }
+          ]
+        },
+        {
+          "id": "c15c2ab1bf95127f43b98ba2c5d12b5708b7fd4c95ac322da5dd315783571647",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کافی است مدل را در دسترس بگذارید؛ همین دسترسی تشخیص را به‌طور معنادار بهتر می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کافی است مدل را در دسترس بگذارید؛ همین دسترسی تشخیص را به‌طور معنادار بهتر می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "1179411be5e48e0c54c9cf8573a07fb6e69d5e0f2a1de3962163dc98b1ec9884",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "صرف دسترسی تشخیص را بهتر نمی‌کند؛ کار با ابزار مهارتی بالینی است که آموزش یا prompt بهینه می‌خواهد؛ و عملکرد مدل روی کیس تمیز یعنی آمادگی برای بالین واقعی و تشخیص بدون نظارت نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صرف دسترسی تشخیص را بهتر نمی‌کند؛ کار با ابزار مهارتی بالینی است که آموزش یا prompt بهینه می‌خواهد؛ و عملکرد مدل روی کیس تمیز یعنی آمادگی برای بالین واقعی و تشخیص بدون نظارت نیست"
+            }
+          ]
+        },
+        {
+          "id": "1e15c82a60f145e56024102788f96a80386f2cad76160095c743dff39ea2c675",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دندانپزشکان باتجربه نیازی به آموزش ندارند چون تجربه‌ی بالینی جای prompt engineering را می‌گیرد؛ کافی است رزیدنت‌ها آموزش ببینند و بعد مدل روی بیماران واقعی بدون بازبینی کلینیسین تشخیص بدهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دندانپزشکان باتجربه نیازی به آموزش ندارند چون تجربه‌ی بالینی جای prompt engineering را می‌گیرد؛ کافی است رزیدنت‌ها آموزش ببینند و بعد مدل روی بیماران واقعی بدون بازبینی کلینیسین تشخیص بدهد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1179411be5e48e0c54c9cf8573a07fb6e69d5e0f2a1de3962163dc98b1ec9884"
+        ],
+        "explanation": "درست. سه درس: دسترسی به‌تنهایی کافی نیست، کار با این ابزارها مهارتی بالینی و تازه است، و عملکرد روی کیس تمیز به معنای آمادگی برای بالین پر از ابهام نیست؛ قضاوت در ابهام همچنان قلمرو کلینیسین است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. سه درس: "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دسترسی به‌تنهایی کافی نیست"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، کار با این ابزارها مهارتی بالینی و تازه است، و عملکرد روی کیس تمیز به معنای آمادگی برای بالین پر از ابهام نیست؛ قضاوت در ابهام همچنان قلمرو کلینیسین است."
+          }
+        ],
+        "observedAt": "2026-11-18T15:57:50.646Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:966981b346595fd5d688345b407cd6d48d86663ff2ae767b7507681c95fd6f91",
+      "at": "2026-11-18T15:57:16.392Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:ac87f9d61ac7aadd3794d7ae517e919949338e06a67b48f3942f696b122c7a8c",
+      "at": "2026-11-18T15:57:18.000Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:41359",
+      "at": "2026-11-18T15:57:19.584Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:41362",
+      "at": "2026-11-18T15:57:29.851Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:41364",
+      "at": "2026-11-18T15:57:35.166Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:41368",
+      "at": "2026-11-18T15:57:40.242Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:41369",
+      "at": "2026-11-18T15:57:46.106Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:41364",
+      "at": "2026-11-18T15:57:52.236Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

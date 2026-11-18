@@ -249,7 +249,7 @@
             "isCorrect": false
           }
         ],
-        "observedAt": "2026-11-18T15:09:53.610Z"
+        "observedAt": "2026-11-18T15:28:03.901Z"
       }
     },
     {
@@ -408,7 +408,7 @@
             "isCorrect": false
           }
         ],
-        "observedAt": "2026-11-18T15:09:58.532Z"
+        "observedAt": "2026-11-18T15:28:07.417Z"
       }
     },
     {
@@ -424,17 +424,17 @@
           {
             "key": "0",
             "position": 1,
-            "text": "ل"
+            "text": "ع"
           },
           {
             "key": "1",
             "position": 2,
-            "text": "ت"
+            "text": "ل"
           },
           {
             "key": "2",
             "position": 3,
-            "text": "ع"
+            "text": "ت"
           }
         ],
         "slotCount": 3,
@@ -512,6 +512,18 @@
                   "children": [
                     {
                       "tag": "text",
+                      "text": "ع"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
                       "text": "ل"
                     }
                   ]
@@ -525,18 +537,6 @@
                     {
                       "tag": "text",
                       "text": "ت"
-                    }
-                  ]
-                },
-                {
-                  "tag": "div",
-                  "attributes": {
-                    "dir": "auto"
-                  },
-                  "children": [
-                    {
-                      "tag": "text",
-                      "text": "ع"
                     }
                   ]
                 }
@@ -580,7 +580,509 @@
           }
         ],
         "options": [],
-        "observedAt": "2026-11-18T15:10:09.272Z"
+        "observedAt": "2026-11-18T15:28:10.894Z"
+      }
+    },
+    {
+      "id": "question:40882",
+      "position": 6,
+      "kind": "question",
+      "sourceQuestionId": "40882",
+      "sourceStepId": null,
+      "sourceProgress": "width: 71.4286%;",
+      "questionType": "single-choice",
+      "title": "درس ۱: شاخص BEWE؛ امتیازدهی سکستانت به سکستانت",
+      "prompt": "بیماری مولر دوم بالا ندارد و مولر سومش جای آن را گرفته است؛ یکی از پره‌مولرهای همان سمت هم چرخیده است. کدام ثبت درست است؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری مولر دوم بالا ندارد و مولر سومش جای آن را گرفته است؛ یکی از پره‌مولرهای همان سمت هم چرخیده است. کدام ثبت درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مولر سوم را حساب کن و در پره‌مولر چرخیده، سطح رو به گونه را باکال بگیر؛ چرخش امتیاز را عوض نمی‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مولر سوم را حساب نکن و به پره‌مولر چرخیده یک امتیاز اضافه بده، چون چرخش سطح در معرض سایش را بیشتر می‌کند و ثبت نکردنش ریسک بیمار را کمتر از واقع نشان می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مولر سوم را حساب نکن و پره‌مولر چرخیده را هم از معاینه کنار بگذار، چون مولر سوم معمولاً حساب نمی‌شود و دندان چرخیده سطح باکال مشخصی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مولر سوم را حساب کن ولی امتیازش را به سکستانت مجاور منتقل کن"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "مولر سوم را حساب کن و در پره‌مولر چرخیده، سطح رو به گونه را باکال بگیر؛ چرخش امتیاز را عوض نمی‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مولر سوم را حساب کن و در پره‌مولر چرخیده، سطح رو به گونه را باکال بگیر؛ چرخش امتیاز را عوض نمی‌کند"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "مولر سوم را حساب نکن و به پره‌مولر چرخیده یک امتیاز اضافه بده، چون چرخش سطح در معرض سایش را بیشتر می‌کند و ثبت نکردنش ریسک بیمار را کمتر از واقع نشان می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مولر سوم را حساب نکن و به پره‌مولر چرخیده یک امتیاز اضافه بده، چون چرخش سطح در معرض سایش را بیشتر می‌کند و ثبت نکردنش ریسک بیمار را کمتر از واقع نشان می‌دهد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "مولر سوم را حساب نکن و پره‌مولر چرخیده را هم از معاینه کنار بگذار، چون مولر سوم معمولاً حساب نمی‌شود و دندان چرخیده سطح باکال مشخصی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مولر سوم را حساب نکن و پره‌مولر چرخیده را هم از معاینه کنار بگذار، چون مولر سوم معمولاً حساب نمی‌شود و دندان چرخیده سطح باکال مشخصی ندارد"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "مولر سوم را حساب کن ولی امتیازش را به سکستانت مجاور منتقل کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مولر سوم را حساب کن ولی امتیازش را به سکستانت مجاور منتقل کن"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "0"
+        ],
+        "correctOptionHashes": [
+          "b04eb644d25796395bd8c3037ed61d0ead1d576b641ce65c95b8fbf2f76c44cc"
+        ],
+        "correctOptionTexts": [
+          "مولر سوم را حساب کن و در پره‌مولر چرخیده، سطح رو به گونه را باکال بگیر؛ چرخش امتیاز را عوض نمی‌کند"
+        ],
+        "explanation": "آفرین. مولر سوم معمولاً حساب نمی‌شود، مگر جایگزین مولر دوم شده باشد؛ و در دندان چرخیده سطح رو به گونه باکال است و چرخش اثری روی امتیاز ندارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. مولر سوم معمولاً حساب نمی‌شود، "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مگر جایگزین مولر دوم"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " شده باشد؛ و در دندان چرخیده سطح رو به گونه باکال است و چرخش اثری روی امتیاز ندارد."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "مولر سوم را حساب کن و در پره‌مولر چرخیده، سطح رو به گونه را باکال بگیر؛ چرخش امتیاز را عوض نمی‌کند",
+            "isCorrect": true
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "مولر سوم را حساب نکن و به پره‌مولر چرخیده یک امتیاز اضافه بده، چون چرخش سطح در معرض سایش را بیشتر می‌کند و ثبت نکردنش ریسک بیمار را کمتر از واقع نشان می‌دهد",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "مولر سوم را حساب نکن و پره‌مولر چرخیده را هم از معاینه کنار بگذار، چون مولر سوم معمولاً حساب نمی‌شود و دندان چرخیده سطح باکال مشخصی ندارد",
+            "isCorrect": false
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "مولر سوم را حساب کن ولی امتیازش را به سکستانت مجاور منتقل کن",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-18T15:28:38.398Z"
+      }
+    },
+    {
+      "id": "question:40883",
+      "position": 7,
+      "kind": "question",
+      "sourceQuestionId": "40883",
+      "sourceStepId": null,
+      "sourceProgress": "width: 75%;",
+      "questionType": "single-choice",
+      "title": "درس ۱: شاخص BEWE؛ امتیازدهی سکستانت به سکستانت",
+      "prompt": "روی اکلوزال یک پره‌مولر، cupping با قطر حدود ۰٫۸ میلی‌متر می‌بینی که در مجموع کمتر از ۵۰٪ سطح را گرفته است. روی سطح باکال سانترال همان بیمار، بیش از ۵۰٪ ارتفاع تاج بالینی از دست رفته است. امتیاز هر سطح چیست؟",
+      "content": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "روی اکلوزال یک پره‌مولر، cupping با قطر حدود ۰٫۸ میلی‌متر می‌بینی که در مجموع کمتر از ۵۰٪ سطح را گرفته است. روی سطح باکال سانترال همان بیمار، بیش از ۵۰٪ ارتفاع تاج بالینی از دست رفته است. امتیاز هر سطح چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پره‌مولر فقط امتیاز ۱ و سانترال امتیاز ۲"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پره‌مولر امتیاز ۲ و سانترال امتیاز ۲، چون در قدامی‌ها امتیاز ۳ فقط با دیدن عاج داده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پره‌مولر امتیاز ۲ و سانترال امتیاز ۳"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پره‌مولر امتیاز ۳ و سانترال هم امتیاز ۳"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "key": "0",
+          "position": 1,
+          "text": "پره‌مولر فقط امتیاز ۱ و سانترال امتیاز ۲",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پره‌مولر فقط امتیاز ۱ و سانترال امتیاز ۲"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "1",
+          "position": 2,
+          "text": "پره‌مولر امتیاز ۲ و سانترال امتیاز ۲، چون در قدامی‌ها امتیاز ۳ فقط با دیدن عاج داده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پره‌مولر امتیاز ۲ و سانترال امتیاز ۲، چون در قدامی‌ها امتیاز ۳ فقط با دیدن عاج داده می‌شود"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "2",
+          "position": 3,
+          "text": "پره‌مولر امتیاز ۲ و سانترال امتیاز ۳",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پره‌مولر امتیاز ۲ و سانترال امتیاز ۳"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        },
+        {
+          "key": "3",
+          "position": 4,
+          "text": "پره‌مولر امتیاز ۳ و سانترال هم امتیاز ۳",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پره‌مولر امتیاز ۳ و سانترال هم امتیاز ۳"
+            }
+          ],
+          "correctMarked": false,
+          "wrongMarked": false,
+          "selected": false
+        }
+      ],
+      "answer": {
+        "status": "observed-single-key",
+        "correctOptionKeys": [
+          "2"
+        ],
+        "correctOptionHashes": [
+          "5ac984caeb9f54a858943050488cc8e0d60b139ebaa08a5d3e4b61add3d6e173"
+        ],
+        "correctOptionTexts": [
+          "پره‌مولر امتیاز ۲ و سانترال امتیاز ۳"
+        ],
+        "explanation": "درست. cupping بیشتر از ۰٫۵ میلی‌متر ولی کمتر از ۵۰٪ سطح امتیاز ۲ است؛ و از دست رفتن بیش از ۵۰٪ ارتفاع تاج بالینی از سمت باکال امتیاز ۳.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. cupping بیشتر از "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۰٫۵ میلی‌متر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " ولی کمتر از ۵۰٪ سطح امتیاز ۲ است؛ و از دست رفتن بیش از ۵۰٪ ارتفاع تاج بالینی از سمت باکال امتیاز ۳."
+          }
+        ],
+        "options": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "پره‌مولر فقط امتیاز ۱ و سانترال امتیاز ۲",
+            "isCorrect": false
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "پره‌مولر امتیاز ۲ و سانترال امتیاز ۲، چون در قدامی‌ها امتیاز ۳ فقط با دیدن عاج داده می‌شود",
+            "isCorrect": false
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "پره‌مولر امتیاز ۲ و سانترال امتیاز ۳",
+            "isCorrect": true
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "پره‌مولر امتیاز ۳ و سانترال هم امتیاز ۳",
+            "isCorrect": false
+          }
+        ],
+        "observedAt": "2026-11-18T15:28:41.784Z"
       }
     }
   ]

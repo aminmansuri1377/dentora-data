@@ -1,0 +1,1333 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2442/lesson.json",
+  "id": "2442",
+  "title": "درس سوم: دقت اسکنر داخل‌دهانی؛ ترونس، پرسیژن، رطوبت و لندمارک",
+  "specialtyKey": "4ed2aa7d30e2a50c",
+  "chapter": {
+    "id": "495",
+    "title": "فراتر از اسکن",
+    "position": 43
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:3d253cb0edd52277d5b32654f200253b55d6e69bd714c4937248d4555e3f8fc9",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "01a625a47bcfeb6d70649c9a323b57286b5f8811fb969aec09f72904172741d0",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دقت یعنی دو چیز: ترونس و پرسیژن"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسکنری ممکن است اسکن‌هایی بدهد که هر بار شبیه هم درمی‌آیند، ولی باز هم از واقعیت دور باشند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " وقتی از «دقت» اسکنر حرف می‌زنی، منظورت کدام است؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "واژه‌ی «دقت» (accuracy) یک چتر است و زیرش دو چیز کاملاً متفاوت قرار دارد؛ تا این دو از هم جدا نشوند، نتایج مطالعه‌ها گمراه‌کننده به نظر می‌رسند. این تفکیک بر اساس "
+                },
+                {
+                  "tag": "span",
+                  "attributes": {
+                    "dir": "ltr"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ISO 5725-1"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ترونس (trueness):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اسکن چقدر به واقعیت نزدیک است؛ خطای سیستماتیک. اگر ده تیر به سمت سیبل پرتاب کنی، ترونس یعنی مرکز برخورد این ده تیر چقدر به مرکز سیبل نزدیک است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پرسیژن (precision):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اگر همان اسکن را چند بار تکرار کنی، نتایج چقدر شبیه هم درمی‌آیند؛ خطای تصادفی. در همان مثال، یعنی ده تیر چقدر نزدیک به هم نشسته‌اند، فارغ از اینکه کجای سیبل‌اند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یک اسکنر داخل‌دهانی می‌تواند در یکی از این دو خوب و در دیگری ضعیف باشد. دقت قالب‌گیری، مارجینال فیت و کیفیت رستوریشن نهایی را تعیین می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "خوانش بالینی"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افت ترونس بیشتر در ابعاد و روابط بین‌قوسی دیده می‌شود، جایی که خطا در طول قوس انباشته می‌شود؛ پس در فریم‌ورک‌های full-arch و کیس‌های ایمپلنت حساس‌تر است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افت پرسیژن به شکل پیش‌بینی‌ناپذیری دیده می‌شود: یک اسکن خوب درمی‌آید و اسکن بعدی از همان بیمار بد."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:3117deaab14652d28fd1ec2bc9b4298a2845618ff64c96dce0d925a87f3267b0",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "322fbc7b068293b97653e926f885b8f787521bbe279143c843130532448d5e13",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "حدود مطالعه، خشکی سطح و لندمارک مصنوعی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این مطالعه چه بود و چه نبود"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک متاآنالیز نتایج "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۵ مطالعه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " را روی هم جمع کرد و پرسید: اگر کاری متفاوت با توصیه‌ی کارخانه انجام دهیم، اسکن بهتری می‌گیریم؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی مطالعات آزمایشگاهی (in vitro) و روی مدل بودند؛ مطالعات بالینی عمداً کنار گذاشته شدند و هفت مطالعه فقط به همین دلیل حذف شد. پس اندازه‌ی این اثرها را نمی‌توان مستقیماً به دهان بیمار تعمیم داد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بزاق، زبان، حرکت بیمار و محدودیت دسترسی همه در جهت افزایش خطا عمل می‌کنند نه کاهش آن؛ پس منطقی است این اعداد را کف خطا بدانی نه سقف آن. این استنباط است، نه یافته‌ی متاآنالیز."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "۱. خشک بودن سطح؛ قوی‌ترین یافته"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حضور مایع روی سطح دندان هر دو مؤلفه را به‌طور معنادار پایین آورد؛ تنها یافته‌ای که اثرش هم بزرگ بود و هم در همه‌ی مطالعات یک‌جهت."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مکانیسم: لایه‌ی نازک بزاق باعث می‌شود اسکنر هندسه‌ی سطح را اشتباه بخواند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برای مقیاس: در یک مطالعه‌ی قبلی، انحراف نمونه‌های آلوده به بزاق از ۱۲۰ میکرون (آستانه‌ی قابل قبول بالینی) فراتر رفت؛ این عدد یافته‌ی خود متاآنالیز نیست."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "خشک کردن کامل سطح پیش از شروع اسکن، از هر تغییری در تکنیک حرکت دادن اسکنر بازده بیشتری دارد."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "۲. لندمارک مصنوعی"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مارکرهای مصنوعی هم ترونس و هم پرسیژن را بهبود دادند، هرچند اثر در همه‌ی مطالعات یکسان نبود و در یکی از آن‌ها اثر روی ترونس معنادار نشد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "منطق: اسکنر با چسباندن تصاویر پی‌درپی به هم (stitching) مدل را می‌سازد و به نقاط مرجع پایدار نیاز دارد. در قوس دنددار خود دندان‌ها این نقاط را می‌دهند؛ در فک بی‌دندان کامل یا نواحی وسیع بافت نرم متحرک چنین نقاطی نیست و خطا در طول اسکن انباشته می‌شود. تمرکز روی همین موقعیت است، با مارکرهای رزینی روی کام."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در قوس دنددار نیازی به این کار نیست؛ در بی‌دندانی کامل ارزش دارد. کیس ایمپلنت با فواصل بی‌دندان طولانی هم می‌تواند مورد توجه باشد، ولی این استنباط است: از کنار هم گذاشتن اثر لندمارک با یک مطالعه‌ی منفرد که در آن فاصله‌ی زیاد بین اسکن‌بادی‌های ایمپلنت مشکل‌ساز بود."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:41327",
+      "sourceId": "41327",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "e773056358b854959aed764111443ea75d857c2b7fed38eb01ca6fb586a0dca8",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در تفکیک دو مؤلفه‌ی دقت اسکنر داخل‌دهانی، ترونس (trueness) به چه معناست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در تفکیک دو مؤلفه‌ی دقت اسکنر داخل‌دهانی، ترونس (trueness) به چه معناست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینکه ده اسکن پشت‌سرهم چقدر نزدیک به هم نشسته‌اند، فارغ از اینکه چقدر به مدل مرجع شبیه‌اند؛ یعنی یکنواختی نتایج"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینکه تکرار همان اسکن چقدر نتیجه‌ی مشابه می‌دهد؛ یعنی خطای تصادفی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینکه اسکن با چه سرعتی کامل می‌شود؛ یعنی کارایی دستگاه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینکه اسکن چقدر به واقعیت نزدیک است؛ یعنی خطای سیستماتیک"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ccb0e2554b83dfb881df66a82dcf2e45f0f91b6182aabe0f55a7664e0ed4240e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اینکه ده اسکن پشت‌سرهم چقدر نزدیک به هم نشسته‌اند، فارغ از اینکه چقدر به مدل مرجع شبیه‌اند؛ یعنی یکنواختی نتایج",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینکه ده اسکن پشت‌سرهم چقدر نزدیک به هم نشسته‌اند، فارغ از اینکه چقدر به مدل مرجع شبیه‌اند؛ یعنی یکنواختی نتایج"
+            }
+          ]
+        },
+        {
+          "id": "737d5538628bc3185ab52b349d3cbf26a5d0d6648631655274439f937e1d00ff",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اینکه تکرار همان اسکن چقدر نتیجه‌ی مشابه می‌دهد؛ یعنی خطای تصادفی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینکه تکرار همان اسکن چقدر نتیجه‌ی مشابه می‌دهد؛ یعنی خطای تصادفی"
+            }
+          ]
+        },
+        {
+          "id": "f7523ba3104a7f9a6fef6c622fd6be00576fe895e04bc63993e3c7b22e2ac92f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اینکه اسکن با چه سرعتی کامل می‌شود؛ یعنی کارایی دستگاه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینکه اسکن با چه سرعتی کامل می‌شود؛ یعنی کارایی دستگاه"
+            }
+          ]
+        },
+        {
+          "id": "5305ed94da27631678339c4442facdf4e7cf81eb730c534ebeae6342a3b3b82b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اینکه اسکن چقدر به واقعیت نزدیک است؛ یعنی خطای سیستماتیک",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینکه اسکن چقدر به واقعیت نزدیک است؛ یعنی خطای سیستماتیک"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5305ed94da27631678339c4442facdf4e7cf81eb730c534ebeae6342a3b3b82b"
+        ],
+        "explanation": "درست. ترونس یعنی اسکن چقدر به واقعیت نزدیک است؛ خطای سیستماتیک.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. ترونس یعنی اسکن چقدر "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "به واقعیت نزدیک"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است؛ خطای سیستماتیک."
+          }
+        ],
+        "observedAt": "2026-11-18T15:55:59.968Z"
+      }
+    },
+    {
+      "id": "question:41331",
+      "sourceId": "41331",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "297db6018c6385b63f8bb45fa0d417e10216171755930b9b0bbebcb7dcfa781e",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "یک اسکنر داخل‌دهانی می‌تواند پرسیژن خوبی داشته باشد و هم‌زمان ترونس ضعیفی داشته باشد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "یک اسکنر داخل‌دهانی می‌تواند پرسیژن خوبی داشته باشد و هم‌زمان ترونس ضعیفی داشته باشد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "درست است. ترونس و پرسیژن دو چیز کاملاً متفاوت‌اند و اسکنر می‌تواند در یکی خوب و در دیگری ضعیف باشد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است. ترونس و پرسیژن دو چیز کاملاً متفاوت‌اند و اسکنر می‌تواند در یکی خوب و در "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "دیگری ضعیف"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " باشد."
+          }
+        ],
+        "observedAt": "2026-11-18T15:56:05.009Z"
+      }
+    },
+    {
+      "id": "question:41333",
+      "sourceId": "41333",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "14ea5cdac198db7aad9d9868d1fb2d7cffd242c925107bfbf7251341579facb4",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "متاآنالیزی که عوامل مؤثر بر دقت اسکنر داخل‌دهانی را بررسی کرد، از چه مطالعاتی ساخته شده بود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "متاآنالیزی که عوامل مؤثر بر دقت اسکنر داخل‌دهانی را بررسی کرد، از چه مطالعاتی ساخته شده بود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هفت مطالعه‌ی بالینی و هشت مطالعه‌ی آزمایشگاهی که با هم جمع شدند تا نتایج هم در مدل و هم در دهان قابل تعمیم باشند و محدودیت in vitro برطرف شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۵ مطالعه‌ی بالینی روی بیمار؛ مطالعات آزمایشگاهی به دلیل تعمیم‌ناپذیری حذف شدند و هفت مطالعه به همین دلیل کنار رفت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترکیبی از مطالعات بالینی و آزمایشگاهی که وزن برابر داشتند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۱۵ مطالعه‌ی آزمایشگاهی روی مدل؛ مطالعات بالینی عمداً کنار گذاشته شدند و هفت مطالعه فقط به همین دلیل حذف شد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b15185db0fac8f5dbeb8c19f39d232a6cc78c21e87d94f209bd4a1d4ba385e87",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هفت مطالعه‌ی بالینی و هشت مطالعه‌ی آزمایشگاهی که با هم جمع شدند تا نتایج هم در مدل و هم در دهان قابل تعمیم باشند و محدودیت in vitro برطرف شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هفت مطالعه‌ی بالینی و هشت مطالعه‌ی آزمایشگاهی که با هم جمع شدند تا نتایج هم در مدل و هم در دهان قابل تعمیم باشند و محدودیت in vitro برطرف شود"
+            }
+          ]
+        },
+        {
+          "id": "ec249023694f5e17559e12938ea29be2d63b4a778575a9021739c4e38a1fac2f",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "۱۵ مطالعه‌ی بالینی روی بیمار؛ مطالعات آزمایشگاهی به دلیل تعمیم‌ناپذیری حذف شدند و هفت مطالعه به همین دلیل کنار رفت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۱۵ مطالعه‌ی بالینی روی بیمار؛ مطالعات آزمایشگاهی به دلیل تعمیم‌ناپذیری حذف شدند و هفت مطالعه به همین دلیل کنار رفت"
+            }
+          ]
+        },
+        {
+          "id": "26c40acc83da965c0cf1a0c87b48641c46851e8e4e9f011e88b7f82d656623d2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "ترکیبی از مطالعات بالینی و آزمایشگاهی که وزن برابر داشتند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ترکیبی از مطالعات بالینی و آزمایشگاهی که وزن برابر داشتند"
+            }
+          ]
+        },
+        {
+          "id": "8d3f74224385f5463b831a8ead7d12dd55b7fd271d2a1648e83b5f5a157c8851",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "۱۵ مطالعه‌ی آزمایشگاهی روی مدل؛ مطالعات بالینی عمداً کنار گذاشته شدند و هفت مطالعه فقط به همین دلیل حذف شد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۱۵ مطالعه‌ی آزمایشگاهی روی مدل؛ مطالعات بالینی عمداً کنار گذاشته شدند و هفت مطالعه فقط به همین دلیل حذف شد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8d3f74224385f5463b831a8ead7d12dd55b7fd271d2a1648e83b5f5a157c8851"
+        ],
+        "explanation": "درست. همه‌ی ۱۵ مطالعه in vitro و روی مدل بودند؛ مطالعات بالینی عمداً کنار گذاشته شدند و هفت مطالعه فقط به همین دلیل در غربالگری حذف شد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. همه‌ی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "۱۵ مطالعه in vitro"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " و روی مدل بودند؛ مطالعات بالینی عمداً کنار گذاشته شدند و هفت مطالعه فقط به همین دلیل در غربالگری حذف شد."
+          }
+        ],
+        "observedAt": "2026-11-18T15:56:24.935Z"
+      }
+    },
+    {
+      "id": "question:41338",
+      "sourceId": "41338",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "3062cee06548c043753ef2ebf434ebf400ae50b3ddb0649cb58f1f5b14609d56",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "عدد ۱۲۰ میکرون در بحث رطوبت سطح و دقت اسکن چه جایگاهی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "عدد ۱۲۰ میکرون در بحث رطوبت سطح و دقت اسکن چه جایگاهی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حداکثر ضخامت لایه‌ی بزاق که اسکنر هنوز می‌تواند از آن عبور کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "میانگین خطای همه‌ی ۱۵ مطالعه‌ی متاآنالیز در سطح خشک"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آستانه‌ی قابل قبول بالینی که در یک مطالعه‌ی قبلی، نمونه‌های آلوده به بزاق از آن فراتر رفتند؛ یافته‌ی خود متاآنالیز نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یافته‌ی اصلی خود متاآنالیز که نشان داد سطح خیس دقیقاً ۱۲۰ میکرون از سطح خشک بدتر است و این عدد در همه‌ی مطالعات یکسان تکرار شد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4a3ce69d5eb5dbf0133629f3aed7e10967eb44eb19fb2f0a5477939b173ca9d0",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حداکثر ضخامت لایه‌ی بزاق که اسکنر هنوز می‌تواند از آن عبور کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حداکثر ضخامت لایه‌ی بزاق که اسکنر هنوز می‌تواند از آن عبور کند"
+            }
+          ]
+        },
+        {
+          "id": "273344a5e67bef963b7d5470b4372e2b502877b19e37a558e932fb18a68ad359",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "میانگین خطای همه‌ی ۱۵ مطالعه‌ی متاآنالیز در سطح خشک",
+          "content": [
+            {
+              "tag": "text",
+              "text": "میانگین خطای همه‌ی ۱۵ مطالعه‌ی متاآنالیز در سطح خشک"
+            }
+          ]
+        },
+        {
+          "id": "08b9aefb261f52e376f99fb796fcba320c3b024a45d8835bd58226de67797fde",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آستانه‌ی قابل قبول بالینی که در یک مطالعه‌ی قبلی، نمونه‌های آلوده به بزاق از آن فراتر رفتند؛ یافته‌ی خود متاآنالیز نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آستانه‌ی قابل قبول بالینی که در یک مطالعه‌ی قبلی، نمونه‌های آلوده به بزاق از آن فراتر رفتند؛ یافته‌ی خود متاآنالیز نیست"
+            }
+          ]
+        },
+        {
+          "id": "985f7cecad37733349bb4fc500fe468856d6f2021c57f3363eb09117823e152d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "یافته‌ی اصلی خود متاآنالیز که نشان داد سطح خیس دقیقاً ۱۲۰ میکرون از سطح خشک بدتر است و این عدد در همه‌ی مطالعات یکسان تکرار شد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یافته‌ی اصلی خود متاآنالیز که نشان داد سطح خیس دقیقاً ۱۲۰ میکرون از سطح خشک بدتر است و این عدد در همه‌ی مطالعات یکسان تکرار شد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "08b9aefb261f52e376f99fb796fcba320c3b024a45d8835bd58226de67797fde"
+        ],
+        "explanation": "آفرین. ۱۲۰ میکرون آستانه‌ی قابل قبول بالینی است و در یک مطالعه‌ی قبلی، انحراف نمونه‌های آلوده به بزاق از آن فراتر رفت؛ این عدد مقیاس را می‌دهد ولی یافته‌ی خود متاآنالیز نیست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. ۱۲۰ میکرون "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "آستانه‌ی قابل قبول بالینی"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است و در یک مطالعه‌ی قبلی، انحراف نمونه‌های آلوده به بزاق از آن فراتر رفت؛ این عدد مقیاس را می‌دهد ولی یافته‌ی خود متاآنالیز نیست."
+          }
+        ],
+        "observedAt": "2026-11-18T15:56:16.510Z"
+      }
+    },
+    {
+      "id": "question:41340",
+      "sourceId": "41340",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "ee6d802ac202d6c8567b86eb40c1e089a8d734aa168cc8363462c9abade9098c",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در قوس دنددار، لندمارک مصنوعی ضروری است، چون stitching بدون مارکر مصنوعی هیچ نقطه‌ی مرجعی ندارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در قوس دنددار، لندمارک مصنوعی ضروری است، چون stitching بدون مارکر مصنوعی هیچ نقطه‌ی مرجعی ندارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست تشخیص دادی. در قوس دنددار خود دندان‌ها نقاط مرجع پایدار را فراهم می‌کنند و نیازی به لندمارک مصنوعی نیست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. در قوس دنددار "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "خود دندان‌ها"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " نقاط مرجع پایدار را فراهم می‌کنند و نیازی به لندمارک مصنوعی نیست."
+          }
+        ],
+        "observedAt": "2026-11-18T15:56:21.466Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:3d253cb0edd52277d5b32654f200253b55d6e69bd714c4937248d4555e3f8fc9",
+      "at": "2026-11-18T15:55:48.129Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:3117deaab14652d28fd1ec2bc9b4298a2845618ff64c96dce0d925a87f3267b0",
+      "at": "2026-11-18T15:55:49.712Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:41327",
+      "at": "2026-11-18T15:55:51.303Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:41331",
+      "at": "2026-11-18T15:56:01.579Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:41333",
+      "at": "2026-11-18T15:56:06.469Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:41338",
+      "at": "2026-11-18T15:56:12.266Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:41340",
+      "at": "2026-11-18T15:56:18.125Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:41333",
+      "at": "2026-11-18T15:56:23.073Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

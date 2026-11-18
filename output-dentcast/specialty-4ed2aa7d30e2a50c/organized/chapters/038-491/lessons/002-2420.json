@@ -1,0 +1,1525 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2420/lesson.json",
+  "id": "2420",
+  "title": "درس دوم: از امتیاز BEWE تا مدیریت بیمار",
+  "specialtyKey": "4ed2aa7d30e2a50c",
+  "chapter": {
+    "id": "491",
+    "title": "سایش دندان",
+    "position": 38
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:06c7ac404ab2a92416d09d94e0baee73b4f9a89afaf83fc8f6ef0ad18dbc75ae",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "3ab37d71bd9068205db7c6157844631de7b00736a40967c90d8b92219d70a9ed",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "امتیاز تجمعی، تصمیم مدیریت"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "معاینه‌ی BEWE بیمار تمام شده و شش امتیاز را جمع زده‌ای."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " این عدد حالا چه می‌گوید: چه کاری انجام بدهی و بیمار را هر چند وقت دوباره ببینی؟"
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "جدول ریسک و مدیریت"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "≤ ۲ · ریسک None:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " مشاهده‌ی روتین. پیگیری هر ۳ سال."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۳ تا ۸ · ریسک کم:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بررسی و توصیه‌ی بهداشت دهان و رژیم غذایی، مشاهده‌ی روتین. پیگیری هر ۲ سال."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۹ تا ۱۳ · ریسک متوسط:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بررسی بهداشت و رژیم، شناسایی و حذف عامل اصلی، اقدامات فلوراید برای افزایش مقاومت سطح؛ ترجیحاً ترمیم نکن و با کست مطالعه یا عکس مانیتور کن. پیگیری هر ۶ تا ۱۲ ماه."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "≥ ۱۴ · ریسک بالا:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " مثل سطح متوسط، و در موارد پیشرفت شدید مراقبت ویژه که ممکن است شامل ترمیم باشد. پیگیری هر ۶ تا ۱۲ ماه."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "برای بیمارانی که در معرض اسید intrinsic یا extrinsic هستند، فاصله‌ی پیگیری را "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶ ماه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بگذار."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این حدود آستانه‌ای بر پایه‌ی تجربه و مطالعات تعیین شده‌اند، پیشنهادی‌اند و باید با گذر زمان بازنگری شوند."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مرزهای BEWE"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برای سنجش "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پیشرفت ساییدگی در طول زمان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " طراحی نشده؛ ارزیابی مقطعی و مکمل قضاوت بالینی است، نه ابزار مقایسه‌ی قبل و بعد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "راهنمای انتخاب تکنیک پروتزی یا ترمیمی نمی‌دهد، چون در این سطح تصمیم‌گیری تنوع بین کلینیسین‌ها زیاد است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شاخص غربالگری است؛ برای بررسی دقیق‌تر به نسخه‌ی مفصل‌تری نیاز است."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:1e667f87b7824c30fcfe8c0f623bf7b42fc371f9f853eb6cde62c3b42d485f9c",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "253775ce09f5ad73dcfa0b9aab8de28e21bdcdfda72e7e224d3d34583dae41c2",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اشتباهات تشخیصی و BEWE در کودکان"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تحلیل لثه ساییدگی نیست"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "تقعر معمول کنار حاشیه‌ی لثه ساییدگی نیست؛ "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آناتومی نرمال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دندان است. در صورت شک، با پروب نوک‌گرد (WHO) به‌صورت لمسی بسنج و با دندان مجاور مقایسه کن."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پوسیدگی سرویکال erosion نیست"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پوسیدگی ریشه "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قهوه‌ای-نارنجی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است و سطحش نرم و ترد؛ تجمع پلاک هم معمولاً همراه آن است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ساییدگی بدون پوسیدگی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هم‌رنگ بافت دندان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " است و سطحش سخت."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضایعه‌ی پوسیدگی همراه با ساییدگی: امتیاز BEWE همان سطح را بدون توجه به پوسیدگی ثبت کن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شک بین پوسیدگی و erosion: آن را پوسیدگی در نظر بگیر و امتیاز "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۰"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ثبت کن."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "BEWE در کودکان"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "همان پروتکل و همان گرید برای کودکان و دندان‌های شیری به کار می‌رود و سکستانت‌ها به قدامی و خلفی تقسیم می‌شوند. دندان شیری مستعدتر به ساییدگی است، پس امتیاز معمولاً بالاتر خواهد بود؛ ارزیابی ریسک باید این را در نظر بگیرد و در موارد پرخطر فاصله‌ی پیگیری به ۶ تا ۱۲ ماه کاهش پیدا کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "BEWE شدت از دست رفتن بافت را می‌سنجد، نه علت آن را؛ اما تشخیص درست اینکه چه چیزی اصلاً ساییدگی است، پیش از هر امتیاز با توست."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:40887",
+      "sourceId": "40887",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "f475d4a25fe52b6ce2449fc6bd5d388caca0caccdfb6493b33e87b1edf69ed09",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "امتیاز تجمعی ۲ یا کمتر در BEWE یعنی ریسک None، مشاهده‌ی روتین و پیگیری هر ۳ سال.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "امتیاز تجمعی ۲ یا کمتر در BEWE یعنی ریسک None، مشاهده‌ی روتین و پیگیری هر ۳ سال."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "درست است. ≤ ۲ یعنی ریسک None؛ مشاهده‌ی روتین با پیگیری هر ۳ سال، بلندترین فاصله‌ی جدول.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است. "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "≤ ۲"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " یعنی ریسک None؛ مشاهده‌ی روتین با پیگیری هر ۳ سال، بلندترین فاصله‌ی جدول."
+          }
+        ],
+        "observedAt": "2026-11-18T15:29:22.523Z"
+      }
+    },
+    {
+      "id": "question:40890",
+      "sourceId": "40890",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "e312e56e6c117f4199a9ee3a1834c56e3d6484bd9be40846373c71c8041effe9",
+      "position": 4,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "در ریسک متوسط BEWE، اقدامات ............ برای افزایش مقاومت سطح دندان توصیه می‌شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در ریسک متوسط BEWE، اقدامات ............ برای افزایش مقاومت سطح دندان توصیه می‌شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ا"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "د"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "فلوراید",
+        "explanation": "درست. در ریسک متوسط، اقدامات فلوراید برای افزایش مقاومت سطح بخشی از مدیریت است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. در ریسک متوسط، اقدامات "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "فلوراید"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " برای افزایش مقاومت سطح بخشی از مدیریت است."
+          }
+        ],
+        "observedAt": "2026-11-18T15:29:26.336Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 7,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ف"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ل"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ا"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ر"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "و"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "د"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "ی"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:40892",
+      "sourceId": "40892",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "173a6ce1838e0aab0731b1360fe5e23041bb0c6a6d21e21ebc2a3b3325c1fd5f",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیماری را سه سال پیش با BEWE امتیاز داده‌ای و امروز دوباره امتیاز می‌دهی. می‌خواهی از مقایسه‌ی دو عدد بگویی ساییدگی پیشرفت کرده یا نه. برداشت درست کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری را سه سال پیش با BEWE امتیاز داده‌ای و امروز دوباره امتیاز می‌دهی. می‌خواهی از مقایسه‌ی دو عدد بگویی ساییدگی پیشرفت کرده یا نه. برداشت درست کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقایسه معتبر است و افزایش هر یک امتیاز یعنی پیشرفت قطعی ساییدگی، چون BEWE برای پایش طولی طراحی شده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقایسه معتبر است، به شرط آنکه هر دو نوبت را یک نفر با یک پروب انجام داده باشد و مجموع هر دو نوبت در یک سطح ریسک قرار گیرد، چون در آن صورت خطای اندازه‌گیری حذف می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "BEWE ارزیابی مقطعی است و دقت کافی برای مقایسه در طول زمان ندارد؛ برای سنجش پیشرفت طراحی نشده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقایسه فقط در کودکان و دندان‌های شیری معتبر است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "97c67688b983f7133c4472a7eb5865c6189fff704b56b0792a732876b2028808",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مقایسه معتبر است و افزایش هر یک امتیاز یعنی پیشرفت قطعی ساییدگی، چون BEWE برای پایش طولی طراحی شده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقایسه معتبر است و افزایش هر یک امتیاز یعنی پیشرفت قطعی ساییدگی، چون BEWE برای پایش طولی طراحی شده"
+            }
+          ]
+        },
+        {
+          "id": "4909653276e38cf5a11e2d68d195b157f3328b9155c90035f2eda24d47a820df",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مقایسه معتبر است، به شرط آنکه هر دو نوبت را یک نفر با یک پروب انجام داده باشد و مجموع هر دو نوبت در یک سطح ریسک قرار گیرد، چون در آن صورت خطای اندازه‌گیری حذف می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقایسه معتبر است، به شرط آنکه هر دو نوبت را یک نفر با یک پروب انجام داده باشد و مجموع هر دو نوبت در یک سطح ریسک قرار گیرد، چون در آن صورت خطای اندازه‌گیری حذف می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "62d3c18e519bf2874fb50e240d962ad020d24b58832092cee271f78ec7321610",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "BEWE ارزیابی مقطعی است و دقت کافی برای مقایسه در طول زمان ندارد؛ برای سنجش پیشرفت طراحی نشده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "BEWE ارزیابی مقطعی است و دقت کافی برای مقایسه در طول زمان ندارد؛ برای سنجش پیشرفت طراحی نشده"
+            }
+          ]
+        },
+        {
+          "id": "9c98ebe96235cf5f15903d7bb8f2b549595c1713c141b7c58607d92587ede90c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مقایسه فقط در کودکان و دندان‌های شیری معتبر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقایسه فقط در کودکان و دندان‌های شیری معتبر است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "62d3c18e519bf2874fb50e240d962ad020d24b58832092cee271f78ec7321610"
+        ],
+        "explanation": "درست. BEWE یک ارزیابی منفرد از وضعیت فعلی است و دقت کافی برای مقایسه در طول زمان ندارد؛ ابزار مقایسه‌ی قبل و بعد نیست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. BEWE "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "یک ارزیابی منفرد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " از وضعیت فعلی است و دقت کافی برای مقایسه در طول زمان ندارد؛ ابزار مقایسه‌ی قبل و بعد نیست."
+          }
+        ],
+        "observedAt": "2026-11-18T15:29:46.030Z"
+      }
+    },
+    {
+      "id": "question:40895",
+      "sourceId": "40895",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "47f014a2d27bce935b2cf1982547a10da16c6993d47936262948a7594f193dc1",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کنار حاشیه‌ی لثه‌ی یک پره‌مولر تقعر معمولی می‌بینی و مطمئن نیستی ساییدگی است. کار درست کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کنار حاشیه‌ی لثه‌ی یک پره‌مولر تقعر معمولی می‌بینی و مطمئن نیستی ساییدگی است. کار درست کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آن را ساییدگی سرویکال با امتیاز ۲ ثبت کن، چون هر تقعر کنار لثه یعنی از دست رفتن بافت سخت کمتر از ۵۰٪ سطح و ثبت نکردنش ساییدگی را از قلم می‌اندازد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این تقعر آناتومی نرمال است و ساییدگی نیست؛ در شک، با پروب نوک‌گرد WHO لمسی بسنج و با دندان مجاور مقایسه کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آن را پوسیدگی در نظر بگیر و برای آن سطح امتیاز ۰ ثبت کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آن را erosion سرویکال با امتیاز ۱ بگیر و بیمار را از نظر ریفلاکس معده بررسی کن، چون تقعر کنار لثه نخستین نشانه‌ی اسید intrinsic است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5260a89b2671707d0b41d2d5787e1af362ecf6c97a66a7ff524ebd77039cab28",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "آن را ساییدگی سرویکال با امتیاز ۲ ثبت کن، چون هر تقعر کنار لثه یعنی از دست رفتن بافت سخت کمتر از ۵۰٪ سطح و ثبت نکردنش ساییدگی را از قلم می‌اندازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آن را ساییدگی سرویکال با امتیاز ۲ ثبت کن، چون هر تقعر کنار لثه یعنی از دست رفتن بافت سخت کمتر از ۵۰٪ سطح و ثبت نکردنش ساییدگی را از قلم می‌اندازد"
+            }
+          ]
+        },
+        {
+          "id": "680bbaeba5fc8ef555cd2a7608b3d4bf3cba105aeb0d5ed1e75fd4107069a601",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "این تقعر آناتومی نرمال است و ساییدگی نیست؛ در شک، با پروب نوک‌گرد WHO لمسی بسنج و با دندان مجاور مقایسه کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این تقعر آناتومی نرمال است و ساییدگی نیست؛ در شک، با پروب نوک‌گرد WHO لمسی بسنج و با دندان مجاور مقایسه کن"
+            }
+          ]
+        },
+        {
+          "id": "74598d117e25086968f173e4eda1b5fc090d7c7fa6bf83a1cb4c9a1e3b161f27",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آن را پوسیدگی در نظر بگیر و برای آن سطح امتیاز ۰ ثبت کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آن را پوسیدگی در نظر بگیر و برای آن سطح امتیاز ۰ ثبت کن"
+            }
+          ]
+        },
+        {
+          "id": "d7502ffc9e7bf2499b983034b618f4fe5d7f2f6921b2fd6bce55346f7c97497e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "آن را erosion سرویکال با امتیاز ۱ بگیر و بیمار را از نظر ریفلاکس معده بررسی کن، چون تقعر کنار لثه نخستین نشانه‌ی اسید intrinsic است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آن را erosion سرویکال با امتیاز ۱ بگیر و بیمار را از نظر ریفلاکس معده بررسی کن، چون تقعر کنار لثه نخستین نشانه‌ی اسید intrinsic است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "680bbaeba5fc8ef555cd2a7608b3d4bf3cba105aeb0d5ed1e75fd4107069a601"
+        ],
+        "explanation": "درست. تقعر معمول کنار حاشیه‌ی لثه آناتومی نرمال دندان است؛ در شک، لمس با پروب نوک‌گرد WHO و مقایسه با دندان مجاور کمک می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. تقعر معمول کنار حاشیه‌ی لثه "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "آناتومی نرمال"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " دندان است؛ در شک، لمس با پروب نوک‌گرد WHO و مقایسه با دندان مجاور کمک می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-18T15:29:36.301Z"
+      }
+    },
+    {
+      "id": "question:40898",
+      "sourceId": "40898",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "2334e0fd046d55d67a18768678b4ff7ceea2dca0b47b91b639fcf44645975ffc",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در یک سطح ضایعه‌ای هست که مطمئن نیستی پوسیدگی است یا erosion؛ روی سطحی در سکستانت دیگر، ضایعه‌ی پوسیدگی قطعی همراه با ساییدگی دیده می‌شود. کدام ثبت درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در یک سطح ضایعه‌ای هست که مطمئن نیستی پوسیدگی است یا erosion؛ روی سطحی در سکستانت دیگر، ضایعه‌ی پوسیدگی قطعی همراه با ساییدگی دیده می‌شود. کدام ثبت درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو را امتیاز ۰ بده، چون وجود پوسیدگی هر امتیاز ساییدگی را باطل می‌کند و سطح پوسیده باید پس از ترمیم دوباره معاینه شود تا امتیاز ساییدگی آن روشن شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اولی را پوسیدگی بگیر و امتیاز ۰ بده؛ برای دومی امتیاز ساییدگی همان سطح را بدون توجه به پوسیدگی ثبت کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اولی را erosion بگیر و امتیاز ۲ بده؛ دومی را امتیاز ۰ ثبت کن، چون پوسیدگی قطعی امتیاز ساییدگی همان سطح را باطل می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو را با امتیاز بالاتر ثبت کن تا ساییدگی از قلم نیفتد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4adff1d8a3e5815548aa591f0e32057234b32303486ab7f62ce83d66ec8b2c5e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر دو را امتیاز ۰ بده، چون وجود پوسیدگی هر امتیاز ساییدگی را باطل می‌کند و سطح پوسیده باید پس از ترمیم دوباره معاینه شود تا امتیاز ساییدگی آن روشن شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو را امتیاز ۰ بده، چون وجود پوسیدگی هر امتیاز ساییدگی را باطل می‌کند و سطح پوسیده باید پس از ترمیم دوباره معاینه شود تا امتیاز ساییدگی آن روشن شود"
+            }
+          ]
+        },
+        {
+          "id": "1d5c591fc2e710cfa35a874a03729fe7d4316b8006be4376fae8ced95b02e5c6",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اولی را پوسیدگی بگیر و امتیاز ۰ بده؛ برای دومی امتیاز ساییدگی همان سطح را بدون توجه به پوسیدگی ثبت کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اولی را پوسیدگی بگیر و امتیاز ۰ بده؛ برای دومی امتیاز ساییدگی همان سطح را بدون توجه به پوسیدگی ثبت کن"
+            }
+          ]
+        },
+        {
+          "id": "05a5ff41458304abb0fdc2163ef3d51bdeae150f7e4f211da55b54ac8f4a1b22",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اولی را erosion بگیر و امتیاز ۲ بده؛ دومی را امتیاز ۰ ثبت کن، چون پوسیدگی قطعی امتیاز ساییدگی همان سطح را باطل می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اولی را erosion بگیر و امتیاز ۲ بده؛ دومی را امتیاز ۰ ثبت کن، چون پوسیدگی قطعی امتیاز ساییدگی همان سطح را باطل می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "45d28bc3e11b9aa7e72c40dc2358e4bea0512969c8f32007c057125ef1a71c14",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هر دو را با امتیاز بالاتر ثبت کن تا ساییدگی از قلم نیفتد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو را با امتیاز بالاتر ثبت کن تا ساییدگی از قلم نیفتد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1d5c591fc2e710cfa35a874a03729fe7d4316b8006be4376fae8ced95b02e5c6"
+        ],
+        "explanation": "درست. در شک بین پوسیدگی و erosion، پوسیدگی در نظر گرفته می‌شود و امتیاز ۰ ثبت می‌شود؛ اما وقتی پوسیدگی همراه ساییدگی است، امتیاز ساییدگی آن سطح بدون توجه به پوسیدگی ثبت می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. در "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "شک بین پوسیدگی و erosion"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، پوسیدگی در نظر گرفته می‌شود و امتیاز ۰ ثبت می‌شود؛ اما وقتی پوسیدگی همراه ساییدگی است، امتیاز ساییدگی آن سطح بدون توجه به پوسیدگی ثبت می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-18T15:29:42.527Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:06c7ac404ab2a92416d09d94e0baee73b4f9a89afaf83fc8f6ef0ad18dbc75ae",
+      "at": "2026-11-18T15:29:17.360Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:1e667f87b7824c30fcfe8c0f623bf7b42fc371f9f853eb6cde62c3b42d485f9c",
+      "at": "2026-11-18T15:29:19.019Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:40887",
+      "at": "2026-11-18T15:29:20.627Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:40890",
+      "at": "2026-11-18T15:29:24.195Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:40892",
+      "at": "2026-11-18T15:29:27.796Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:40895",
+      "at": "2026-11-18T15:29:31.829Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:40898",
+      "at": "2026-11-18T15:29:37.941Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:40892",
+      "at": "2026-11-18T15:29:44.130Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
