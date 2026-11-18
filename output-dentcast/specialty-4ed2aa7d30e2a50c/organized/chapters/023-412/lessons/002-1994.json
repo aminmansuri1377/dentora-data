@@ -1,0 +1,1411 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1994/lesson.json",
+  "id": "1994",
+  "title": "درس دوم: اسکن‌بادی، مرجع هندسی طراحی",
+  "specialtyKey": "4ed2aa7d30e2a50c",
+  "chapter": {
+    "id": "412",
+    "title": "اسکن‌بادی و Ti-Base",
+    "position": 23
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:6a8604f3218b8cac77d7f7a0eb0dfa1dbecd6178e38a80feb1975c77cbb2395c",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "49bcc50dbb693442d40822d92ee19761cfa7aad514dd23a2ee9a704f8bd103b2",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شکستی از جوینت بین ۶ و ۷"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار با شکست در ناحیه‌ی جوینت بین واحدهای ۶ و ۷ مراجعه کرده است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بررسی تصاویر پیش از شکست نشان داد که روکش واحد ۷ به‌طور کامل روی اباتمنت ننشسته بوده است. طبق اطلاعات بیمار، پیش‌تر برایش اسکن دیجیتال انجام شده و روکش‌ها به‌صورت دیجیتال طراحی و ساخته شده‌اند. خطا از کجا آمده است؟"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/dcst-insight-insight26.webp",
+                  "alt": "رادیوگرافی رستوریشن اسپلینت متکی بر ایمپلنت در ناحیه‌ی خلفی فک پایین",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/7d889b8a99a1d94768cab759356993e12b5c1a6d86339b785d82f3db2318eed1.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رادیوگرافی رستوریشن اسپلینت متکی بر ایمپلنت در ناحیه‌ی خلفی فک پایین "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(DentCast — Dr. Fouad Shahabian)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در پروتزهای ایمپلنتی دیجیتال، انتقال دقیق اطلاعات Scan Body و انتخاب صحیح فایل کتابخانه‌ای از ارکان درمان صحیح و موفق است؛ چه در رستوریشن‌های تک‌واحدی و چه چندواحدی."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دو خطای پایه‌ای"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "وقتی تطابق نهایی مشکل دارد، این دو خطا را جدی بررسی کن:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتقال نادرست هندسه‌ی Scan Body به نرم‌افزار طراحی؛"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتخاب فایل کتابخانه‌ای نادرست در لابراتوار."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پیامد این خطاها این است که سیستم طراحی عملاً با یک مرجع اشتباه کار می‌کند؛ مثلاً تطابق با Scan Body کوتاه به‌جای نوع بلند، و در نتیجه ساخت اباتمنتی با ارتفاع یا هندسه‌ی نامتناسب."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا در اسپلینت پنهان می‌ماند؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در رستوریشن‌های اسپلینت، ننشستن کامل یک واحد گاهی در مرحله‌ی سمان کردن کمتر واضح است؛ چون سازه به شکل یکپارچه نیرو و تماس‌ها را توزیع می‌کند و خطای یک واحد ممکن است در نگاه اول «ماسکه» شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اگر روکش عملاً ساپورت مؤثر از سمت اباتمنت نداشته باشد، تمرکز تنش در ناحیه‌ی کانکتور افزایش پیدا می‌کند و شکست از ناحیه‌ی جوینت می‌تواند رخ دهد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:7f033af8e4f5edd9bd7e6b78bacbf2cafba5a5773384416dcc357e3af2d001f8",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "34d69391f844e125d043227c77b5e59c1300a14a6b881c3c037a86ec8ca1605e",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برگشت به نقطه‌ی مرجع، و گسترش هدفمند اسکن"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "رویکرد اصلاحی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مسیر اصلاح به‌جای حدس‌های پراکنده باید به نقطه‌ی مرجع برگردد:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسکن مجدد با Scan Body صحیح؛"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنترل تطابق با فایل کتابخانه‌ای درست؛"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بازسازی پروتز بر اساس دیتای اصلاح‌شده."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "Scan Body فقط «یک ابزار اسکن» نیست؛ مرجع هندسی طراحی است. هر خطا در انتقال داده یا انتخاب فایل مرجع می‌تواند مسیر درمان را از یک فیت قابل‌اعتماد به سازه‌ای با تنش پنهان و شکست دیرهنگام تبدیل کند."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "وقتی محدوده‌ی اسکن را عمداً بزرگ می‌کنی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در اسکن داخل دهانی معمولاً محدوده را تا حد ممکن محدود نگه می‌داری، چون با بزرگ‌تر شدن ناحیه‌ی اسکن خطاهای stitching بیشتر می‌شود و ممکن است دقت نهایی کم شود. با این حال در بعضی کیس‌ها می‌شود این اصل را آگاهانه کنار گذاشت."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/dcst-insight-insight33.webp",
+                  "alt": "اسکن داخل دهانی فک بالا با اسکن‌بادی در ناحیه‌ی پره‌مولر اول؛ محدوده‌ی اسکن تا سمت مقابل گسترش یافته است",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/a2225888c88b440540e9b7022a4d68c879d7068695fa46049fe6620e9650668c.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسکن داخل دهانی فک بالا با اسکن‌بادی در ناحیه‌ی پره‌مولر اول؛ محدوده‌ی اسکن تا سمت مقابل گسترش یافته است "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(DentCast — Dr. Fouad Shahabian)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ایمپلنت در ناحیه‌ی پره‌مولر اول فک بالا بود، ولی دندان مجاور یعنی پره‌مولر دوم فرم مناسبی نداشت و نمی‌توانست مرجع قابل اعتمادی برای طراحی تاج باشد. محدوده‌ی اسکن عمداً گسترش یافت تا پره‌مولر اول سمت مقابل هم داخل اسکن قرار بگیرد؛ تکنسین لابراتوار یک مرجع آناتومیک سالم داشت و فرم تاج را بر اساس آن طراحی کرد، نه بر اساس دندانی که خودش فرم صحیحی ندارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اینجا مقدار کمی کاهش دقت عددی اسکن پذیرفته شد تا در مقابل، فرم نهایی زیباتر و قابل‌قبول‌تری در طراحی تاج به دست بیاید."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:37752",
+      "sourceId": "37752",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "a605c74da96852e85617feb7bd01c6525ce95eea3cd03f59b44a0ff30de688fd",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اگر در طراحی، تطابق با Scan Body کوتاه به‌جای نوع بلند انجام شود، ممکن است اباتمنتی با ارتفاع یا هندسه‌ی نامتناسب ساخته شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اگر در طراحی، تطابق با Scan Body کوتاه به‌جای نوع بلند انجام شود، ممکن است اباتمنتی با ارتفاع یا هندسه‌ی نامتناسب ساخته شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "درست است. در این حالت سیستم طراحی با یک مرجع اشتباه کار می‌کند و اباتمنتی با ارتفاع یا هندسه‌ی نامتناسب ساخته می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست است. در این حالت سیستم طراحی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "با یک مرجع اشتباه"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " کار می‌کند و اباتمنتی با ارتفاع یا هندسه‌ی نامتناسب ساخته می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-18T07:29:38.417Z"
+      }
+    },
+    {
+      "id": "question:37754",
+      "sourceId": "37754",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "e9c88ccdba2214eb895acda1638a71a61ee5ee4cc88bea3197a6c802790a8cd3",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا در رستوریشن اسپلینت، ننشستن کامل یک واحد ممکن است در مرحله‌ی سمان کردن دیده نشود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا در رستوریشن اسپلینت، ننشستن کامل یک واحد ممکن است در مرحله‌ی سمان کردن دیده نشود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون سازه نیرو و تماس‌ها را یکپارچه توزیع می‌کند و خطای یک واحد ممکن است ماسکه شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون در اسپلینت، سمان اضافه زیر واحد ننشسته فضای خالی را کامل پر می‌کند و ساپورت آن واحد را از سمت اباتمنت تأمین می‌کند، پس ننشستن در عمل اهمیتی پیدا نمی‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون واحدهای اسپلینت روی رادیوگرافی دیده نمی‌شوند و نشست آن‌ها فقط با معاینه‌ی بالینی سنجیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون در اسپلینت هر واحد جداگانه سمان می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8d88cbc631317e37818533ef2e117d21272a9bab28298ef7f66bad6e9b66e25f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون سازه نیرو و تماس‌ها را یکپارچه توزیع می‌کند و خطای یک واحد ممکن است ماسکه شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون سازه نیرو و تماس‌ها را یکپارچه توزیع می‌کند و خطای یک واحد ممکن است ماسکه شود"
+            }
+          ]
+        },
+        {
+          "id": "12bb35f4dae7716544a3d6f874e600382bbeaaf3505caf1a3d36b3e1d7b20148",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون در اسپلینت، سمان اضافه زیر واحد ننشسته فضای خالی را کامل پر می‌کند و ساپورت آن واحد را از سمت اباتمنت تأمین می‌کند، پس ننشستن در عمل اهمیتی پیدا نمی‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون در اسپلینت، سمان اضافه زیر واحد ننشسته فضای خالی را کامل پر می‌کند و ساپورت آن واحد را از سمت اباتمنت تأمین می‌کند، پس ننشستن در عمل اهمیتی پیدا نمی‌کند"
+            }
+          ]
+        },
+        {
+          "id": "2675c029ac00431806be8ba6227f5fac5e784dbe1905a70304d00b66ab7d39d3",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون واحدهای اسپلینت روی رادیوگرافی دیده نمی‌شوند و نشست آن‌ها فقط با معاینه‌ی بالینی سنجیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون واحدهای اسپلینت روی رادیوگرافی دیده نمی‌شوند و نشست آن‌ها فقط با معاینه‌ی بالینی سنجیده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "c0f1786166166bc828c0e6e467e18e7bce01d875de8ef1f173934ac25f99da56",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون در اسپلینت هر واحد جداگانه سمان می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون در اسپلینت هر واحد جداگانه سمان می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8d88cbc631317e37818533ef2e117d21272a9bab28298ef7f66bad6e9b66e25f"
+        ],
+        "explanation": "درست. در اسپلینت، سازه یکپارچه نیرو و تماس‌ها را توزیع می‌کند و خطای یک واحد ممکن است در نگاه اول ماسکه شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. در اسپلینت، سازه "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "یکپارچه نیرو و تماس‌ها را توزیع"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " می‌کند و خطای یک واحد ممکن است در نگاه اول ماسکه شود."
+          }
+        ],
+        "observedAt": "2026-11-18T07:29:51.420Z"
+      }
+    },
+    {
+      "id": "question:37759",
+      "sourceId": "37759",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "275a74d6ce50d3ea5da80c22e7e3c5602a591d6a2d86ab6a555e6074a25298cd",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری پس از تشخیص خطای Scan Body می‌گوید: «اسکن مجدد می‌گیریم، ولی با همان فایل کتابخانه‌ای قبلی طراحی را ادامه می‌دهیم.» اشتباهش کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری پس از تشخیص خطای Scan Body می‌گوید: «اسکن مجدد می‌گیریم، ولی با همان فایل کتابخانه‌ای قبلی طراحی را ادامه می‌دهیم.» اشتباهش کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تطابق باید با فایل کتابخانه‌ای درست کنترل شود؛ مرجع اشتباه همان خطا را تکرار می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباهش این است که اسکن مجدد لازم نبود؛ کافی بود فایل کتابخانه‌ای را عوض کنند و همان روکش قبلی را با کمی تراش داخلی روی اباتمنت بنشانند تا کار زودتر تحویل شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباهی ندارد؛ فایل کتابخانه‌ای در فیت نهایی نقشی ندارد و فقط شکل ظاهری قطعه را نشان می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباهش این است که اسکن مجدد را باید با چراغ یونیت روشن و با بیشترین شدت نور روی ناحیه‌ی ایمپلنت بگیرند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "2c9ad217e55588ce47c96f6b31915ef255a41563d1921a75c208168aa1279e03",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تطابق باید با فایل کتابخانه‌ای درست کنترل شود؛ مرجع اشتباه همان خطا را تکرار می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تطابق باید با فایل کتابخانه‌ای درست کنترل شود؛ مرجع اشتباه همان خطا را تکرار می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "b5604cb21ca15f1ae5ce23799c587d4ef156e739c0ace13ba6b4a10bc2d41853",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اشتباهش این است که اسکن مجدد لازم نبود؛ کافی بود فایل کتابخانه‌ای را عوض کنند و همان روکش قبلی را با کمی تراش داخلی روی اباتمنت بنشانند تا کار زودتر تحویل شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشتباهش این است که اسکن مجدد لازم نبود؛ کافی بود فایل کتابخانه‌ای را عوض کنند و همان روکش قبلی را با کمی تراش داخلی روی اباتمنت بنشانند تا کار زودتر تحویل شود"
+            }
+          ]
+        },
+        {
+          "id": "9cdfc55c354f6e5ef4f1ea78e016af3ac1cb3442796ba439789b086b876fe335",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اشتباهی ندارد؛ فایل کتابخانه‌ای در فیت نهایی نقشی ندارد و فقط شکل ظاهری قطعه را نشان می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشتباهی ندارد؛ فایل کتابخانه‌ای در فیت نهایی نقشی ندارد و فقط شکل ظاهری قطعه را نشان می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "29c1497204308ccfb7c367c1a5949808fdc47f98aa1ceff38d1f8f904317f6db",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اشتباهش این است که اسکن مجدد را باید با چراغ یونیت روشن و با بیشترین شدت نور روی ناحیه‌ی ایمپلنت بگیرند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشتباهش این است که اسکن مجدد را باید با چراغ یونیت روشن و با بیشترین شدت نور روی ناحیه‌ی ایمپلنت بگیرند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "2c9ad217e55588ce47c96f6b31915ef255a41563d1921a75c208168aa1279e03"
+        ],
+        "explanation": "دقیقاً. مسیر اصلاح سه جزء دارد: اسکن مجدد با Scan Body صحیح، کنترل تطابق با فایل کتابخانه‌ای درست و بازسازی بر اساس دیتای اصلاح‌شده.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دقیقاً. مسیر اصلاح سه جزء دارد: اسکن مجدد با Scan Body صحیح، "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "کنترل تطابق با فایل کتابخانه‌ای درست"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " و بازسازی بر اساس دیتای اصلاح‌شده."
+          }
+        ],
+        "observedAt": "2026-11-18T07:29:57.701Z"
+      }
+    },
+    {
+      "id": "question:37762",
+      "sourceId": "37762",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "09dd2488f2ac6a66c5b461906245e6ec709d0589663b2d3794f07f331ecc5467",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ایمپلنت پره‌مولر اول فک بالا را اسکن می‌کنی و پره‌مولر دوم مجاور فرم مناسبی ندارد. کدام دلیل، گسترش محدوده‌ی اسکن را توجیه می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ایمپلنت پره‌مولر اول فک بالا را اسکن می‌کنی و پره‌مولر دوم مجاور فرم مناسبی ندارد. کدام دلیل، گسترش محدوده‌ی اسکن را توجیه می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اسکن بزرگ‌تر خطاهای stitching را کم می‌کند و دقت عددی اسکن را بالا می‌برد، پس هرچه محدوده به سمت مقابل نزدیک‌تر شود ثبت موقعیت ایمپلنت هم دقیق‌تر می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکنسین مرجع آناتومیک سالمی برای فرم تاج لازم دارد که دندان مجاور نمی‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دندان مجاور بدفرم باید هم‌زمان روکش شود و برای طراحی آن روکش، اسکنش لازم است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بدون اسکن سمت مقابل، نرم‌افزار ناحیه‌ی ایمپلنت را ثبت و با لایبرری تطبیق نمی‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "1a53093266721a1385dfd8c773492b2c64810300f84be5d87e996a083c69f8e4",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اسکن بزرگ‌تر خطاهای stitching را کم می‌کند و دقت عددی اسکن را بالا می‌برد، پس هرچه محدوده به سمت مقابل نزدیک‌تر شود ثبت موقعیت ایمپلنت هم دقیق‌تر می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اسکن بزرگ‌تر خطاهای stitching را کم می‌کند و دقت عددی اسکن را بالا می‌برد، پس هرچه محدوده به سمت مقابل نزدیک‌تر شود ثبت موقعیت ایمپلنت هم دقیق‌تر می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "30f529a5346e24b6ebb8e82fd61ea298e46ee1e8e888b71097b0df6cf7181e28",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تکنسین مرجع آناتومیک سالمی برای فرم تاج لازم دارد که دندان مجاور نمی‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تکنسین مرجع آناتومیک سالمی برای فرم تاج لازم دارد که دندان مجاور نمی‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "92c37068ca41a974998a6d442f3c73212a0bbac6c95044e229de6301d882953c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دندان مجاور بدفرم باید هم‌زمان روکش شود و برای طراحی آن روکش، اسکنش لازم است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دندان مجاور بدفرم باید هم‌زمان روکش شود و برای طراحی آن روکش، اسکنش لازم است"
+            }
+          ]
+        },
+        {
+          "id": "261e09d27956632c8a74ba53e954e32cd309988ad58c14e9164b63e76ea66588",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بدون اسکن سمت مقابل، نرم‌افزار ناحیه‌ی ایمپلنت را ثبت و با لایبرری تطبیق نمی‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بدون اسکن سمت مقابل، نرم‌افزار ناحیه‌ی ایمپلنت را ثبت و با لایبرری تطبیق نمی‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "30f529a5346e24b6ebb8e82fd61ea298e46ee1e8e888b71097b0df6cf7181e28"
+        ],
+        "explanation": "آفرین. گسترش هدفمند برای این است که تکنسین مرجع آناتومیک سالم داشته باشد و فرم تاج را بر اساس آن طراحی کند، نه بر اساس دندانی که خودش فرم صحیحی ندارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. گسترش هدفمند برای این است که تکنسین "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "مرجع آناتومیک سالم"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " داشته باشد و فرم تاج را بر اساس آن طراحی کند، نه بر اساس دندانی که خودش فرم صحیحی ندارد."
+          }
+        ],
+        "observedAt": "2026-11-18T07:30:14.136Z"
+      }
+    },
+    {
+      "id": "question:37763",
+      "sourceId": "37763",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "346124d52bc2959c9f3581db79943977b9343f3b77b1761fe9e80915a46dc2d2",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در همان کیس پره‌مولر اول فک بالا، محدوده‌ی اسکن را تا پره‌مولر اول سمت مقابل گسترش داده‌ای. کدام توصیف، این تصمیم و بهایش را درست بیان می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در همان کیس پره‌مولر اول فک بالا، محدوده‌ی اسکن را تا پره‌مولر اول سمت مقابل گسترش داده‌ای. کدام توصیف، این تصمیم و بهایش را درست بیان می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقت عددی حفظ شد و فرم فدا شد؛ تاج بر اساس میانگین قوس و بدون مرجع خاصی طراحی شد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گسترش اسکن هیچ بهایی ندارد، چون stitching در اسکن‌های بزرگ‌تر دقیق‌تر است؛ پس دقت عددی بالا می‌رود و فرم تاج هم بر اساس پره‌مولر دوم مجاور طراحی می‌شود که به ناحیه‌ی ایمپلنت نزدیک‌تر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دقت عددی اسکن کمی کم شد، ولی فرم تاج همچنان بر اساس پره‌مولر دوم مجاور طراحی شد، چون نزدیک‌ترین دندان به ایمپلنت است و فرمش بهتر منتقل می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقدار کمی کاهش دقت عددی اسکن پذیرفته شد تا فرم نهایی تاج زیباتر و قابل‌قبول‌تر شود؛ مرجع فرم، پره‌مولر اول سالم سمت مقابل است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "f18e7a9069325068abe8f14d0c213d3702b1cb860d304083cbd7c081838b148c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دقت عددی حفظ شد و فرم فدا شد؛ تاج بر اساس میانگین قوس و بدون مرجع خاصی طراحی شد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دقت عددی حفظ شد و فرم فدا شد؛ تاج بر اساس میانگین قوس و بدون مرجع خاصی طراحی شد"
+            }
+          ]
+        },
+        {
+          "id": "016e158d8fc74ca6873590516823aebd55603fafc45479203b46740fcd69b94e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "گسترش اسکن هیچ بهایی ندارد، چون stitching در اسکن‌های بزرگ‌تر دقیق‌تر است؛ پس دقت عددی بالا می‌رود و فرم تاج هم بر اساس پره‌مولر دوم مجاور طراحی می‌شود که به ناحیه‌ی ایمپلنت نزدیک‌تر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گسترش اسکن هیچ بهایی ندارد، چون stitching در اسکن‌های بزرگ‌تر دقیق‌تر است؛ پس دقت عددی بالا می‌رود و فرم تاج هم بر اساس پره‌مولر دوم مجاور طراحی می‌شود که به ناحیه‌ی ایمپلنت نزدیک‌تر است"
+            }
+          ]
+        },
+        {
+          "id": "4700c8dbe2a3cb634a32ff6cb52510e378343742f9b0e50d6ba42e625d545e81",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دقت عددی اسکن کمی کم شد، ولی فرم تاج همچنان بر اساس پره‌مولر دوم مجاور طراحی شد، چون نزدیک‌ترین دندان به ایمپلنت است و فرمش بهتر منتقل می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دقت عددی اسکن کمی کم شد، ولی فرم تاج همچنان بر اساس پره‌مولر دوم مجاور طراحی شد، چون نزدیک‌ترین دندان به ایمپلنت است و فرمش بهتر منتقل می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "f60f6f6b23919025da17a2650cbc055ad9c4730be4d5efe94de60f3720d58cde",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مقدار کمی کاهش دقت عددی اسکن پذیرفته شد تا فرم نهایی تاج زیباتر و قابل‌قبول‌تر شود؛ مرجع فرم، پره‌مولر اول سالم سمت مقابل است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقدار کمی کاهش دقت عددی اسکن پذیرفته شد تا فرم نهایی تاج زیباتر و قابل‌قبول‌تر شود؛ مرجع فرم، پره‌مولر اول سالم سمت مقابل است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f60f6f6b23919025da17a2650cbc055ad9c4730be4d5efe94de60f3720d58cde"
+        ],
+        "explanation": "درست. این معامله‌ای حساب‌شده است: اندکی دقت عددی داده می‌شود تا تکنسین با مرجع آناتومیک سالم سمت مقابل، فرم نهایی زیباتر و قابل‌قبول‌تری طراحی کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. این "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "معامله‌ای حساب‌شده"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است: اندکی دقت عددی داده می‌شود تا تکنسین با مرجع آناتومیک سالم سمت مقابل، فرم نهایی زیباتر و قابل‌قبول‌تری طراحی کند."
+          }
+        ],
+        "observedAt": "2026-11-18T07:30:10.619Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:6a8604f3218b8cac77d7f7a0eb0dfa1dbecd6178e38a80feb1975c77cbb2395c",
+      "at": "2026-11-18T07:29:09.122Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:7f033af8e4f5edd9bd7e6b78bacbf2cafba5a5773384416dcc357e3af2d001f8",
+      "at": "2026-11-18T07:29:13.426Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:37752",
+      "at": "2026-11-18T07:29:14.996Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:37754",
+      "at": "2026-11-18T07:29:40.027Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:37759",
+      "at": "2026-11-18T07:29:53.013Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:37762",
+      "at": "2026-11-18T07:29:59.265Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:37763",
+      "at": "2026-11-18T07:30:05.577Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:37762",
+      "at": "2026-11-18T07:30:12.245Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

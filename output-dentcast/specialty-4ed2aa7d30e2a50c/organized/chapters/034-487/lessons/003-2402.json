@@ -1,0 +1,1441 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2402/lesson.json",
+  "id": "2402",
+  "title": "درس سوم: تداخل اکلوژنی پایدار و بی‌علامت؛ اگر کار می‌کند، دست نزن",
+  "specialtyKey": "4ed2aa7d30e2a50c",
+  "chapter": {
+    "id": "487",
+    "title": "اکلوژن: از تحلیل تا بازسازی، چک و تنظیم اکلوژن سر یونیت",
+    "position": 34
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:2b075413c1bb845d8c4b9ee346ff281b3bfeda08803b34c1de21859d7b4ec02a",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "31f880dd665749825deeb9e6f90c609bc25569b8b9e46d2c2bdfa81a9cf58184",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تداخلی واضح در بیماری بی‌علامت"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در این بیمار، فک در حرکات طرفی روی مولر سوم سوپرااِراپت کاملاً دیسکلود می‌شد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تداخلی واضح و از نظر کتابی یکی از بدترین نقاط تماس. اما نکته‌ی مهم این بود: بیمار هیچ علامتی نداشت. با این تداخل چه باید کرد؟"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/dcst-insight-insight8.webp",
+                  "alt": "نمای داخل دهانی ناحیه‌ی خلفی بیمار؛ مولر سوم سوپرااِراپت که فک در حرکات طرفی روی آن دیسکلود می‌شود",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/07acd5ab9bad1ca3228f4f4de48832c60defb7a68e864def47084d2f6d17dcd5.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمای داخل دهانی ناحیه‌ی خلفی بیمار؛ مولر سوم سوپرااِراپت که فک در حرکات طرفی روی آن دیسکلود می‌شود "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(DentCast — Dr. Fouad Shahabian)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بررسی وضعیت بیمار: سیستم پایدار و بدون علامت"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بیمار این علائم را نداشت:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درد عضله"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صدای مفصل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "احساس گیر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آگاهی اکلوژنی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سیستم فکی-عضلانی او با همین الگوی «غیرایده‌آل» "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سال‌هاست پایدار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مانده است."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اکلوژن، فقط اصلاح کتابی نیست"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در چنین شرایطی تجربه‌ی بالینی می‌گوید هر الگوی «غیرایده‌آل» لزوماً بیمار نیست؛ گاهی بدن راه خودش را پیدا کرده. «غیرایده‌آل» توصیف هندسه است، نه تشخیص بیماری."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:9afd7cb4ef6b1e4eaa7774bbd646cab83a83f14ab2c1e66c773f22e4635d4a7f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "fa7030cce2c7e5ed0f2ab48ff35adae84472e519a39d8a6bae83168e914afbba",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ریسک مداخله در سیستم پایدار"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بله؛ اگر دندان عقل کشیده می‌شد، تداخل حذف می‌شد. اما هدف در اکلوژن "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "«کتابی کردن» نیست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "؛ جلوگیری از ایجاد مشکل بی‌دلیل است."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دست زدن به تنها نقطه‌ی سال‌ها پایدار"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "می‌تواند بیمار بی‌علامت را تبدیل کند به:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار آگاه به اکلوژن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با حساسیت دائمی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و وارد چرخه‌ی درمان‌های بی‌پایان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "عواقب آگاهی به اکلوژن"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "برگشت از این آگاهی، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بسیار سخت‌تر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " از رها کردن سیستم پایدار فعلی است:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وسواس"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ریسک درمان‌های بی‌هدف"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هزینه و استرس اضافی برای بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "جمع‌بندی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "با توجه به:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عدم وجود هرگونه علامت TMD یا عضلانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پایداری بلندمدت سیستم اکلوژن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ریسک بالا با مداخله‌ی غیرضروری"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بهترین طرح درمان: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عدم مداخله"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "گاهی بهترین درمان، درمان نکردن است. اگر کار می‌کند، بگذار کار کند؛ جمله‌ای که پشتش نه تنبلی، که ارزیابی کامل ایستاده است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:40582",
+      "sourceId": "40582",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "37c94d23ab845f445f2723ae1070ee2ff140575ac167dd6989678805eb1c8c93",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در معاینه می‌بینی فک بیمار در حرکات طرفی روی مولر سوم سوپرااِراپت کاملاً دیسکلود می‌شود؛ تداخلی که از نظر کتابی یکی از بدترین نقاط تماس است. پیش از هر تصمیمی چه چیزی را باید روشن کنی؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در معاینه می‌بینی فک بیمار در حرکات طرفی روی مولر سوم سوپرااِراپت کاملاً دیسکلود می‌شود؛ تداخلی که از نظر کتابی یکی از بدترین نقاط تماس است. پیش از هر تصمیمی چه چیزی را باید روشن کنی؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینکه مولر سوم را از کدام سمت و با چه روشی باید کشید تا تداخل در کوتاه‌ترین زمان ممکن حذف شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینکه بیمار علامتی دارد یا نه و سیستم فکی-عضلانی او با همین الگو پایدار مانده یا نه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینکه با کاغذ ضخیم‌تر تداخل پررنگ‌تر دیده می‌شود یا نه، تا شدت آن سنجیده و درمانش انتخاب شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینکه این تداخل در طبقه‌بندی‌های اکلوژن جزو کدام دسته قرار می‌گیرد، چون درمان هر تداخل را جایگاهش در طبقه‌بندی تعیین می‌کند و علائم بیمار در این تصمیم نقشی ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "038eb4a3e26164b0e44098374295f5b061e52a47d83d3acfc542372bced7ce13",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اینکه مولر سوم را از کدام سمت و با چه روشی باید کشید تا تداخل در کوتاه‌ترین زمان ممکن حذف شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینکه مولر سوم را از کدام سمت و با چه روشی باید کشید تا تداخل در کوتاه‌ترین زمان ممکن حذف شود"
+            }
+          ]
+        },
+        {
+          "id": "7faf9a3e507886f9f5ffd5eb55c1744043cf27737e641af2b69894e09eb64b9a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اینکه بیمار علامتی دارد یا نه و سیستم فکی-عضلانی او با همین الگو پایدار مانده یا نه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینکه بیمار علامتی دارد یا نه و سیستم فکی-عضلانی او با همین الگو پایدار مانده یا نه"
+            }
+          ]
+        },
+        {
+          "id": "6d8357f3b4c8506a56340c1d57c4a5f82a783ceeb8412b53f4bba533650c748d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اینکه با کاغذ ضخیم‌تر تداخل پررنگ‌تر دیده می‌شود یا نه، تا شدت آن سنجیده و درمانش انتخاب شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینکه با کاغذ ضخیم‌تر تداخل پررنگ‌تر دیده می‌شود یا نه، تا شدت آن سنجیده و درمانش انتخاب شود"
+            }
+          ]
+        },
+        {
+          "id": "f0c20bd65e5f312008a2d52af0b185d6711b37c2de5c39d1bccd70a4481368ce",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اینکه این تداخل در طبقه‌بندی‌های اکلوژن جزو کدام دسته قرار می‌گیرد، چون درمان هر تداخل را جایگاهش در طبقه‌بندی تعیین می‌کند و علائم بیمار در این تصمیم نقشی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینکه این تداخل در طبقه‌بندی‌های اکلوژن جزو کدام دسته قرار می‌گیرد، چون درمان هر تداخل را جایگاهش در طبقه‌بندی تعیین می‌کند و علائم بیمار در این تصمیم نقشی ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "7faf9a3e507886f9f5ffd5eb55c1744043cf27737e641af2b69894e09eb64b9a"
+        ],
+        "explanation": "آفرین. تصمیم با وضعیت بیمار شروع می‌شود: علامت دارد یا نه، و سیستمش پایدار مانده یا نه. در این کیس بیمار بی‌علامت و سیستمش سال‌ها پایدار بود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آفرین. تصمیم با "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "وضعیت بیمار"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " شروع می‌شود: علامت دارد یا نه، و سیستمش پایدار مانده یا نه. در این کیس بیمار بی‌علامت و سیستمش سال‌ها پایدار بود."
+          }
+        ],
+        "observedAt": "2026-11-18T08:42:04.589Z"
+      }
+    },
+    {
+      "id": "question:40583",
+      "sourceId": "40583",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "6cd5329c0af4a7873ccefa17a5d9c385f41b8b2d782f5f92106e491d3a773031",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اگر دندان عقل این بیمار کشیده می‌شد، تداخل حذف می‌شد. چرا با این حال این کار هدف درمان نیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اگر دندان عقل این بیمار کشیده می‌شد، تداخل حذف می‌شد. چرا با این حال این کار هدف درمان نیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون کشیدن دندان عقل در بیماران بزرگسال همیشه منع دارد و باید به جایش روکش گذاشت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون کشیدن مولر سوم سوپرااِراپت تداخل را حذف نمی‌کند و فقط آن را به دندان جلویی منتقل می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون هدف در اکلوژن «کتابی کردن» نیست؛ جلوگیری از ایجاد مشکل بی‌دلیل است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون تداخل روی مولر سوم در حرکات طرفی از نظر کتابی بهترین نوع تماس است و حذفش اکلوژن را از حالت ایده‌آل دور می‌کند و بیمار را به دردسر می‌اندازد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "329aa504f8dc45c8cff3c107fd5072c7b7361b7c2c9125c6241927919497d2b5",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون کشیدن دندان عقل در بیماران بزرگسال همیشه منع دارد و باید به جایش روکش گذاشت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون کشیدن دندان عقل در بیماران بزرگسال همیشه منع دارد و باید به جایش روکش گذاشت"
+            }
+          ]
+        },
+        {
+          "id": "cdbbe3114ac85d275e3813528218df008a5762de1ec656c2f9143f0cc46b5bca",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون کشیدن مولر سوم سوپرااِراپت تداخل را حذف نمی‌کند و فقط آن را به دندان جلویی منتقل می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون کشیدن مولر سوم سوپرااِراپت تداخل را حذف نمی‌کند و فقط آن را به دندان جلویی منتقل می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "249970df55f1453a5aa65367f565287a125466de77284d33cec1e66cfaca35f4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون هدف در اکلوژن «کتابی کردن» نیست؛ جلوگیری از ایجاد مشکل بی‌دلیل است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون هدف در اکلوژن «کتابی کردن» نیست؛ جلوگیری از ایجاد مشکل بی‌دلیل است"
+            }
+          ]
+        },
+        {
+          "id": "3a7044ffc16e54371d62b062d1ada8a86d44ca903ae459fa73721c7afbe822fe",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون تداخل روی مولر سوم در حرکات طرفی از نظر کتابی بهترین نوع تماس است و حذفش اکلوژن را از حالت ایده‌آل دور می‌کند و بیمار را به دردسر می‌اندازد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون تداخل روی مولر سوم در حرکات طرفی از نظر کتابی بهترین نوع تماس است و حذفش اکلوژن را از حالت ایده‌آل دور می‌کند و بیمار را به دردسر می‌اندازد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "249970df55f1453a5aa65367f565287a125466de77284d33cec1e66cfaca35f4"
+        ],
+        "explanation": "درست. کشیدن دندان تداخل را حذف می‌کرد، اما هدف در اکلوژن «کتابی کردن» نیست؛ جلوگیری از ایجاد مشکل بی‌دلیل است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. کشیدن دندان تداخل را حذف می‌کرد، اما هدف در اکلوژن "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "«کتابی کردن» نیست"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ جلوگیری از ایجاد مشکل بی‌دلیل است."
+          }
+        ],
+        "observedAt": "2026-11-18T08:42:10.385Z"
+      }
+    },
+    {
+      "id": "question:40586",
+      "sourceId": "40586",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "5947fc04982789295a1e4c32292ce2347d9fc7131f95eb82dbdc76faee07005e",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دست زدن به تنها نقطه‌ی سال‌ها پایدار این بیمار بی‌علامت چه ریسکی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دست زدن به تنها نقطه‌ی سال‌ها پایدار این بیمار بی‌علامت چه ریسکی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار را به بیمار آگاه به اکلوژن، با حساسیت دائمی و وارد چرخه‌ی درمان‌های بی‌پایان تبدیل کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تداخل را به سمت مقابل منتقل کند و بیمار در حرکات طرفی سمت دیگر دیسکلود شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باعث شود دندان‌های قدامی بلافاصله رویش پیدا کنند و اوربایت بیمار در همان هفته‌ی اول عمیق‌تر شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هیچ ریسکی ندارد؛ چون بیمار بی‌علامت است، هر تغییری در اکلوژنش را هم بدون علامت تحمل می‌کند و سیستمش دوباره در همان جلسه پایدار می‌شود و به تنظیم بعدی نیاز ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5f6dbdc47961728e0c4eea109142c03b3695ffdc4dd8346393647a3afd3a1671",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بیمار را به بیمار آگاه به اکلوژن، با حساسیت دائمی و وارد چرخه‌ی درمان‌های بی‌پایان تبدیل کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیمار را به بیمار آگاه به اکلوژن، با حساسیت دائمی و وارد چرخه‌ی درمان‌های بی‌پایان تبدیل کند"
+            }
+          ]
+        },
+        {
+          "id": "6bedeca846ddb13f62ec5304615e7c5a36f51ed3cd4fb3a35c05d0f29240241d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تداخل را به سمت مقابل منتقل کند و بیمار در حرکات طرفی سمت دیگر دیسکلود شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تداخل را به سمت مقابل منتقل کند و بیمار در حرکات طرفی سمت دیگر دیسکلود شود"
+            }
+          ]
+        },
+        {
+          "id": "faa1c3d9034dbe4538b35f51630390d7596c3c95f461487686407aa8d5bdc1a0",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "باعث شود دندان‌های قدامی بلافاصله رویش پیدا کنند و اوربایت بیمار در همان هفته‌ی اول عمیق‌تر شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باعث شود دندان‌های قدامی بلافاصله رویش پیدا کنند و اوربایت بیمار در همان هفته‌ی اول عمیق‌تر شود"
+            }
+          ]
+        },
+        {
+          "id": "f3f4cbb5cf7107302e33d20718423d520d0ee37d145391692eeb2aa4cf425166",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هیچ ریسکی ندارد؛ چون بیمار بی‌علامت است، هر تغییری در اکلوژنش را هم بدون علامت تحمل می‌کند و سیستمش دوباره در همان جلسه پایدار می‌شود و به تنظیم بعدی نیاز ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هیچ ریسکی ندارد؛ چون بیمار بی‌علامت است، هر تغییری در اکلوژنش را هم بدون علامت تحمل می‌کند و سیستمش دوباره در همان جلسه پایدار می‌شود و به تنظیم بعدی نیاز ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5f6dbdc47961728e0c4eea109142c03b3695ffdc4dd8346393647a3afd3a1671"
+        ],
+        "explanation": "درست. دست زدن به این نقطه می‌تواند بیمار بی‌علامت را به بیمار آگاه به اکلوژن تبدیل کند؛ با حساسیت دائمی و ورود به چرخه‌ی درمان‌های بی‌پایان.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست. دست زدن به این نقطه می‌تواند بیمار بی‌علامت را به "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بیمار آگاه به اکلوژن"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " تبدیل کند؛ با حساسیت دائمی و ورود به چرخه‌ی درمان‌های بی‌پایان."
+          }
+        ],
+        "observedAt": "2026-11-18T08:42:16.392Z"
+      }
+    },
+    {
+      "id": "question:40590",
+      "sourceId": "40590",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "60f3a4f858c2eced4cd6e39b2d0bd2f22e832a912d1ec5a63894d4a1766837b1",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برگشت بیمار از آگاهی اکلوژنی آسان‌تر از رها کردن سیستم پایدار فعلی است؛ پس اگر مداخله نتیجه نداد، بیمار به‌راحتی به وضعیت قبلی برمی‌گردد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برگشت بیمار از آگاهی اکلوژنی آسان‌تر از رها کردن سیستم پایدار فعلی است؛ پس اگر مداخله نتیجه نداد، بیمار به‌راحتی به وضعیت قبلی برمی‌گردد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست تشخیص دادی. برگشت از این آگاهی بسیار سخت‌تر از رها کردن سیستم پایدار فعلی است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. برگشت از این آگاهی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "بسیار سخت‌تر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " از رها کردن سیستم پایدار فعلی است."
+          }
+        ],
+        "observedAt": "2026-11-18T08:42:21.765Z"
+      }
+    },
+    {
+      "id": "question:40593",
+      "sourceId": "40593",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "d11257a6c8cde6501d32b5301c4d9d7121afe1ca3bc5eada3e8643eb9a7cb999",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "طرح درمان «عدم مداخله» در این بیمار انتخاب شد، چون کشیدن دندان عقل نمی‌توانست تداخل را حذف کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "طرح درمان «عدم مداخله» در این بیمار انتخاب شد، چون کشیدن دندان عقل نمی‌توانست تداخل را حذف کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست تشخیص دادی. کشیدن دندان عقل تداخل را حذف می‌کرد؛ عدم مداخله انتخاب شد چون هدف کتابی کردن نیست و بیمار بی‌علامت و پایدار بود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی. کشیدن دندان عقل "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "تداخل را حذف می‌کرد"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "؛ عدم مداخله انتخاب شد چون هدف کتابی کردن نیست و بیمار بی‌علامت و پایدار بود."
+          }
+        ],
+        "observedAt": "2026-11-18T08:42:30.390Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:2b075413c1bb845d8c4b9ee346ff281b3bfeda08803b34c1de21859d7b4ec02a",
+      "at": "2026-11-18T08:41:47.190Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:9afd7cb4ef6b1e4eaa7774bbd646cab83a83f14ab2c1e66c773f22e4635d4a7f",
+      "at": "2026-11-18T08:41:48.644Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:40582",
+      "at": "2026-11-18T08:41:50.218Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:40583",
+      "at": "2026-11-18T08:42:06.039Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:40586",
+      "at": "2026-11-18T08:42:12.016Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:40590",
+      "at": "2026-11-18T08:42:17.997Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:40593",
+      "at": "2026-11-18T08:42:23.370Z",
+      "progress": "width: 85.7143%;"
+    },
+    {
+      "stepId": "question:40593",
+      "at": "2026-11-18T08:42:28.455Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
