@@ -1,0 +1,1267 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2512/lesson.json",
+  "id": "2512",
+  "title": "درس چهارم: انتخاب دارو برای هر بیمار",
+  "specialtyKey": "9388367f9a0be8cd",
+  "chapter": {
+    "id": "509",
+    "title": "حداکثر دوز و انتخاب دارو",
+    "position": 19
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:40b159c3fbf422f8f58272c0b7e50edaf4afbc665fd5a57530e020e6355bfe78",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "43db3eaab7f28390324449a422eb2864c1c281434df22a60f1908c422c32e4cc",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پنج پرسش پیش از انتخاب دارو"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "صبح یک ترمیم ۱۵ دقیقه‌ای برای کودکی ۷ ساله داری، ظهر جراحی پریو دوساعته، و عصر کشیدن مولر سوم برای بیماری که از درد پس از عمل می‌ترسد. آیا یک کارپول لیدوکائین برای هر سه مناسب است؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اگر برای همه‌ی کارها یک دارو بزنی، بیمار ترمیم کوتاه ساعت‌ها لب بی‌حس دارد و بیمار جراحی طولانی ممکن است آخر کار درد بکشد. پیش از انتخاب، این پنج را بپرس:"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بی‌حسی پالپ چه مدت لازم است؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درد پس از درمان انتظار می‌رود؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر گاز گرفتن بافت بی‌حس هست؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به کنترل خون‌ریزی نیاز داری؟"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "منع مصرف مطلق یا نسبی وجود دارد؟"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مدت بی‌حسی پالپ"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کوتاه، کمتر از ۳۰ دقیقه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": مپیواکائین ۳٪، و پریلوکائین ۴٪ ساده با اینفیلتراسیون"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "متوسط، حدود ۶۰ دقیقه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": لیدوکائین و مپیواکائین با تنگ‌کننده، آرتیکائین، و پریلوکائین با اپی‌نفرین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "طولانی، ۹۰ دقیقه و بیشتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": بوپیواکائین ۰٫۵٪ با اپی‌نفرین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در مطب دست‌کم دو گروه دارو با مدت اثر متفاوت داشته باش."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:b4bc3e9a0609e3a433cdc5073f2ffd62f2a81989210917b1f190d209f893c0cf",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "5adcd189da46dbccc9517e239b34fbe33e400fbf875af5fb86f4144adcf744ee",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "درد پس از درمان، خون‌ریزی و منع مصرف"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "درد پس از جراحی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": بوپیواکائین ۰٫۵٪؛ با بلاک ۸ تا ۱۲ ساعت بی‌حسی بافت نرم می‌دهد. شروع اثرش کُند است (۶ تا ۱۰ دقیقه)، پس کار را با داروی سریع‌تر شروع کن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خطر گاز گرفتن لب و زبان"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در کودک کم‌سن، سالمند بالای ۸۵ سال، بیمار دارای ناتوانی ذهنی یا جسمی، و دیابتی نوع ۱ که نباید وعده‌ی غذا را از دست بدهد: برای کار کوتاه مپیواکائین ۳٪."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کنترل خون‌ریزی"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": اپی‌نفرین ۱:۵۰٬۰۰۰ یا ۱:۱۰۰٬۰۰۰ با اینفیلتراسیون در محل جراحی؛ ۱:۵۰٬۰۰۰ خون‌ریزی جراحی پریو را نسبت به ۱:۱۰۰٬۰۰۰ نصف می‌کند. ۱:۲۰۰٬۰۰۰، لوونوردفرین و فلی‌پرسین برای این کار کافی نیستند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "منع مصرف"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلرژی ثابت‌شده به یک بی‌حسی (مطلق): داروهای همان گروه شیمیایی ممنوع‌اند؛ از گروه دیگر استفاده کن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلرژی ثابت‌شده به سولفیت (مطلق): هیچ داروی دارای تنگ‌کننده نزن؛ داروی ساده بزن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "متهموگلوبینمی، آنمی یا سیکل‌سل: پریلوکائین را کنار بگذار."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیماری قلبی یا پرکاری تیروئید ASA III یا IV: تنگ‌کننده‌ی رقیق در کمترین دوز، یا مپیواکائین ۳٪."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیماری جدی کبد: آمیدها با احتیاط و در دوز کم."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "وقتی بی‌حسی نگرفت، «کارپول خراب» تقریباً هیچ‌وقت علت نیست؛ علت شایع تکنیک یا تفاوت آناتومی است. پیش از عوض کردن دارو تکنیک را بازبینی کن و یادت باشد مجموع دو دارو از سقف کوچک‌تر نگذرد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:42599",
+      "sourceId": "42599",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "f2e8938ae9d62ece8b9c818a61289a84834e3bd0f76249080e2798b750589dc3",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برای ترمیم ۱۵ دقیقه‌ای که بی‌حسی کوتاه پالپ برایش کافی است، کدام دارو مناسب‌تر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای ترمیم ۱۵ دقیقه‌ای که بی‌حسی کوتاه پالپ برایش کافی است، کدام دارو مناسب‌تر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لیدوکائین ۲٪ همراه اپی‌نفرین ۱:۵۰٬۰۰۰"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بوپیواکائین ۰٫۵٪ با اپی‌نفرین ۱:۲۰۰٬۰۰۰"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیکائین ۴٪ همراه اپی‌نفرین ۱:۱۰۰٬۰۰۰"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مپیواکائین ۳٪ ساده، بدون تنگ‌کننده"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d740b3c784cdcc015db9dfc4d7ecdd040823a826e39f391f7ff57258831dc7b0",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "لیدوکائین ۲٪ همراه اپی‌نفرین ۱:۵۰٬۰۰۰",
+          "content": [
+            {
+              "tag": "text",
+              "text": "لیدوکائین ۲٪ همراه اپی‌نفرین ۱:۵۰٬۰۰۰"
+            }
+          ]
+        },
+        {
+          "id": "961d41a27bfcc34f032c38ef786c923bbf67f211486d2eb0536cdd88417e2139",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بوپیواکائین ۰٫۵٪ با اپی‌نفرین ۱:۲۰۰٬۰۰۰",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بوپیواکائین ۰٫۵٪ با اپی‌نفرین ۱:۲۰۰٬۰۰۰"
+            }
+          ]
+        },
+        {
+          "id": "4782285b49bc41d09338b03512395cc293a1050e928682027ebd71f3dd8136db",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آرتیکائین ۴٪ همراه اپی‌نفرین ۱:۱۰۰٬۰۰۰",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آرتیکائین ۴٪ همراه اپی‌نفرین ۱:۱۰۰٬۰۰۰"
+            }
+          ]
+        },
+        {
+          "id": "3a1760c39c28bc41ddbf760fb0d93a86a2767998b15e2eaea694668752b60103",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مپیواکائین ۳٪ ساده، بدون تنگ‌کننده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مپیواکائین ۳٪ ساده، بدون تنگ‌کننده"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3a1760c39c28bc41ddbf760fb0d93a86a2767998b15e2eaea694668752b60103"
+        ],
+        "explanation": "مپیواکائین ۳٪ کمتر از ۳۰ دقیقه بی‌حسی پالپ و بی‌حسی کوتاه‌تر بافت نرم می‌دهد؛ برای کار کوتاه بیمار را ساعت‌ها بی‌حس نگه نمی‌دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مپیواکائین ۳٪ کمتر از ۳۰ دقیقه بی‌حسی پالپ و بی‌حسی کوتاه‌تر بافت نرم می‌دهد؛ برای کار کوتاه بیمار را ساعت‌ها بی‌حس نگه نمی‌دارد."
+          }
+        ],
+        "observedAt": "2026-11-19T11:44:15.484Z"
+      }
+    },
+    {
+      "id": "question:42604",
+      "sourceId": "42604",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "d7fca94ae8548c085c75268143cb58ce03dee43e343ec9a319e271ea367a85a2",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری برای جوانی ۲۵ ساله با ناتوانی ذهنی، برای یک ترمیم کوتاه بوپیواکائین زده تا «بعد از کار درد نکشد». اشتباهش کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری برای جوانی ۲۵ ساله با ناتوانی ذهنی، برای یک ترمیم کوتاه بوپیواکائین زده تا «بعد از کار درد نکشد». اشتباهش کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر گاز گرفتن لب و زبان بی‌حس بالاست و بوپیواکائین آن را ساعت‌ها طول می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بوپیواکائین در بیمار دارای ناتوانی ذهنی منع مطلق دارد، چون با داروهای روان‌پزشکی تداخل جدی دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بوپیواکائین برای ترمیم بی‌حسی پالپ کافی نمی‌دهد و بیمار در میانه‌ی کار درد خواهد کشید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بوپیواکائین شروع اثر فوری دارد و در بیمار ناتوان خطر مسمومیت با تزریق سریع را بالا می‌برد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a8f2f44b88cd18bf7b9904176e4e02ec35a835e340e08187e962f2f0aa97db0f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "خطر گاز گرفتن لب و زبان بی‌حس بالاست و بوپیواکائین آن را ساعت‌ها طول می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطر گاز گرفتن لب و زبان بی‌حس بالاست و بوپیواکائین آن را ساعت‌ها طول می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "b3bc2f76b245471bbcde5e736921e625d3bdb069168f2327ac8e49f371d4b346",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بوپیواکائین در بیمار دارای ناتوانی ذهنی منع مطلق دارد، چون با داروهای روان‌پزشکی تداخل جدی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بوپیواکائین در بیمار دارای ناتوانی ذهنی منع مطلق دارد، چون با داروهای روان‌پزشکی تداخل جدی دارد"
+            }
+          ]
+        },
+        {
+          "id": "b1e0d41d41e023f17715fa09d6f936fa613a1a5533234172022c11e4120e0747",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "بوپیواکائین برای ترمیم بی‌حسی پالپ کافی نمی‌دهد و بیمار در میانه‌ی کار درد خواهد کشید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بوپیواکائین برای ترمیم بی‌حسی پالپ کافی نمی‌دهد و بیمار در میانه‌ی کار درد خواهد کشید"
+            }
+          ]
+        },
+        {
+          "id": "615500d7458003a50a24e33ea94db3aa2a2c4bfbbd978c7b44fd92573be09595",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بوپیواکائین شروع اثر فوری دارد و در بیمار ناتوان خطر مسمومیت با تزریق سریع را بالا می‌برد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بوپیواکائین شروع اثر فوری دارد و در بیمار ناتوان خطر مسمومیت با تزریق سریع را بالا می‌برد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a8f2f44b88cd18bf7b9904176e4e02ec35a835e340e08187e962f2f0aa97db0f"
+        ],
+        "explanation": "بیمار دارای ناتوانی ذهنی ممکن است لب یا زبان بی‌حس را گاز بگیرد یا بجود؛ بی‌حسی طولانی بوپیواکائین این خطر را چند برابر می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بیمار دارای ناتوانی ذهنی ممکن است لب یا زبان بی‌حس را گاز بگیرد یا بجود؛ بی‌حسی طولانی بوپیواکائین این خطر را چند برابر می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-19T11:44:21.320Z"
+      }
+    },
+    {
+      "id": "question:42606",
+      "sourceId": "42606",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "1c81c0de596e48fe7b28ba995acd05e7ed8b23d1ff617ce485354c668e944d35",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اپی‌نفرین ۱:۲۰۰٬۰۰۰ برای کنترل خون‌ریزی در محل جراحی به اندازه‌ی ۱:۵۰٬۰۰۰ مؤثر است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اپی‌نفرین ۱:۲۰۰٬۰۰۰ برای کنترل خون‌ریزی در محل جراحی به اندازه‌ی ۱:۵۰٬۰۰۰ مؤثر است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "رقت‌های ۱:۲۰۰٬۰۰۰ و رقیق‌تر برای هموستاز کافی نیستند؛ برای کنترل خون‌ریزی ۱:۵۰٬۰۰۰ یا ۱:۱۰۰٬۰۰۰ لازم است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "رقت‌های ۱:۲۰۰٬۰۰۰ و رقیق‌تر برای هموستاز کافی نیستند؛ برای کنترل خون‌ریزی ۱:۵۰٬۰۰۰ یا ۱:۱۰۰٬۰۰۰ لازم است."
+          }
+        ],
+        "observedAt": "2026-11-19T11:44:26.311Z"
+      }
+    },
+    {
+      "id": "question:42609",
+      "sourceId": "42609",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "4c1072aa241e004abf664fc0d6ea02289e3169e869c06e96f47d7eea2a24829c",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بیمار مبتلا به متهموگلوبینمی، پریلوکائین داروی مناسبی است، چون سمیت کمتری از لیدوکائین دارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیمار مبتلا به متهموگلوبینمی، پریلوکائین داروی مناسبی است، چون سمیت کمتری از لیدوکائین دارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "پریلوکائین در دوز بالا متهموگلوبین می‌سازد؛ در بیمار دچار متهموگلوبینمی، آنمی یا سیکل‌سل کنارش بگذار.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پریلوکائین در دوز بالا متهموگلوبین می‌سازد؛ در بیمار دچار متهموگلوبینمی، آنمی یا سیکل‌سل کنارش بگذار."
+          }
+        ],
+        "observedAt": "2026-11-19T11:44:40.504Z"
+      }
+    },
+    {
+      "id": "question:42613",
+      "sourceId": "42613",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "e247eb217cc8fe3d4009c25236f02f0d7b1fe87e0db4cbd9cf5f058789f128d5",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری پس از شکست IANB با دو کارپول لیدوکائین می‌گوید «این سری کارپول خراب است» و آرتیکائین برمی‌دارد. کدام نکته درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری پس از شکست IANB با دو کارپول لیدوکائین می‌گوید «این سری کارپول خراب است» و آرتیکائین برمی‌دارد. کدام نکته درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حق با اوست؛ کارپول‌های یک سری معمولاً با هم خراب می‌شوند و باید همه را کنار گذاشت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "علت شایع شکست تکنیک یا آناتومی است و مجموع دو دارو از سقف کوچک‌تر نگذرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییر دارو سقف دوز را از صفر شروع می‌کند، پس آرتیکائین را می‌شود تا سقف کامل زد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیکائین بعد از لیدوکائین اثر نمی‌کند، چون هر دو آمیدند و گیرنده‌ها پر شده‌اند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "29e691dfc1c0593e56534fa24bf75eda77e8cb2020e5283e81c57e994b8881b1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حق با اوست؛ کارپول‌های یک سری معمولاً با هم خراب می‌شوند و باید همه را کنار گذاشت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حق با اوست؛ کارپول‌های یک سری معمولاً با هم خراب می‌شوند و باید همه را کنار گذاشت"
+            }
+          ]
+        },
+        {
+          "id": "c0e1a441357730ac8b1d28d3c1572d95adfff0750ca833365c9a3f9e04751d07",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "علت شایع شکست تکنیک یا آناتومی است و مجموع دو دارو از سقف کوچک‌تر نگذرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "علت شایع شکست تکنیک یا آناتومی است و مجموع دو دارو از سقف کوچک‌تر نگذرد"
+            }
+          ]
+        },
+        {
+          "id": "3aa15babb089d83aa54af32d7df1daf483af8b7bcbc7bf287653da966e5c635c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تغییر دارو سقف دوز را از صفر شروع می‌کند، پس آرتیکائین را می‌شود تا سقف کامل زد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تغییر دارو سقف دوز را از صفر شروع می‌کند، پس آرتیکائین را می‌شود تا سقف کامل زد"
+            }
+          ]
+        },
+        {
+          "id": "8ebaa2ca1e0e9f6d2b8af0072495ed15c6c95a4879615e0b6aae42368a17dc80",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "آرتیکائین بعد از لیدوکائین اثر نمی‌کند، چون هر دو آمیدند و گیرنده‌ها پر شده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آرتیکائین بعد از لیدوکائین اثر نمی‌کند، چون هر دو آمیدند و گیرنده‌ها پر شده‌اند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c0e1a441357730ac8b1d28d3c1572d95adfff0750ca833365c9a3f9e04751d07"
+        ],
+        "explanation": "کارپول خراب تقریباً هیچ‌وقت علت نیست؛ تکنیک یا تفاوت آناتومی را بازبینی کن. دوز دو دارو هم روی هم حساب می‌شود و کوچک‌ترین سقف مرز است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کارپول خراب تقریباً هیچ‌وقت علت نیست؛ تکنیک یا تفاوت آناتومی را بازبینی کن. دوز دو دارو هم روی هم حساب می‌شود و کوچک‌ترین سقف مرز است."
+          }
+        ],
+        "observedAt": "2026-11-19T11:44:37.023Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:40b159c3fbf422f8f58272c0b7e50edaf4afbc665fd5a57530e020e6355bfe78",
+      "at": "2026-11-19T11:44:04.887Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:b4bc3e9a0609e3a433cdc5073f2ffd62f2a81989210917b1f190d209f893c0cf",
+      "at": "2026-11-19T11:44:06.497Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:42599",
+      "at": "2026-11-19T11:44:08.142Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:42604",
+      "at": "2026-11-19T11:44:17.113Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:42606",
+      "at": "2026-11-19T11:44:22.967Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:42609",
+      "at": "2026-11-19T11:44:27.928Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:42613",
+      "at": "2026-11-19T11:44:32.925Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:42609",
+      "at": "2026-11-19T11:44:38.608Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

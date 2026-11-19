@@ -1,0 +1,1300 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2510/lesson.json",
+  "id": "2510",
+  "title": "درس دوم: حداکثر دوز بر پایه‌ی وزن",
+  "specialtyKey": "9388367f9a0be8cd",
+  "chapter": {
+    "id": "509",
+    "title": "حداکثر دوز و انتخاب دارو",
+    "position": 19
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:c55c1cab315d04e6d267957562825d140cb224be2be24ebec792251ed7126511",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "736243ca004c4aa266658fc62ad815ce4a96f5f162a5e3951ae38d052f6f52ce",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "جدول حداکثر دوز"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مردی ۶۵ کیلوگرمی برای جراحی پریو در دو ناحیه تا حالا شش کارپول آرتیکائین ۴٪ گرفته و دستیار کارپول هفتم را آماده کرده است. پیش از تزریق، چه عددی را باید بدانی؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حداکثر دوز بر حسب میلی‌گرم به ازای هر کیلوگرم وزن است، چون بیمار سنگین‌تر حجم خون بیشتری دارد و همان دارو در خونش رقیق‌تر می‌شود. برای بیشتر داروها یک سقف مطلق هم هست که هر قدر بیمار سنگین باشد، از آن بالاتر نمی‌روی."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لیدوکائین، با یا بی اپی‌نفرین: "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۷ mg/kg"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، سقف "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۵۰۰ میلی‌گرم"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مپیواکائین، ساده یا با تنگ‌کننده: "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۶٫۶ mg/kg"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، سقف "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۴۰۰ میلی‌گرم"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پریلوکائین، ساده یا با اپی‌نفرین: "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۸ mg/kg"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، سقف "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۶۰۰ میلی‌گرم"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیکائین با اپی‌نفرین: "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۷ mg/kg"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، بی سقف مطلق تعیین‌شده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بوپیواکائین با اپی‌نفرین: فقط سقف کلی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۹۰ میلی‌گرم"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، بی محاسبه‌ی وزنی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "محاسبه در سه گام"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وزن را در mg/kg ضرب کن و با سقف مطلق مقایسه کن؛ عدد کوچک‌تر حداکثر دوز است. برای نمونه، لیدوکائین از حدود ۷۲ کیلوگرم به بعد به همان ۵۰۰ میلی‌گرم می‌رسد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حداکثر دوز را بر میلی‌گرم هر کارپول تقسیم کن و به پایین گرد کن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اگر دارو اپی‌نفرین دارد، سقف اپی‌نفرین را هم حساب کن."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مثال: خانم ۵۰ کیلوگرمی با لیدوکائین ۲٪؛ ۳۵۰ میلی‌گرم تقسیم بر ۳۶ می‌شود ۹٫۷، که به پایین گرد می‌شود: ۹ کارپول."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:3d0ef56cdb494228c13ce39b831691a1ee7002247d1967e4e3dee42faea14047",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "bbad5114bfce25eb956b7bfc512888b408dd32e49a2cf1058be27e3a06c53719",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کاهش دوز و ترکیب دو دارو"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حداکثر دوز برای بیمار سالم با پاسخ «میانگین» است. رد کردن آن احتمال مسمومیت را بالا می‌برد، ولی به این معنا نیست که حتماً مسمومیت رخ می‌دهد؛ ماندن زیر آن هم تضمین کامل نیست، چون بیمار حساس ممکن است با دوزی بسیار کمتر علامت بدهد."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کِی دوز را کمتر بگیری"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سالمند، بیمار ناتوان و بیمار ASA III یا IV"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیماری جدی کبد، که تجزیه‌ی آمیدها را کُند می‌کند، یا بیماری جدی کلیه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "فرمول مشخصی برای میزان کاهش وجود ندارد؛ طرح درمان را طوری بچین که در هر جلسه دوز کمتری لازم باشد."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "دو دارو در یک جلسه"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اگر پس از داروی اول داروی دیگری زدی، مجموع هر دو نباید از "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کوچک‌ترین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " حداکثر دوز آن دو بیشتر شود. مثال: بیمار ۴۵ کیلوگرمی دو کارپول مپیواکائین ۲٪ (۷۲ میلی‌گرم) گرفته است. سقف مپیواکائین ۲۹۷ و سقف آرتیکائین ۳۱۵ میلی‌گرم است؛ پس ۲۹۷ منهای ۷۲، یعنی ۲۲۵ میلی‌گرم آرتیکائین (حدود ۳ کارپول) هنوز مجاز است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "زمان هم مهم است: همان دوز اگر در چند ساعت و کم‌کم تزریق شود، سطح خونی کمتری از تزریق یکجا می‌سازد. در بیشتر کارهای بزرگسال سه تا چهار کارپول کافی است و با بلاک‌های ناحیه‌ای، کل دهان با حدود شش کارپول بی‌حس می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:42570",
+      "sourceId": "42570",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "8bee0a28f9a0cfdd061902dab17107258fa9df0aabfd3e5277efb0e1760343a6",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اگر دوز تزریق‌شده حتی یک میلی‌گرم از حداکثر دوز محاسبه‌شده بیشتر شود، مسمومیت حتماً رخ می‌دهد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اگر دوز تزریق‌شده حتی یک میلی‌گرم از حداکثر دوز محاسبه‌شده بیشتر شود، مسمومیت حتماً رخ می‌دهد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "عبور از سقف احتمال مسمومیت را بالا می‌برد ولی تضمینش نمی‌کند؛ عکسش هم هست و بیمار حساس ممکن است زیر سقف علامت بدهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "عبور از سقف احتمال مسمومیت را بالا می‌برد ولی تضمینش نمی‌کند؛ عکسش هم هست و بیمار حساس ممکن است زیر سقف علامت بدهد."
+          }
+        ],
+        "observedAt": "2026-11-19T11:42:20.390Z"
+      }
+    },
+    {
+      "id": "question:42572",
+      "sourceId": "42572",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "deca73c3388e38569711e3995d66074c26db4cbf0247596ede009bcba5fd3168",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "حداکثر دوز پریلوکائین برای بزرگسال سالم کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "حداکثر دوز پریلوکائین برای بزرگسال سالم کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶٫۶ mg/kg تا سقف مطلق ۴۰۰ میلی‌گرم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۷ mg/kg تا سقف مطلق ۵۰۰ میلی‌گرم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۸ mg/kg تا سقف ۶۰۰ میلی‌گرم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲ mg/kg تا ۲۰۰ میلی‌گرم"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8822048fa739732d5f041d18f9cc4f4ebdb265772d8840b85fe7a11cf287bde6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "۶٫۶ mg/kg تا سقف مطلق ۴۰۰ میلی‌گرم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۶٫۶ mg/kg تا سقف مطلق ۴۰۰ میلی‌گرم"
+            }
+          ]
+        },
+        {
+          "id": "7ba962edb93077548589f805c4e2664e7465754a8b8f39b0a0c3c9c98b520ebf",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "۷ mg/kg تا سقف مطلق ۵۰۰ میلی‌گرم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۷ mg/kg تا سقف مطلق ۵۰۰ میلی‌گرم"
+            }
+          ]
+        },
+        {
+          "id": "22f6558cd1294c50ded5c1c1e8e9fe990146cd40c94bf47e58fe420f79b32c76",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "۸ mg/kg تا سقف ۶۰۰ میلی‌گرم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۸ mg/kg تا سقف ۶۰۰ میلی‌گرم"
+            }
+          ]
+        },
+        {
+          "id": "1c5754af4655b0a6c35462ff28e58cd67b45126912eb17acf83fe877653b444e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "۲ mg/kg تا ۲۰۰ میلی‌گرم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۲ mg/kg تا ۲۰۰ میلی‌گرم"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "22f6558cd1294c50ded5c1c1e8e9fe990146cd40c94bf47e58fe420f79b32c76"
+        ],
+        "explanation": "پریلوکائین، چه ساده و چه با اپی‌نفرین، ۸ mg/kg با سقف مطلق ۶۰۰ میلی‌گرم دارد؛ بالاترین mg/kg در میان داروهای رایج.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پریلوکائین، چه ساده و چه با اپی‌نفرین، ۸ mg/kg با سقف مطلق ۶۰۰ میلی‌گرم دارد؛ بالاترین mg/kg در میان داروهای رایج."
+          }
+        ],
+        "observedAt": "2026-11-19T11:42:25.848Z"
+      }
+    },
+    {
+      "id": "question:42575",
+      "sourceId": "42575",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "a76c9b12e8eeab03fb137cabf5513ca0df5ec794b7cf51adf6560abdb9dae5e1",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیماری ۹۰ کیلوگرمی لیدوکائین ۲٪ می‌گیرد. حداکثر دوز لیدوکائین برای او چقدر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری ۹۰ کیلوگرمی لیدوکائین ۲٪ می‌گیرد. حداکثر دوز لیدوکائین برای او چقدر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۷۲۰ میلی‌گرم، یعنی ۸ میلی‌گرم ضرب در ۹۰ کیلوگرم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۶۳۰ میلی‌گرم، یعنی ۷ میلی‌گرم ضرب در ۹۰ کیلوگرم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۴۰۰ میلی‌گرم، چون سقف لیدوکائین در بزرگسال ۴۰۰ است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵۰۰ میلی‌گرم، چون سقف مطلق کمتر از ۶۳۰ است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "fafd31e687e2c8c903b4764e7f2a56ac2507f321b9ff99d17b85070d61ed3a82",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "۷۲۰ میلی‌گرم، یعنی ۸ میلی‌گرم ضرب در ۹۰ کیلوگرم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۷۲۰ میلی‌گرم، یعنی ۸ میلی‌گرم ضرب در ۹۰ کیلوگرم"
+            }
+          ]
+        },
+        {
+          "id": "8d4f84c80a0d9423aa72614728903a126a155d9b6bf128a778bc08aaa49e54c5",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "۶۳۰ میلی‌گرم، یعنی ۷ میلی‌گرم ضرب در ۹۰ کیلوگرم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۶۳۰ میلی‌گرم، یعنی ۷ میلی‌گرم ضرب در ۹۰ کیلوگرم"
+            }
+          ]
+        },
+        {
+          "id": "be9ba8ddcd682352a31efe7fc1ae21bd8dae3e411143af1c90884ad9426b1737",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "۴۰۰ میلی‌گرم، چون سقف لیدوکائین در بزرگسال ۴۰۰ است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۴۰۰ میلی‌گرم، چون سقف لیدوکائین در بزرگسال ۴۰۰ است"
+            }
+          ]
+        },
+        {
+          "id": "d5a62b98e80744e900561721000347945e8d67f3f5deae90f03ae763026d3b80",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "۵۰۰ میلی‌گرم، چون سقف مطلق کمتر از ۶۳۰ است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۵۰۰ میلی‌گرم، چون سقف مطلق کمتر از ۶۳۰ است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d5a62b98e80744e900561721000347945e8d67f3f5deae90f03ae763026d3b80"
+        ],
+        "explanation": "۷ ضرب در ۹۰ می‌شود ۶۳۰، ولی سقف مطلق لیدوکائین ۵۰۰ میلی‌گرم است و عدد کوچک‌تر ملاک است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "۷ ضرب در ۹۰ می‌شود ۶۳۰، ولی سقف مطلق لیدوکائین ۵۰۰ میلی‌گرم است و عدد کوچک‌تر ملاک است."
+          }
+        ],
+        "observedAt": "2026-11-19T11:42:45.653Z"
+      }
+    },
+    {
+      "id": "question:42580",
+      "sourceId": "42580",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "3d30a834c81c7575a22359c7f5981d139a19b086c8ce620bd4ec88196cd48bcc",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "خانمی ۸۰ ساله، ضعیف و مبتلا به نارسایی قلبی برای کشیدن یک دندان آمده است. درباره‌ی دوز بی‌حسی کدام تصمیم درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خانمی ۸۰ ساله، ضعیف و مبتلا به نارسایی قلبی برای کشیدن یک دندان آمده است. درباره‌ی دوز بی‌حسی کدام تصمیم درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز حساب‌شده از وزن را کم کن و فقط کمترین دوز مؤثر را بزن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز حساب‌شده از وزن را کامل بزن، چون با وزن او تنظیم شده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز را دو برابر کن، چون در سالمند بی‌حسی زودتر از بین می‌رود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بی‌حسی را کنار بگذار؛ هر دوزی برای او خطرناک است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9f4adac5f3bd64e63d0feea12eff0ee3471bec4ff70f5c2b51cefc86a24d727c",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دوز حساب‌شده از وزن را کم کن و فقط کمترین دوز مؤثر را بزن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دوز حساب‌شده از وزن را کم کن و فقط کمترین دوز مؤثر را بزن"
+            }
+          ]
+        },
+        {
+          "id": "1fb97b0f14b568d7ce69cc117313ed5ab026a5ab215fbf2ae7548ca11c300999",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دوز حساب‌شده از وزن را کامل بزن، چون با وزن او تنظیم شده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دوز حساب‌شده از وزن را کامل بزن، چون با وزن او تنظیم شده است"
+            }
+          ]
+        },
+        {
+          "id": "14d2958e5ea104bdbba13f14e538b558a556f5eaea1a96f202a4e886d00afbd4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دوز را دو برابر کن، چون در سالمند بی‌حسی زودتر از بین می‌رود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دوز را دو برابر کن، چون در سالمند بی‌حسی زودتر از بین می‌رود"
+            }
+          ]
+        },
+        {
+          "id": "0b97c8ee53d5d114b4aec689e8f5d9aaccc82232c148df69e047d059253674e6",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بی‌حسی را کنار بگذار؛ هر دوزی برای او خطرناک است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بی‌حسی را کنار بگذار؛ هر دوزی برای او خطرناک است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9f4adac5f3bd64e63d0feea12eff0ee3471bec4ff70f5c2b51cefc86a24d727c"
+        ],
+        "explanation": "سالمند ناتوان و بیمار ASA III یا IV دارو را کندتر پاک می‌کنند؛ دوز حساب‌شده از وزن کم می‌شود و کمترین دوز مؤثر ملاک است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "سالمند ناتوان و بیمار ASA III یا IV دارو را کندتر پاک می‌کنند؛ دوز حساب‌شده از وزن کم می‌شود و کمترین دوز مؤثر ملاک است."
+          }
+        ],
+        "observedAt": "2026-11-19T11:42:36.977Z"
+      }
+    },
+    {
+      "id": "question:42582",
+      "sourceId": "42582",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "6fb1aca7d320ec9692316bcb216a759387d6d00dcf9e8d33279ae52b48546ca6",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برای بیمار سالم ۱۰۰ کیلوگرمی، حداکثر دوز لیدوکائین ۷۰۰ میلی‌گرم است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای بیمار سالم ۱۰۰ کیلوگرمی، حداکثر دوز لیدوکائین ۷۰۰ میلی‌گرم است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "حاصل ضرب وزن ۷۰۰ است، ولی سقف مطلق لیدوکائین ۵۰۰ میلی‌گرم است و از آن بالاتر نمی‌روی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "حاصل ضرب وزن ۷۰۰ است، ولی سقف مطلق لیدوکائین ۵۰۰ میلی‌گرم است و از آن بالاتر نمی‌روی."
+          }
+        ],
+        "observedAt": "2026-11-19T11:42:49.193Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:c55c1cab315d04e6d267957562825d140cb224be2be24ebec792251ed7126511",
+      "at": "2026-11-19T11:42:09.921Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:3d0ef56cdb494228c13ce39b831691a1ee7002247d1967e4e3dee42faea14047",
+      "at": "2026-11-19T11:42:11.555Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:42570",
+      "at": "2026-11-19T11:42:13.185Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:42572",
+      "at": "2026-11-19T11:42:22.033Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:42575",
+      "at": "2026-11-19T11:42:27.507Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:42580",
+      "at": "2026-11-19T11:42:33.096Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:42582",
+      "at": "2026-11-19T11:42:38.575Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:42575",
+      "at": "2026-11-19T11:42:43.760Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:42582",
+      "at": "2026-11-19T11:42:47.266Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
