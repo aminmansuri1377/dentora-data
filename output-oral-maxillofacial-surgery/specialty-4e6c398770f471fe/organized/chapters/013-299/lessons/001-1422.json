@@ -1,0 +1,1315 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1422/lesson.json",
+  "id": "1422",
+  "title": "درس اول: چرا تزریق در آبسه کار نمی‌کند",
+  "specialtyKey": "4e6c398770f471fe",
+  "chapter": {
+    "id": "299",
+    "title": "درد، اضطراب، فوریت، داروی بی‌حسی: چه چیزی عصب را خاموش می‌کند",
+    "position": 13
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:93bb609bac6a5ed3bf033ef58841bfa981535269efd47945148ee12852a8c6b9",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "2cbd92310c766effa61288646cd306f10bd32a03b8d5de3048250441ec806533",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دارو کجا می‌نشیند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بی‌حسی موضعی به عصب آسیبی نمی‌زند —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فقط جلوی یک اتفاق را می‌گیرد: ورود سدیم به داخل آکسون."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "وقتی یک عصب تحریک می‌شود، کانال‌های سدیمِ غشا باز می‌شوند، سدیم به داخل هجوم می‌آورد و غشا دپولاریزه می‌شود. همین دپولاریزاسیون است که به‌صورت زنجیره‌ای در طول آکسون پیش می‌رود و در نهایت به مغز می‌رسد و آنجا «درد» تفسیر می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مولکول بی‌حسی موضعی به گیرنده‌ای در "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سطح داخلی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " کانال سدیم می‌چسبد و کانال را در حالت بسته نگه می‌دارد. سدیم وارد نمی‌شود، غشا دپولاریزه نمی‌شود، پیام تولید نمی‌شود، و مغز چیزی برای تفسیر کردن ندارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و همین «سطح داخلی» تمام داستان درس امروز است: دارو را بیرون از سلول تزریق می‌کنی، ولی محل اثرش داخل سلول است. پس دارو باید از غشا رد شود — و اینجاست که pKa وارد می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:9efd31303a55d1a22276452a7afd175fa89e45a002b192a6f84ff52001144b27",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 12.5%;",
+      "contentKey": "46faf8a6e35dbdd48e65c84ee8c77c6b881ad21c85aa3b7f172520a508a51032",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دو صورتِ یک مولکول"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر مولکول بی‌حسی در محلول، هم‌زمان به دو شکل وجود دارد:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بازِ آزاد (RN) — بدون بار، چربی‌دوست."
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " این شکل است که می‌تواند از غشای عصب عبور کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کاتیون (RNH⁺) — باردار، آب‌دوست."
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " این شکل است که وقتی به داخل رسید، به گیرنده‌ی کانال سدیم می‌چسبد و کار را تمام می‌کند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یعنی برای موفقیت، هر دو شکل لازم‌اند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باز برای "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رسیدن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، کاتیون برای "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بستن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": ". نسبت این دو را pH بافت و pKa دارو تعیین می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "pKa یعنی آن pH که در آن دقیقاً نیمی از مولکول‌ها باز و نیمی کاتیون‌اند. هرچه pKa دارو به pH بافت (۷٫۴) نزدیک‌تر باشد، سهم بیشتری از دارو به شکل بازِ نفوذکننده در می‌آید و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شروع اثر سریع‌تر است"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قاعده‌ی کاربردی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " pKa پایین‌تر ← شروع اثر سریع‌تر. مپیواکائین با pKa حدود ۷٫۶ در دو تا چهار دقیقه می‌گیرد؛ بوپیواکائین با pKa حدود ۸٫۱ پنج تا هشت دقیقه می‌خواهد؛ و پروکائین با pKa برابر ۸٫۹ کندترین شروع را داشت."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:03d66a09cf0f59431019a2fa1955a66c347557d57d6d12f7924fdf939b73b3e0",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 25%;",
+      "contentKey": "6442e28c03c5d558c12962ef55958b20577414bd8a16c2cbc7b16772a1c935e4",
+      "position": 3,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "و حالا آبسه"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بافت ملتهب یا عفونی اسیدی است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " pH آن از ۷٫۴ به حدود ۶ تا ۶٫۸ پایین می‌آید."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "pH پایین یعنی یون هیدروژن زیاد؛ و یون هیدروژن زیاد یعنی تعادل مولکول به سمت "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاتیونِ باردار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " می‌رود. کاتیون از غشا رد نمی‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پس در آبسه، دارو در بافت هست ولی به داخل آکسون نمی‌رسد —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و بی‌حسی نمی‌گیرد. این تنها دلیل نیست: التهاب جریان خون موضعی را هم زیاد می‌کند، پس دارو سریع‌تر شسته می‌شود و غلظت مؤثرش کمتر می‌ماند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "راه‌حل بالینی، بیشتر تزریق کردن در همان نقطه نیست. راه‌حل این است که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تزریق را به بافت سالمِ دورتر ببری"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " — یعنی به‌جای انفیلتراسیون روی آبسه، یک بلاک عصبی در فاصله‌ای بالادست بزنی، جایی که pH طبیعی است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نکته‌ی تشخیصی که در ماژول عفونت به کارت می‌آید:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «کارتریج خراب» تقریباً هیچ‌وقت علت شکست بی‌حسی نیست؛ شایع‌ترین علت‌ها خطای تکنیک و تنوع آناتومیک‌اند. ولی اگر بیمار می‌گوید «وقتی دندانم درد می‌کرد، بی‌حسی نگرفت»، اولین فرضیه‌ات بافت ملتهب و اسیدی باشد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:24717",
+      "sourceId": "24717",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "dd0c81dfa0a50b696ddc3d1b160ad7a659545137feb7124e9e6208672304c589",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بی‌حسی موضعی با تخریب فیبر عصبی، انتقال پیام را متوقف می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بی‌حسی موضعی با تخریب فیبر عصبی، انتقال پیام را متوقف می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "درست تشخیص دادی — بی‌حسی برگشت‌پذیر است و فقط جلوی ورود سدیم را می‌گیرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست تشخیص دادی — بی‌حسی "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "برگشت‌پذیر"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": " است و فقط جلوی ورود سدیم را می‌گیرد."
+          }
+        ],
+        "observedAt": "2026-11-18T20:39:23.371Z"
+      }
+    },
+    {
+      "id": "question:24720",
+      "sourceId": "24720",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "a34b035bc55a8b38842c3b08291f75b7d3bcc615a6e37b2f270b6183b27732ad",
+      "position": 5,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "pKa یعنی آن pH که در آن دقیقاً ــــــ مولکول‌ها به شکل باز و بقیه کاتیون‌اند. (یک کلمه)",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "pKa یعنی آن pH که در آن دقیقاً ــــــ مولکول‌ها به شکل باز و بقیه کاتیون‌اند. (یک کلمه)"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "م"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "نیمی",
+        "explanation": "درست — نقطه‌ی تعادل پنجاه-پنجاه.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست — نقطه‌ی تعادل پنجاه-پنجاه."
+          }
+        ],
+        "observedAt": "2026-11-18T20:39:32.300Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 4,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "ن"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "م"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "ی"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ی"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:24723",
+      "sourceId": "24723",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "8b95420674462e1c808462a826f8395fd707591f3a13bbc69810b1f64af447fa",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "دو سازوکاری که شکست بی‌حسی در بافت ملتهب را توضیح می‌دهند کدام‌اند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "دو سازوکاری که شکست بی‌حسی در بافت ملتهب را توضیح می‌دهند کدام‌اند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "التهاب کانال‌های سدیم را دائمی باز نگه می‌دارد، و آنزیم‌های التهابی گیرنده را اشغال می‌کنند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "pH پایین دارو را شیمیایی تجزیه می‌کند و بی‌اثرش می‌کند، ادم بافتی فشار را بالا می‌برد و سوزن را از رسیدن به عصب باز می‌دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "pH پایین تعادل را به سمت کاتیون می‌برد و دارو از غشا رد نمی‌شود، جریان خون افزایش‌یافته دارو را سریع‌تر می‌شوید"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چرک محلول را رقیق می‌کند و غلظت را زیر آستانه می‌برد، و pH بالا فرم باز را ناپایدار می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d041e1256771e2e9ac0edcd66ac65193728fb0cd52b57bccb8ba9d1d325a3142",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "التهاب کانال‌های سدیم را دائمی باز نگه می‌دارد، و آنزیم‌های التهابی گیرنده را اشغال می‌کنند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "التهاب کانال‌های سدیم را دائمی باز نگه می‌دارد، و آنزیم‌های التهابی گیرنده را اشغال می‌کنند"
+            }
+          ]
+        },
+        {
+          "id": "ec161dae968c8b2b148cde10cbe019db04de66184a25ac1bcfd399c02e37b793",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "pH پایین دارو را شیمیایی تجزیه می‌کند و بی‌اثرش می‌کند، ادم بافتی فشار را بالا می‌برد و سوزن را از رسیدن به عصب باز می‌دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "pH پایین دارو را شیمیایی تجزیه می‌کند و بی‌اثرش می‌کند، ادم بافتی فشار را بالا می‌برد و سوزن را از رسیدن به عصب باز می‌دارد"
+            }
+          ]
+        },
+        {
+          "id": "222c6d9f75278731706e06917ec2e89c968b626ee310f9b517d32785de7a3225",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "pH پایین تعادل را به سمت کاتیون می‌برد و دارو از غشا رد نمی‌شود، جریان خون افزایش‌یافته دارو را سریع‌تر می‌شوید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "pH پایین تعادل را به سمت کاتیون می‌برد و دارو از غشا رد نمی‌شود، جریان خون افزایش‌یافته دارو را سریع‌تر می‌شوید"
+            }
+          ]
+        },
+        {
+          "id": "90e200ac7032dfd8a0dd2e012e8c159b51ee4f20315e277ef798b6c438be854d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چرک محلول را رقیق می‌کند و غلظت را زیر آستانه می‌برد، و pH بالا فرم باز را ناپایدار می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چرک محلول را رقیق می‌کند و غلظت را زیر آستانه می‌برد، و pH بالا فرم باز را ناپایدار می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "222c6d9f75278731706e06917ec2e89c968b626ee310f9b517d32785de7a3225"
+        ],
+        "explanation": "درست — یکی شیمیایی و یکی گردش‌خونی؛ هر دو در یک جهت کار می‌کنند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست — یکی شیمیایی و یکی گردش‌خونی؛ هر دو در یک جهت کار می‌کنند."
+          }
+        ],
+        "observedAt": "2026-11-18T20:39:37.841Z"
+      }
+    },
+    {
+      "id": "question:24726",
+      "sourceId": "24726",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "fb15556b9f092bf5527c53ab225af97bab758580af8f02a1d51b8d16a52c6be6",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اگر دارو در بافت باشد ولی نتواند از غشای عصب عبور کند، بی‌حسی حاصل نمی‌شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اگر دارو در بافت باشد ولی نتواند از غشای عصب عبور کند، بی‌حسی حاصل نمی‌شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "درست — چون گیرنده در سطح داخلی است و بدون عبور، دسترسی وجود ندارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درست — چون گیرنده در سطح داخلی است و بدون عبور، دسترسی وجود ندارد."
+          }
+        ],
+        "observedAt": "2026-11-18T20:39:52.262Z"
+      }
+    },
+    {
+      "id": "question:24728",
+      "sourceId": "24728",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 77.7778%;",
+      "contentKey": "2354bc3517bdecd434f09829f02db940ade7217d8b7af84bab2f405fdfe3ef6a",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "زنجیره‌ی کامل از تزریق تا بی‌حسی، و نقطه‌ای که در آبسه پاره می‌شود، کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "زنجیره‌ی کامل از تزریق تا بی‌حسی، و نقطه‌ای که در آبسه پاره می‌شود، کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دارو در فضای خارج سلولی تجمع می‌کند، با فشار اسمزی هدایت را متوقف می‌کند، و در بافت اسیدی ادم این فشار را خنثی می‌کند و اثر شکست می‌خورد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دارو به شکل کاتیون از غشا عبور می‌کند، داخل سلول به باز تبدیل می‌شود، باز کانال را می‌بندد، و در بافت اسیدی سهم کاتیون کم می‌شود و گام عبور شکست می‌خورد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دارو مستقیم به سطح خارجی کانال سدیم می‌چسبد، بدون نیاز به عبور از غشا آن را می‌بندد، و در بافت اسیدی آنزیم‌های التهابی گیرنده‌ی بیرونی کانال را اشغال می‌کنند و اتصال شکست می‌خورد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دارو به شکل باز از غشا عبور می‌کند، داخل سلول کاتیون می‌شود، کاتیون گیرنده‌ی داخلی کانال سدیم را می‌بندد، و در بافت اسیدی سهم باز کم می‌شود و گام عبور شکست می‌خورد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8b3a3f28f2580e77ed9a5feb04d76693dd6148ed71e8f262612b3b4014dece22",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دارو در فضای خارج سلولی تجمع می‌کند، با فشار اسمزی هدایت را متوقف می‌کند، و در بافت اسیدی ادم این فشار را خنثی می‌کند و اثر شکست می‌خورد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دارو در فضای خارج سلولی تجمع می‌کند، با فشار اسمزی هدایت را متوقف می‌کند، و در بافت اسیدی ادم این فشار را خنثی می‌کند و اثر شکست می‌خورد"
+            }
+          ]
+        },
+        {
+          "id": "870f94e7d6004ba5746f59cc17c4fb4b0286c86d86a0c10bfd637f3c10c3e642",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دارو به شکل کاتیون از غشا عبور می‌کند، داخل سلول به باز تبدیل می‌شود، باز کانال را می‌بندد، و در بافت اسیدی سهم کاتیون کم می‌شود و گام عبور شکست می‌خورد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دارو به شکل کاتیون از غشا عبور می‌کند، داخل سلول به باز تبدیل می‌شود، باز کانال را می‌بندد، و در بافت اسیدی سهم کاتیون کم می‌شود و گام عبور شکست می‌خورد"
+            }
+          ]
+        },
+        {
+          "id": "146f9ece024e4092106d99f2c4d55f3763f09e2cade274698e93fcc7a9c62ee0",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دارو مستقیم به سطح خارجی کانال سدیم می‌چسبد، بدون نیاز به عبور از غشا آن را می‌بندد، و در بافت اسیدی آنزیم‌های التهابی گیرنده‌ی بیرونی کانال را اشغال می‌کنند و اتصال شکست می‌خورد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دارو مستقیم به سطح خارجی کانال سدیم می‌چسبد، بدون نیاز به عبور از غشا آن را می‌بندد، و در بافت اسیدی آنزیم‌های التهابی گیرنده‌ی بیرونی کانال را اشغال می‌کنند و اتصال شکست می‌خورد"
+            }
+          ]
+        },
+        {
+          "id": "6982e4a6165d3d281313d58fe12cac2038fc9a45d3e7ea21106408954e4d13c4",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دارو به شکل باز از غشا عبور می‌کند، داخل سلول کاتیون می‌شود، کاتیون گیرنده‌ی داخلی کانال سدیم را می‌بندد، و در بافت اسیدی سهم باز کم می‌شود و گام عبور شکست می‌خورد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دارو به شکل باز از غشا عبور می‌کند، داخل سلول کاتیون می‌شود، کاتیون گیرنده‌ی داخلی کانال سدیم را می‌بندد، و در بافت اسیدی سهم باز کم می‌شود و گام عبور شکست می‌خورد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6982e4a6165d3d281313d58fe12cac2038fc9a45d3e7ea21106408954e4d13c4"
+        ],
+        "explanation": "کامل — هر سه گام و نقطه‌ی شکست را درست چیدی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کامل — هر سه گام و نقطه‌ی شکست را درست چیدی."
+          }
+        ],
+        "observedAt": "2026-11-18T20:39:48.814Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:93bb609bac6a5ed3bf033ef58841bfa981535269efd47945148ee12852a8c6b9",
+      "at": "2026-11-18T20:39:11.212Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:9efd31303a55d1a22276452a7afd175fa89e45a002b192a6f84ff52001144b27",
+      "at": "2026-11-18T20:39:12.786Z",
+      "progress": "width: 12.5%;"
+    },
+    {
+      "stepId": "theory:03d66a09cf0f59431019a2fa1955a66c347557d57d6d12f7924fdf939b73b3e0",
+      "at": "2026-11-18T20:39:14.330Z",
+      "progress": "width: 25%;"
+    },
+    {
+      "stepId": "question:24717",
+      "at": "2026-11-18T20:39:15.918Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:24720",
+      "at": "2026-11-18T20:39:24.966Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:24723",
+      "at": "2026-11-18T20:39:33.892Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:24726",
+      "at": "2026-11-18T20:39:39.433Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:24728",
+      "at": "2026-11-18T20:39:44.290Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:24726",
+      "at": "2026-11-18T20:39:50.395Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

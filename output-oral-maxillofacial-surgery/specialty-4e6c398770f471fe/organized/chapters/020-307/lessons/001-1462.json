@@ -1,0 +1,1404 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1462/lesson.json",
+  "id": "1462",
+  "title": "درس اول: آنتی‌بیوتیک پیش از عمل، و آماری که همه‌چیز را عوض می‌کند",
+  "specialtyKey": "4e6c398770f471fe",
+  "chapter": {
+    "id": "307",
+    "title": "پروفیلاکسی: کِی واقعاً لازم است",
+    "position": 20
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:a8001846cb02e9d08cc7d5987968dddff454f66445800adeb7c80a16dc80f0c8",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "949293aaedd4b42757a9ee2fbb8b0b5443b9ed333f459f340171662b9555bb0b",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اعدادی که باید بشناسی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "عفونت حتی بدون بیماری زمینه‌ای هم رخ می‌دهد: در محل جراحی، یا در اندام‌های دوردست از راه خون. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این یونیت به دو سناریوی پیشگیری می‌پردازد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پیشگیری از عفونت زخم پس از جراحی، و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیشگیری از عفونت متاستاتیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/surg-fig-16-9.webp",
+                  "alt": "موقعیت دسته‌ی عصبی-عروقی منتال را پیش از برش وستیبولار در نظر بگیر",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/7e8e4f466ae412d30897f624ded60aca38fc62493c2b6827e99b7b5192c28e40.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موقعیت دسته‌ی عصبی-عروقی منتال را پیش از برش وستیبولار در نظر بگیر "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Hupp, Ellis & Tucker. Contemporary OMFS, 7th ed. — Fig. 16.9)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و اول یک هشدار مقدماتی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اگرچه آنتی‌بیوتیک‌ها مکمل‌های مؤثری برای عفونت‌های "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مستقر"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هستند، استفاده از آن‌ها در پیشگیری از عفونت‌ها (یعنی تجویز پروفیلاکتیک) بحث‌برانگیز و کمتر مبتنی بر شواهد است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و حالا اعداد:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عفونت پس از عمل در حدود ۶ تا ۹ درصد جراحی‌های تمیز-آلوده (مانند حفره‌ی دهان) رخ می‌دهد، و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "تا ۴۰ درصد در اعمال با زخم‌های کثیف"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آنتی‌بیوتیک پری‌اپراتیو می‌تواند نرخ عفونت را به حدود ۳٫۳ درصد کاهش دهد — و به‌طور اختصاصی برای جراحی دهان و فک و صورت، تا ۷۰ درصد کاهش."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ولی بی‌درنگ یک هشدار:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " درمانگر باید داده‌ها را با احتیاط تفسیر کند. و سه دلیل برای این احتیاط وجود دارد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:56a6cd28a84be6035ce0547d822c1f9940c6ab0ff01423c18411aa91c7cc1bf3",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "ec092a5d1abe5b32b80b4815392ef07ed38ddef7801d0c8316bd52b551ce87f3",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سه دلیل احتیاط"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {
+                    "tone": "warning"
+                  },
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نخست:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بروز عفونت پس از اعمال جراحی دهان بسیار پایین است — در واقع این نرخ‌ها با فراوانی واکنش‌های آلرژیک ناشی از مصرف آنتی‌بیوتیک قابل مقایسه‌اند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوم: عفونت‌های محل جراحی پس از جراحی روتین دهان جزئی‌اند و به‌راحتی به آنتی‌بیوتیک یا اعمال جزئی مانند برش و تخلیه‌ی داخل‌دهانی در محیط مطب پاسخ می‌دهند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سوم: مرورهای نظام‌مند کارآزمایی‌های بالینی درباره‌ی اعمال جراحی دهان، نتوانسته‌اند هیچ عفونت فضای عمقی سر و گردن پس از عمل را شناسایی کنند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نتیجه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " فایده‌ی تجویز روتین آنتی‌بیوتیک پیش از هر عمل جراحی دهان — یعنی کاهش بروزِ از پیش پایینِ عفونت‌های خفیف محل جراحی — "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نمی‌تواند سه هزینه را توجیه کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " افزایش خطر واکنش‌های نامطلوب به آنتی‌بیوتیک، افزایش خطر ترویج باکتری‌های مقاوم، و بار مالی بر بیمار و نظام سلامت."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پس آنتی‌بیوتیک پیش از عمل تنها برای شرایط منتخب توصیه می‌شود —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و این شرایط دو مورد است: اعمال جراحی طولانی، و بیماران با دفاع میزبان مختل."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:25834",
+      "sourceId": "25834",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "7dc01117c710e6cfd12842d66b7202f22cfc6836ca2f2cee5d3bc9f28afb4b9f",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "عفونت حتی بدون بیماری زمینه‌ای هم رخ می‌دهد. کدام دو نمونه‌ی آن هدف پیشگیری با آنتی‌بیوتیک‌اند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "عفونت حتی بدون بیماری زمینه‌ای هم رخ می‌دهد. کدام دو نمونه‌ی آن هدف پیشگیری با آنتی‌بیوتیک‌اند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عفونت سینوس پس از کشیدن مولر بالا، و عفونت گوش میانی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عفونت پریودنتال، و عفونت پالپ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عفونت محل جراحی، و عفونت اندام دوردست از راه خون"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عفونت پوستی، و عفونت ادراری"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "130083904d6c0759ac0ad5b7c7378015daa332c77f21e95cce01030156aab062",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "عفونت سینوس پس از کشیدن مولر بالا، و عفونت گوش میانی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عفونت سینوس پس از کشیدن مولر بالا، و عفونت گوش میانی"
+            }
+          ]
+        },
+        {
+          "id": "c13ad9523edc72e66a46f04e27295b57fd2801b4537dd714c0b29d35a415cf36",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "عفونت پریودنتال، و عفونت پالپ",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عفونت پریودنتال، و عفونت پالپ"
+            }
+          ]
+        },
+        {
+          "id": "9e489ea67abb483ee98afbe19975f83522b6e94db76c977a69549dc6c0d955a5",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "عفونت محل جراحی، و عفونت اندام دوردست از راه خون",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عفونت محل جراحی، و عفونت اندام دوردست از راه خون"
+            }
+          ]
+        },
+        {
+          "id": "38cb7d833162aa5e72aecb782d2f2e17aa54c4ffb264f301aa5eb24c20631904",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "عفونت پوستی، و عفونت ادراری",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عفونت پوستی، و عفونت ادراری"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9e489ea67abb483ee98afbe19975f83522b6e94db76c977a69549dc6c0d955a5"
+        ],
+        "explanation": "دومی همان است که «عفونت متاستاتیک» نام دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دومی همان است که «عفونت متاستاتیک» نام دارد."
+          }
+        ],
+        "observedAt": "2026-11-18T21:15:28.983Z"
+      }
+    },
+    {
+      "id": "question:25835",
+      "sourceId": "25835",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "63f4f2f60782db520eaffa3ed9b95528c884274c2ff8480988f63ceb789dc965",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "نرخ عفونت پس از عمل در جراحی تمیز-آلوده مانند حفره‌ی دهان چقدر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نرخ عفونت پس از عمل در جراحی تمیز-آلوده مانند حفره‌ی دهان چقدر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۶ تا ۹ درصد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۱ تا ۲ درصد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۲۰ تا ۳۰ درصد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۱۰ تا ۱۵ درصد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "37f2d38cd02eccd9fd42cbbea1c7efabf6782cbe1941cb28ab997d7d0ae6b23d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حدود ۶ تا ۹ درصد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۶ تا ۹ درصد"
+            }
+          ]
+        },
+        {
+          "id": "2e097bdfa1f68da91946de27b1dfc81674758dbb5f29fb180638d5359eb61026",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "حدود ۱ تا ۲ درصد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۱ تا ۲ درصد"
+            }
+          ]
+        },
+        {
+          "id": "1f52a95d8cafef2891759f7ce6bf4e41faf1dcf7e19180f52da107298f14972d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "حدود ۲۰ تا ۳۰ درصد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۲۰ تا ۳۰ درصد"
+            }
+          ]
+        },
+        {
+          "id": "a12a7d98f4465d2b966b4d8d2f4d7b4a7c426703ee219f3d3a52d9aea6672fe4",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "حدود ۱۰ تا ۱۵ درصد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حدود ۱۰ تا ۱۵ درصد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "37f2d38cd02eccd9fd42cbbea1c7efabf6782cbe1941cb28ab997d7d0ae6b23d"
+        ],
+        "explanation": "در زخم‌های کثیف این عدد تا ۴۰ درصد می‌رسد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در زخم‌های کثیف این عدد تا ۴۰ درصد می‌رسد."
+          }
+        ],
+        "observedAt": "2026-11-18T21:15:34.428Z"
+      }
+    },
+    {
+      "id": "question:25840",
+      "sourceId": "25840",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "da8afab13b88e053af366cedaf8dbdf5ed006b8164bfe0b889018c01042f7361",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "عفونت‌های محل جراحی پس از جراحی روتین دهان چگونه درمان می‌شوند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "عفونت‌های محل جراحی پس از جراحی روتین دهان چگونه درمان می‌شوند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با آنتی‌بیوتیک، یا برش و تخلیه‌ی داخل‌دهانی در مطب"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همیشه با بستری در بیمارستان و آنتی‌بیوتیک وریدی چندروزه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همیشه با برش و تخلیه‌ی خارج‌دهانی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همیشه با جراحی مجدد تحت بی‌هوشی عمومی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4ef67f7ed325186d688296da7f283b93b0b20660febbc12cf254c94c481835b3",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "با آنتی‌بیوتیک، یا برش و تخلیه‌ی داخل‌دهانی در مطب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "با آنتی‌بیوتیک، یا برش و تخلیه‌ی داخل‌دهانی در مطب"
+            }
+          ]
+        },
+        {
+          "id": "9b9d04f9881e706652e3096412f8bc64bedf882423419a36506c67b08d6e0d0e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "همیشه با بستری در بیمارستان و آنتی‌بیوتیک وریدی چندروزه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همیشه با بستری در بیمارستان و آنتی‌بیوتیک وریدی چندروزه"
+            }
+          ]
+        },
+        {
+          "id": "865f2eee6385d9dcc85767b486963383d5a4dad023f8125e92c8bf19745edb35",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "همیشه با برش و تخلیه‌ی خارج‌دهانی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همیشه با برش و تخلیه‌ی خارج‌دهانی"
+            }
+          ]
+        },
+        {
+          "id": "426c5beb67f3a6526419005f59883a0efc8de4d823594ebe3813899a2520c66c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همیشه با جراحی مجدد تحت بی‌هوشی عمومی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همیشه با جراحی مجدد تحت بی‌هوشی عمومی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "4ef67f7ed325186d688296da7f283b93b0b20660febbc12cf254c94c481835b3"
+        ],
+        "explanation": "همین «جزئی» بودن، بخشی از استدلال علیه تجویز روتین است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین «جزئی» بودن، بخشی از استدلال علیه تجویز روتین است."
+          }
+        ],
+        "observedAt": "2026-11-18T21:15:39.981Z"
+      }
+    },
+    {
+      "id": "question:25843",
+      "sourceId": "25843",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "ff6bb1ea557b9ddaeee316b6756e048b92ae8889a6be6809500e22ca368d38dd",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "نتیجه‌گیری درباره‌ی آنتی‌بیوتیک پیش از عمل چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نتیجه‌گیری درباره‌ی آنتی‌بیوتیک پیش از عمل چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برای تمام اعمال جراحی دهان توصیه می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها برای شرایط منتخب توصیه می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در هیچ شرایطی توصیه نمی‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها بر اساس نظر شخصی درمانگر تعیین می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3732956040bcdc2c41331b22bcb8d75d3c1d529d150b304add872a1371fe8a4b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "برای تمام اعمال جراحی دهان توصیه می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "برای تمام اعمال جراحی دهان توصیه می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "ca9ceed90ddf27d4d844cc0739bd029ed10dbcf8a56e03102e6140a0ade1ef4a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تنها برای شرایط منتخب توصیه می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها برای شرایط منتخب توصیه می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "b7e0de8647b4d7d5521fa2d57681196ad3a9e1ce82545bf4e4d624761ecf57de",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "در هیچ شرایطی توصیه نمی‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در هیچ شرایطی توصیه نمی‌شود"
+            }
+          ]
+        },
+        {
+          "id": "73c31a8d9f80e51e7bfa1f0177d4ae527d93d03e36126182f92ff7c169c8e942",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تنها بر اساس نظر شخصی درمانگر تعیین می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها بر اساس نظر شخصی درمانگر تعیین می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ca9ceed90ddf27d4d844cc0739bd029ed10dbcf8a56e03102e6140a0ade1ef4a"
+        ],
+        "explanation": "نه همیشه، نه هرگز؛ فقط در شرایط منتخب.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نه همیشه، نه هرگز؛ فقط در شرایط منتخب."
+          }
+        ],
+        "observedAt": "2026-11-18T21:15:45.168Z"
+      }
+    },
+    {
+      "id": "question:25844",
+      "sourceId": "25844",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "100eb6fecbf663e42dba9e98a8fbc214bbfc1b598d921f7d648179f751988ecb",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام جمع‌بندی، استدلال کامل علیه پروفیلاکسی روتین را بیان می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام جمع‌بندی، استدلال کامل علیه پروفیلاکسی روتین را بیان می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اثر دارو واقعی است، ولی نرخ پایه پایین و عفونت‌ها خفیف‌اند، پس فایده‌ی کم، آلرژی و مقاومت و هزینه را توجیه نمی‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آنتی‌بیوتیک هیچ اثری بر نرخ عفونت پس از جراحی دهان ندارد، پس تجویزش در هیچ بیمار و در هیچ شرایطی منطقی و قابل دفاع نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آنتی‌بیوتیک نرخ عفونت را تا ۷۰ درصد کم می‌کند، پس باید پیش از هر عمل جراحی دهان، حتی کشیدن ساده‌ی یک دندان، تجویز شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شواهد ناکافی است، پس تصمیم کاملاً به سلیقه‌ی درمانگر واگذار می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "95e1cec06bf7c58c7a9ade1e0b620839c6782c0cb74fdfd6f9543012cc31d783",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اثر دارو واقعی است، ولی نرخ پایه پایین و عفونت‌ها خفیف‌اند، پس فایده‌ی کم، آلرژی و مقاومت و هزینه را توجیه نمی‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اثر دارو واقعی است، ولی نرخ پایه پایین و عفونت‌ها خفیف‌اند، پس فایده‌ی کم، آلرژی و مقاومت و هزینه را توجیه نمی‌کند"
+            }
+          ]
+        },
+        {
+          "id": "d2b03d6737fa72c5aa6dac731a6bce14741c75278ca72c82fa049c3e82af6119",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "آنتی‌بیوتیک هیچ اثری بر نرخ عفونت پس از جراحی دهان ندارد، پس تجویزش در هیچ بیمار و در هیچ شرایطی منطقی و قابل دفاع نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آنتی‌بیوتیک هیچ اثری بر نرخ عفونت پس از جراحی دهان ندارد، پس تجویزش در هیچ بیمار و در هیچ شرایطی منطقی و قابل دفاع نیست"
+            }
+          ]
+        },
+        {
+          "id": "e1dcec5f2bb55fd5cafa9564d858ed4b1d670e6038250097dbc00af6b765b167",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آنتی‌بیوتیک نرخ عفونت را تا ۷۰ درصد کم می‌کند، پس باید پیش از هر عمل جراحی دهان، حتی کشیدن ساده‌ی یک دندان، تجویز شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آنتی‌بیوتیک نرخ عفونت را تا ۷۰ درصد کم می‌کند، پس باید پیش از هر عمل جراحی دهان، حتی کشیدن ساده‌ی یک دندان، تجویز شود"
+            }
+          ]
+        },
+        {
+          "id": "9302cff3641c04b306b4a61d37ae9a1baa01ec67c2f81b37e87fe7affe16ae33",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "شواهد ناکافی است، پس تصمیم کاملاً به سلیقه‌ی درمانگر واگذار می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شواهد ناکافی است، پس تصمیم کاملاً به سلیقه‌ی درمانگر واگذار می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "95e1cec06bf7c58c7a9ade1e0b620839c6782c0cb74fdfd6f9543012cc31d783"
+        ],
+        "explanation": "آنتی‌بیوتیک نرخ را از ۶ تا ۹ درصد به حدود ۳٫۳ درصد می‌رساند؛ ولی نرخ پایه پایین است، عفونت‌ها جزئی‌اند و عفونت فضای عمقی گزارش نشده — پس سنجش خطر و فایده تصمیم را عوض می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آنتی‌بیوتیک نرخ را از ۶ تا ۹ درصد به حدود ۳٫۳ درصد می‌رساند؛ ولی نرخ پایه پایین است، عفونت‌ها جزئی‌اند و عفونت فضای عمقی گزارش نشده — پس سنجش خطر و فایده تصمیم را عوض می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-18T21:15:51.119Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:a8001846cb02e9d08cc7d5987968dddff454f66445800adeb7c80a16dc80f0c8",
+      "at": "2026-11-18T21:15:11.878Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:56a6cd28a84be6035ce0547d822c1f9940c6ab0ff01423c18411aa91c7cc1bf3",
+      "at": "2026-11-18T21:15:13.492Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:25834",
+      "at": "2026-11-18T21:15:15.104Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:25835",
+      "at": "2026-11-18T21:15:30.578Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:25840",
+      "at": "2026-11-18T21:15:35.980Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:25843",
+      "at": "2026-11-18T21:15:41.592Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:25844",
+      "at": "2026-11-18T21:15:46.785Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

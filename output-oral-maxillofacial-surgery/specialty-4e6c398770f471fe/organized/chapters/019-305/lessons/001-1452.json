@@ -1,0 +1,1480 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1452/lesson.json",
+  "id": "1452",
+  "title": "درس اول: باورِ غلطی که همه دارند",
+  "specialtyKey": "4e6c398770f471fe",
+  "chapter": {
+    "id": "305",
+    "title": "جراحی درمان است، دارو کمک",
+    "position": 19
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:2f6b9310abb78e7dde2706b31a5c56497c4967119795613e07799bf0335e370e",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "3a5925406e2a1654e98e58c6faf1ab3fc6df5ee73be4b85019feaa138cdfb364",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اصل چهارم: جراحی درمان است، دارو کمک"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اصل چهارم مدیریت عفونت اودنتوژنیک:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " عفونت را با جراحی درمان کن."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با یک هشدار شروع می‌کنیم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " یکی از شایع‌ترین باورهای غلط درباره‌ی عفونت‌های اودنتوژنیک، نقش آنتی‌بیوتیک به‌عنوان روش اصلی درمان است."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/surg-fig-16-3.webp",
+                  "alt": "سوراخ‌شدگی کورتکس زیر محل اتصال بوکسیناتور، عفونت را به فضای باکال می‌برد",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/e9d3a9a7409bccd62f3caeb0705d07bb886c5b1a4346e7f4832ad688f3745e10.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سوراخ‌شدگی کورتکس زیر محل اتصال بوکسیناتور، عفونت را به فضای باکال می‌برد "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Hupp, Ellis & Tucker. Contemporary OMFS, 7th ed. — Fig. 16.3)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جمله‌ای که باید کلمه‌به‌کلمه در ذهنت بماند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " عفونت اودنتوژنیک یک فرایند بیماری "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جراحی‌مدیریت‌شونده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است و آنتی‌بیوتیک، اگر اصلاً اندیکاسیون داشته باشد، تنها نقش کمکی دارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و این یک نظر نیست — شواهدش روشن است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " شواهد قوی به‌روشنی نشان می‌دهند که مدیریت جراحی به‌طور معناداری بر درمان صرفاً آنتی‌بیوتیکی برتری دارد در بهبود پارامترهای بالینی گوناگون، شامل دمای بدن، مقادیر آزمایشگاهی، و مدت بستری در بیمارستان."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و حالا استدلال ساختاری که همه‌چیز را جا می‌اندازد —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " سه عامل در مدیریت عفونت اودنتوژنیک دخیل‌اند:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "حذف منشأ عفونت"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "برقراری تخلیه‌ی جراحی"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بسیج سیستم دفاعی میزبان"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و نکته‌ی تعیین‌کننده:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دو عامل نخست تنها به‌صورت جراحی قابل دستیابی‌اند. به همین علت است که فهم نقش مرکزی مدیریت جراحی آسان می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:bd83c7e21865b75fad18d5788167669ed48a28a71d9c1eeaa7fee0c0464f4d0c",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "691a6cd3434c1426a8ade343949f5ad4abab55e14d8c13cb15e896566b09e676",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "«جراحی» اینجا یعنی چه"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک تعریف مهم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در این زمینه، «جراحی» تنها برش و تخلیه و کشیدن دندان مقصر نیست — بلکه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی اشکال حذف منشأ عفونت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را در بر می‌گیرد، مانند خارج کردن پالپ (با درمان ریشه‌ی قطعی بعدی) و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درمان پریودنتال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و پس از تشخیص عفونت اودنتوژنیک (با شناسایی درست منشأ)، نخستین جزء مدیریت جراحی، حذف علت است — که به آن «کنترل منشأ» هم می‌گویند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و روش کنترل منشأ به دو چیز بستگی دارد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " علت اختصاصی (اندودانتیک یا پریودنتال)، و شدت."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اگر عفونت اندودانتیک تشخیص داده شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — مثلاً پالپ نکروتیک ناشی از پوسیدگی یا شکستگی دندان — اگر عفونت به زائده‌ی آلوئولار محدود مانده و بیمار ایمنی سالم دارد، کنترل منشأ از راه دسترسی اندودانتیک و فورامن آپیکال معمولاً تخلیه‌ی کافی عفونت را فراهم می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {
+                    "tone": "warning"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ولی این نیازمند آن است که دندان قابل نجات باشد — در غیر این صورت، کشیدن، «تخلیه» را فراهم می‌کند، به‌علاوه‌ی حذف قطعی منشأ عفونت."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سه موقعیتی که در آن‌ها برش و تخلیه‌ی جراحی اندیکاسیون دارد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " وقتی دسترسی اندودانتیک تخلیه‌ی کافی فراهم نمی‌کند، وقتی عفونت از زائده‌ی آلوئولار گذشته و به فضای وستیبولار یا سایر فضاهای بافت نرم رفته، و وقتی بیمار دچار نقص ایمنی تشخیص داده می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:25604",
+      "sourceId": "25604",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "3b9d2b351cd8128f0d29c4546d07aef003762805f4cb139b4f388d1ad873ea3a",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام باور، از رایج‌ترین باورهای غلط درباره‌ی عفونت‌های اودنتوژنیک است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام باور، از رایج‌ترین باورهای غلط درباره‌ی عفونت‌های اودنتوژنیک است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نقش آنتی‌بیوتیک به‌عنوان روش اصلی درمان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نقش تخلیه به‌عنوان تنها روش درمان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینکه همه‌ی این عفونت‌ها خودمحدودشونده‌اند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اینکه همه‌ی این عفونت‌ها نیازمند بستری‌اند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b617c819dfc40c05d59c5944d63587604fada38968cc94dca2d971cb2caab1d1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نقش آنتی‌بیوتیک به‌عنوان روش اصلی درمان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نقش آنتی‌بیوتیک به‌عنوان روش اصلی درمان"
+            }
+          ]
+        },
+        {
+          "id": "3a2f28fd7b923eda3bf77d61ba0667d70c8187a5908c40381024f5382ea35bbb",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "نقش تخلیه به‌عنوان تنها روش درمان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نقش تخلیه به‌عنوان تنها روش درمان"
+            }
+          ]
+        },
+        {
+          "id": "6fd743a4af7225853162c59e44c6a080979a7b90ad5303d3c83ebd4c6b752f19",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اینکه همه‌ی این عفونت‌ها خودمحدودشونده‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینکه همه‌ی این عفونت‌ها خودمحدودشونده‌اند"
+            }
+          ]
+        },
+        {
+          "id": "19861527d985eb13a48d65295cd7a477094c62e398a55a8dfcbb347ee53b617c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اینکه همه‌ی این عفونت‌ها نیازمند بستری‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اینکه همه‌ی این عفونت‌ها نیازمند بستری‌اند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "b617c819dfc40c05d59c5944d63587604fada38968cc94dca2d971cb2caab1d1"
+        ],
+        "explanation": "همین باور است؛ آنتی‌بیوتیک درمان کمکی است، نه روش اصلی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین باور است؛ آنتی‌بیوتیک درمان کمکی است، نه روش اصلی."
+          }
+        ],
+        "observedAt": "2026-11-18T21:10:49.966Z"
+      }
+    },
+    {
+      "id": "question:25608",
+      "sourceId": "25608",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "37bf120bf80432f399a328da42910eb567d0f67adf50d1264c1b70ddcfd3b0ad",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا مدیریت جراحی نقش مرکزی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا مدیریت جراحی نقش مرکزی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون جراحی هزینه‌ی کمتری از یک دوره‌ی طولانی درمان دارویی برای بیمار دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون جراحی سریع‌ترین راه کاهش درد بیمار است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون دو عامل از سه عامل مدیریت، تنها با جراحی به دست می‌آیند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون جراحی نیاز به پیگیری و ویزیت‌های بعدی را به‌کلی از بین می‌برد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "354ee8da273d0ee387ff813c7262e39d54fd859dc49a22350c5b0c57f01762bb",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون جراحی هزینه‌ی کمتری از یک دوره‌ی طولانی درمان دارویی برای بیمار دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون جراحی هزینه‌ی کمتری از یک دوره‌ی طولانی درمان دارویی برای بیمار دارد"
+            }
+          ]
+        },
+        {
+          "id": "a0e30600e7544efd082c929c887a94ff97266a70f1eee693ce587d46928767d5",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون جراحی سریع‌ترین راه کاهش درد بیمار است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون جراحی سریع‌ترین راه کاهش درد بیمار است"
+            }
+          ]
+        },
+        {
+          "id": "908a01bf9f880e7c7bea47ade62bd9a521ef6b2d48c4aea9c95a95ad5827e590",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون دو عامل از سه عامل مدیریت، تنها با جراحی به دست می‌آیند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون دو عامل از سه عامل مدیریت، تنها با جراحی به دست می‌آیند"
+            }
+          ]
+        },
+        {
+          "id": "dc4db25dd30cabf2c0c81f1f1e7c164723191a55202f7d32e39b79154d45a3f2",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون جراحی نیاز به پیگیری و ویزیت‌های بعدی را به‌کلی از بین می‌برد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون جراحی نیاز به پیگیری و ویزیت‌های بعدی را به‌کلی از بین می‌برد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "908a01bf9f880e7c7bea47ade62bd9a521ef6b2d48c4aea9c95a95ad5827e590"
+        ],
+        "explanation": "استدلال ساختاری است، نه سلیقه‌ای: منشأ و تخلیه را هیچ دارویی فراهم نمی‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "استدلال ساختاری است، نه سلیقه‌ای: منشأ و تخلیه را هیچ دارویی فراهم نمی‌کند."
+          }
+        ],
+        "observedAt": "2026-11-18T21:10:55.461Z"
+      }
+    },
+    {
+      "id": "question:25612",
+      "sourceId": "25612",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "cb2b33258068b5338e45397e4f8d652b3f674bc980d4161fc845c424154563f5",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در عفونت با منشأ اندودانتیک، کنترل منشأ چگونه انجام می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در عفونت با منشأ اندودانتیک، کنترل منشأ چگونه انجام می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با جرم‌گیری و صاف‌کردن سطح ریشه در پاکت دندان مسئول، بدون باز کردن اتاقک پالپ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از راه دسترسی اندودانتیک و فورامن آپیکال، که معمولاً تخلیه‌ی کافی می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها با برش وستیبولار و گذاشتن درن، چون تخلیه از داخل دندان به بافت نرم نمی‌رسد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها با تجویز آنتی‌بیوتیک وسیع‌الطیف"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "904b9dffe88d08affbeb687e85ef549396fb0b9d001b1042f6ad96e96ebcd76a",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "با جرم‌گیری و صاف‌کردن سطح ریشه در پاکت دندان مسئول، بدون باز کردن اتاقک پالپ",
+          "content": [
+            {
+              "tag": "text",
+              "text": "با جرم‌گیری و صاف‌کردن سطح ریشه در پاکت دندان مسئول، بدون باز کردن اتاقک پالپ"
+            }
+          ]
+        },
+        {
+          "id": "ede22afeceb286def1648d997020df87fa3680d6388baeacecb4b732d203f79c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "از راه دسترسی اندودانتیک و فورامن آپیکال، که معمولاً تخلیه‌ی کافی می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از راه دسترسی اندودانتیک و فورامن آپیکال، که معمولاً تخلیه‌ی کافی می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "8b97448f71fb08ab78bf82d1f6c87e7cb7c73afaa5964cbe30b76042eabb2834",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تنها با برش وستیبولار و گذاشتن درن، چون تخلیه از داخل دندان به بافت نرم نمی‌رسد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها با برش وستیبولار و گذاشتن درن، چون تخلیه از داخل دندان به بافت نرم نمی‌رسد"
+            }
+          ]
+        },
+        {
+          "id": "156527101c6beb233130f317807363de5698354619737dddebf442e8d5d56085",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تنها با تجویز آنتی‌بیوتیک وسیع‌الطیف",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها با تجویز آنتی‌بیوتیک وسیع‌الطیف"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ede22afeceb286def1648d997020df87fa3680d6388baeacecb4b732d203f79c"
+        ],
+        "explanation": "به شرط آنکه دندان قابل نجات باشد؛ این راه برای عفونتی کافی است که به زائده‌ی آلوئولار محدود مانده و بیمار ایمنی سالم دارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "به شرط آنکه دندان قابل نجات باشد؛ این راه برای عفونتی کافی است که به زائده‌ی آلوئولار محدود مانده و بیمار ایمنی سالم دارد."
+          }
+        ],
+        "observedAt": "2026-11-18T21:11:00.977Z"
+      }
+    },
+    {
+      "id": "question:25614",
+      "sourceId": "25614",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "862c05e788d4c96631e58b7dc232fa27c44a553815a2ed54ea1178e6193e85b6",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اگر دندان قابل نجات نباشد چه می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اگر دندان قابل نجات نباشد چه می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید تنها آنتی‌بیوتیک داد و کشیدن را به پس از فروکش عفونت موکول کرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید ابتدا درمان ریشه انجام شود و سپس درباره‌ی کشیدن تصمیم گرفت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن، هم تخلیه را فراهم می‌کند و هم حذف قطعی منشأ را"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باید تنها برش وستیبولار زد و دندان را دست‌نخورده باقی گذاشت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "dcd6500b5c3282296d20ad0d29cdae4ed3e99ab3fef77bf756781158b80a21f3",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "باید تنها آنتی‌بیوتیک داد و کشیدن را به پس از فروکش عفونت موکول کرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید تنها آنتی‌بیوتیک داد و کشیدن را به پس از فروکش عفونت موکول کرد"
+            }
+          ]
+        },
+        {
+          "id": "7fee5c76dbd61e187dc08c2b2b7acdf798ac7f7e588504ea3da291ad624920e5",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "باید ابتدا درمان ریشه انجام شود و سپس درباره‌ی کشیدن تصمیم گرفت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید ابتدا درمان ریشه انجام شود و سپس درباره‌ی کشیدن تصمیم گرفت"
+            }
+          ]
+        },
+        {
+          "id": "4c8aba2de9d70a2a3bf187a376248a16aca0b7f9a04f5164eca5a5301381bd70",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کشیدن، هم تخلیه را فراهم می‌کند و هم حذف قطعی منشأ را",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن، هم تخلیه را فراهم می‌کند و هم حذف قطعی منشأ را"
+            }
+          ]
+        },
+        {
+          "id": "60b92a3c7fb48aa4ea8f8b39e74bd39898d8ebc4caeb9705339fef7ad2651743",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "باید تنها برش وستیبولار زد و دندان را دست‌نخورده باقی گذاشت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "باید تنها برش وستیبولار زد و دندان را دست‌نخورده باقی گذاشت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "4c8aba2de9d70a2a3bf187a376248a16aca0b7f9a04f5164eca5a5301381bd70"
+        ],
+        "explanation": "کشیدن دو کار را با هم می‌کند: تخلیه، و حذف قطعی منشأ.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کشیدن دو کار را با هم می‌کند: تخلیه، و حذف قطعی منشأ."
+          }
+        ],
+        "observedAt": "2026-11-18T21:11:06.332Z"
+      }
+    },
+    {
+      "id": "question:25618",
+      "sourceId": "25618",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "b2949b56ce97b0e691f7b35f359b7b9947242976f454e50f6b1718bd860a7a31",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار با آبسه‌ی وستیبولار از مولر با پالپ نکروتیک، دندان کاملاً قابل نجات. برنامه‌ی تو؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار با آبسه‌ی وستیبولار از مولر با پالپ نکروتیک، دندان کاملاً قابل نجات. برنامه‌ی تو؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تنها آنتی‌بیوتیک خوراکی و تصمیم درباره‌ی دندان در ویزیت بعد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن فوری دندان، چون منشأ باید کاملاً و قطعی حذف شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دسترسی اندودانتیک برای کنترل منشأ، همراه با برش و تخلیه‌ی آبسه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط دسترسی اندودانتیک؛ تخلیه از راه کانال برای آبسه‌ی وستیبولار هم کافی است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "c90d39fc7ddeac8b984c76a9c4e114c05ca33a351d5075c54c4b8309911878d1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تنها آنتی‌بیوتیک خوراکی و تصمیم درباره‌ی دندان در ویزیت بعد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تنها آنتی‌بیوتیک خوراکی و تصمیم درباره‌ی دندان در ویزیت بعد"
+            }
+          ]
+        },
+        {
+          "id": "6818e75ccde84519c270d8bd580db88b77b1f058e2244e6c0fca153537144bf4",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کشیدن فوری دندان، چون منشأ باید کاملاً و قطعی حذف شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن فوری دندان، چون منشأ باید کاملاً و قطعی حذف شود"
+            }
+          ]
+        },
+        {
+          "id": "44331d7010df118bcbf684dac9191063fd685f558b4a8f1f99f01ba2f9c206de",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دسترسی اندودانتیک برای کنترل منشأ، همراه با برش و تخلیه‌ی آبسه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دسترسی اندودانتیک برای کنترل منشأ، همراه با برش و تخلیه‌ی آبسه"
+            }
+          ]
+        },
+        {
+          "id": "6f76efc4d30f462206a86bbb8b39ee4582129708b601e4e6a97ac96a0dae521d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فقط دسترسی اندودانتیک؛ تخلیه از راه کانال برای آبسه‌ی وستیبولار هم کافی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط دسترسی اندودانتیک؛ تخلیه از راه کانال برای آبسه‌ی وستیبولار هم کافی است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "44331d7010df118bcbf684dac9191063fd685f558b4a8f1f99f01ba2f9c206de"
+        ],
+        "explanation": "عفونت از زائده‌ی آلوئولار به فضای وستیبولار رسیده، پس دسترسی اندودانتیک به‌تنهایی کافی نیست؛ و چون دندان قابل نجات است، کشیدن انتخاب اول نیست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "عفونت از زائده‌ی آلوئولار به فضای وستیبولار رسیده، پس دسترسی اندودانتیک به‌تنهایی کافی نیست؛ و چون دندان قابل نجات است، کشیدن انتخاب اول نیست."
+          }
+        ],
+        "observedAt": "2026-11-18T21:11:11.777Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:2f6b9310abb78e7dde2706b31a5c56497c4967119795613e07799bf0335e370e",
+      "at": "2026-11-18T21:10:31.848Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:bd83c7e21865b75fad18d5788167669ed48a28a71d9c1eeaa7fee0c0464f4d0c",
+      "at": "2026-11-18T21:10:33.440Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:25604",
+      "at": "2026-11-18T21:10:35.044Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:25608",
+      "at": "2026-11-18T21:10:51.567Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:25612",
+      "at": "2026-11-18T21:10:57.059Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:25614",
+      "at": "2026-11-18T21:11:02.564Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:25618",
+      "at": "2026-11-18T21:11:07.905Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

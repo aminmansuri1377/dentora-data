@@ -1,0 +1,1427 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1435/lesson.json",
+  "id": "1435",
+  "title": "درس چهارم: چرا این مولر بی‌حس نمی‌شود",
+  "specialtyKey": "4e6c398770f471fe",
+  "chapter": {
+    "id": "301",
+    "title": "وقتی بی‌حسی خراب می‌شود",
+    "position": 15
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:e461d29aff66733c8b94b916e1ec61ab836cc9b11937c4d37481605e91e6ea27",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "5576bd18024dcf29ef7fe60990fc1004512cd62aad5813fb3a26ecada90c83ba",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مسئله‌ای که هنوز کاملاً حل نشده"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یکی از پرتکرارترین پرسش‌های دندانپزشکان در دوره‌های بازآموزی بی‌حسی همین است: چرا در دندانی که پالپش به‌طور حاد درگیر است، بی‌حسی پالپی مؤثر به‌سختی به دست می‌آید؟"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/surg-fig-6-13.webp",
+                  "alt": "سطح لینگوال مندیبل و محل ورود عصب آلوئولار تحتانی",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/9e2b1ce58fff5b6fc3cf2237eeb80726c38e3c02272011498183c6989ff2f10e.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سطح لینگوال مندیبل و محل ورود عصب آلوئولار تحتانی "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Hupp, Ellis & Tucker. Contemporary OMFS, 7th ed. — Fig. 6.13)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یعنی این یک مسئله‌ی حاشیه‌ای نیست —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دندانپزشکان باتجربه هم مدام با آن روبه‌رو می‌شوند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قاعده‌ی کلی ساده است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اگر داروی بی‌حسی را به عصب برسانی، کنترل درد تقریباً تضمین است. ولی در برخی موقعیت‌های بالینی «رسیدن به عصب» مشکلی تکرارشونده می‌ماند؛ به‌ویژه در مندیبل و بیش از همه در مولرهای دائمی پایین."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پاسخ صادقانه به اینکه آیا مسئله حل شده:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " هنوز نه؛ ولی داریم نزدیک‌تر می‌شویم."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پس اگر بی‌حسی مولر پایین ملتهب نمی‌گیرد، مشکل لزوماً از تو نیست —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " این یک محدودیت شناخته‌شده‌ی رشته است. ولی این به معنای تسلیم شدن نیست؛ در ادامه راهبردهای موجود را می‌بینی."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:41aff83ca5568be2998c91f37a31ca0c93ce545946ce7e3c8b846ad4471dfc71",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "a8cc6a75cf4290b9350d1be54829e11a0eaa3f6c66177db556997cf1a087a590",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "راهبردها: از انفیلتراسیون تا تکنیک‌های مکمل"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در ماگزیلا، انفیلتراسیون همچنان پرکاربردترین تکنیک برای بی‌حسی پالپی باقی مانده است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ولی وقتی آناتومی ریشه واریانت است — مثلاً ریشه‌ی پالاتال مولر بیش از معمول به سمت خط وسط منحرف شده — انفیلتراسیون باکال ممکن است ریشه‌ی پالاتال را بی‌حس نکند، و این معمولاً تا وقتی کار به سمت پالاتال نرسیده معلوم نمی‌شود. "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بلاک PSA"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " صرف‌نظر از آناتومی ریشه‌ها بی‌حسی می‌دهد، و راهبردهای مکمل هم هستند، از جمله "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تزریق داخل لیگامان پریودنتال"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نکته که از یونیت اول همین ماژول می‌آید و اینجا کاربردی می‌شود:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " در بافت ملتهب و اسیدی، افزودن حجم بیشتر در همان نقطه راه‌حل نیست. راه‌حل، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییر محل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (رفتن به بلاک بالادست) یا "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییر روش"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (تزریق مکمل داخل لیگامانی یا داخل استخوانی) است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک راهبرد فارماکولوژیک: محلول بی‌حسی بافرشده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " روشی است که نرخ موفقیت بلاک آلوئولار تحتانی و سایر بلاک‌های مندیبولار را افزایش داده است — و همچنین حساسیت بیمار حین پیشروی سوزن را کم می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "منطق بافربندی مستقیماً از درس اول این ماژول می‌آید:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بالا بردن pH محلول، سهم فرم بازِ نفوذکننده را زیاد می‌کند — دقیقاً همان چیزی که بافت ملتهب از تو گرفته بود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "با این حال در مولر پایین با پالپیت برگشت‌ناپذیر علامت‌دار، کارآزمایی‌ها هنوز افزایش معناداری در موفقیت نشان نداده‌اند؛ بافربندی کمک است، نه تضمین."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:24959",
+      "sourceId": "24959",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "746e4e8a4b9434a2960a20a89d8cfbe4018c22af4aaf450eb11b7dc2980b5624",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "ناتوانی در گرفتن بی‌حسی پالپی در دندانی که پالپش به‌طور حاد درگیر است، در عمل چه جایگاهی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ناتوانی در گرفتن بی‌حسی پالپی در دندانی که پالپش به‌طور حاد درگیر است، در عمل چه جایگاهی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسئله‌ای نادر است که تنها در دانشجویان و دندانپزشکان تازه‌کار دیده می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از پرتکرارترین پرسش‌های دندانپزشکان، حتی باتجربه‌ها، در بازآموزی‌هاست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسئله‌ای بیشتر حقوقی است که با فرم رضایت آگاهانه مدیریت می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسئله‌ای قدیمی است که با داروهای امروزی دیگر پیش نمی‌آید"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4b9572f36f39241f8b6cd23b116801a6e63866b3e774ba56ad544a9288346b26",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مسئله‌ای نادر است که تنها در دانشجویان و دندانپزشکان تازه‌کار دیده می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مسئله‌ای نادر است که تنها در دانشجویان و دندانپزشکان تازه‌کار دیده می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "a1a09e5069cf08cfe21b6605ae9b2330be9c25ad37b31b584200862dfe17a736",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "از پرتکرارترین پرسش‌های دندانپزشکان، حتی باتجربه‌ها، در بازآموزی‌هاست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از پرتکرارترین پرسش‌های دندانپزشکان، حتی باتجربه‌ها، در بازآموزی‌هاست"
+            }
+          ]
+        },
+        {
+          "id": "3746bb8bef421a8a0d1d480062208d410a48a145316564bf7e96fbf951de374b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مسئله‌ای بیشتر حقوقی است که با فرم رضایت آگاهانه مدیریت می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مسئله‌ای بیشتر حقوقی است که با فرم رضایت آگاهانه مدیریت می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "9cccc7d194a3ab544684bddef3ca62e2c05cddc8b60fa620ff3498abc2118917",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مسئله‌ای قدیمی است که با داروهای امروزی دیگر پیش نمی‌آید",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مسئله‌ای قدیمی است که با داروهای امروزی دیگر پیش نمی‌آید"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a1a09e5069cf08cfe21b6605ae9b2330be9c25ad37b31b584200862dfe17a736"
+        ],
+        "explanation": "دندانپزشکان باتجربه هم مدام با آن روبه‌رو می‌شوند؛ پس مسئله‌ی تازه‌کارها نیست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دندانپزشکان باتجربه هم مدام با آن روبه‌رو می‌شوند؛ پس مسئله‌ی تازه‌کارها نیست."
+          }
+        ],
+        "observedAt": "2026-11-18T20:51:47.226Z"
+      }
+    },
+    {
+      "id": "question:24964",
+      "sourceId": "24964",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "c7790182cb3eccdda79a9141ffc372091d5dbae8c8886b84aa524601a8c92c12",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام راهبرد مکمل در این موقعیت مطرح می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام راهبرد مکمل در این موقعیت مطرح می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعویض دارو به محلول بدون وازوکنستریکتور"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکرار همان انفیلتراسیون با حجم دو برابر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تزریق مکمل داخل لیگامان پریودنتال"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تجویز مسکن خوراکی و به تعویق انداختن کار"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4d821f9f2b8aa50eda7fb4985a6fd7d8557d17f60e7ec0a10c7d2dfbc2e951f7",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تعویض دارو به محلول بدون وازوکنستریکتور",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تعویض دارو به محلول بدون وازوکنستریکتور"
+            }
+          ]
+        },
+        {
+          "id": "dfc3470bc60353d567bae6f64c65a020f4ff46f780128bb873624f088909e165",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تکرار همان انفیلتراسیون با حجم دو برابر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تکرار همان انفیلتراسیون با حجم دو برابر"
+            }
+          ]
+        },
+        {
+          "id": "e2b381aa637195a55aa788106098bb47715b75af69b748204c63aff7ce1ea01f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تزریق مکمل داخل لیگامان پریودنتال",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تزریق مکمل داخل لیگامان پریودنتال"
+            }
+          ]
+        },
+        {
+          "id": "ea0cba59b61aabf1f2294d195ccd8e87be5fc659d0207839866dfd442648a883",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تجویز مسکن خوراکی و به تعویق انداختن کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تجویز مسکن خوراکی و به تعویق انداختن کار"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "e2b381aa637195a55aa788106098bb47715b75af69b748204c63aff7ce1ea01f"
+        ],
+        "explanation": "تغییر روش، نه مقدار.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تغییر "
+          },
+          {
+            "tag": "strong",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "text",
+                "text": "روش"
+              }
+            ]
+          },
+          {
+            "tag": "text",
+            "text": "، نه مقدار."
+          }
+        ],
+        "observedAt": "2026-11-18T20:51:52.578Z"
+      }
+    },
+    {
+      "id": "question:24967",
+      "sourceId": "24967",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "4047c5dee25191f2744a4377d79ba7148685571c37aca1b9939090839bda2ab3",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "جز افزایش موفقیت، بافربندی چه فایده‌ی دیگری دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "جز افزایش موفقیت، بافربندی چه فایده‌ی دیگری دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حساسیت بیمار را حین پیشروی سوزن کم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مدت بی‌حسی بافت نرم را به‌طور محسوسی کوتاه می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر هماتوم را در بلاک‌های عمیق کاهش می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیاز به وازوکنستریکتور را در محلول برطرف می‌کند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "c2ac963c082ba81b054d529830258f80c2f6bfebfe29f28bbccae3307e1f04f2",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حساسیت بیمار را حین پیشروی سوزن کم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حساسیت بیمار را حین پیشروی سوزن کم می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "a053835d6dc0245d63d32b8adc1ece80d97f6961b2bc223750744988f03e8e28",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مدت بی‌حسی بافت نرم را به‌طور محسوسی کوتاه می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مدت بی‌حسی بافت نرم را به‌طور محسوسی کوتاه می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "fabf7edde9a9c9593a508b29ddef21e6cb13d4ef5c714520d4911e3113009770",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "خطر هماتوم را در بلاک‌های عمیق کاهش می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطر هماتوم را در بلاک‌های عمیق کاهش می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "8c29389a73f32aa09f2e7ad2c0de677d07a50cc87e0e2827d389fe2a61a57a31",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نیاز به وازوکنستریکتور را در محلول برطرف می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیاز به وازوکنستریکتور را در محلول برطرف می‌کند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c2ac963c082ba81b054d529830258f80c2f6bfebfe29f28bbccae3307e1f04f2"
+        ],
+        "explanation": "همین آن را برای بیمار مضطرب جذاب می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همین آن را برای بیمار مضطرب جذاب می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-18T20:52:12.440Z"
+      }
+    },
+    {
+      "id": "question:24968",
+      "sourceId": "24968",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "95710520ae8b98e5bdf8d5c54b7ff00cd1b3c0c864d049b6a879c7369930180e",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بافت ملتهب و اسیدی، کدام اقدام راه‌حل\nنیست\n؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بافت ملتهب و اسیدی، کدام اقدام راه‌حل "
+            },
+            {
+              "tag": "strong",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نیست"
+                }
+              ]
+            },
+            {
+              "tag": "text",
+              "text": "؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استفاده از تزریق مکمل داخل لیگامان پریودنتال"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رفتن به بلاک عصبی در بافت سالم بالادست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزودن حجم بیشتر در همان نقطه‌ی تزریق"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استفاده از محلول بی‌حسی بافرشده با pH بالاتر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "91e7f8071bbac354498ca5dec0c79278d484076dd1295e15e4673f4e831cbf65",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "استفاده از تزریق مکمل داخل لیگامان پریودنتال",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استفاده از تزریق مکمل داخل لیگامان پریودنتال"
+            }
+          ]
+        },
+        {
+          "id": "7a396867dd6c53d79fbc7797ce79cf9bc0326d1fed90981f8c3e4e6a9b299d8b",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "رفتن به بلاک عصبی در بافت سالم بالادست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رفتن به بلاک عصبی در بافت سالم بالادست"
+            }
+          ]
+        },
+        {
+          "id": "4e7ad78f152c303fe192a066851115a552a1cc378777e2be1f9591ddac2e6218",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "افزودن حجم بیشتر در همان نقطه‌ی تزریق",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزودن حجم بیشتر در همان نقطه‌ی تزریق"
+            }
+          ]
+        },
+        {
+          "id": "1887360edd9f3e036f62466303eb21aa41064eb168c310544a7821aa800a979c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "استفاده از محلول بی‌حسی بافرشده با pH بالاتر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استفاده از محلول بی‌حسی بافرشده با pH بالاتر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "4e7ad78f152c303fe192a066851115a552a1cc378777e2be1f9591ddac2e6218"
+        ],
+        "explanation": "مشکل مقدار نیست، عبور از غشاست.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مشکل مقدار نیست، عبور از غشاست."
+          }
+        ],
+        "observedAt": "2026-11-18T20:52:03.186Z"
+      }
+    },
+    {
+      "id": "question:24972",
+      "sourceId": "24972",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "804c133501776185ad41a89ec75b12d7cbae9c444d4ad1077bf634c742c6c986",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مفهوم از یونیت فارماکولوژی، شکست بی‌حسی در دندان ملتهب را توضیح می‌دهد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مفهوم از یونیت فارماکولوژی، شکست بی‌حسی در دندان ملتهب را توضیح می‌دهد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جابه‌جایی تعادل باز و کاتیون در pH پایین و اختلال در عبور از غشا"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کم‌خونی موضعی بافت ملتهب که پخش دارو را به سمت تنه‌ی عصب کند می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش اتصال دارو به پروتئین پلاسما و کاهش فرم آزاد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تبدیل دارو به متابولیت غیرفعال به‌وسیله‌ی آنزیم‌های التهابی در محل تزریق"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "cea52579df2a1d00b41cc269f3d835fb6604971bc0b561e591c22fb1249ee036",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "جابه‌جایی تعادل باز و کاتیون در pH پایین و اختلال در عبور از غشا",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جابه‌جایی تعادل باز و کاتیون در pH پایین و اختلال در عبور از غشا"
+            }
+          ]
+        },
+        {
+          "id": "31bf432065cb2ee345498e9aa7e12b653bf6b4022c6d588246f845b14ec85fde",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کم‌خونی موضعی بافت ملتهب که پخش دارو را به سمت تنه‌ی عصب کند می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کم‌خونی موضعی بافت ملتهب که پخش دارو را به سمت تنه‌ی عصب کند می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "d1160a901c7128886c7c601f7488e4c90ba9f514a39919649cd1ba3746540a2b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "افزایش اتصال دارو به پروتئین پلاسما و کاهش فرم آزاد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش اتصال دارو به پروتئین پلاسما و کاهش فرم آزاد"
+            }
+          ]
+        },
+        {
+          "id": "f5bd05ecd996c15ca6b91883d9f0a6900d45acbed2c019449048abe63d92caed",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تبدیل دارو به متابولیت غیرفعال به‌وسیله‌ی آنزیم‌های التهابی در محل تزریق",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تبدیل دارو به متابولیت غیرفعال به‌وسیله‌ی آنزیم‌های التهابی در محل تزریق"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "cea52579df2a1d00b41cc269f3d835fb6604971bc0b561e591c22fb1249ee036"
+        ],
+        "explanation": "همان زنجیره‌ای که در درس اول ماژول ساختی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "همان زنجیره‌ای که در درس اول ماژول ساختی."
+          }
+        ],
+        "observedAt": "2026-11-18T20:52:08.999Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:e461d29aff66733c8b94b916e1ec61ab836cc9b11937c4d37481605e91e6ea27",
+      "at": "2026-11-18T20:51:29.442Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:41aff83ca5568be2998c91f37a31ca0c93ce545946ce7e3c8b846ad4471dfc71",
+      "at": "2026-11-18T20:51:31.046Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:24959",
+      "at": "2026-11-18T20:51:32.635Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:24964",
+      "at": "2026-11-18T20:51:48.849Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:24967",
+      "at": "2026-11-18T20:51:54.198Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:24968",
+      "at": "2026-11-18T20:51:59.631Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:24972",
+      "at": "2026-11-18T20:52:04.782Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:24967",
+      "at": "2026-11-18T20:52:10.567Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

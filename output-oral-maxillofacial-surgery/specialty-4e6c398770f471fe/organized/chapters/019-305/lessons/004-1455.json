@@ -1,0 +1,1547 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1455/lesson.json",
+  "id": "1455",
+  "title": "درس چهارم: کِی آنتی‌بیوتیک بدهی، کِی ندهی",
+  "specialtyKey": "4e6c398770f471fe",
+  "chapter": {
+    "id": "305",
+    "title": "جراحی درمان است، دارو کمک",
+    "position": 19
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:51dbadbe67308cace4acd1b9bc6d660c29109e5065fcb424f0fc34f0c7485b52",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "1f9a01256e7aa2723a1484eb9cdb989252a78fba962770ef0e9f3190b22ea41b",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اصل ششم: آیا آنتی‌بیوتیک لازم است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اصل ششم مدیریت عفونت اودنتوژنیک:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آنتی‌بیوتیک مناسب را انتخاب و تجویز کن — و نخستین پرسشش این است که اصلاً لازم است یا نه."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هرگاه درمان آنتی‌بیوتیکی در نظر گرفته می‌شود، درمانگر باید خطرها و فایده‌ها را با دقت بسنجد."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/surg-fig-16-10.webp",
+                  "alt": "برش در پایین‌ترین نقطه‌ی ممکن، از تخلیه‌ی ناقص جلوگیری می‌کند",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/09485e4a2053d4393f2faec9dbad1e070dfff51e02e0c3d14083e163d004fbcc.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برش در پایین‌ترین نقطه‌ی ممکن، از تخلیه‌ی ناقص جلوگیری می‌کند "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Hupp, Ellis & Tucker. Contemporary OMFS, 7th ed. — Fig. 16.10)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و سه عامل اصلی که باید در تعیین مناسب بودن آنتی‌بیوتیک کمکی در نظر گرفته شوند:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شدت عفونت"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "توانایی انجام درمان جراحی"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سیستم دفاعی میزبان بیمار"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دو تا از این سه را در یونیت پیشین شناختی —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " شدت (اصل یک) و میزبان (اصل دو)؛ سومی، توانایی انجام جراحی، تازه است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "عفونت‌های شدید، به‌ویژه آن‌ها که فضاهای فاشیال عمیق‌تر را درگیر می‌کنند یا با سلولیت همراه‌اند، پس از کنترل منشأ و تخلیه‌ی کامل از آنتی‌بیوتیک سود می‌برند؛ فضای عمقی را بدون CT نمی‌توان کامل وارسی کرد و خطر تخلیه‌ی ناقص در آن بیشتر است. موارد مناسب دیگر: تورم فراتر از زائده‌ی آلوئولار، تریسموس، لنفادنوپاتی، تب بالاتر از ۳۸٫۳ درجه، پریکورونیت شدید، استئومیلیت، و بیمار با نقص ایمنی (همراه با درمان جراحی مناسب)."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و اگر عفونت حاد اجازه‌ی کنترل منشأ و تخلیه را ندهد — مثلاً پریکورونیت شدید با محدودیت باز شدن دهان از درد — آنتی‌بیوتیک تجربی گاهی پیش از جراحی می‌آید تا دهان باز شود و جراحی ممکن شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و دو مثال مهم از موقعیت‌هایی که آنتی‌بیوتیک در آن‌ها لازم نیست:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " پریکورونیت خفیف، و آبسه‌ی تخلیه‌شده‌ای که به زائده‌ی آلوئولار محدود است. درخواست بیمار، درد شدیدی که از عفونت نیست، دندان‌درد، پریودنتیت یا آبسه‌ی پری‌اپیکال، دراسکت، و تجویز پس از کشیدن چند دندان در بیمار با ایمنی سالم هم دلیل تجویز نیستند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ببین منطق چقدر ساده است:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اگر منشأ حذف شده، عفونت تخلیه شده، محل سطحی است و میزبان سالم است — کاری برای آنتی‌بیوتیک باقی نمی‌ماند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:b4b521d65f02da0cb624983658b0dd87d4218b58b003a27017e12fb3e84c1915",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "0a4c950dad67bdb978990062e1d441c707e423b0d55c5d207e2bfc52fe1edd69",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هزینه‌ی تجویز بی‌مورد"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اتکای بیش از حد به آنتی‌بیوتیک، فهرستی از خطرها دارد:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خطر افزایش مقاومت آنتی‌بیوتیکی"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خطر افزایش عوارض جانبی آنتی‌بیوتیک"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " — شامل "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عفونت‌های فرصت‌طلب"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " و خطرهای جدی‌تری مانند "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آنافیلاکسی"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {
+                    "tone": "warning"
+                  },
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "و مهم‌ترین:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ممکن است به مدیریت جراحی ناکافی بینجامد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و همان جمله‌ی کلیدی، دوباره:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باید به‌روشنی فهمید که آنتی‌بیوتیک‌ها همیشه باید به‌عنوان "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مکمل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مدیریت جراحی در نظر گرفته شوند، نه "
+                },
+                {
+                  "tag": "em",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جایگزین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آن."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک یافته‌ی پژوهشی که شاید غافلگیرت کند:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مرورهای نظام‌مند نشان می‌دهند که انتخاب آنتی‌بیوتیک، هنگامی که همراه با درمان جراحی (کنترل منشأ و برش و تخلیه) به کار رود، به‌طور معناداری بر نتایج درمان اثر نمی‌گذارد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "یعنی وقتی جراحی درست انجام شده باشد، اینکه کدام آنتی‌بیوتیک را انتخاب کرده‌ای، تفاوت معناداری نمی‌سازد. و این دقیقاً نشان می‌دهد که کدام بخش درمان واقعاً کار می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و پیامد عملی این یافته:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " انرژی‌ات را صرف انتخاب «بهترین» آنتی‌بیوتیک نکن؛ صرف اطمینان از کامل بودن جراحی کن."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:25650",
+      "sourceId": "25650",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "8b7310ba6c8b5f444795c7e6590581055f2ee5c183163e6bb082e807f84bafc0",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "هرگاه درمان آنتی‌بیوتیکی در نظر گرفته می‌شود، درمانگر چه باید بکند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هرگاه درمان آنتی‌بیوتیکی در نظر گرفته می‌شود، درمانگر چه باید بکند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دوز را بر اساس وزن بیمار دو برابر کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وسیع‌الطیف‌ترین گزینه را انتخاب کند تا پوشش کامل باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همیشه کشت بگیرد و منتظر نتیجه بماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطرها و فایده‌ها را با دقت بسنجد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "6c09c32dcfdad255a782578bd43bb3417e3ec4db054f890a97d06f5d6aab160b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دوز را بر اساس وزن بیمار دو برابر کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دوز را بر اساس وزن بیمار دو برابر کند"
+            }
+          ]
+        },
+        {
+          "id": "456fa6ee9d93532ae3c0f324b5bfbfb2c5da6137de6ce54dd6f8ee23d948e365",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "وسیع‌الطیف‌ترین گزینه را انتخاب کند تا پوشش کامل باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وسیع‌الطیف‌ترین گزینه را انتخاب کند تا پوشش کامل باشد"
+            }
+          ]
+        },
+        {
+          "id": "5ef83ade69cc675c9735320414a11334dbf8ef545b70ab6998904bb82504075b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "همیشه کشت بگیرد و منتظر نتیجه بماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همیشه کشت بگیرد و منتظر نتیجه بماند"
+            }
+          ]
+        },
+        {
+          "id": "25f58f32fa2a8e611c658536865ab204d4ae972dd49afc7cfdf78f263c32fd35",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "خطرها و فایده‌ها را با دقت بسنجد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطرها و فایده‌ها را با دقت بسنجد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "25f58f32fa2a8e611c658536865ab204d4ae972dd49afc7cfdf78f263c32fd35"
+        ],
+        "explanation": "تجویز یک تصمیم است، نه یک عادت.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تجویز یک تصمیم است، نه یک عادت."
+          }
+        ],
+        "observedAt": "2026-11-18T21:13:08.635Z"
+      }
+    },
+    {
+      "id": "question:25652",
+      "sourceId": "25652",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "73607048a5e765040237766338cb18e4aedbd12328cd702e791aa0a7eec411bf",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام موقعیت‌ها آنتی‌بیوتیک لازم ندارند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام موقعیت‌ها آنتی‌بیوتیک لازم ندارند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر عفونتی در بیمار جوان زیر سی سال، و هر عفونتی که با تب همراه نباشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آبسه‌ی فضای باکال، و پریکورونیت همراه با تریسموس و تب"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پریکورونیت خفیف، و آبسه‌ی تخلیه‌شده‌ی محدود به زائده‌ی آلوئولار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر عفونت مزمن با سابقه‌ی چندماهه، و هر عفونتی که منشأ پریودنتال دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d50f6d3677d53db0f36c6b701fc486c93e96793f77e6c1627be4c92d89b27096",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر عفونتی در بیمار جوان زیر سی سال، و هر عفونتی که با تب همراه نباشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر عفونتی در بیمار جوان زیر سی سال، و هر عفونتی که با تب همراه نباشد"
+            }
+          ]
+        },
+        {
+          "id": "f953182d5ffdd0620f8dad57f0199829ae6d805941e7e2fa57de14b7f558a328",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "آبسه‌ی فضای باکال، و پریکورونیت همراه با تریسموس و تب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آبسه‌ی فضای باکال، و پریکورونیت همراه با تریسموس و تب"
+            }
+          ]
+        },
+        {
+          "id": "4c697871c9e0c91889e1ca130f165753b3c47db44e1e54052690b62d40cd095f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "پریکورونیت خفیف، و آبسه‌ی تخلیه‌شده‌ی محدود به زائده‌ی آلوئولار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پریکورونیت خفیف، و آبسه‌ی تخلیه‌شده‌ی محدود به زائده‌ی آلوئولار"
+            }
+          ]
+        },
+        {
+          "id": "2254242ce1f91f8e109954fb2ed4f858af2b3e04d850434625fdd48749011822",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هر عفونت مزمن با سابقه‌ی چندماهه، و هر عفونتی که منشأ پریودنتال دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر عفونت مزمن با سابقه‌ی چندماهه، و هر عفونتی که منشأ پریودنتال دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "4c697871c9e0c91889e1ca130f165753b3c47db44e1e54052690b62d40cd095f"
+        ],
+        "explanation": "هر دو در فهرست موارد بی‌نیاز از آنتی‌بیوتیک‌اند؛ آبسه‌ی فضای باکال و تریسموس برعکس، از موارد مناسب تجویزند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هر دو در فهرست موارد بی‌نیاز از آنتی‌بیوتیک‌اند؛ آبسه‌ی فضای باکال و تریسموس برعکس، از موارد مناسب تجویزند."
+          }
+        ],
+        "observedAt": "2026-11-18T21:13:14.174Z"
+      }
+    },
+    {
+      "id": "question:25655",
+      "sourceId": "25655",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "f9ef6a8abad116f955c527dfaea8c70f381f1ba30a37628d218f12ced3e4678e",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اتکای بیش از حد به آنتی‌بیوتیک چه خطرهایی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اتکای بیش از حد به آنتی‌بیوتیک چه خطرهایی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش اثر بی‌حسی موضعی، افزایش خطر خشکی حفره، تأخیر در بهبودی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افزایش هزینه‌ی درمان، طولانی شدن جلسه، نارضایتی بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تداخل با داروهای مسکن و ضدالتهاب، اختلال در ترمیم زخم مخاطی، افزایش خون‌ریزی پس از جراحی دندان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مقاومت آنتی‌بیوتیکی، عوارض جانبی مانند عفونت فرصت‌طلب و آنافیلاکسی، مدیریت جراحی ناکافی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "29e80a8a93019c7e5782a7cd1b3c7232f0d3e9b63c3d82a4070c1b160ebb8a82",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کاهش اثر بی‌حسی موضعی، افزایش خطر خشکی حفره، تأخیر در بهبودی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش اثر بی‌حسی موضعی، افزایش خطر خشکی حفره، تأخیر در بهبودی"
+            }
+          ]
+        },
+        {
+          "id": "e12f2b1d7c8c1041ddf7828588793ca9615a167cbe630a74a7e26c002e07e4be",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "افزایش هزینه‌ی درمان، طولانی شدن جلسه، نارضایتی بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "افزایش هزینه‌ی درمان، طولانی شدن جلسه، نارضایتی بیمار"
+            }
+          ]
+        },
+        {
+          "id": "f2ca0bc0f2f029973b87ccd1ed48181e4d8fdece503ad5ce4a0fd330bd574273",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تداخل با داروهای مسکن و ضدالتهاب، اختلال در ترمیم زخم مخاطی، افزایش خون‌ریزی پس از جراحی دندان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تداخل با داروهای مسکن و ضدالتهاب، اختلال در ترمیم زخم مخاطی، افزایش خون‌ریزی پس از جراحی دندان"
+            }
+          ]
+        },
+        {
+          "id": "f50758552a281826b8016c51f1cfd30935c0c1738e6ca9948d80fca3fde76854",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "مقاومت آنتی‌بیوتیکی، عوارض جانبی مانند عفونت فرصت‌طلب و آنافیلاکسی، مدیریت جراحی ناکافی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مقاومت آنتی‌بیوتیکی، عوارض جانبی مانند عفونت فرصت‌طلب و آنافیلاکسی، مدیریت جراحی ناکافی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f50758552a281826b8016c51f1cfd30935c0c1738e6ca9948d80fca3fde76854"
+        ],
+        "explanation": "خطر سوم از همه خطرناک‌تر است، چون درمان اصلی را کنار می‌زند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "خطر سوم از همه خطرناک‌تر است، چون درمان اصلی را کنار می‌زند."
+          }
+        ],
+        "observedAt": "2026-11-18T21:13:19.741Z"
+      }
+    },
+    {
+      "id": "question:25660",
+      "sourceId": "25660",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "57bd8ff45cc56807c92c32e75127671203e5ed92b65ab764cb1449d0469d044e",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکاری از این یافته نتیجه می‌گیرد «پس آنتی‌بیوتیک اصلاً اهمیتی ندارد و می‌توان حذفش کرد». اشکال کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکاری از این یافته نتیجه می‌گیرد «پس آنتی‌بیوتیک اصلاً اهمیتی ندارد و می‌توان حذفش کرد». اشکال کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشکال تنها این است که در کودکان، به علت ایمنی نابالغ، باید استثنا قائل شد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشکالی ندارد؛ وقتی انتخاب دارو بی‌اثر است، خود دارو هم اثری ندارد و می‌توان آن را به‌کلی کنار گذاشت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یافته درباره‌ی «کدام دارو» است، نه «آیا دارو»؛ در عفونت شدید یا میزبان مختل، دارو لازم می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشکال تنها این است که باید در بیماران بستری استثنا قائل شد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a5126009efe335c1dc8365cf5b3e1812e15f6d84f69d503d41446c116e0f7c4e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اشکال تنها این است که در کودکان، به علت ایمنی نابالغ، باید استثنا قائل شد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشکال تنها این است که در کودکان، به علت ایمنی نابالغ، باید استثنا قائل شد"
+            }
+          ]
+        },
+        {
+          "id": "66fbe77e8d05f4ea949cd2004b41904f228164bc192a3e9bf7e5b0e73b51975d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اشکالی ندارد؛ وقتی انتخاب دارو بی‌اثر است، خود دارو هم اثری ندارد و می‌توان آن را به‌کلی کنار گذاشت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشکالی ندارد؛ وقتی انتخاب دارو بی‌اثر است، خود دارو هم اثری ندارد و می‌توان آن را به‌کلی کنار گذاشت"
+            }
+          ]
+        },
+        {
+          "id": "3204276aa792a6baf7767e465a45d6cf0448deeb56489bbc03631eff52f0ae54",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "یافته درباره‌ی «کدام دارو» است، نه «آیا دارو»؛ در عفونت شدید یا میزبان مختل، دارو لازم می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یافته درباره‌ی «کدام دارو» است، نه «آیا دارو»؛ در عفونت شدید یا میزبان مختل، دارو لازم می‌ماند"
+            }
+          ]
+        },
+        {
+          "id": "e40103cc825cfdf93d4cd064ecfafd1908988dc02d422b32ebe67017dfe4e24c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اشکال تنها این است که باید در بیماران بستری استثنا قائل شد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشکال تنها این است که باید در بیماران بستری استثنا قائل شد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3204276aa792a6baf7767e465a45d6cf0448deeb56489bbc03631eff52f0ae54"
+        ],
+        "explanation": "تفاوت «کدام دارو» با «آیا دارو» همین است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "تفاوت «کدام دارو» با «آیا دارو» همین است."
+          }
+        ],
+        "observedAt": "2026-11-18T21:13:25.453Z"
+      }
+    },
+    {
+      "id": "question:25663",
+      "sourceId": "25663",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "3a84dc3aae14c87ab3a7f0e61a9b89c2f6f4a7316e02a68ed12a50ef7a360502",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "چرا «توانایی انجام درمان جراحی» یکی از سه عامل تصمیم آنتی‌بیوتیک است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چرا «توانایی انجام درمان جراحی» یکی از سه عامل تصمیم آنتی‌بیوتیک است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون اگر نتوانی جراحی لازم را انجام دهی، نقش دارو تغییر می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون جراحی و آنتی‌بیوتیک هرگز هم‌زمان در یک بیمار به کار نمی‌روند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون هزینه‌ی جراحی و بیمه‌ی بیمار بر انتخاب نوع دارو اثر می‌گذارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون بیمه‌ی درمانی در بیشتر موارد تنها یکی از این دو درمان را پوشش می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "6e0e7f896917262f21775bac18d5bd63dd96df3673365c4be94298e1b5fd5ba8",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "چون اگر نتوانی جراحی لازم را انجام دهی، نقش دارو تغییر می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون اگر نتوانی جراحی لازم را انجام دهی، نقش دارو تغییر می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "ee138daa95485f9e416db11a37a1e98b126897ec5d194b5b7119c84de170e15c",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "چون جراحی و آنتی‌بیوتیک هرگز هم‌زمان در یک بیمار به کار نمی‌روند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون جراحی و آنتی‌بیوتیک هرگز هم‌زمان در یک بیمار به کار نمی‌روند"
+            }
+          ]
+        },
+        {
+          "id": "cbf79408c7c6fc359666a158719d6f5155866403426263047241ddcebdd15ab1",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون هزینه‌ی جراحی و بیمه‌ی بیمار بر انتخاب نوع دارو اثر می‌گذارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون هزینه‌ی جراحی و بیمه‌ی بیمار بر انتخاب نوع دارو اثر می‌گذارد"
+            }
+          ]
+        },
+        {
+          "id": "6e355d65fc8525c4606eb2e0814d8927ae652730f251c9a9908a65cf0eca36ce",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "چون بیمه‌ی درمانی در بیشتر موارد تنها یکی از این دو درمان را پوشش می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون بیمه‌ی درمانی در بیشتر موارد تنها یکی از این دو درمان را پوشش می‌دهد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6e0e7f896917262f21775bac18d5bd63dd96df3673365c4be94298e1b5fd5ba8"
+        ],
+        "explanation": "مثلاً در پریکورونیت شدید با محدودیت باز شدن دهان، دارو گاهی پیش از جراحی می‌آید تا دسترسی فراهم شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مثلاً در پریکورونیت شدید با محدودیت باز شدن دهان، دارو گاهی پیش از جراحی می‌آید تا دسترسی فراهم شود."
+          }
+        ],
+        "observedAt": "2026-11-18T21:13:34.281Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:51dbadbe67308cace4acd1b9bc6d660c29109e5065fcb424f0fc34f0c7485b52",
+      "at": "2026-11-18T21:12:50.026Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:b4b521d65f02da0cb624983658b0dd87d4218b58b003a27017e12fb3e84c1915",
+      "at": "2026-11-18T21:12:51.622Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:25650",
+      "at": "2026-11-18T21:12:53.225Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:25652",
+      "at": "2026-11-18T21:13:10.246Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:25655",
+      "at": "2026-11-18T21:13:15.780Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:25660",
+      "at": "2026-11-18T21:13:21.344Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:25663",
+      "at": "2026-11-18T21:13:27.061Z",
+      "progress": "width: 85.7143%;"
+    },
+    {
+      "stepId": "question:25663",
+      "at": "2026-11-18T21:13:32.569Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

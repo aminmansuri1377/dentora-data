@@ -1,0 +1,1476 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1453/lesson.json",
+  "id": "1453",
+  "title": "درس دوم: تخلیه فقط خالی کردن چرک نیست",
+  "specialtyKey": "4e6c398770f471fe",
+  "chapter": {
+    "id": "305",
+    "title": "جراحی درمان است، دارو کمک",
+    "position": 19
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:c0445af3f09f98377b0560ec81291cd32333825abf5420262efad7d3df5745f1",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "ed1d7030518b4adfcd43eba58886f22302bd40b2e367f77ffa58ba1fde365ddb",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سه هدف تخلیه"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بگذار روشن بگوییم:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " باید فهمید که هدف تخلیه‌ی جراحی صرفاً «برداشتن چرک» نیست."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/surg-fig-16-11.webp",
+                  "alt": "تکنیک برش و تخلیه‌ی آبسه‌ی وستیبولار",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/d68771fcd4aea4aa8b71ab89d4171031ae6b8b30011675125cac9a6175e6c38c.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تکنیک برش و تخلیه‌ی آبسه‌ی وستیبولار "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Hupp, Ellis & Tucker. Contemporary OMFS, 7th ed. — Fig. 16.11)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بلکه سه هدف دارد:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش بار باکتریایی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دکمپرس کردن بافت‌های نرم و کاهش فشار بافتی موضعی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {
+                    "tone": "note"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و فراهم کردن یک مسیر خروج (تراکت) برای جلوگیری از تجمع دوباره‌ی احتمالی عفونت در همان محل"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نتیجه‌ی بسیار مهم بالینی از همین سه هدف:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برش و تخلیه تنها به آبسه‌ها اختصاص ندارد، بلکه می‌تواند ترمیم سلولیت را هم از راه همان سازوکار تسهیل کند — یعنی کاهش بار باکتریایی و کاهش فشار بافتی موضعی."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و یک نکته‌ی دیگر: تخلیه‌ی جراحی در سلولیت می‌تواند برای بهبود عروق‌رسانی جهت ترمیم و نفوذ آنتی‌بیوتیک سیستمیک هم در نظر گرفته شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک هشدار قاطع:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " تخلیه‌ی جراحی باید از تخلیه‌ی ساده‌ی چرک تفکیک شود. اعمالی مانند آسپیراسیون با سوزن، نقش کمی یا هیچ نقشی در مدیریت قطعی عفونت‌های اودنتوژنیک ندارند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و در سوی دیگر —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دو موقعیتی که برش و تخلیه لازم نیست: نبود تورم، و مرحله‌ی اولیه‌ی تلقیح، جایی که تورم نرم، منتشر و تنها اندکی حساس است. با این حال این نکته را دست‌کم نگیر: بیشتر سایر موقعیت‌های عفونت اودنتوژنیک، نیازمند تخلیه‌ی جراحی‌اند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:ed8961b48672f24d5e6505afa6aeabced2b2ea1f26e0808972144e1126554e74",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "a276d73e0fdde233fd25871dd5cb4c25b7ca9b07ce9bde72a76dd2cfa1a5648b",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تکنیک: دسترسی، برش، و آنچه نباید ببری"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نخستین گام مدیریت جراحی، تعیین مناسب‌ترین مسیر دسترسی برای برش و تخلیه است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و پیش از هر چیز، درمانگر باید مطمئن شود که بیمار دامنه‌ی حرکتی کافی مندیبل دارد تا اجازه‌ی دسترسی کافی برای برش، اکسپلور و تخلیه‌ی ناحیه‌ی عفونی را بدهد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و یک نکته‌ی بسیار کاربردی درباره‌ی تریسموس:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " وقتی دسترسی ناکافی تشخیص داده می‌شود، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "می‌توان از بی‌دردی و کاهش اضطراب استفاده کرد —"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " چون محدودیت باز شدن دهان همراه با عفونت فضای وستیبولار، تقریباً همیشه ناشی از محافظت از درد (guarding) است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و اگر این اقدامات دسترسی داخل‌دهانی را بهتر نکنند، بیمار باید بی‌درنگ به جراح دهان و فک و صورت ارجاع داده شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گام بعدی، خودِ برش است. و قاعده‌ی کلی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برش مستقیماً روی ناحیه‌ی حداکثر تورم گذاشته می‌شود تا تخلیه‌ی وابسته به جاذبه ممکن شود."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ولی دو قید مهم دارد:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مهم است که از بریدن در عرض مسیر ساختارهای حیاتی پرهیز شود — مانند دسته‌ی عصبی-عروقی چانه‌ای در ناحیه‌ی پرمولر مندیبل."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {
+                    "tone": "note"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و در عفونت وستیبولار فک بالا، باید به گذاشتن برش در "
+                    },
+                    {
+                      "tag": "em",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پایین‌ترین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بخش تورم توجه شود تا حداکثر تخلیه‌ی وابسته به جاذبه حاصل شود."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و برش باید به‌اندازه‌ی کافی بلند و عمیق باشد:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دست‌کم ۱۰ تا ۱۵ میلی‌متر طول، و در عمق دست‌کم از مخاط و زیرمخاط بگذرد. اشتباه رایج، برشی است که بیش از حد سطحی، کوتاه یا هر دو باشد: برش سطحی به چرک زیرین نمی‌رسد و بافت را دکمپرس نمی‌کند، و برش کوتاه اجازه‌ی اکسپلور کامل نمی‌دهد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "و برای اعمال برش و تخلیه‌ی خارج‌دهانی در عفونت‌های پیچیده، عوامل دیگری هم باید در نظر گرفته شوند: جای زخم صورت، و آسیب بالقوه‌ی عروقی و عصب فاسیال."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:25619",
+      "sourceId": "25619",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "ddc5808da5581d56d2d6a7a84e883e1a292940aefc3c3b932ce63e3eb40ca03d",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "سه هدف تخلیه‌ی جراحی کدام‌اند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سه هدف تخلیه‌ی جراحی کدام‌اند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "برداشتن چرک، کاهش درد، کاهش تب"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش بار باکتریایی، دکمپرس بافت نرم، ساختن مسیر خروج برای پیشگیری از تجمع دوباره"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گرفتن نمونه برای کشت، کاهش تورم، تسریع ترمیم زخم"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استریل کردن کامل حفره، کاهش نیاز به بستری، کوتاه کردن دوره‌ی مصرف آنتی‌بیوتیک پس از عمل"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "f35eef951ad37a026bdba15aed8be3836bc21d8546c0e2016fe75dc1fd94cf96",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "برداشتن چرک، کاهش درد، کاهش تب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "برداشتن چرک، کاهش درد، کاهش تب"
+            }
+          ]
+        },
+        {
+          "id": "dc97e1c8400096282c68bc87d6825e51f75b390e42211bfcdf0fdb441e2bc7d5",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کاهش بار باکتریایی، دکمپرس بافت نرم، ساختن مسیر خروج برای پیشگیری از تجمع دوباره",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش بار باکتریایی، دکمپرس بافت نرم، ساختن مسیر خروج برای پیشگیری از تجمع دوباره"
+            }
+          ]
+        },
+        {
+          "id": "d4fb94c8ef976103d9f7bff20f272e123a486d792e6fb75a6153474e3581e958",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "گرفتن نمونه برای کشت، کاهش تورم، تسریع ترمیم زخم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گرفتن نمونه برای کشت، کاهش تورم، تسریع ترمیم زخم"
+            }
+          ]
+        },
+        {
+          "id": "e06f674ac181f87c4a6ad0dd17c9020f741ab7135842d848b3b3100356bcb053",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "استریل کردن کامل حفره، کاهش نیاز به بستری، کوتاه کردن دوره‌ی مصرف آنتی‌بیوتیک پس از عمل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استریل کردن کامل حفره، کاهش نیاز به بستری، کوتاه کردن دوره‌ی مصرف آنتی‌بیوتیک پس از عمل"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "dc97e1c8400096282c68bc87d6825e51f75b390e42211bfcdf0fdb441e2bc7d5"
+        ],
+        "explanation": "هدف فقط «برداشتن چرک» نیست؛ کاهش فشار بافت و ساختن راه خروج هم به همان اندازه مهم‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هدف فقط «برداشتن چرک» نیست؛ کاهش فشار بافت و ساختن راه خروج هم به همان اندازه مهم‌اند."
+          }
+        ],
+        "observedAt": "2026-11-18T21:11:36.628Z"
+      }
+    },
+    {
+      "id": "question:25624",
+      "sourceId": "25624",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "53b12a2a49b10927aa6e955d83223232175c36351628d6e58347bba87791506b",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "تورم در مرحله‌ی اولیه‌ی تلقیح چه ویژگی‌هایی دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تورم در مرحله‌ی اولیه‌ی تلقیح چه ویژگی‌هایی دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نرم، منتشر، تنها اندکی حساس"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفت، محدود، بسیار حساس"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نوسان‌دار، محدود، بدون حساسیت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفت، منتشر، بدون حساسیت"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8ad3c58339656a8b11236c2c7537503b3fbc09f5d9b3fdbec236037e8040ee8f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نرم، منتشر، تنها اندکی حساس",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نرم، منتشر، تنها اندکی حساس"
+            }
+          ]
+        },
+        {
+          "id": "0245f1eec388721818f0fca8f47fc58eadc7060b04ef24a90d199b97301a2a3d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سفت، محدود، بسیار حساس",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفت، محدود، بسیار حساس"
+            }
+          ]
+        },
+        {
+          "id": "79eed7fcf3f7f66c15f69aff01d6c7bbdbdcaae245c565ed32462cb13804dafd",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نوسان‌دار، محدود، بدون حساسیت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نوسان‌دار، محدود، بدون حساسیت"
+            }
+          ]
+        },
+        {
+          "id": "4294f21eb08c839ec7465c4e5b0b985783312fe1c3f91bc3ae3a48d1e6f54c5c",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سفت، منتشر، بدون حساسیت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفت، منتشر، بدون حساسیت"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "8ad3c58339656a8b11236c2c7537503b3fbc09f5d9b3fdbec236037e8040ee8f"
+        ],
+        "explanation": "نرمی، انتشار و حساسیت خفیف با هم تصویر مرحله‌ی اولیه را می‌سازند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نرمی، انتشار و حساسیت خفیف با هم تصویر مرحله‌ی اولیه را می‌سازند."
+          }
+        ],
+        "observedAt": "2026-11-18T21:11:42.016Z"
+      }
+    },
+    {
+      "id": "question:25625",
+      "sourceId": "25625",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "4043d7187bd64a4415777e9cdc034b9f52c5c52eefff7b35df47323cae30bf5f",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "نخستین گام مدیریت جراحی از نظر تکنیکی چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "نخستین گام مدیریت جراحی از نظر تکنیکی چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انتخاب نوع و اندازه‌ی درن مناسب برای حفره‌ی آبسه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تعیین مناسب‌ترین مسیر دسترسی برای برش و تخلیه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تجویز آنتی‌بیوتیک پیش از عمل"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گرفتن رادیوگرافی پری‌اپیکال از دندان مسئول پیش از هر کاری"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5744d05a3f18c76c51be38954bbc231a3a33498f8ec013c7e8e0be8ac27092f3",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "انتخاب نوع و اندازه‌ی درن مناسب برای حفره‌ی آبسه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "انتخاب نوع و اندازه‌ی درن مناسب برای حفره‌ی آبسه"
+            }
+          ]
+        },
+        {
+          "id": "7b6ca5e716616605ab6f1b2265aa665e21444c93a265f90e16a01af7ebab7ea9",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تعیین مناسب‌ترین مسیر دسترسی برای برش و تخلیه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تعیین مناسب‌ترین مسیر دسترسی برای برش و تخلیه"
+            }
+          ]
+        },
+        {
+          "id": "6e5023a4fafce387c006a621087a0d546d10d3d587446118ddcfad772b7029ac",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تجویز آنتی‌بیوتیک پیش از عمل",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تجویز آنتی‌بیوتیک پیش از عمل"
+            }
+          ]
+        },
+        {
+          "id": "1be41b39285f5c4f2145d9fce014c3a8259cedc9245a234155aba3ae45ef48cc",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "گرفتن رادیوگرافی پری‌اپیکال از دندان مسئول پیش از هر کاری",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گرفتن رادیوگرافی پری‌اپیکال از دندان مسئول پیش از هر کاری"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "7b6ca5e716616605ab6f1b2265aa665e21444c93a265f90e16a01af7ebab7ea9"
+        ],
+        "explanation": "پیش از هر برشی، مسیر را تعیین کن.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پیش از هر برشی، مسیر را تعیین کن."
+          }
+        ],
+        "observedAt": "2026-11-18T21:11:47.500Z"
+      }
+    },
+    {
+      "id": "question:25628",
+      "sourceId": "25628",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "44604b6c0d448993d3da57dd898da72af0a80d72788bbc025fdb904426b843b0",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "قاعده‌ی کلی محل برش چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قاعده‌ی کلی محل برش چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روی ناحیه‌ی حداکثر تورم، برای تخلیه‌ی وابسته به جاذبه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در حاشیه‌ی تورم و در بافت سالم مجاور، تا لبه‌های زخم خوب ترمیم شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همیشه در عمق چین مخاطی-باکال و دور از تورم، برای پرهیز از عروق"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همیشه در بالاترین نقطه‌ی تورم"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "2218009f75c740815bdffddfe97eefdb3ddce8e9bdae49aa407f8041e3362e9e",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "روی ناحیه‌ی حداکثر تورم، برای تخلیه‌ی وابسته به جاذبه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "روی ناحیه‌ی حداکثر تورم، برای تخلیه‌ی وابسته به جاذبه"
+            }
+          ]
+        },
+        {
+          "id": "1bdba421e9b4e3c000fc0cbc39a89ea31cda41faacb14b05fdf43322508bebc7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "در حاشیه‌ی تورم و در بافت سالم مجاور، تا لبه‌های زخم خوب ترمیم شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "در حاشیه‌ی تورم و در بافت سالم مجاور، تا لبه‌های زخم خوب ترمیم شوند"
+            }
+          ]
+        },
+        {
+          "id": "c5d5278c783448fdab61392a68ddc5b3eeb1c8ddcd0128170a0db4fcb18f8b0d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "همیشه در عمق چین مخاطی-باکال و دور از تورم، برای پرهیز از عروق",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همیشه در عمق چین مخاطی-باکال و دور از تورم، برای پرهیز از عروق"
+            }
+          ]
+        },
+        {
+          "id": "a10d0dd08d7026a47524722caff9e9740ec9b7c607aeb8421591102b7ba42036",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همیشه در بالاترین نقطه‌ی تورم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همیشه در بالاترین نقطه‌ی تورم"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "2218009f75c740815bdffddfe97eefdb3ddce8e9bdae49aa407f8041e3362e9e"
+        ],
+        "explanation": "قاعده‌ی کلی همین است، ولی دو قید مهم دارد: ساختارهای حیاتی، و محل برش در فک بالا.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "قاعده‌ی کلی همین است، ولی دو قید مهم دارد: ساختارهای حیاتی، و محل برش در فک بالا."
+          }
+        ],
+        "observedAt": "2026-11-18T21:11:52.859Z"
+      }
+    },
+    {
+      "id": "question:25632",
+      "sourceId": "25632",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "7d1fce759b903434fe590acbc712447a74558a80d800d5df0cea86d1c7c16f08",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در برش و تخلیه‌ی خارج‌دهانی، چه عوامل بیشتری باید در نظر گرفته شوند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در برش و تخلیه‌ی خارج‌دهانی، چه عوامل بیشتری باید در نظر گرفته شوند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر عفونت زخم، و لزوم پانسمان روزانه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هزینه‌ی بیشتر، و مدت طولانی‌تر جلسه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیاز به بخیه‌ی زیبایی، و مصرف آنتی‌بیوتیک طولانی‌تر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جای زخم صورت، و آسیب بالقوه‌ی عروقی و عصب فاسیال"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4b0d9048e496e4b4e99d85846915b876e1d83782ef99aec2a876777e6e1f7456",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "خطر عفونت زخم، و لزوم پانسمان روزانه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطر عفونت زخم، و لزوم پانسمان روزانه"
+            }
+          ]
+        },
+        {
+          "id": "1ee4cbecd462570abe2e8bcd8dcc5382bc74ccb83d846e288fe6a71d5ff04db4",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هزینه‌ی بیشتر، و مدت طولانی‌تر جلسه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هزینه‌ی بیشتر، و مدت طولانی‌تر جلسه"
+            }
+          ]
+        },
+        {
+          "id": "07759f85d036f3d6cb8178e0d269979e61d424d1bb756a39511d08fe18c612a4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نیاز به بخیه‌ی زیبایی، و مصرف آنتی‌بیوتیک طولانی‌تر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیاز به بخیه‌ی زیبایی، و مصرف آنتی‌بیوتیک طولانی‌تر"
+            }
+          ]
+        },
+        {
+          "id": "65768609e94c63ba12de035dc0872a78bb584a42cdea8954d16aa405779f8a90",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "جای زخم صورت، و آسیب بالقوه‌ی عروقی و عصب فاسیال",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جای زخم صورت، و آسیب بالقوه‌ی عروقی و عصب فاسیال"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "65768609e94c63ba12de035dc0872a78bb584a42cdea8954d16aa405779f8a90"
+        ],
+        "explanation": "یکی زیبایی است و یکی عملکرد: جای زخم روی صورت، و آسیب عروق و عصب فاسیال.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "یکی زیبایی است و یکی عملکرد: جای زخم روی صورت، و آسیب عروق و عصب فاسیال."
+          }
+        ],
+        "observedAt": "2026-11-18T21:11:58.298Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:c0445af3f09f98377b0560ec81291cd32333825abf5420262efad7d3df5745f1",
+      "at": "2026-11-18T21:11:18.220Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:ed8961b48672f24d5e6505afa6aeabced2b2ea1f26e0808972144e1126554e74",
+      "at": "2026-11-18T21:11:19.818Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:25619",
+      "at": "2026-11-18T21:11:21.419Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:25624",
+      "at": "2026-11-18T21:11:38.231Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:25625",
+      "at": "2026-11-18T21:11:43.599Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:25628",
+      "at": "2026-11-18T21:11:48.939Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:25632",
+      "at": "2026-11-18T21:11:54.461Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
