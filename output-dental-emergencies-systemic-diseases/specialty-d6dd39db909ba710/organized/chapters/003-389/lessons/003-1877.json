@@ -1,0 +1,1397 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/1877/lesson.json",
+  "id": "1877",
+  "title": "درس سوم: ایست قلبی و CPR",
+  "specialtyKey": "d6dd39db909ba710",
+  "chapter": {
+    "id": "389",
+    "title": "آنژین، سکته‌ی قلبی و ایست قلبی",
+    "position": 3
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:cf6119a843161345062250a9a0cc2eeae75ee7df93e8761e3c60b9bc76f73598",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "0c1e128ba85b6177bf2f9da77223ed0f9477b274bda75968acb0a235a05820e7",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "تشخیص ایست قلبی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مرد ۶۷ ساله‌ای در اتاق انتظار ناگهان روی صندلی می‌افتد. صدایش می‌زنی و جواب نمی‌دهد. قفسه‌ی سینه‌اش تکان نمی‌خورد و فقط هر چند ثانیه یک نفس بریده‌بریده می‌کشد. آیا این «نفس کشیدن» است؟"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/med-fig-1-14.webp",
+                  "alt": "لمس نبض کاروتید کنار نای؛ در بیمار بی‌پاسخ بیش از ۱۰ ثانیه وقت نگذار",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/aacc5d3feb424ca41ded382ff907cf34abfa16578b48d4394bbb71f265f8c798.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لمس نبض کاروتید کنار نای؛ در بیمار بی‌پاسخ بیش از ۱۰ ثانیه وقت نگذار "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Little and Falace. Dental Management of the Medically Compromised Patient, 10th ed. — Fig. 1.14)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "نه. نفس بریده‌بریده و نامنظم (gasping) تنفس طبیعی نیست و در ایست قلبی شایع است. در "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایست قلبی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " قلب خون را پمپ نمی‌کند: نبض و فشار نیست، تنفس قطع می‌شود، سیانوز پیدا می‌شود و مردمک‌ها گشاد می‌شوند."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شایع‌ترین علت در بزرگسال ایسکمی قلب است؛ لخته در کرونر می‌تواند "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فیبریلاسیون بطنی (VF)"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " راه بیندازد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۴ تا ۶ دقیقه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بی‌اکسیژنی، آسیب مغزی برگشت‌ناپذیر می‌دهد."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سه کار نخست"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با تکان دادن شانه و صدا زدن بلند، پاسخ‌دهی را بسنج."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمک بخواه: یک نفر با ۱۱۵ تماس بگیرد و AED را بیاورد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نبض کاروتید و تنفس را هم‌زمان و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "حداکثر ۱۰ ثانیه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " بررسی کن."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباه رایج:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " وقت گذاشتن برای پیدا کردن نبض. اگر در ۱۰ ثانیه نبض را قطعاً حس نکردی، فشردن قفسه‌ی سینه را شروع کن."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:bf016b2a75de936b6c1cdca3ae214b64099ec3f2a8f1943d66ce7731f36b9141",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "d160eb1f7e1f09e55ffbe57277c350fc2dc1b87f9388bd820497f96fdd774be3",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "CPR با کیفیت بالا"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ترتیب احیا در ایست قلبی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "C-A-B"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است: اول فشردن قفسه‌ی سینه، بعد راه هوایی و تنفس."
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار را به پشت روی سطح سفت بخوابان؛ صندلی دندانپزشکی را کاملاً صاف کن یا بیمار را روی زمین بیاور."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پاشنه‌ی یک دست را روی نیمه‌ی پایینی جناغ بگذار و دست دیگر را رویش قفل کن؛ آرنج‌ها صاف."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۵ تا ۶ سانتی‌متر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، سرعت "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "۱۰۰ تا ۱۲۰ بار در دقیقه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بعد از هر فشار بگذار قفسه‌ی سینه کامل بالا بیاید تا قلب دوباره از خون پر شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در بزرگسال پس از هر ۳۰ فشار، ۲ تنفس بده: سر به عقب و چانه بالا، با ماسک جیبی یا آمبوبگ؛ هر تنفس حدود یک ثانیه، تا قفسه‌ی سینه بالا بیاید."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقفه‌ها را زیر ۱۰ ثانیه نگه دار."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فشارنده را هر ۲ دقیقه عوض کنید، بهتر است هنگام تحلیل ریتم AED؛ خستگی عمق فشار را کم می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در کودک، اگر دو امدادگر هستید نسبت ۱۵:۲ است؛ یک امدادگر ۳۰:۲."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "از کسی که آموزش احیا ندیده، فشردن قفسه‌ی سینه بدون تنفس بهتر از هیچ کاری است؛ ولی تیم مطب دندانپزشکی باید CPR کامل با تنفس را بلد باشد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:35375",
+      "sourceId": "35375",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "e4bd55aef5d922063c692dd412c2ee19013f6241851074b592a52c10d1f67c78",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار بی‌پاسخی که هر چند ثانیه یک نفس بریده‌بریده می‌کشد، چطور ارزیابی می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار بی‌پاسخی که هر چند ثانیه یک نفس بریده‌بریده می‌کشد، چطور ارزیابی می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نفس‌های بریده یعنی تشنج؛ دهانش را باز کن و چیزی بین دندان‌هایش بگذار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار نفس می‌کشد، پس ایست قلبی ندارد و کافی است او را به پهلو بخوابانی و پایش کنی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تا وقتی نفس‌های بریده ادامه دارد، یک دقیقه‌ی کامل نبض بگیر و بعد تصمیم بگیر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این تنفس طبیعی نیست؛ اگر در ۱۰ ثانیه نبض را قطعاً حس نکردی، CPR را شروع کن"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7eae8ad3f83271bfc0897336fc55bf6aca34ab1110535aed1ff46855cfd90a97",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نفس‌های بریده یعنی تشنج؛ دهانش را باز کن و چیزی بین دندان‌هایش بگذار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نفس‌های بریده یعنی تشنج؛ دهانش را باز کن و چیزی بین دندان‌هایش بگذار"
+            }
+          ]
+        },
+        {
+          "id": "25fcf379999573fc30ddd5d1fadbf0d69990865d173ca9607940ffa6535586d3",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بیمار نفس می‌کشد، پس ایست قلبی ندارد و کافی است او را به پهلو بخوابانی و پایش کنی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیمار نفس می‌کشد، پس ایست قلبی ندارد و کافی است او را به پهلو بخوابانی و پایش کنی"
+            }
+          ]
+        },
+        {
+          "id": "2afb050121abfb54550abc8ea4f133b668f4a5b9476ea25a1529b2c0d2c4caf0",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "تا وقتی نفس‌های بریده ادامه دارد، یک دقیقه‌ی کامل نبض بگیر و بعد تصمیم بگیر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تا وقتی نفس‌های بریده ادامه دارد، یک دقیقه‌ی کامل نبض بگیر و بعد تصمیم بگیر"
+            }
+          ]
+        },
+        {
+          "id": "921d9f9bd53b6082b8e570837ccde1623a3a940e9c661267f3548f880d9e2dc0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "این تنفس طبیعی نیست؛ اگر در ۱۰ ثانیه نبض را قطعاً حس نکردی، CPR را شروع کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این تنفس طبیعی نیست؛ اگر در ۱۰ ثانیه نبض را قطعاً حس نکردی، CPR را شروع کن"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "921d9f9bd53b6082b8e570837ccde1623a3a940e9c661267f3548f880d9e2dc0"
+        ],
+        "explanation": "نفس بریده‌بریده (gasping) در ایست قلبی شایع است و تنفس طبیعی شمرده نمی‌شود؛ بیمار بی‌پاسخ با این تنفس و بی‌نبض، CPR می‌خواهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نفس بریده‌بریده (gasping) در ایست قلبی شایع است و تنفس طبیعی شمرده نمی‌شود؛ بیمار بی‌پاسخ با این تنفس و بی‌نبض، CPR می‌خواهد."
+          }
+        ],
+        "observedAt": "2026-11-19T13:46:50.603Z"
+      }
+    },
+    {
+      "id": "question:35379",
+      "sourceId": "35379",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "03bb487c130e5b84681ec7853b863e9465ac015fd0ccdb998c13ccbf8a637d8a",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "شایع‌ترین علت ایست قلبی ناگهانی در بزرگسال ایسکمی قلب است که می‌تواند فیبریلاسیون بطنی راه بیندازد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شایع‌ترین علت ایست قلبی ناگهانی در بزرگسال ایسکمی قلب است که می‌تواند فیبریلاسیون بطنی راه بیندازد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "لخته‌ی کرونر و ایسکمی، ریتم قلب را به هم می‌ریزند و VF شایع‌ترین ریتم آغازین ایست قلبی ناگهانی بزرگسال است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "لخته‌ی کرونر و ایسکمی، ریتم قلب را به هم می‌ریزند و VF شایع‌ترین ریتم آغازین ایست قلبی ناگهانی بزرگسال است."
+          }
+        ],
+        "observedAt": "2026-11-19T13:46:55.699Z"
+      }
+    },
+    {
+      "id": "question:35381",
+      "sourceId": "35381",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "4aa64668b925e978c34d1a49d817ff62e4b68fad1e46d53f36ea1ebf604aabe8",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مشخصات فشردن قفسه‌ی سینه در بزرگسال درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مشخصات فشردن قفسه‌ی سینه در بزرگسال درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق ۲ تا ۳ سانتی‌متر، ۶۰ تا ۸۰ بار در دقیقه، با مکث کوتاه پس از هر فشار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق ۵ تا ۶ سانتی‌متر، ۱۰۰ تا ۱۲۰ بار در دقیقه، با برگشت کامل قفسه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق ۸ تا ۱۰ سانتی‌متر، ۱۴۰ تا ۱۶۰ بار در دقیقه، بدون برگشت کامل قفسه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عمق ۵ تا ۶ سانتی‌متر، ۶۰ تا ۸۰ بار در دقیقه، هم‌آهنگ با ضربان طبیعی قلب"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ccafb71df78939cc06c5c34def040f3f41f1868810b7e270d702d1db532919c9",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "عمق ۲ تا ۳ سانتی‌متر، ۶۰ تا ۸۰ بار در دقیقه، با مکث کوتاه پس از هر فشار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عمق ۲ تا ۳ سانتی‌متر، ۶۰ تا ۸۰ بار در دقیقه، با مکث کوتاه پس از هر فشار"
+            }
+          ]
+        },
+        {
+          "id": "b6ac46348d494d69d05ee975cafc7708082670627446279f4e43ed4d6024aba8",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "عمق ۵ تا ۶ سانتی‌متر، ۱۰۰ تا ۱۲۰ بار در دقیقه، با برگشت کامل قفسه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عمق ۵ تا ۶ سانتی‌متر، ۱۰۰ تا ۱۲۰ بار در دقیقه، با برگشت کامل قفسه"
+            }
+          ]
+        },
+        {
+          "id": "1f303dbf52891b8a5d262e0c1db65ffda7e1374e0a91bf8b7efe7d3711fa2aee",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "عمق ۸ تا ۱۰ سانتی‌متر، ۱۴۰ تا ۱۶۰ بار در دقیقه، بدون برگشت کامل قفسه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عمق ۸ تا ۱۰ سانتی‌متر، ۱۴۰ تا ۱۶۰ بار در دقیقه، بدون برگشت کامل قفسه"
+            }
+          ]
+        },
+        {
+          "id": "ace7f50d61cd57359725bea093b282a85c5cee0e2c2b8c28c28ec49fe123d960",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "عمق ۵ تا ۶ سانتی‌متر، ۶۰ تا ۸۰ بار در دقیقه، هم‌آهنگ با ضربان طبیعی قلب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عمق ۵ تا ۶ سانتی‌متر، ۶۰ تا ۸۰ بار در دقیقه، هم‌آهنگ با ضربان طبیعی قلب"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "b6ac46348d494d69d05ee975cafc7708082670627446279f4e43ed4d6024aba8"
+        ],
+        "explanation": "فشار باید محکم و سریع باشد: ۵ تا ۶ سانتی‌متر، ۱۰۰ تا ۱۲۰ بار در دقیقه، و قفسه پس از هر فشار کامل بالا بیاید.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "فشار باید محکم و سریع باشد: ۵ تا ۶ سانتی‌متر، ۱۰۰ تا ۱۲۰ بار در دقیقه، و قفسه پس از هر فشار کامل بالا بیاید."
+          }
+        ],
+        "observedAt": "2026-11-19T13:47:00.899Z"
+      }
+    },
+    {
+      "id": "question:35386",
+      "sourceId": "35386",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "f4eba29229b0cf7971273bc389744cc71bd1825a9db49c6f21be3d4695e51277",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "به بیمار بزرگسال بی‌نبض رسیده‌ای، ولی ماسک جیبی هنوز آماده نیست. کار درست کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "به بیمار بزرگسال بی‌نبض رسیده‌ای، ولی ماسک جیبی هنوز آماده نیست. کار درست کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اول ۲ دقیقه راه هوایی را با کشیدن زبان باز کن و بعد سراغ فشردن قفسه‌ی سینه برو"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صبر کن تا ماسک برسد، چون در CPR اول باید ۲ تنفس داد و بعد فشردن را شروع کرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط تنفس بده، چون فشردن قفسه‌ی سینه بدون اکسیژن‌رسانی فایده‌ای برای بیمار ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فشردن قفسه‌ی سینه را همین حالا شروع کن و تنفس را وقتی ماسک رسید اضافه کن"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d08b6cd2fe014aa537419b8479cc3ba758cc95f22bae43bbd30d595e00742053",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اول ۲ دقیقه راه هوایی را با کشیدن زبان باز کن و بعد سراغ فشردن قفسه‌ی سینه برو",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اول ۲ دقیقه راه هوایی را با کشیدن زبان باز کن و بعد سراغ فشردن قفسه‌ی سینه برو"
+            }
+          ]
+        },
+        {
+          "id": "b27e7ee23575cfa8c4647a37e598a0de99e4333e11d11b611c54953ad6753134",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "صبر کن تا ماسک برسد، چون در CPR اول باید ۲ تنفس داد و بعد فشردن را شروع کرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صبر کن تا ماسک برسد، چون در CPR اول باید ۲ تنفس داد و بعد فشردن را شروع کرد"
+            }
+          ]
+        },
+        {
+          "id": "5d4cea9ff1ed8235233544a93090458996cc758ad22d73d57ad6aef5dfb7af8b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "فقط تنفس بده، چون فشردن قفسه‌ی سینه بدون اکسیژن‌رسانی فایده‌ای برای بیمار ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط تنفس بده، چون فشردن قفسه‌ی سینه بدون اکسیژن‌رسانی فایده‌ای برای بیمار ندارد"
+            }
+          ]
+        },
+        {
+          "id": "9202903f3bb87922aa46f9a8bb0a3077fc20a7f4bbeb46f5d0eb9af223cbfc19",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فشردن قفسه‌ی سینه را همین حالا شروع کن و تنفس را وقتی ماسک رسید اضافه کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فشردن قفسه‌ی سینه را همین حالا شروع کن و تنفس را وقتی ماسک رسید اضافه کن"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9202903f3bb87922aa46f9a8bb0a3077fc20a7f4bbeb46f5d0eb9af223cbfc19"
+        ],
+        "explanation": "ترتیب C-A-B یعنی گردش خون اول؛ خون هنوز مقداری اکسیژن دارد و فشردن آن را به مغز می‌رساند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "ترتیب C-A-B یعنی گردش خون اول؛ خون هنوز مقداری اکسیژن دارد و فشردن آن را به مغز می‌رساند."
+          }
+        ],
+        "observedAt": "2026-11-19T13:47:06.322Z"
+      }
+    },
+    {
+      "id": "question:35389",
+      "sourceId": "35389",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "2b44747cfc9dd550727d72cd35195f5001b5587fdc15f24433dfe7aa77bd6959",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در حین CPR، دستیار پس از هر ۳۰ فشار ۲۰ ثانیه دست نگه می‌دارد تا نبض را بگیرد. اشتباه کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در حین CPR، دستیار پس از هر ۳۰ فشار ۲۰ ثانیه دست نگه می‌دارد تا نبض را بگیرد. اشتباه کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وقفه باید زیر ۱۰ ثانیه باشد؛ نبض‌گیری مکرر جریان خون ساخته‌شده با فشردن را از بین می‌برد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نبض را باید در هر دوره دو بار و هر بار ۱۰ ثانیه گرفت تا بازگشت ضربان قلب بیمار از دست نرود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباهی نیست؛ نبض‌گیری پس از هر ۳۰ فشار بخشی از روال استاندارد CPR است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط باید به‌جای نبض کاروتید، نبض رادیال را در همان ۲۰ ثانیه و با دقت بیشتری بگیرد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "c6a136da3e496a09ac4ab42b8e6eac3d8c43de02b1289ad44aa0f2fdc760b943",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "وقفه باید زیر ۱۰ ثانیه باشد؛ نبض‌گیری مکرر جریان خون ساخته‌شده با فشردن را از بین می‌برد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "وقفه باید زیر ۱۰ ثانیه باشد؛ نبض‌گیری مکرر جریان خون ساخته‌شده با فشردن را از بین می‌برد"
+            }
+          ]
+        },
+        {
+          "id": "a792816236a1e5184bec67ab5b298fa260d897c1eb5623c48fb05d63c0254a15",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "نبض را باید در هر دوره دو بار و هر بار ۱۰ ثانیه گرفت تا بازگشت ضربان قلب بیمار از دست نرود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نبض را باید در هر دوره دو بار و هر بار ۱۰ ثانیه گرفت تا بازگشت ضربان قلب بیمار از دست نرود"
+            }
+          ]
+        },
+        {
+          "id": "6e5dd28bd5420c85878fae033af99a321144af547de23f5a1198070d7092a0f2",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اشتباهی نیست؛ نبض‌گیری پس از هر ۳۰ فشار بخشی از روال استاندارد CPR است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشتباهی نیست؛ نبض‌گیری پس از هر ۳۰ فشار بخشی از روال استاندارد CPR است"
+            }
+          ]
+        },
+        {
+          "id": "1ec0b81ad3512201d4ffed530ffc6cf28dbd799cb1b0c984210126426de79ebb",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فقط باید به‌جای نبض کاروتید، نبض رادیال را در همان ۲۰ ثانیه و با دقت بیشتری بگیرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط باید به‌جای نبض کاروتید، نبض رادیال را در همان ۲۰ ثانیه و با دقت بیشتری بگیرد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c6a136da3e496a09ac4ab42b8e6eac3d8c43de02b1289ad44aa0f2fdc760b943"
+        ],
+        "explanation": "هر وقفه فشار خونی را که با زحمت ساخته شده به صفر برمی‌گرداند؛ وقفه‌ها کوتاه و کمتر از ۱۰ ثانیه بمانند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هر وقفه فشار خونی را که با زحمت ساخته شده به صفر برمی‌گرداند؛ وقفه‌ها کوتاه و کمتر از ۱۰ ثانیه بمانند."
+          }
+        ],
+        "observedAt": "2026-11-19T13:47:15.349Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:cf6119a843161345062250a9a0cc2eeae75ee7df93e8761e3c60b9bc76f73598",
+      "at": "2026-11-19T13:46:33.100Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:bf016b2a75de936b6c1cdca3ae214b64099ec3f2a8f1943d66ce7731f36b9141",
+      "at": "2026-11-19T13:46:34.722Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:35375",
+      "at": "2026-11-19T13:46:36.318Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:35379",
+      "at": "2026-11-19T13:46:52.217Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:35381",
+      "at": "2026-11-19T13:46:57.302Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:35386",
+      "at": "2026-11-19T13:47:02.479Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:35389",
+      "at": "2026-11-19T13:47:07.940Z",
+      "progress": "width: 85.7143%;"
+    },
+    {
+      "stepId": "question:35389",
+      "at": "2026-11-19T13:47:13.441Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

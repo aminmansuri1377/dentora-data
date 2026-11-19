@@ -1,0 +1,1332 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2049/lesson.json",
+  "id": "2049",
+  "title": "درس دوم: ضایعات دهانی HIV",
+  "specialtyKey": "d6dd39db909ba710",
+  "chapter": {
+    "id": "423",
+    "title": "بیماری‌های ایمنی، عفونی و ریوی، و بارداری، HIV و بیماری‌های آمیزشی",
+    "position": 25
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:fccc6361da12335bb339d3b03574911a3c75ef9ef55a94d8810e64381eea630f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "fbffe130e41e41b6918f01251c73d3e6b9e6c7c87204e56dc76412e46db87b42",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کاندیدیازیس و لکوپلاکی مویی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مرد ۵۸ ساله‌ای برای دست دندان لق آمده و سه سال است پزشک نرفته. روی کام و زبانش پلاک‌های سفیدی است که با گاز پاک می‌شوند و زیرشان قرمز است. در دو طرف گردن غدد لنفاوی سفت و بی‌درد لمس می‌کنی. به چه فکر می‌کنی؟"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/med-fig-18-11.webp",
+                  "alt": "لکوپلاکی مویی: ضایعه‌ی سفید چین‌دار روی زبان که با گاز پاک نمی‌شود",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/96cc1d7960b33b18eeae30974eb0f48aa5d3a689bf2b9bc6777f8fcf4a0e4910.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لکوپلاکی مویی: ضایعه‌ی سفید چین‌دار روی زبان که با گاز پاک نمی‌شود "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Little and Falace. Dental Management of the Medically Compromised Patient, 10th ed. — Fig. 18.11)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ضایعه‌ی دهانی گاهی "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نخستین نشانه‌ی HIV"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است. در بیمار شناخته‌شده هم ضایعه‌ی تازه ممکن است یعنی درمان جواب نمی‌دهد یا بیماری پیش رفته است."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کاندیدیازیس دهانی"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شایع‌ترین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " تظاهر دهانی HIV؛ حدود ۹۰٪ بیماران ایدز زمانی به آن دچار می‌شوند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل‌ها: کاذب غشایی (پلاک سفید پاک‌شونده)، اریتماتوز، هیپرپلاستیک و کیلیت گوشه‌ی لب."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درمان خط اول: "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فلوکونازول ۱۰۰ میلی‌گرم خوراکی روزی یک بار"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، ۷ تا ۱۴ روز. جایگزین موضعی: قرص مکیدنی کلوتریمازول یا سوسپانسیون نیستاتین."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "لکوپلاکی مویی (OHL)"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضایعه‌ی سفید چین‌دار که "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پاک نمی‌شود"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "، بیشتر دوطرفه روی لبه‌ی طرفی زبان."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با ویروس اپشتین‌ـ‌بار (EBV) مرتبط است و "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پتانسیل بدخیمی ندارد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": "؛ در بیمار درمان‌نشده، پیشرفت بیماری را پیش‌بینی می‌کند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لنفادنوپاتی ژنرالیزه‌ی پایدار:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " نشانه‌ی زودرس HIV در حدود ۷۰٪ افراد. بیش از ۳ ماه، در دو جا یا بیشتر بیرون از کشاله‌ی ران؛ بیشتر گردنی، زیرفکی، پس‌سری و زیربغل."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:738a420cf98ef52fdb7e2a57bb77ab3a5a20fc9c5208c7237f1bb764d3c34856",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "e68bb213fa6a0df2b1ef8987db73515658eadf690eb749289b83c3dbce7aecd4",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ضایعات لثه، سارکوم کاپوزی و نسخه‌نویسی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اریتم خطی لثه (LGE):"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " نوار قرمز روی لثه‌ی آزاد که با کنترل پلاک معمول بهتر نمی‌شود و با کاندیدا مرتبط است. دبریدمان سطحی و کلرهگزیدین؛ موارد مقاوم ضدقارچ سیستمیک."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "NUG:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " زخم و نکروز پاپی‌های بین‌دندانی "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بدون"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از دست رفتن اتصال."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "NUP:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " همان نکروز "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "همراه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " از دست رفتن اتصال؛ رادیوگرافی این دو را از هم جدا می‌کند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "درمان NUG و NUP: دبریدمان و شست‌وشو با کلرهگزیدین ۰٫۱۲٪ یا پوویدون‌آیوداین ۱۰٪، دهان‌شویه در خانه، و در موارد شدید یا مقاوم "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مترونیدازول ۲۵۰ میلی‌گرم سه بار در روز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " برای ۷ تا ۱۴ روز همراه داروی ضدقارچ."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/med-fig-18-14.webp",
+                  "alt": "سارکوم کاپوزی به شکل لکه‌ی کام در بیمار ایدز",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/1f026e474e69bd6786dd810f6e8169f0f3f2bbb0fb83b22fb1f6996817d17813.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سارکوم کاپوزی به شکل لکه‌ی کام در بیمار ایدز "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Little and Falace. Dental Management of the Medically Compromised Patient, 10th ed. — Fig. 18.14)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سارکوم کاپوزی:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " با HHV-8؛ بیشتر روی کام سخت، لثه و زبان، به شکل لکه یا ندول قرمز تا بنفش. در بیمار با HIV یعنی ایدز، و اغلب با ART پس می‌رود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "لنفوم غیرهوچکین:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اغلب بیرون از غدد لنفاوی، به‌ویژه در فک بالا؛ این هم تعریف‌کننده‌ی ایدز است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نسخه‌نویسی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " داروهای ضدرتروویروسی تقویت‌شده با ریتوناویر یا کوبیسیستات سطح دیازپام، آلپرازولام و کورتیکواستروئید سیستمیک را بالا می‌برند؛ سطح مسکن‌های اپیوئیدی، از جمله ترامادول، هم با این داروها یا افاویرنز ممکن است تغییر کند. پتیدین با افاویرنز خطر تشنج دارد و ممنوع است. با تنوفوویر (TDF) خطر آسیب کلیه با NSAID بیشتر است؛ NSAID ممنوع نیست ولی سنجیده و کوتاه‌مدت بده. آنتی‌بیوتیک‌های رایج دندانپزشکی تداخل مهمی با ART ندارند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:38641",
+      "sourceId": "38641",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "5ff4fcede283aee2f3d9e54da60aeb4979a230409ea74b16c0c1aedfba803d89",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بیمار با HIV که ART می‌گیرد و سال‌ها ضایعه‌ی دهانی نداشته، ناگهان کاندیدیازیس گسترده ظاهر شده است. کنار درمان ضدقارچ، مهم‌ترین کار چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیمار با HIV که ART می‌گیرد و سال‌ها ضایعه‌ی دهانی نداشته، ناگهان کاندیدیازیس گسترده ظاهر شده است. کنار درمان ضدقارچ، مهم‌ترین کار چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار را به پزشکش برگردان، چون ضایعه‌ی تازه ممکن است نشانه‌ی شکست درمان باشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط ضدقارچ بده؛ کاندیدیازیس در بیمار با HIV هیچ اطلاعاتی درباره‌ی وضع بیماری نمی‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درمان دندانپزشکی را تا پایان عمر به موارد اورژانس محدود کن، چون بیمار وارد ایدز شده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به بیمار بگو ART را قطع کند، چون داروهای ضدرتروویروسی علت اصلی کاندیدیازیس‌اند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b18e6b7cddfa7fad428fd732e8dd615d39b627cf280c02de353583008f0f4af1",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بیمار را به پزشکش برگردان، چون ضایعه‌ی تازه ممکن است نشانه‌ی شکست درمان باشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیمار را به پزشکش برگردان، چون ضایعه‌ی تازه ممکن است نشانه‌ی شکست درمان باشد"
+            }
+          ]
+        },
+        {
+          "id": "40e821b029e55977d9fe82d95cf55f9f36928360924ee7be71750c55028e6968",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "فقط ضدقارچ بده؛ کاندیدیازیس در بیمار با HIV هیچ اطلاعاتی درباره‌ی وضع بیماری نمی‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط ضدقارچ بده؛ کاندیدیازیس در بیمار با HIV هیچ اطلاعاتی درباره‌ی وضع بیماری نمی‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "3f6ef6fd4ce141f93b441f57a3c288737ea878ceb707d5de899749ee858a123e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "درمان دندانپزشکی را تا پایان عمر به موارد اورژانس محدود کن، چون بیمار وارد ایدز شده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "درمان دندانپزشکی را تا پایان عمر به موارد اورژانس محدود کن، چون بیمار وارد ایدز شده"
+            }
+          ]
+        },
+        {
+          "id": "68dbe62cc38fd89970081fea6f1d5bcfaab0043e3cd85b8c87b97c77f3e2ba7e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "به بیمار بگو ART را قطع کند، چون داروهای ضدرتروویروسی علت اصلی کاندیدیازیس‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به بیمار بگو ART را قطع کند، چون داروهای ضدرتروویروسی علت اصلی کاندیدیازیس‌اند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "b18e6b7cddfa7fad428fd732e8dd615d39b627cf280c02de353583008f0f4af1"
+        ],
+        "explanation": "ضایعه‌ی تازه در بیمار شناخته‌شده می‌تواند یعنی درمان جواب نمی‌دهد یا بیماری پیش رفته است؛ پزشک باید بار ویروسی و CD4 را دوباره بسنجد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "ضایعه‌ی تازه در بیمار شناخته‌شده می‌تواند یعنی درمان جواب نمی‌دهد یا بیماری پیش رفته است؛ پزشک باید بار ویروسی و CD4 را دوباره بسنجد."
+          }
+        ],
+        "observedAt": "2026-11-19T15:32:19.824Z"
+      }
+    },
+    {
+      "id": "question:38643",
+      "sourceId": "38643",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "945c56466400f4a34cb40b00fff79a075186e05da316a50b19af3136700f2d72",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "قرص مکیدنی کلوتریمازول و سوسپانسیون نیستاتین درمان جایگزین موضعی برای کاندیدیازیس دهانی بیمار با HIV هستند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قرص مکیدنی کلوتریمازول و سوسپانسیون نیستاتین درمان جایگزین موضعی برای کاندیدیازیس دهانی بیمار با HIV هستند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "وقتی فلوکونازول خوراکی مناسب نیست، کلوتریمازول مکیدنی یا نیستاتین موضعی جایگزین خوبی است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "وقتی فلوکونازول خوراکی مناسب نیست، کلوتریمازول مکیدنی یا نیستاتین موضعی جایگزین خوبی است."
+          }
+        ],
+        "observedAt": "2026-11-19T15:32:25.127Z"
+      }
+    },
+    {
+      "id": "question:38646",
+      "sourceId": "38646",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "075727db87dc34da6caee4e4bf8c2050b27bb1ce797a26462ec584f465dc951b",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "لکوپلاکی مویی با ویروس اپشتین‌ـ‌بار مرتبط است و پتانسیل بدخیمی ندارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "لکوپلاکی مویی با ویروس اپشتین‌ـ‌بار مرتبط است و پتانسیل بدخیمی ندارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "لکوپلاکی مویی با EBV مرتبط است و با وجود نامش بدخیم نمی‌شود؛ ارزشش در نشان دادن پیشرفت بیماری HIV است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "لکوپلاکی مویی با EBV مرتبط است و با وجود نامش بدخیم نمی‌شود؛ ارزشش در نشان دادن پیشرفت بیماری HIV است."
+          }
+        ],
+        "observedAt": "2026-11-19T15:32:30.540Z"
+      }
+    },
+    {
+      "id": "question:38649",
+      "sourceId": "38649",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "0199e0085d055987b817279179e92116438844f5b0da50111b50085e46e8012b",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در NUG یا NUP شدید بیمار با HIV، مترونیدازول ۲۵۰ میلی‌گرم سه بار در روز همراه داروی ضدقارچ تجویز می‌شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در NUG یا NUP شدید بیمار با HIV، مترونیدازول ۲۵۰ میلی‌گرم سه بار در روز همراه داروی ضدقارچ تجویز می‌شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "مترونیدازول در موارد شدید یا مقاوم به دبریدمان و دهان‌شویه اضافه می‌شود، و ضدقارچ جلوی کاندیدیازیس را می‌گیرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مترونیدازول در موارد شدید یا مقاوم به دبریدمان و دهان‌شویه اضافه می‌شود، و ضدقارچ جلوی کاندیدیازیس را می‌گیرد."
+          }
+        ],
+        "observedAt": "2026-11-19T15:32:35.963Z"
+      }
+    },
+    {
+      "id": "question:38651",
+      "sourceId": "38651",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "331b5b0894d073bd85ccdb85e6fb1c187b9b0caa3fedf7012210c712190ddeb0",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مرد ۳۸ ساله‌ای با HIV که ART را یک سال است رها کرده، با لکه‌ی قرمز تا بنفش بی‌دردی روی کام سخت آمده است. کدام برنامه درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مرد ۳۸ ساله‌ای با HIV که ART را یک سال است رها کرده، با لکه‌ی قرمز تا بنفش بی‌دردی روی کام سخت آمده است. کدام برنامه درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به کاپوزی شک کن و برای بیوپسی و ارزیابی بفرست؛ این تشخیص یعنی ایدز"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این لکه پیگمانتاسیون دارویی بی‌خطر است و کافی است در جلسه‌ی بعد دوباره دیده شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاندیدیازیس اریتماتوز است؛ فلوکونازول بده و اگر رفت نیازی به پیگیری پزشکی نیست"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به کاپوزی شک کن، ولی چون در HIV خوش‌خیم است، بیوپسی و ارجاع لازم نیست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "05316c267a6a62f58d2f8f0af9dcfb614d708a58496b27487541a5de632f92dd",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "به کاپوزی شک کن و برای بیوپسی و ارزیابی بفرست؛ این تشخیص یعنی ایدز",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به کاپوزی شک کن و برای بیوپسی و ارزیابی بفرست؛ این تشخیص یعنی ایدز"
+            }
+          ]
+        },
+        {
+          "id": "7328492f77059ac1c43b1208fe39a5387bf81b6f32740f06ae3a3a45827bb665",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "این لکه پیگمانتاسیون دارویی بی‌خطر است و کافی است در جلسه‌ی بعد دوباره دیده شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این لکه پیگمانتاسیون دارویی بی‌خطر است و کافی است در جلسه‌ی بعد دوباره دیده شود"
+            }
+          ]
+        },
+        {
+          "id": "80f4fd87d7315f058be490bfb4e9fde7ddc0cbacf3843525e811e92b1eece655",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کاندیدیازیس اریتماتوز است؛ فلوکونازول بده و اگر رفت نیازی به پیگیری پزشکی نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاندیدیازیس اریتماتوز است؛ فلوکونازول بده و اگر رفت نیازی به پیگیری پزشکی نیست"
+            }
+          ]
+        },
+        {
+          "id": "2ce8b8b4fda7b72f14485e0ed6581dc9dc1d7e25ac4ff20b763dc7b70fe9e1da",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "به کاپوزی شک کن، ولی چون در HIV خوش‌خیم است، بیوپسی و ارجاع لازم نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به کاپوزی شک کن، ولی چون در HIV خوش‌خیم است، بیوپسی و ارجاع لازم نیست"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "05316c267a6a62f58d2f8f0af9dcfb614d708a58496b27487541a5de632f92dd"
+        ],
+        "explanation": "لکه‌ی قرمز تا بنفش کام در بیمار با HIV درمان‌نشده، کاپوزی را مطرح می‌کند. بیوپسی تشخیص را قطعی می‌کند؛ کاپوزی در بیمار با HIV یعنی ایدز و اغلب با ART پس می‌رود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "لکه‌ی قرمز تا بنفش کام در بیمار با HIV درمان‌نشده، کاپوزی را مطرح می‌کند. بیوپسی تشخیص را قطعی می‌کند؛ کاپوزی در بیمار با HIV یعنی ایدز و اغلب با ART پس می‌رود."
+          }
+        ],
+        "observedAt": "2026-11-19T15:32:42.109Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:fccc6361da12335bb339d3b03574911a3c75ef9ef55a94d8810e64381eea630f",
+      "at": "2026-11-19T15:31:51.988Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:738a420cf98ef52fdb7e2a57bb77ab3a5a20fc9c5208c7237f1bb764d3c34856",
+      "at": "2026-11-19T15:31:54.082Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:38641",
+      "at": "2026-11-19T15:31:55.527Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:38643",
+      "at": "2026-11-19T15:32:21.436Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:38646",
+      "at": "2026-11-19T15:32:26.739Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:38649",
+      "at": "2026-11-19T15:32:32.130Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:38651",
+      "at": "2026-11-19T15:32:37.603Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

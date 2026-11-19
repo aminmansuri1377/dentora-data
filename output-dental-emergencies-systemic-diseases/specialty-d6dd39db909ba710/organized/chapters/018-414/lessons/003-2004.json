@@ -1,0 +1,1456 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2004/lesson.json",
+  "id": "2004",
+  "title": "درس سوم: درمان دندانپزشکی بیمار هموفیلی",
+  "specialtyKey": "d6dd39db909ba710",
+  "chapter": {
+    "id": "414",
+    "title": "اختلالات خون‌ریزی‌دهنده‌ی مادرزادی",
+    "position": 18
+  },
+  "position": 3,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:26181ccae596093ddeae864ab620dbccb193f9f7da374b4246f9230964b6ddb2",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "f71164023020a5dc3254610f925037698d2f52e045b6d2d269a1ecaf1ac896dd",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برنامه‌ریزی با هماتولوژیست"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مرد ۳۰ ساله‌ای با هموفیلی A متوسط (فاکتور VIII حدود ۳٪) برای کشیدن مولر اول پایین آمده است. مهارکننده ندارد. فردا صبح وقت داری. از کجا شروع می‌کنی؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پیش از هر کار تهاجمی، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مشاوره با هماتولوژیست"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " لازم است. هماتولوژیست این‌ها را روشن می‌کند:"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شدت بیماری و سطح فاکتور"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وجود مهارکننده و low یا high responder بودن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نوع و دوز جایگزینی فاکتور یا کافی بودن دسموپرسین و داروی ضدفیبرینولیتیک"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درمان در مطب یا بستری در بیمارستان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چه کسی چه می‌خواهد؟"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "خفیف بی‌مهارکننده:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " جرم‌گیری، جراحی بافت نرم و کشیدن دندان معمولاً در مطب، با دسموپرسین و ترانگزامیک اسید یا آمینوکاپروئیک اسید در صورت نیاز."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "متوسط:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " برای جراحی بزرگ دهان حتماً فاکتور VIII؛ گاهی برای کار تهاجمی کوچک هم."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "شدید:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " برای هر درمان تهاجمی، فاکتور VIII."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "low responder:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " فاکتور VIII، با دوز بیشتر، برای هر کار تهاجمی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "high responder:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " فاکتور VII فعال نوترکیب برای هر کار تهاجمی."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "برای جراحی بزرگ دهان، سطح فاکتور VIII دست‌کم ۵۰٪ هدف است؛ خون‌ریزی تهدیدکننده‌ی حیات ۸۰ تا ۱۰۰٪ می‌خواهد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نکته‌ی طلایی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بهترین درمان، کاری است که لازم نشود. فلوراید، فیشورسیلانت، رژیم کم‌قند و معاینه‌ی منظم از کودکی، نیاز به جایگزینی فاکتور را کم می‌کند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:c922ea22c754e9af6e00af697e3f71a9d09f87f4b6d6e69a33b98f5875869a41",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "2aa2e4aa0bb0c149f3883e509d599fbd4aaed4f7eff27863f1d95997db77fc8d",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بی‌حسی و کارهای دندانپزشکی در هموفیلی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بی‌حسی موضعی"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در هموفیلی متوسط و شدید، بدون جایگزینی فاکتور از "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بلاک"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (مثل بلاک آلوئولار تحتانی)، انفیلتراسیون لینگوال و تزریق کف دهان پرهیز کن؛ هماتوم در این فضاها می‌تواند راه هوایی را ببندد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انفیلتراسیون و تزریق داخل لیگامانی (PDL) معمولاً بی‌فاکتور شدنی است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "معمولاً بی‌فاکتور"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترمیم ساده، و درمان ریشه‌ی دندان غیرزنده (بی‌اینسترومنت یا پرکردن فراتر از اپکس؛ تزریق بی‌حسی حاوی اپی‌نفرین داخل کانال خون‌ریزی را کم می‌کند)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پالیش و برداشتن جرم بالای لثه، بی‌آسیب به لثه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ارتودنسی، به شرط نداشتن لبه‌ی تیز روی دستگاه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "معمولاً با فاکتور (متوسط و شدید)"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ترمیم‌های پیچیده، جراحی پریودنتال، روت‌پلنینگ، کشیدن دندان و جراحی دهان. از تزریق عضلانی بی‌فاکتور هم پرهیز کن. هر جا ممکن است، "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درمان ریشه را به کشیدن ترجیح بده"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "هنگام و پس از جراحی"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "در فک پایین فلپ را از سمت باکال بزن، نه لینگوال."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ساکت را با کلاژن پر کن و با بخیه ببند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دهان‌شویه‌ی ترانگزامیک اسید ۵٪: ۵ میلی‌لیتر، ۲ دقیقه در دهان، پیش از کار و تا چهار بار در روز."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسکن: استامینوفن با یا بدون کدئین؛ آسپرین و NSAID نه."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کنترل ۲۴ تا ۴۸ ساعت بعد: خون‌ریزی، ترمیم زخم و واکنش آلرژیک به فاکتور."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:37942",
+      "sourceId": "37942",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "dca1268dd64afe3e525f1405d822ecc9f54c645c7613052866432c236bc95f16",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مرد ۳۰ ساله‌ای با هموفیلی A متوسط (فاکتور VIII حدود ۳٪) و بدون مهارکننده، باید مولر اول پایین را بکشد. کدام برنامه درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مرد ۳۰ ساله‌ای با هموفیلی A متوسط (فاکتور VIII حدود ۳٪) و بدون مهارکننده، باید مولر اول پایین را بکشد. کدام برنامه درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به تعویق انداختن همیشگی کشیدن، چون بیمار هموفیلی را هرگز نباید جراحی کرد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن در مطب با دسموپرسین به‌تنهایی، چون مهارکننده ندارد و همین به‌تنهایی برای او کافی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن معمول با بلاک آلوئولار تحتانی و فشار گاز، بدون هیچ آمادگی دارویی خاص پیش از کار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هماهنگی با هماتولوژیست برای جایگزینی فاکتور VIII پیش از کشیدن، همراه اقدامات موضعی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "16ea56a7ec42ba9d70161bac70e4fffc66981e0d70834a1a0dd1e8f21bdb61a0",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "به تعویق انداختن همیشگی کشیدن، چون بیمار هموفیلی را هرگز نباید جراحی کرد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به تعویق انداختن همیشگی کشیدن، چون بیمار هموفیلی را هرگز نباید جراحی کرد"
+            }
+          ]
+        },
+        {
+          "id": "791987eaf48b91ba307b5b01de3b7f33b2db564b8dc8258418b54b66932abcd0",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کشیدن در مطب با دسموپرسین به‌تنهایی، چون مهارکننده ندارد و همین به‌تنهایی برای او کافی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن در مطب با دسموپرسین به‌تنهایی، چون مهارکننده ندارد و همین به‌تنهایی برای او کافی است"
+            }
+          ]
+        },
+        {
+          "id": "67785fb4a49da3ca95d0184e1c716b5f2b7b6381680b2bd5208df7e36f0d2d6b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کشیدن معمول با بلاک آلوئولار تحتانی و فشار گاز، بدون هیچ آمادگی دارویی خاص پیش از کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن معمول با بلاک آلوئولار تحتانی و فشار گاز، بدون هیچ آمادگی دارویی خاص پیش از کار"
+            }
+          ]
+        },
+        {
+          "id": "b50b53050536876438cc27137399a689d5e8e4e615f322b8817157e136680ebb",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هماهنگی با هماتولوژیست برای جایگزینی فاکتور VIII پیش از کشیدن، همراه اقدامات موضعی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هماهنگی با هماتولوژیست برای جایگزینی فاکتور VIII پیش از کشیدن، همراه اقدامات موضعی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "b50b53050536876438cc27137399a689d5e8e4e615f322b8817157e136680ebb"
+        ],
+        "explanation": "در هموفیلی متوسط، کشیدن دندان معمولاً جایگزینی فاکتور VIII می‌خواهد؛ هماتولوژیست دوز و زمان را تعیین می‌کند و تو اقدامات موضعی را انجام می‌دهی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در هموفیلی متوسط، کشیدن دندان معمولاً جایگزینی فاکتور VIII می‌خواهد؛ هماتولوژیست دوز و زمان را تعیین می‌کند و تو اقدامات موضعی را انجام می‌دهی."
+          }
+        ],
+        "observedAt": "2026-11-19T14:57:47.589Z"
+      }
+    },
+    {
+      "id": "question:37945",
+      "sourceId": "37945",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "2c0f25aab5366d07bd20fb838a6c0a9ca14b3735b2b593d796b71bbb695b599a",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برای بیمار هموفیلی high responder که باید دندان بکشد، همکارت «دوز بالاتر فاکتور VIII» پیشنهاد می‌کند. اشتباه کجاست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای بیمار هموفیلی high responder که باید دندان بکشد، همکارت «دوز بالاتر فاکتور VIII» پیشنهاد می‌کند. اشتباه کجاست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "high responder فقط به دسموپرسین پاسخ می‌دهد و فاکتور تزریقی در او کاملاً بی‌اثر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "high responder اصلاً خون‌ریزی غیرعادی ندارد و برای کشیدن دندان هیچ داروی خاصی نمی‌خواهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مهارکننده‌ی high responder با فاکتور VIII بالاتر می‌رود؛ فاکتور VII فعال لازم است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباهی نیست؛ دوز بالاتر فاکتور VIII بهترین راه غلبه بر هر نوع مهارکننده‌ای است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b192c96891e1843e54239fe685c4198a01f187c04bb7dce16847e2c023eb5cbd",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "high responder فقط به دسموپرسین پاسخ می‌دهد و فاکتور تزریقی در او کاملاً بی‌اثر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "high responder فقط به دسموپرسین پاسخ می‌دهد و فاکتور تزریقی در او کاملاً بی‌اثر است"
+            }
+          ]
+        },
+        {
+          "id": "2e98863ef6775a3dd4f4b61baf7e163bf03545fb6cc9dacf1370d80d6991eac2",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "high responder اصلاً خون‌ریزی غیرعادی ندارد و برای کشیدن دندان هیچ داروی خاصی نمی‌خواهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "high responder اصلاً خون‌ریزی غیرعادی ندارد و برای کشیدن دندان هیچ داروی خاصی نمی‌خواهد"
+            }
+          ]
+        },
+        {
+          "id": "502987464f6fc579fd6018eddb9431522a83b92ebcafb371509facdab4e372d9",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مهارکننده‌ی high responder با فاکتور VIII بالاتر می‌رود؛ فاکتور VII فعال لازم است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مهارکننده‌ی high responder با فاکتور VIII بالاتر می‌رود؛ فاکتور VII فعال لازم است"
+            }
+          ]
+        },
+        {
+          "id": "cd840000ef44675a9b9f55637cb9f6f072e3a77dbfca65f7aeea81d5c6cd27ed",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "اشتباهی نیست؛ دوز بالاتر فاکتور VIII بهترین راه غلبه بر هر نوع مهارکننده‌ای است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشتباهی نیست؛ دوز بالاتر فاکتور VIII بهترین راه غلبه بر هر نوع مهارکننده‌ای است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "502987464f6fc579fd6018eddb9431522a83b92ebcafb371509facdab4e372d9"
+        ],
+        "explanation": "در high responder هر تزریق فاکتور VIII آنتی‌بادی را بالاتر می‌برد؛ برای هر کار تهاجمی فاکتور VII فعال نوترکیب انتخاب می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در high responder هر تزریق فاکتور VIII آنتی‌بادی را بالاتر می‌برد؛ برای هر کار تهاجمی فاکتور VII فعال نوترکیب انتخاب می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-19T14:57:52.860Z"
+      }
+    },
+    {
+      "id": "question:37947",
+      "sourceId": "37947",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "0886cdd54dc3db87eb1d670eb34d7ea54f327983e4217c438825a3f778a2cb04",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "هماتوم ناشی از بلاک آلوئولار تحتانی در بیمار هموفیلی فقط درد و تورم موضعی می‌دهد و خطر جدی ندارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "هماتوم ناشی از بلاک آلوئولار تحتانی در بیمار هموفیلی فقط درد و تورم موضعی می‌دهد و خطر جدی ندارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "هماتوم در فضاهای عمیق و کف دهان می‌تواند گسترش یابد و راه هوایی را ببندد؛ برای همین بلاک بی‌فاکتور ممنوع است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "هماتوم در فضاهای عمیق و کف دهان می‌تواند گسترش یابد و راه هوایی را ببندد؛ برای همین بلاک بی‌فاکتور ممنوع است."
+          }
+        ],
+        "observedAt": "2026-11-19T14:57:57.691Z"
+      }
+    },
+    {
+      "id": "question:37949",
+      "sourceId": "37949",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "1fa36b36d16ed09d03bb1e9240dd382992bee7b8e5cd770d5e7aba399e64220a",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بیمار هموفیلی شدید، کدام کار معمولاً بدون جایگزینی فاکتور انجام می‌شود؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیمار هموفیلی شدید، کدام کار معمولاً بدون جایگزینی فاکتور انجام می‌شود؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روت‌پلنینگ عمیق یک کوادرانت، با ترانگزامیک اسید پس از کار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درمان ریشه‌ی دندان غیرزنده، بدون عبور اینسترومنت از اپکس"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن یک دندان تک‌ریشه، با فشار گاز و بخیه‌ی دقیق ساکت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جراحی فلپ پریودنتال محدود، با پک پریودنتال روی زخم"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "80ef2388d63e28a32222e7205a9d5fdd3f9e07c651d270f8e89f8142e2ccb4f5",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "روت‌پلنینگ عمیق یک کوادرانت، با ترانگزامیک اسید پس از کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "روت‌پلنینگ عمیق یک کوادرانت، با ترانگزامیک اسید پس از کار"
+            }
+          ]
+        },
+        {
+          "id": "de9c4a5f515132f7081e1ec15a68c15e6d2f5a6582b819cbd5ca719109eae799",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "درمان ریشه‌ی دندان غیرزنده، بدون عبور اینسترومنت از اپکس",
+          "content": [
+            {
+              "tag": "text",
+              "text": "درمان ریشه‌ی دندان غیرزنده، بدون عبور اینسترومنت از اپکس"
+            }
+          ]
+        },
+        {
+          "id": "96d68e3b434a4529e88565d50372a7e119e1a86a41aeb514b7a99a313078aaff",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کشیدن یک دندان تک‌ریشه، با فشار گاز و بخیه‌ی دقیق ساکت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن یک دندان تک‌ریشه، با فشار گاز و بخیه‌ی دقیق ساکت"
+            }
+          ]
+        },
+        {
+          "id": "b0a4edeb0711b2909125b5a5239022c7d93ed1c00e3d86e741fffc853a6f2e1d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "جراحی فلپ پریودنتال محدود، با پک پریودنتال روی زخم",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جراحی فلپ پریودنتال محدود، با پک پریودنتال روی زخم"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "de9c4a5f515132f7081e1ec15a68c15e6d2f5a6582b819cbd5ca719109eae799"
+        ],
+        "explanation": "درمان ریشه‌ی دندان غیرزنده معمولاً فاکتور نمی‌خواهد؛ فقط از اینسترومنت و پرکردن فراتر از اپکس پرهیز کن.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "درمان ریشه‌ی دندان غیرزنده معمولاً فاکتور نمی‌خواهد؛ فقط از اینسترومنت و پرکردن فراتر از اپکس پرهیز کن."
+          }
+        ],
+        "observedAt": "2026-11-19T14:58:02.808Z"
+      }
+    },
+    {
+      "id": "question:37954",
+      "sourceId": "37954",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "fd56114a6de9bd1b6794616e0e875ec67faf1846cc5fff8bdca1303db7c72d2b",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار می‌پرسد دهان‌شویه‌ی ترانگزامیک اسید ۵٪ را که داروخانه برایش ساخته، چطور مصرف کند. کدام دستور درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار می‌پرسد دهان‌شویه‌ی ترانگزامیک اسید ۵٪ را که داروخانه برایش ساخته، چطور مصرف کند. کدام دستور درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵ میلی‌لیتر را ۲ دقیقه نگه دار، ولی نخستین دوز را ۲۴ ساعت پس از جراحی شروع کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵ میلی‌لیتر را قورت بده تا اثر سیستمیک پیدا کند؛ فقط یک بار، شب پس از جراحی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۰ میلی‌لیتر را ۱۰ ثانیه غرغره کن و بیرون بریز؛ فقط وقتی خون‌ریزی شروع شد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵ میلی‌لیتر را ۲ دقیقه در دهان نگه دار؛ پیش از کار و تا چهار بار در روز"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3c1faa20b9325f01ac84aa7ad3d8a9794f7a0dd0fa7309575719207c43540ce8",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "۵ میلی‌لیتر را ۲ دقیقه نگه دار، ولی نخستین دوز را ۲۴ ساعت پس از جراحی شروع کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۵ میلی‌لیتر را ۲ دقیقه نگه دار، ولی نخستین دوز را ۲۴ ساعت پس از جراحی شروع کن"
+            }
+          ]
+        },
+        {
+          "id": "a266c8df1d25f24c7d969776f32d9558da7c2bf872691dc736fd0e9835214c61",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "۵ میلی‌لیتر را قورت بده تا اثر سیستمیک پیدا کند؛ فقط یک بار، شب پس از جراحی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۵ میلی‌لیتر را قورت بده تا اثر سیستمیک پیدا کند؛ فقط یک بار، شب پس از جراحی"
+            }
+          ]
+        },
+        {
+          "id": "080add8773485a6b8b74604ebcbc241568b5c061b19493576094f5e445d6cb92",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "۲۰ میلی‌لیتر را ۱۰ ثانیه غرغره کن و بیرون بریز؛ فقط وقتی خون‌ریزی شروع شد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۲۰ میلی‌لیتر را ۱۰ ثانیه غرغره کن و بیرون بریز؛ فقط وقتی خون‌ریزی شروع شد"
+            }
+          ]
+        },
+        {
+          "id": "50f98d9396bec0aa01f2490588a67ce3202254d25b5d574edc42373c1d886388",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "۵ میلی‌لیتر را ۲ دقیقه در دهان نگه دار؛ پیش از کار و تا چهار بار در روز",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۵ میلی‌لیتر را ۲ دقیقه در دهان نگه دار؛ پیش از کار و تا چهار بار در روز"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "50f98d9396bec0aa01f2490588a67ce3202254d25b5d574edc42373c1d886388"
+        ],
+        "explanation": "دهان‌شویه اثر موضعی دارد: ۵ میلی‌لیتر، ۲ دقیقه در دهان، نخستین دوز درست پیش از کار و بعد تا چهار بار در روز.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دهان‌شویه اثر موضعی دارد: ۵ میلی‌لیتر، ۲ دقیقه در دهان، نخستین دوز درست پیش از کار و بعد تا چهار بار در روز."
+          }
+        ],
+        "observedAt": "2026-11-19T14:58:08.548Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:26181ccae596093ddeae864ab620dbccb193f9f7da374b4246f9230964b6ddb2",
+      "at": "2026-11-19T14:57:36.747Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:c922ea22c754e9af6e00af697e3f71a9d09f87f4b6d6e69a33b98f5875869a41",
+      "at": "2026-11-19T14:57:38.341Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:37942",
+      "at": "2026-11-19T14:57:39.945Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:37945",
+      "at": "2026-11-19T14:57:49.192Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:37947",
+      "at": "2026-11-19T14:57:54.447Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:37949",
+      "at": "2026-11-19T14:57:59.139Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:37954",
+      "at": "2026-11-19T14:58:04.427Z",
+      "progress": "width: 85.7143%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

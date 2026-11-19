@@ -1,0 +1,1385 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2019/lesson.json",
+  "id": "2019",
+  "title": "درس دوم: کنترل قند و HbA1c",
+  "specialtyKey": "d6dd39db909ba710",
+  "chapter": {
+    "id": "417",
+    "title": "بیماری‌های غدد، کلیه و کبد، دیابت",
+    "position": 21
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:af63869d63e484fb5c3b5e1e739c5d676adfe1b1c29f461a90c6554a24486b3c",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "cf461f37a36ecf36ff1fa60c6805d526b601c3fa025b95e6267b91ae6675396a",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "HbA1c و هدف کنترل قند"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آقای ۵۶ ساله‌ای با دیابت نوع ۲ می‌گوید: «قند امروز صبحم ۱۱۰ بود؛ دیابتم کاملاً کنترل است.» در آزمایش ماه پیش HbA1c او ۹٪ بوده. حرفش را قبول می‌کنی؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "گلوکز خون آرام‌آرام به هموگلوبین گلبول قرمز می‌چسبد و HbA1c می‌سازد. گلبول قرمز حدود سه ماه عمر می‌کند؛ پس HbA1c تصویر قند "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حدود ۳ ماه گذشته"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است، نه قند امروز."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "طبیعی:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " زیر ۵٫۷٪"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هدف رایج در بیمار دیابتی:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " زیر ۷٪"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هدف فردی است: برای جوان مبتلا به نوع ۱ ممکن است ۶٫۵٪، و برای سالمند یا بیمار با بیماری‌های همراه ۸ تا ۸٫۵٪ باشد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قند پیش از غذا ۸۰ تا ۱۳۰ mg/dL و اوج قند پس از غذا زیر ۱۸۰ mg/dL"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیمار پایدار دست‌کم سالی دو بار HbA1c می‌دهد؛ اگر درمانش عوض شده یا به هدف نرسیده، هر سه ماه."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "چرا کنترل مهم است"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عروق بزرگ:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " خطر MI و سکته‌ی مغزی ۲ تا ۴ برابر؛ MI شایع‌ترین علت مرگ در دیابت نوع ۲ است."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عروق کوچک:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " نفروپاتی، رتینوپاتی و نوروپاتی. نارسایی کلیه شایع‌ترین علت مرگ در دیابت نوع ۱ است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "HbA1c بالا اصلی‌ترین پیش‌بینی‌کننده‌ی عوارض دیابت است. کنترل سخت‌گیرانه عوارض را کم می‌کند، ولی هرچه هدف پایین‌تر باشد، خطر هیپوگلیسمی بیشتر است."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:67e8eb4011f38d0c79cb06a3cfef93d3e969b8131efeb6652db609a32e9bc87f",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "b15f6986bc1cdb8a4a12ea66eb064a47d9c7fd0316059d19d53becc8ced09ff1",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "داروهای دیابت"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "انسولین:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در نوع ۱ برای زنده ماندن لازم است. سریع‌الاثرها (لیسپرو، آسپارت) پیش از غذا زده می‌شوند و طولانی‌اثرها (گلارژین، دگلودک) بی‌اوج‌اند و نیاز پایه را می‌پوشانند. "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پمپ انسولین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " زیر پوست شکم مدام انسولین سریع‌الاثر می‌دهد؛ قطع شدنش می‌تواند به DKA برسد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "متفورمین:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " خط اول درمان نوع ۲؛ تولید گلوکز کبد را کم می‌کند. اسهال، دل‌درد و طعم فلزی شایع‌اند؛ کمبود B12 و اسیدوز لاکتیک هم رخ می‌دهد. در eGFR زیر ۳۰ منع مصرف دارد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سولفونیل‌اوره"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (گلی‌بنکلامید، گلی‌مپیراید): ترشح انسولین را زیاد می‌کند و به‌ویژه در سالمند هیپوگلیسمی می‌دهد. در آلرژی به سولفا منع مصرف دارد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مهارکننده‌های SGLT2"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (امپاگلیفلوزین، داپاگلیفلوزین): قند را از ادرار دفع می‌کنند؛ عفونت قارچی تناسلی، افت فشار و خطر DKA دارند، ولی برای قلب و کلیه سودمندند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آگونیست‌های GLP-1"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (لیراگلوتاید، سماگلوتاید): تزریقی‌اند و به‌تنهایی هیپوگلیسمی نمی‌دهند. تهوع شایع است و با کند کردن تخلیه‌ی معده ممکن است سطح خونی آنتی‌بیوتیک خوراکی را پایین بیاورند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباه رایج:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " همه‌ی داروهای دیابت را هم‌خطر دانستن. در مطب، بیشترین خطر افت قند مال بیمارانی است که "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "انسولین یا سولفونیل‌اوره"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مصرف می‌کنند."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:38076",
+      "sourceId": "38076",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "7fae4e78a42f6652c2636c78baa6b8b940ad818a2890c320bdc78c9ce736d983",
+      "position": 3,
+      "kind": "question",
+      "type": "letter-order",
+      "prompt": "در ساخت HbA1c، گلوکز خون به ............ گلبول قرمز می‌چسبد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در ساخت HbA1c، گلوکز خون به ............ گلبول قرمز می‌چسبد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "حروف را به ترتیب درست لمس کنید"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "و"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ل"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "م"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "dir": "auto"
+                  },
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ب"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": {
+        "verification": "observed-text",
+        "correctOptionIds": [],
+        "correctText": "هموگلوبین",
+        "explanation": "گلوکز به هموگلوبین گلبول قرمز می‌چسبد؛ حرف «Hb» در نام HbA1c هم از همین‌جا آمده است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "گلوکز به هموگلوبین گلبول قرمز می‌چسبد؛ حرف «Hb» در نام HbA1c هم از همین‌جا آمده است."
+          }
+        ],
+        "observedAt": "2026-11-19T15:12:17.623Z"
+      },
+      "letterLayout": {
+        "unit": "letter",
+        "slotCount": 9,
+        "tiles": [
+          {
+            "key": "0",
+            "position": 1,
+            "text": "و"
+          },
+          {
+            "key": "1",
+            "position": 2,
+            "text": "ه"
+          },
+          {
+            "key": "2",
+            "position": 3,
+            "text": "و"
+          },
+          {
+            "key": "3",
+            "position": 4,
+            "text": "ل"
+          },
+          {
+            "key": "4",
+            "position": 5,
+            "text": "ن"
+          },
+          {
+            "key": "5",
+            "position": 6,
+            "text": "ی"
+          },
+          {
+            "key": "6",
+            "position": 7,
+            "text": "گ"
+          },
+          {
+            "key": "7",
+            "position": 8,
+            "text": "م"
+          },
+          {
+            "key": "8",
+            "position": 9,
+            "text": "ب"
+          }
+        ]
+      }
+    },
+    {
+      "id": "question:38078",
+      "sourceId": "38078",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "4b1c962a767ab498e4205395ed7aa2fd50914842474625e4da17b719fff36ffa",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام گزاره درباره‌ی هدف HbA1c در بیماران دیابتی درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام گزاره درباره‌ی هدف HbA1c در بیماران دیابتی درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هدف برای همه‌ی بیماران یکسان و زیر ۷٪ است و سن و بیماری‌های همراه آن را تغییر نمی‌دهند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هدف برای همه‌ی بیماران زیر ۵٫۷٪ است تا قند کاملاً مثل یک فرد سالم و بدون نوسان باقی بماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هدف رایج زیر ۷٪ است، ولی برای سالمند یا بیمار با بیماری همراه ۸ تا ۸٫۵٪ هم پذیرفتنی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هدف برای سالمندان سخت‌تر و زیر ۶٪ است، چون خطر عوارض قلبی در آنان بیشتر است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "e4e9c920989c1d1b0c984f65bbeac46d031d0ef4ffa8aa670a9d2a47205ee95f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هدف برای همه‌ی بیماران یکسان و زیر ۷٪ است و سن و بیماری‌های همراه آن را تغییر نمی‌دهند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هدف برای همه‌ی بیماران یکسان و زیر ۷٪ است و سن و بیماری‌های همراه آن را تغییر نمی‌دهند"
+            }
+          ]
+        },
+        {
+          "id": "43be94cca791629aea7bddacf0f9f7438ef110c817f2f2e30bf47f232a9149f5",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "هدف برای همه‌ی بیماران زیر ۵٫۷٪ است تا قند کاملاً مثل یک فرد سالم و بدون نوسان باقی بماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هدف برای همه‌ی بیماران زیر ۵٫۷٪ است تا قند کاملاً مثل یک فرد سالم و بدون نوسان باقی بماند"
+            }
+          ]
+        },
+        {
+          "id": "5083930b44050e44c9b759045a2b58294b42effa536977e3b0fba7d0a022eee5",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "هدف رایج زیر ۷٪ است، ولی برای سالمند یا بیمار با بیماری همراه ۸ تا ۸٫۵٪ هم پذیرفتنی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هدف رایج زیر ۷٪ است، ولی برای سالمند یا بیمار با بیماری همراه ۸ تا ۸٫۵٪ هم پذیرفتنی است"
+            }
+          ]
+        },
+        {
+          "id": "dc7d3758d47f0add5d62e7f90f5e412ee1a4a86de93d75a1618a6186568e48b2",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هدف برای سالمندان سخت‌تر و زیر ۶٪ است، چون خطر عوارض قلبی در آنان بیشتر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هدف برای سالمندان سخت‌تر و زیر ۶٪ است، چون خطر عوارض قلبی در آنان بیشتر است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5083930b44050e44c9b759045a2b58294b42effa536977e3b0fba7d0a022eee5"
+        ],
+        "explanation": "زیر ۷٪ هدف رایج است، ولی هدف فردی تعیین می‌شود: سالمند یا بیمار با بیماری‌های همراه ممکن است ۸ تا ۸٫۵٪ هدف بگیرد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "زیر ۷٪ هدف رایج است، ولی هدف فردی تعیین می‌شود: سالمند یا بیمار با بیماری‌های همراه ممکن است ۸ تا ۸٫۵٪ هدف بگیرد."
+          }
+        ],
+        "observedAt": "2026-11-19T15:12:27.044Z"
+      }
+    },
+    {
+      "id": "question:38083",
+      "sourceId": "38083",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "1405258484fc93dc49d4a47dbf41f6b829aa943ee0d44e6e930cf6f4131b5723",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار ۶۰ ساله‌ای ۱۵ سال است دیابت نوع ۲ بد کنترل دارد. پیش از جراحی دندان، پرسیدن از کدام عوارض بیش از همه برنامه‌ی درمانت را تغییر می‌دهد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار ۶۰ ساله‌ای ۱۵ سال است دیابت نوع ۲ بد کنترل دارد. پیش از جراحی دندان، پرسیدن از کدام عوارض بیش از همه برنامه‌ی درمانت را تغییر می‌دهد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیماری قلبی‌عروقی و کلیه، چون خطر MI و نارسایی کلیه در او چند برابر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رتینوپاتی و آب مروارید، چون تاری دید همکاری بیمار را حین درمان کمتر می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نوروپاتی پا، چون زخم پا مستقیم خطر عفونت ادنتوژنیک پس از جراحی را بالا می‌برد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاهش شنوایی و مشکل شناختی، چون پیش‌بینی‌کننده‌ی خون‌ریزی پس از جراحی دهان‌اند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9d00c758e2ca00962e251b958371c8d4efb35cd174a53d636221d577189dcec9",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بیماری قلبی‌عروقی و کلیه، چون خطر MI و نارسایی کلیه در او چند برابر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیماری قلبی‌عروقی و کلیه، چون خطر MI و نارسایی کلیه در او چند برابر است"
+            }
+          ]
+        },
+        {
+          "id": "ab70ac3e1f7446e3d1e7b6632c101f8f96587205807fa520998d9a70022d0057",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "رتینوپاتی و آب مروارید، چون تاری دید همکاری بیمار را حین درمان کمتر می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رتینوپاتی و آب مروارید، چون تاری دید همکاری بیمار را حین درمان کمتر می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "c304e212b377d1513ef3e26b2100e95d0e055da88ca7b11d8f4257728a78710e",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نوروپاتی پا، چون زخم پا مستقیم خطر عفونت ادنتوژنیک پس از جراحی را بالا می‌برد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نوروپاتی پا، چون زخم پا مستقیم خطر عفونت ادنتوژنیک پس از جراحی را بالا می‌برد"
+            }
+          ]
+        },
+        {
+          "id": "04be60e4af80e53476915508fee5a2b49ebe513223259b168c4d8e825dd87b3f",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کاهش شنوایی و مشکل شناختی، چون پیش‌بینی‌کننده‌ی خون‌ریزی پس از جراحی دهان‌اند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاهش شنوایی و مشکل شناختی، چون پیش‌بینی‌کننده‌ی خون‌ریزی پس از جراحی دهان‌اند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9d00c758e2ca00962e251b958371c8d4efb35cd174a53d636221d577189dcec9"
+        ],
+        "explanation": "بیماری قلب و کلیه، انتخاب بی‌حسی، مسکن و حتی زمان درمان را عوض می‌کند؛ عارضه‌های عروق بزرگ و کلیه مهم‌ترین بخش ارزیابی‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بیماری قلب و کلیه، انتخاب بی‌حسی، مسکن و حتی زمان درمان را عوض می‌کند؛ عارضه‌های عروق بزرگ و کلیه مهم‌ترین بخش ارزیابی‌اند."
+          }
+        ],
+        "observedAt": "2026-11-19T15:12:32.913Z"
+      }
+    },
+    {
+      "id": "question:38085",
+      "sourceId": "38085",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "dc5c2b6522f07a48529591b3ed8711378f5ded7bcc4b77a99e91182ccda060a9",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "اگر پمپ انسولین بیمار نوع ۱ قطع شود یا لوله‌اش بسته شود، قند بالا می‌رود و ممکن است کتواسیدوز دیابتی (DKA) رخ دهد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "اگر پمپ انسولین بیمار نوع ۱ قطع شود یا لوله‌اش بسته شود، قند بالا می‌رود و ممکن است کتواسیدوز دیابتی (DKA) رخ دهد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "پمپ مدام انسولین سریع‌الاثر می‌دهد و ذخیره‌ی طولانی‌اثر پشتش نیست؛ قطع شدنش قند را بالا می‌برد و به DKA می‌رسد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پمپ مدام انسولین سریع‌الاثر می‌دهد و ذخیره‌ی طولانی‌اثر پشتش نیست؛ قطع شدنش قند را بالا می‌برد و به DKA می‌رسد."
+          }
+        ],
+        "observedAt": "2026-11-19T15:12:37.611Z"
+      }
+    },
+    {
+      "id": "question:38088",
+      "sourceId": "38088",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 85.7143%;",
+      "contentKey": "fbc54604b218c33a67c975b8d0ca1dedd304b45ca87ac872f3e455b57aa1d977",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مهارکننده‌های SGLT2 مثل امپاگلیفلوزین با زیاد کردن ترشح انسولین از پانکراس قند خون را پایین می‌آورند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مهارکننده‌های SGLT2 مثل امپاگلیفلوزین با زیاد کردن ترشح انسولین از پانکراس قند خون را پایین می‌آورند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "این داروها در کلیه کار می‌کنند و قند را از ادرار دفع می‌کنند؛ زیاد کردن ترشح انسولین کار سولفونیل‌اوره است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این داروها در کلیه کار می‌کنند و قند را از ادرار دفع می‌کنند؛ زیاد کردن ترشح انسولین کار سولفونیل‌اوره است."
+          }
+        ],
+        "observedAt": "2026-11-19T15:12:45.568Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:af63869d63e484fb5c3b5e1e739c5d676adfe1b1c29f461a90c6554a24486b3c",
+      "at": "2026-11-19T15:12:07.310Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:67e8eb4011f38d0c79cb06a3cfef93d3e969b8131efeb6652db609a32e9bc87f",
+      "at": "2026-11-19T15:12:08.917Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:38076",
+      "at": "2026-11-19T15:12:10.388Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:38078",
+      "at": "2026-11-19T15:12:19.234Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:38083",
+      "at": "2026-11-19T15:12:28.684Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:38085",
+      "at": "2026-11-19T15:12:34.494Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:38088",
+      "at": "2026-11-19T15:12:39.061Z",
+      "progress": "width: 85.7143%;"
+    },
+    {
+      "stepId": "question:38088",
+      "at": "2026-11-19T15:12:43.660Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

@@ -1,0 +1,1411 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2028/lesson.json",
+  "id": "2028",
+  "title": "درس اول: عوارض دهانی شیمی‌درمانی",
+  "specialtyKey": "d6dd39db909ba710",
+  "chapter": {
+    "id": "419",
+    "title": "سرطان",
+    "position": 20
+  },
+  "position": 1,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:192fc5834f5afcf4cbdfbcc56d3dd449e5d005cb26bb62d761dd6d78d07fccb7",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "757e004098c7db838fa8013458761afad1b08e7fefde982fedc94dc8a25abdb2",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "موکوزیت دهانی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "خانم ۴۶ ساله‌ای با سرطان پستان ده روز پس از دوره‌ی دوم شیمی‌درمانی آمده است. کناره‌ی زبان و مخاط گونه‌اش زخم‌های دردناک دارد و به‌سختی غذا می‌خورد، ولی لثه‌ی چسبنده و کام سخت سالم‌اند. چه شده است؟"
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/med-fig-21-4.webp",
+                  "alt": "موکوزیت دهانی در بیمار لوسمی حین شیمی‌درمانی پرشدت",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/c8cd3907e398f10edf5d9d39ec2132acf261ed478c72452d102bc03c814f4615.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موکوزیت دهانی در بیمار لوسمی حین شیمی‌درمانی پرشدت "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Little and Falace. Dental Management of the Medically Compromised Patient, 10th ed. — Fig. 21.4)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "این "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موکوزیت دهانی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " است: التهاب و زخم مخاط، چون شیمی‌درمانی به سلول‌های پرتکثیر اپی‌تلیوم دهان هم آسیب می‌زند."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "زمان:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ۷ تا ۱۴ روز پس از شیمی‌درمانی؛ در رادیوتراپی سر و گردن پس از ۲ تا ۳ هفته تابش. معمولاً چند هفته پس از پایان درمان فروکش می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "محل:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اول قرمزی، بعد زخم؛ بیشتر کناره‌ی زبان و مخاط گونه. مخاط کراتینیزه معمولاً سالم می‌ماند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بیشترین خطر:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " شیمی‌درمانی پرشدت (مثل القای لوسمی حاد و پیوند سلول‌های خون‌ساز) و شیمی‌رادیوتراپی سر و گردن."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "درمان علامتی"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دهان‌شویه‌ی ساده: یک‌چهارم قاشق چای‌خوری جوش شیرین و یک‌هشتم قاشق نمک در یک لیوان آب گرم"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بی‌حسی موضعی؛ در درد شدید مسکن سیستمیک، حتی اپیوئید"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رژیم نرم یا مایع و در موارد شدید تغذیه‌ی وریدی؛ پرهیز از دهان‌شویه‌ی الکل‌دار و غذای تند و ترش"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "موکوزیت شدید گاهی انکولوژیست را وادار می‌کند دوز درمان را کم کند یا آن را عقب بیندازد."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درمان‌های تازه:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " مهارکننده‌های mTOR زخم‌های کوچک شبیه آفت می‌دهند که با دهان‌شویه‌ی دگزامتازون بهتر می‌شوند. مهارکننده‌های checkpoint ایمنی ضایعه‌ی لیکنوئید می‌دهند که با استروئید موضعی کنترل می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:ad2c07852e9d1a359ee5284b4605b2ebb89d2edabc3309438069f21ddf573690",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "cacfd0bedd977d01aec1c78327e25463d75e5fee8e714ff799bf208feab3c560",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "عفونت و خون‌ریزی در شیمی‌درمانی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "شیمی‌درمانی مغز استخوان را سرکوب می‌کند: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نوتروپنی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " راه عفونت را باز می‌کند و "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ترومبوسیتوپنی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " راه خون‌ریزی را."
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "img",
+                  "src": "https://app.dentigoapp.com/storage/slides/attachments/med-fig-26-24.webp",
+                  "alt": "کاندیدیازیس کاذب غشایی در بیمار شیمی‌درمانی؛ شایع‌ترین عفونت دهانی این بیماران",
+                  "attributes": {
+                    "width": "",
+                    "height": ""
+                  },
+                  "assetPath": "assets/827f3cb426a8af6a5ea0ca94d7914305a02e82271b420227054957f9f8c9ed62.webp"
+                },
+                {
+                  "tag": "figcaption",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاندیدیازیس کاذب غشایی در بیمار شیمی‌درمانی؛ شایع‌ترین عفونت دهانی این بیماران "
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "dir": "ltr"
+                      },
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "(Little and Falace. Dental Management of the Medically Compromised Patient, 10th ed. — Fig. 26.24)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "عفونت‌ها"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کاندیدیازیس:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " شایع‌ترین عفونت دهانی، بیشتر با کاندیدا آلبیکنس. نوع سودوممبرانی پلاک سفیدی است که با کشیدن کنده می‌شود و نقطه‌های خون‌ریزی ریز به جا می‌گذارد؛ نوع اریتماتوز لکه‌ی قرمز با سوزش است. ضدقارچ موضعی یا سیستمیک می‌خواهد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هرپس عودکننده:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " زخم‌های نامنظم و دردناک لب و زبان، وسیع‌تر و کندتر از فرد سالم. درمانش ضدویروس سیستمیک است: آسیکلوویر یا والاسیکلوویر."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "عفونت دندانی:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در بیمار نوتروپنیک ممکن است تورم، قرمزی و چرک نداشته باشد و فقط با تب یا درد خود را نشان دهد. آنتی‌بیوتیک و درمان قطعی را زود شروع کن."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "خون‌ریزی"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پلاکت زیر "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۵۰٬۰۰۰"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " (و به‌ویژه زیر ۲۰٬۰۰۰) با ضربه‌ی جزئی مثل گاز گرفتن زبان یا مسواک خون‌ریزی می‌دهد: پتشی کام، پورپورای کناره‌ی زبان و تراوش خون از لثه. بهداشت ضعیف این خون‌ریزی را بدتر می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به‌جای مسواک معمولی اسفنج دهانی نرم؛ نخ دندان کنار گذاشته شود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خون‌ریزی مقاوم: فشار با اسفنج ژلاتینی همراه ترومبین یا کلاژن میکروفیبریلار، یا گاز آغشته به ضدفیبرینولیتیک."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اگر اقدام موضعی جواب نداد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، با انکولوژیست برای تزریق پلاکت هماهنگ کن."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:38228",
+      "sourceId": "38228",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "105b509bbb43d10d62da56016accbc733fe708cd31ba68445e46353e6706905f",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "موکوزیت ناشی از شیمی‌درمانی معمولاً چه زمانی ظاهر می‌شود و کجای دهان را بیشتر درگیر می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "موکوزیت ناشی از شیمی‌درمانی معمولاً چه زمانی ظاهر می‌شود و کجای دهان را بیشتر درگیر می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۲۴ تا ۴۸ ساعت پس از دارو؛ بیشتر لثه‌ی چسبنده و کام سخت"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۷ تا ۱۴ روز پس از دارو؛ بیشتر کناره‌ی زبان و مخاط گونه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چند ماه پس از پایان درمان؛ بیشتر پشت زبان و لثه‌ی چسبنده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همان روز تزریق؛ بیشتر کام سخت و لثه‌ی چسبنده‌ی قدامی"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "a8201f5f215a991d46a063e93876d4e67adc1cc1d76c694094389c3aea651702",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "۲۴ تا ۴۸ ساعت پس از دارو؛ بیشتر لثه‌ی چسبنده و کام سخت",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۲۴ تا ۴۸ ساعت پس از دارو؛ بیشتر لثه‌ی چسبنده و کام سخت"
+            }
+          ]
+        },
+        {
+          "id": "23abb7dc3fb886b2e99082f3443851c251915495b4dfcd2e182a99980319e9cf",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "۷ تا ۱۴ روز پس از دارو؛ بیشتر کناره‌ی زبان و مخاط گونه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "۷ تا ۱۴ روز پس از دارو؛ بیشتر کناره‌ی زبان و مخاط گونه"
+            }
+          ]
+        },
+        {
+          "id": "af4c3d4db30ab3a83d58447d2004b7b0985b1189de782416bff421540f1707a1",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چند ماه پس از پایان درمان؛ بیشتر پشت زبان و لثه‌ی چسبنده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چند ماه پس از پایان درمان؛ بیشتر پشت زبان و لثه‌ی چسبنده"
+            }
+          ]
+        },
+        {
+          "id": "965e1937eb88ef9c7daa954d438216a459902d423d7857c6660d336d944b737b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همان روز تزریق؛ بیشتر کام سخت و لثه‌ی چسبنده‌ی قدامی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همان روز تزریق؛ بیشتر کام سخت و لثه‌ی چسبنده‌ی قدامی"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "23abb7dc3fb886b2e99082f3443851c251915495b4dfcd2e182a99980319e9cf"
+        ],
+        "explanation": "آسیب به اپی‌تلیوم پرتکثیر یک تا دو هفته طول می‌کشد تا به زخم برسد، و مخاط غیرکراتینیزه مثل کناره‌ی زبان و گونه آسیب‌پذیرتر است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آسیب به اپی‌تلیوم پرتکثیر یک تا دو هفته طول می‌کشد تا به زخم برسد، و مخاط غیرکراتینیزه مثل کناره‌ی زبان و گونه آسیب‌پذیرتر است."
+          }
+        ],
+        "observedAt": "2026-11-19T15:06:14.688Z"
+      }
+    },
+    {
+      "id": "question:38233",
+      "sourceId": "38233",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "f23d550d901b3b7b1d5c1a6b7f77984a577d22721cf48a66a31ccc88cadecab0",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار با موکوزیت شدید پس از شیمی‌درمانی حتی آب را به‌سختی قورت می‌دهد و در یک هفته وزن کم کرده است. کدام برخورد درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار با موکوزیت شدید پس از شیمی‌درمانی حتی آب را به‌سختی قورت می‌دهد و در یک هفته وزن کم کرده است. کدام برخورد درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دهان‌شویه‌ی الکل‌دار زخم‌ها را ضدعفونی می‌کند و درد بلع را زودتر از هر روش دیگری کم می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موکوزیت چند روزه خوب می‌شود؛ دهان‌شویه‌ی آب نمک کافی است و پیگیری ویژه یا هماهنگی با کسی نمی‌خواهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درد را با مسکن سیستمیک، حتی اپیوئید، کنترل کن و برای تغذیه با تیم انکولوژی هماهنگ باش"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه‌ی ترمیم‌های بیمار را در همین جلسه پالیش کن تا زخم‌ها بی‌درنگ بسته شوند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0713940681829dd954afe6cf1b3d61ddde24796e42fe7f6c913e93ac92814429",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دهان‌شویه‌ی الکل‌دار زخم‌ها را ضدعفونی می‌کند و درد بلع را زودتر از هر روش دیگری کم می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دهان‌شویه‌ی الکل‌دار زخم‌ها را ضدعفونی می‌کند و درد بلع را زودتر از هر روش دیگری کم می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "698cf747a612c8af3cd8b25d847a887f4636f94164615f2f2c8decd88ecf2b8a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "موکوزیت چند روزه خوب می‌شود؛ دهان‌شویه‌ی آب نمک کافی است و پیگیری ویژه یا هماهنگی با کسی نمی‌خواهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "موکوزیت چند روزه خوب می‌شود؛ دهان‌شویه‌ی آب نمک کافی است و پیگیری ویژه یا هماهنگی با کسی نمی‌خواهد"
+            }
+          ]
+        },
+        {
+          "id": "d94b8822e3b5c42d2e898566ad4e543162f9351310c569a84bd1c674ed09172d",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "درد را با مسکن سیستمیک، حتی اپیوئید، کنترل کن و برای تغذیه با تیم انکولوژی هماهنگ باش",
+          "content": [
+            {
+              "tag": "text",
+              "text": "درد را با مسکن سیستمیک، حتی اپیوئید، کنترل کن و برای تغذیه با تیم انکولوژی هماهنگ باش"
+            }
+          ]
+        },
+        {
+          "id": "f8995390295d1b3b28fa4c9c7de7845accaa5ccd9b1c232798e56d818bc099e0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همه‌ی ترمیم‌های بیمار را در همین جلسه پالیش کن تا زخم‌ها بی‌درنگ بسته شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه‌ی ترمیم‌های بیمار را در همین جلسه پالیش کن تا زخم‌ها بی‌درنگ بسته شوند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d94b8822e3b5c42d2e898566ad4e543162f9351310c569a84bd1c674ed09172d"
+        ],
+        "explanation": "موکوزیت شدید می‌تواند تغذیه را مختل کند و گاهی رژیم مایع یا حتی تغذیه‌ی وریدی لازم می‌شود. کنترل درد و هماهنگی با تیم انکولوژی اولویت است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "موکوزیت شدید می‌تواند تغذیه را مختل کند و گاهی رژیم مایع یا حتی تغذیه‌ی وریدی لازم می‌شود. کنترل درد و هماهنگی با تیم انکولوژی اولویت است."
+          }
+        ],
+        "observedAt": "2026-11-19T15:06:21.161Z"
+      }
+    },
+    {
+      "id": "question:38236",
+      "sourceId": "38236",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "9daa80db2fcbfbdc0daa88a2a77f11fb71419ef7fdb6989ccfecd1b2e9f1f889",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار شیمی‌درمانی از سوزش دهان شکایت دارد. روی کام لکه‌ی قرمز منتشری می‌بینی، بی‌پلاک سفید و بی‌زخم. محتمل‌ترین تشخیص و درمان کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار شیمی‌درمانی از سوزش دهان شکایت دارد. روی کام لکه‌ی قرمز منتشری می‌بینی، بی‌پلاک سفید و بی‌زخم. محتمل‌ترین تشخیص و درمان کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پتشی ناشی از پلاکت پایین؛ درمانش فقط تزریق پلاکت است و ضدقارچ لازم ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاندیدیازیس اریتماتوز؛ با ضدقارچ موضعی یا سیستمیک درمان می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "موکوزیت کام سخت؛ با دهان‌شویه‌ی آب نمک خودبه‌خود خوب می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ضایعه‌ی لیکنوئید ایمنی‌درمانی؛ داروی سرطان باید فوراً قطع شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d1d7c76fd23761496f234a34e9ee100eecc308098e0537c998028033d6362496",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "پتشی ناشی از پلاکت پایین؛ درمانش فقط تزریق پلاکت است و ضدقارچ لازم ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پتشی ناشی از پلاکت پایین؛ درمانش فقط تزریق پلاکت است و ضدقارچ لازم ندارد"
+            }
+          ]
+        },
+        {
+          "id": "a185cdb804f8ae844eb68fedb37afc52015fce8fb645c0df119eddad4b1ce582",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کاندیدیازیس اریتماتوز؛ با ضدقارچ موضعی یا سیستمیک درمان می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کاندیدیازیس اریتماتوز؛ با ضدقارچ موضعی یا سیستمیک درمان می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "dd5ef6e71728aad237f21f86f9615ac78b40e7b0bbe0b0338b4a7ff1ae5840e9",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "موکوزیت کام سخت؛ با دهان‌شویه‌ی آب نمک خودبه‌خود خوب می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "موکوزیت کام سخت؛ با دهان‌شویه‌ی آب نمک خودبه‌خود خوب می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "b01ca338e10e5afbf17d6cdd094ada038a39f7f2d4383ef8fc63103e4d08bf64",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "ضایعه‌ی لیکنوئید ایمنی‌درمانی؛ داروی سرطان باید فوراً قطع شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ضایعه‌ی لیکنوئید ایمنی‌درمانی؛ داروی سرطان باید فوراً قطع شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "a185cdb804f8ae844eb68fedb37afc52015fce8fb645c0df119eddad4b1ce582"
+        ],
+        "explanation": "نوع اریتماتوز کاندیدیازیس بی‌سروصداتر است: لکه‌ی قرمز با سوزش، بی‌پلاک سفید. ضدقارچ موضعی یا سیستمیک درمانش است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نوع اریتماتوز کاندیدیازیس بی‌سروصداتر است: لکه‌ی قرمز با سوزش، بی‌پلاک سفید. ضدقارچ موضعی یا سیستمیک درمانش است."
+          }
+        ],
+        "observedAt": "2026-11-19T15:06:27.224Z"
+      }
+    },
+    {
+      "id": "question:38238",
+      "sourceId": "38238",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "10fcaca4703076c03036587d557b09d33784c7cf7220489c0894ae75d765992c",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "زخم‌های هرپس عودکننده در بیمار تحت شیمی‌درمانی معمولاً کوچک‌تر از فرد سالم‌اند و زودتر خوب می‌شوند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "زخم‌های هرپس عودکننده در بیمار تحت شیمی‌درمانی معمولاً کوچک‌تر از فرد سالم‌اند و زودتر خوب می‌شوند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "سرکوب ایمنی سیر هرپس را بدتر می‌کند: زخم‌ها وسیع‌ترند و دیرتر خوب می‌شوند، برای همین ضدویروس سیستمیک لازم است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "سرکوب ایمنی سیر هرپس را بدتر می‌کند: زخم‌ها وسیع‌ترند و دیرتر خوب می‌شوند، برای همین ضدویروس سیستمیک لازم است."
+          }
+        ],
+        "observedAt": "2026-11-19T15:06:41.452Z"
+      }
+    },
+    {
+      "id": "question:38241",
+      "sourceId": "38241",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "cd5cfe1bede91281ea9fc47d7f7be701c4d9be579e3f360fd72c718b2f7e03e2",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بیمار شیمی‌درمانی با پلاکت پایین، بهداشت ضعیف دهان خون‌ریزی لثه را بدتر می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیمار شیمی‌درمانی با پلاکت پایین، بهداشت ضعیف دهان خون‌ریزی لثه را بدتر می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "التهاب لثه‌ی ناشی از پلاک خون‌ریزی را بیشتر می‌کند؛ برای همین بهداشت با ابزار نرم ادامه می‌یابد، نه اینکه کنار گذاشته شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "التهاب لثه‌ی ناشی از پلاک خون‌ریزی را بیشتر می‌کند؛ برای همین بهداشت با ابزار نرم ادامه می‌یابد، نه اینکه کنار گذاشته شود."
+          }
+        ],
+        "observedAt": "2026-11-19T15:06:37.898Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:192fc5834f5afcf4cbdfbcc56d3dd449e5d005cb26bb62d761dd6d78d07fccb7",
+      "at": "2026-11-19T15:05:47.346Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:ad2c07852e9d1a359ee5284b4605b2ebb89d2edabc3309438069f21ddf573690",
+      "at": "2026-11-19T15:05:49.424Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:38228",
+      "at": "2026-11-19T15:05:51.045Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:38233",
+      "at": "2026-11-19T15:06:16.302Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:38236",
+      "at": "2026-11-19T15:06:22.788Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:38238",
+      "at": "2026-11-19T15:06:28.834Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:38241",
+      "at": "2026-11-19T15:06:34.098Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:38238",
+      "at": "2026-11-19T15:06:39.525Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
