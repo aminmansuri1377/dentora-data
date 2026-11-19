@@ -1,0 +1,1454 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2685/lesson.json",
+  "id": "2685",
+  "title": "درس دوم: pKa و شروع اثر",
+  "specialtyKey": "9388367f9a0be8cd",
+  "chapter": {
+    "id": "544",
+    "title": "مکانیسم اثر و فارماکولوژی",
+    "position": 2
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:ed35c5c45dcad36ec14326a3ea29ee4c7f9a3d3de9c14ea62a53b7243ffcc8e6",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "e4c6270115f7dc934234f61d465cd60cf24ec06a770c8af7cade846cf88c06c0",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "pKa و سرعت شروع اثر"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "همکارت کارپول لیدوکائین با اپی‌نفرین (شیشه‌ی آماده‌ی داروی بی‌حسی که تنگ‌کننده‌ی رگ هم دارد) را درست پیش از تزریق با سدیم بی‌کربنات بافر می‌کند و می‌گوید بیمارانش زودتر بی‌حس می‌شوند و سوزش کمتری حس می‌کنند. این حرف پایه‌ی علمی دارد؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بی‌حسی‌ها باز ضعیف‌اند و به شکل نمک اسیدی (هیدروکلراید) در کارپول‌اند. در محلول و بافت، شکل باردار و بی‌بار با یون هیدروژن در تعادل‌اند. هرچه یون هیدروژن بیشتر باشد (pH پایین‌تر)، سهم شکل "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "باردار"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیشتر است."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "pKa"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " آن pH است که در آن دقیقاً نیمی از دارو باردار و نیمی بی‌بار است. هرچه pKa دارو پایین‌تر باشد، در pH بافت (۷٫۴) شکل بی‌بار بیشتری دارد."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مسیر مولکول تا کانال"
+                }
+              ]
+            },
+            {
+              "tag": "ol",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط شکل "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بی‌بار (RN)"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " چربی‌دوست است و از غلاف عصب می‌گذرد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درون عصب (pH ۷٫۴) تعادل دوباره برقرار می‌شود و حدود ۷۵٪ مولکول‌ها باردار می‌شوند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکل باردار از درون، کانال سدیم را می‌بندد."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مثال: از ۱۰۰۰ مولکول دارویی با pKa ۷٫۹ در بافت سالم، حدود ۲۵۰ مولکول بی‌بارند و وارد عصب می‌شوند. ۷۵۰ مولکول باردار بیرون می‌مانند و کم‌کم دوباره بی‌بار می‌شوند؛ البته بخشی از آن‌ها پخش یا جذب رگ‌ها می‌شود."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لیدوکائین، مپیواکائین، پریلوکائین و آرتیکائین: pKa حدود ۷٫۶ تا ۷٫۹، شروع ۲ تا ۴ دقیقه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بوپیواکائین: pKa ۸٫۱، شروع ۵ تا ۸ دقیقه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پروکائین: pKa ۹٫۱، فقط حدود ۲٪ بی‌بار، شروع ۱۴ تا ۱۸ دقیقه"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:4e2d43b2279bd00abe4ec4437ff7c67479e86f01f6b7098e6a48a9b563105bbe",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "787af130708c74675018a8319cc5e5436f9668945114db771545c1f4e92a08db",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "pH کارپول، بافر کردن و ویژگی‌های دیگر دارو"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "محلول ساده pH حدود ۶٫۵ دارد. به کارپول‌های دارای اپی‌نفرین "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سدیم بی‌سولفیت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " افزوده‌اند تا اپی‌نفرین اکسید نشود؛ pH این کارپول‌ها حدود ۳٫۵ تا ۴٫۴ است. نتیجه:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سوزش بیشتر هنگام تزریق"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شروع اثر کمی کندتر، چون بافت باید اسید را خنثی کند"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "درد بیشتر محل تزریق پس از بی‌حسی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بافر کردن"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "، یعنی افزودن سدیم بی‌کربنات درست پیش از تزریق، pH را بالا می‌برد و سهم شکل "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بی‌بار (RN)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " را زیاد می‌کند: شروع سریع‌تر و تزریق راحت‌تر. کارخانه نمی‌تواند محلول قلیایی آماده بسازد، چون شکل بی‌بار ناپایدار است و رسوب می‌کند."
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "از عوامل مؤثر بر زمان شروع، دو عامل در دست توست: "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلظت دارو"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " و pH محلول. غلظت بیشتر شیب غلظت را تندتر و انتشار را سریع‌تر می‌کند. ثابت انتشار دارو و سدهای آناتومیک در دست تو نیستند."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "سه ویژگی دیگر"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چربی‌دوستی بیشتر: قدرت بیشتر (غشای عصب حدود ۹۰٪ چربی است)"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اتصال بیشتر به پروتئین: مدت اثر طولانی‌تر، مثل بوپیواکائین"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گشادکنندگی بیشتر رگ: قدرت و مدت کمتر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "اشتباه رایج: گمان اینکه بافر کردن شکل باردار را زیاد می‌کند. بافر یون هیدروژن را کم می‌کند و تعادل را به سمت شکل بی‌بار می‌برد؛ همان شکلی که از غلاف عصب می‌گذرد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:46057",
+      "sourceId": "46057",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "2b1c64f9dc731da30132a2be143876daa3bb1f4149052d6d3adc6985f2ba684b",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در آزمایشگاه فارماکولوژی، محلول دارویی با pKa ۷٫۸ را به pH ۷٫۸ رسانده‌اید. نسبت دو شکل دارو در این محلول چگونه است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در آزمایشگاه فارماکولوژی، محلول دارویی با pKa ۷٫۸ را به pH ۷٫۸ رسانده‌اید. نسبت دو شکل دارو در این محلول چگونه است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیشتر بی‌بار، حدود ۷۵٪"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیشتر باردار، حدود ۹۰٪"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نیمی باردار و نیمی بی‌بار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همه بی‌بار، چون محلول خنثی است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "fbb7c165016ec5b2c60cf03db97affef55c99f4f5b2e43d53e289ae73da6f442",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بیشتر بی‌بار، حدود ۷۵٪",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیشتر بی‌بار، حدود ۷۵٪"
+            }
+          ]
+        },
+        {
+          "id": "7b223353b24b04bd4af32f0dd00a75d41148a9f8cf6642b9be482516bd3ef0a7",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بیشتر باردار، حدود ۹۰٪",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیشتر باردار، حدود ۹۰٪"
+            }
+          ]
+        },
+        {
+          "id": "6787cad5e20625d543fc37fb4d7b8a333ea6b8bca522eaf96384a793a6a0aa5b",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نیمی باردار و نیمی بی‌بار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نیمی باردار و نیمی بی‌بار"
+            }
+          ]
+        },
+        {
+          "id": "dde9089cba5acd770bcffb75bb40638420c9da80a5fc902bb6e8ccce1f34c636",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "همه بی‌بار، چون محلول خنثی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همه بی‌بار، چون محلول خنثی است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6787cad5e20625d543fc37fb4d7b8a333ea6b8bca522eaf96384a793a6a0aa5b"
+        ],
+        "explanation": "وقتی pH با pKa برابر است، طبق معادله‌ی هندرسون‌ـ‌هسلباخ دقیقاً نیمی از دارو در هر شکل است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "وقتی pH با pKa برابر است، طبق معادله‌ی هندرسون‌ـ‌هسلباخ دقیقاً نیمی از دارو در هر شکل است."
+          }
+        ],
+        "observedAt": "2026-11-19T09:45:18.440Z"
+      }
+    },
+    {
+      "id": "question:46060",
+      "sourceId": "46060",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "73ee81236c5aed36e9afc3008124ab10b280f77db7c5d1bc26a4a5c3c1ea5a03",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برای کار کوتاهی که باید زود شروع شود، بین بوپیواکائین (pKa ۸٫۱) و آرتیکائین (pKa ۷٫۸) مردد هستی. کدام استدلال درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای کار کوتاهی که باید زود شروع شود، بین بوپیواکائین (pKa ۸٫۱) و آرتیکائین (pKa ۷٫۸) مردد هستی. کدام استدلال درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آرتیکائین، چون در pH بافت شکل بی‌بار بیشتری دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بوپیواکائین، چون pKa بالاتر یعنی نفوذ بیشتر به درون عصب"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فرقی ندارد، چون pKa فقط مدت اثر دارو را تعیین می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بوپیواکائین، چون شکل باردار بیشتر یعنی بلاک سریع‌تر عصب"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "f29e1c8ee007bb012755ff53e5bfeb98274969bef118c5a51b70edf10adaf619",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "آرتیکائین، چون در pH بافت شکل بی‌بار بیشتری دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آرتیکائین، چون در pH بافت شکل بی‌بار بیشتری دارد"
+            }
+          ]
+        },
+        {
+          "id": "f9486c9bd6542203fc85425ce8e1033bb5aeeb4f61c145c0eca3bdd934525ff6",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بوپیواکائین، چون pKa بالاتر یعنی نفوذ بیشتر به درون عصب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بوپیواکائین، چون pKa بالاتر یعنی نفوذ بیشتر به درون عصب"
+            }
+          ]
+        },
+        {
+          "id": "37b0b1996a3939d835946c3010bf96c97958d59993eb9c80135f2b28364e49ac",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "فرقی ندارد، چون pKa فقط مدت اثر دارو را تعیین می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فرقی ندارد، چون pKa فقط مدت اثر دارو را تعیین می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "d8b1b222afb2f9c15e7c2dd1b34e644fd251a6f5322878dc457a5eac5d57de9a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بوپیواکائین، چون شکل باردار بیشتر یعنی بلاک سریع‌تر عصب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بوپیواکائین، چون شکل باردار بیشتر یعنی بلاک سریع‌تر عصب"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f29e1c8ee007bb012755ff53e5bfeb98274969bef118c5a51b70edf10adaf619"
+        ],
+        "explanation": "pKa پایین‌تر آرتیکائین یعنی شکل بی‌بار بیشتر در pH ۷٫۴ و عبور سریع‌تر از غلاف؛ شروع آن ۲ تا ۴ دقیقه است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "pKa پایین‌تر آرتیکائین یعنی شکل بی‌بار بیشتر در pH ۷٫۴ و عبور سریع‌تر از غلاف؛ شروع آن ۲ تا ۴ دقیقه است."
+          }
+        ],
+        "observedAt": "2026-11-19T09:44:58.156Z"
+      }
+    },
+    {
+      "id": "question:46063",
+      "sourceId": "46063",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "0b8ef6eb7156f6a47ec9a91d17960808203b4d66f817156df7e7dc50da390493",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "پس از تزریق در بافت سالم، یک‌چهارم مولکول‌ها بی‌بار وارد عصب شده‌اند. سه‌چهارم باقی‌مانده که باردار بیرون مانده‌اند، چه سرنوشتی دارند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پس از تزریق در بافت سالم، یک‌چهارم مولکول‌ها بی‌بار وارد عصب شده‌اند. سه‌چهارم باقی‌مانده که باردار بیرون مانده‌اند، چه سرنوشتی دارند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بی‌درنگ با کولین‌استراز بافتی به متابولیت‌های بی‌اثر تبدیل می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تا پایان بی‌حسی باردار می‌مانند و بی‌اثر از راه خون دفع می‌شوند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "روی سطح بیرونی غشا می‌چسبند و از بیرون، کانال را می‌بندند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کم‌کم دوباره بی‌بار می‌شوند و بخشی از آن‌ها هم به عصب می‌رسد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b3607f2a2b3bf2fd5e5c4ae1f20dc43c73d258d7d64d413dcc88b7afeacb444f",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بی‌درنگ با کولین‌استراز بافتی به متابولیت‌های بی‌اثر تبدیل می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بی‌درنگ با کولین‌استراز بافتی به متابولیت‌های بی‌اثر تبدیل می‌شوند"
+            }
+          ]
+        },
+        {
+          "id": "8109b239e9c4b781d22dde8d9db310f1ef6f603c8eae73853799cb24022c2eda",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "تا پایان بی‌حسی باردار می‌مانند و بی‌اثر از راه خون دفع می‌شوند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تا پایان بی‌حسی باردار می‌مانند و بی‌اثر از راه خون دفع می‌شوند"
+            }
+          ]
+        },
+        {
+          "id": "3c8ba014f1567981ec2ddb73447a15cb46ef7d51c909c92b864fd91bd819a050",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "روی سطح بیرونی غشا می‌چسبند و از بیرون، کانال را می‌بندند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "روی سطح بیرونی غشا می‌چسبند و از بیرون، کانال را می‌بندند"
+            }
+          ]
+        },
+        {
+          "id": "c04e03ad1a0a064f83786002f9c9794626117bc8871b899984ea724c1da5e8a7",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کم‌کم دوباره بی‌بار می‌شوند و بخشی از آن‌ها هم به عصب می‌رسد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کم‌کم دوباره بی‌بار می‌شوند و بخشی از آن‌ها هم به عصب می‌رسد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c04e03ad1a0a064f83786002f9c9794626117bc8871b899984ea724c1da5e8a7"
+        ],
+        "explanation": "با رفتن شکل بی‌بار به درون عصب، تعادل بیرون به هم می‌خورد و بخشی از مولکول‌های باردار دوباره بی‌بار می‌شوند. البته همه به عصب نمی‌رسند؛ بخشی پخش یا جذب رگ‌ها می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "با رفتن شکل بی‌بار به درون عصب، تعادل بیرون به هم می‌خورد و بخشی از مولکول‌های باردار دوباره بی‌بار می‌شوند. البته همه به عصب نمی‌رسند؛ بخشی پخش یا جذب رگ‌ها می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-19T09:45:03.726Z"
+      }
+    },
+    {
+      "id": "question:46066",
+      "sourceId": "46066",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 62.5%;",
+      "contentKey": "fd8c39f3c895c95fb2ff21ef9d6ff615c9b16dd30f94bbe99362d36a8007f64d",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیماری هنگام تزریق لیدوکائین با اپی‌نفرین از سوزش شکایت می‌کند؛ با لیدوکائین ساده در جلسه‌ی قبل چنین نبود. محتمل‌ترین توضیح دارویی کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری هنگام تزریق لیدوکائین با اپی‌نفرین از سوزش شکایت می‌کند؛ با لیدوکائین ساده در جلسه‌ی قبل چنین نبود. محتمل‌ترین توضیح دارویی کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلرژی تازه‌ی بیمار به اپی‌نفرین کارپول"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "pH پایین‌تر کارپول دارای اپی‌نفرین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلظت بیشتر لیدوکائین در این کارپول تازه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تزریق داخل رگ در جلسه‌ی امروز"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5764ec133605e1b554c4ec66552b7dbd0bbe1b655668402d16b0611d5c57b52d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "آلرژی تازه‌ی بیمار به اپی‌نفرین کارپول",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آلرژی تازه‌ی بیمار به اپی‌نفرین کارپول"
+            }
+          ]
+        },
+        {
+          "id": "7602d45b8c5381c1e1c72bcd7838ce3819d24460a6d1a17e09f99afc2dc4a25e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "pH پایین‌تر کارپول دارای اپی‌نفرین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "pH پایین‌تر کارپول دارای اپی‌نفرین"
+            }
+          ]
+        },
+        {
+          "id": "dd2aef8f80639e246d41424fd96db157bbb85dfc45fe0941cab210c5eeb1b5aa",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "غلظت بیشتر لیدوکائین در این کارپول تازه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلظت بیشتر لیدوکائین در این کارپول تازه"
+            }
+          ]
+        },
+        {
+          "id": "b56b6f6331e35fb5a26a0045787bd4a46354d37c0a9ba3e0e8af29e7a39413bb",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تزریق داخل رگ در جلسه‌ی امروز",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تزریق داخل رگ در جلسه‌ی امروز"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "7602d45b8c5381c1e1c72bcd7838ce3819d24460a6d1a17e09f99afc2dc4a25e"
+        ],
+        "explanation": "کارپول دارای اپی‌نفرین pH حدود ۳٫۵ تا ۴٫۴ دارد، در برابر حدود ۶٫۵ در محلول ساده. همین اسیدیته سوزش هنگام تزریق را بیشتر می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کارپول دارای اپی‌نفرین pH حدود ۳٫۵ تا ۴٫۴ دارد، در برابر حدود ۶٫۵ در محلول ساده. همین اسیدیته سوزش هنگام تزریق را بیشتر می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-19T09:45:08.941Z"
+      }
+    },
+    {
+      "id": "question:46067",
+      "sourceId": "46067",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "d96b798f99aa74e3a4b5e2c982e2bc7b3ed2bf360400ecadf1373730c70fc0a5",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "همکارت کارپول لیدوکائین با اپی‌نفرین را درست پیش از تزریق با سدیم بی‌کربنات بافر می‌کند. کدام گزاره سازوکار، سود و محدودیت این کار را درست کنار هم می‌گذارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "همکارت کارپول لیدوکائین با اپی‌نفرین را درست پیش از تزریق با سدیم بی‌کربنات بافر می‌کند. کدام گزاره سازوکار، سود و محدودیت این کار را درست کنار هم می‌گذارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "pH پایین می‌آید و شکل بی‌بار بیشتر می‌شود؛ شروع سریع‌تر و سوزش کمتر؛ محلول بافرشده تا چند هفته در کارپول پایدار می‌ماند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "pH بالا می‌رود و شکل باردار بیشتر می‌شود؛ اتصال به گیرنده محکم‌تر؛ محلول قلیایی را نمی‌شود از پیش ساخت چون اپی‌نفرین تجزیه می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "pH بالا می‌رود و شکل بی‌بار بیشتر می‌شود؛ شروع سریع‌تر و سوزش کمتر؛ محلول قلیایی را نمی‌شود از پیش ساخت چون دارو رسوب می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "pH بالا می‌رود و شکل بی‌بار بیشتر می‌شود؛ مدت بی‌حسی دو برابر می‌شود؛ پس از بافر کردن، تنگ‌کننده دیگر لازم نیست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8007dee1fd397e8a99e41288757d9823ff3e14d994abc0b0d37bd39fc613c71d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "pH پایین می‌آید و شکل بی‌بار بیشتر می‌شود؛ شروع سریع‌تر و سوزش کمتر؛ محلول بافرشده تا چند هفته در کارپول پایدار می‌ماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "pH پایین می‌آید و شکل بی‌بار بیشتر می‌شود؛ شروع سریع‌تر و سوزش کمتر؛ محلول بافرشده تا چند هفته در کارپول پایدار می‌ماند"
+            }
+          ]
+        },
+        {
+          "id": "74ecd535fd8df9f8fbc2dd0b7d39f30e457108380cddcb5cc5f6230cb8fadecd",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "pH بالا می‌رود و شکل باردار بیشتر می‌شود؛ اتصال به گیرنده محکم‌تر؛ محلول قلیایی را نمی‌شود از پیش ساخت چون اپی‌نفرین تجزیه می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "pH بالا می‌رود و شکل باردار بیشتر می‌شود؛ اتصال به گیرنده محکم‌تر؛ محلول قلیایی را نمی‌شود از پیش ساخت چون اپی‌نفرین تجزیه می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "f4888d46e356ebda644de7f1f3c62113c8ee6d6c5f8aaaa6e202447c55efa529",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "pH بالا می‌رود و شکل بی‌بار بیشتر می‌شود؛ شروع سریع‌تر و سوزش کمتر؛ محلول قلیایی را نمی‌شود از پیش ساخت چون دارو رسوب می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "pH بالا می‌رود و شکل بی‌بار بیشتر می‌شود؛ شروع سریع‌تر و سوزش کمتر؛ محلول قلیایی را نمی‌شود از پیش ساخت چون دارو رسوب می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "69274ac54a6f1285f75fd1b3cd585c304222fc57415c7b8af3a48b299b00b62e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "pH بالا می‌رود و شکل بی‌بار بیشتر می‌شود؛ مدت بی‌حسی دو برابر می‌شود؛ پس از بافر کردن، تنگ‌کننده دیگر لازم نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "pH بالا می‌رود و شکل بی‌بار بیشتر می‌شود؛ مدت بی‌حسی دو برابر می‌شود؛ پس از بافر کردن، تنگ‌کننده دیگر لازم نیست"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "f4888d46e356ebda644de7f1f3c62113c8ee6d6c5f8aaaa6e202447c55efa529"
+        ],
+        "explanation": "بی‌کربنات یون هیدروژن را کم و pH را بالا می‌برد؛ تعادل به سمت شکل بی‌بار می‌رود و دارو زودتر و با سوزش کمتر اثر می‌کند. شکل بی‌بار ناپایدار است و رسوب می‌کند، پس بافر درست پیش از تزریق انجام می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بی‌کربنات یون هیدروژن را کم و pH را بالا می‌برد؛ تعادل به سمت شکل بی‌بار می‌رود و دارو زودتر و با سوزش کمتر اثر می‌کند. شکل بی‌بار ناپایدار است و رسوب می‌کند، پس بافر درست پیش از تزریق انجام می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-19T09:45:21.918Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:ed35c5c45dcad36ec14326a3ea29ee4c7f9a3d3de9c14ea62a53b7243ffcc8e6",
+      "at": "2026-11-19T09:44:42.548Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:4e2d43b2279bd00abe4ec4437ff7c67479e86f01f6b7098e6a48a9b563105bbe",
+      "at": "2026-11-19T09:44:44.234Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:46057",
+      "at": "2026-11-19T09:44:45.857Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:46060",
+      "at": "2026-11-19T09:44:54.671Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:46063",
+      "at": "2026-11-19T09:44:59.783Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:46066",
+      "at": "2026-11-19T09:45:05.317Z",
+      "progress": "width: 62.5%;"
+    },
+    {
+      "stepId": "question:46067",
+      "at": "2026-11-19T09:45:10.552Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:46057",
+      "at": "2026-11-19T09:45:16.558Z",
+      "progress": "width: 77.7778%;"
+    },
+    {
+      "stepId": "question:46067",
+      "at": "2026-11-19T09:45:20.034Z",
+      "progress": "width: 88.8889%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
