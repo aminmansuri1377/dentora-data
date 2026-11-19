@@ -1,0 +1,2779 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2079/lesson.json",
+  "id": "2079",
+  "title": "درس دوم: مرور بیماری‌های قلبی و خونی",
+  "specialtyKey": "d6dd39db909ba710",
+  "chapter": {
+    "id": "429",
+    "title": "مرور جامع",
+    "position": 32
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:2eb2be2a71b348f111fd5ba0855d375d59d2a82f2a1cdf8c0b4ef1873e13fc91",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "997c8c14a417ff2b88f59458d8b43f2d6569347f8412eb8ae7900dd5883b8cd3",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قاعده‌های طلایی بیمار قلبی و خونی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "پیش از هر کار در بیمار قلبی یا خونی چهار پرسش بپرس: بیماری پایدار است؟ چه دارویی می‌خورد؟ کار خون‌ریزی‌دار است؟ در فهرست پرخطر اندوکاردیت هست؟"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "فشار خون:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " زیر ۱۸۰/۱۱۰ هر درمان لازم؛ ۱۸۰/۱۱۰ و بیشتر، درمان انتخابی نه. اگر حین کار از ۱۷۹/۱۰۹ گذشت و پایین نیامد، کار را تمام کن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "اپی‌نفرین:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " در بیمار قلبی و با بتابلاکر غیرانتخابی حداکثر ۰٫۰۳۶ میلی‌گرم، یعنی دو کارپول ۱:۱۰۰٬۰۰۰. با دیگوکسین نه. لوونوردفرین و نخ اپی‌نفرین‌دار نه."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "بیمار ایسکمیک:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " MI کمتر از ۳۰ روز یا آنژین ناپایدار یعنی فقط کار ضروری با مشاوره. اگر پس از MI هنوز علامت دارد، باز هم خطر بالاست."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "نارسایی قلب:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " صندلی نیمه‌نشسته؛ نارسایی جبران‌نشده یعنی تعویق."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پیس‌میکر و ICD:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پروفیلاکسی نه، الکتروسرجری نه؛ پد AED کمی دورتر از دستگاه."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پروفیلاکسی:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " فقط دریچه یا ماده‌ی مصنوعی دریچه، سابقه‌ی IE، بیماری مادرزادی خاص و پیوند قلب با والوولوپاتی؛ آموکسی‌سیلین ۲ گرم، ۳۰ تا ۶۰ دقیقه پیش از کار."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ضدانعقاد و ضدپلاکت:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " قطع نکن. وارفارین با INR تا ۳٫۵ برای کار جزئی؛ DOAC بی‌آزمایش؛ کشیدن ساده‌ی تا ۳ دندان بی‌قطع، بیشتر از آن یا فلپ با مشاوره‌ی پزشک. هموستاز موضعی و استامینوفن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هموفیلی و فون ویلبراند:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اول هماتولوژیست. دسموپرسین در فون ویلبراند نوع ۱ و هموفیلی A خفیف، نه در هموفیلی B."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "سرطان:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " کشیدن دست‌کم ۲ هفته پیش از رادیوتراپی یا داروی ضدجذب و ۷ تا ۱۰ روز پیش از شیمی‌درمانی؛ در فک پرتودیده درمان ریشه بر کشیدن مقدم است."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ماکرولید:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " اریترومایسین و کلاریترومایسین کنار مسدودکننده‌ی کانال کلسیم، استاتین، DOAC و وارفارین دردسر می‌سازند. آزیترومایسین تداخل با مسدودکننده‌ی کانال کلسیم را ندارد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:39434",
+      "sourceId": "39434",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 7.14286%;",
+      "contentKey": "f307f6683acd2309dbc8d1c9f8ab1ef9d6162f0cdac18d99bf20fdcc09d5f5b0",
+      "position": 2,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "آقای ۶۰ ساله‌ای که پروپرانولول می‌خورد، برای کشیدن دو مولر آمده است. فشارش پس از ۵ دقیقه استراحت ۱۶۴/۱۰۰ است و علامتی ندارد. کدام برنامه درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آقای ۶۰ ساله‌ای که پروپرانولول می‌خورد، برای کشیدن دو مولر آمده است. فشارش پس از ۵ دقیقه استراحت ۱۶۴/۱۰۰ است و علامتی ندارد. کدام برنامه درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن امروز، با حداکثر دو کارپول اپی‌نفرین‌دار و ادامه با بی‌حسی ساده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عقب انداختن کشیدن تا رسیدن فشار به زیر ۱۴۰/۹۰، با ارجاع فوری به پزشک"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن امروز با لیدوکائین و لوونوردفرین به‌جای اپی‌نفرین برای ایمنی بیشتر"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن امروز با هر تعداد کارپول لازم، چون فشار هنوز زیر ۱۸۰/۱۱۰ است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "00f49ccb646cdc82d2533b6256389963f3dc68354b3963912588afb34500f400",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کشیدن امروز، با حداکثر دو کارپول اپی‌نفرین‌دار و ادامه با بی‌حسی ساده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن امروز، با حداکثر دو کارپول اپی‌نفرین‌دار و ادامه با بی‌حسی ساده"
+            }
+          ]
+        },
+        {
+          "id": "57afc1d39a71e1dea8e6482a217802460edb09556b9c932840b43d27fb6ceb89",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "عقب انداختن کشیدن تا رسیدن فشار به زیر ۱۴۰/۹۰، با ارجاع فوری به پزشک",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عقب انداختن کشیدن تا رسیدن فشار به زیر ۱۴۰/۹۰، با ارجاع فوری به پزشک"
+            }
+          ]
+        },
+        {
+          "id": "174991f892133a5cddfe5b3f7ee65df931b56f16ce347c5a3d2f1ec09509958c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کشیدن امروز با لیدوکائین و لوونوردفرین به‌جای اپی‌نفرین برای ایمنی بیشتر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن امروز با لیدوکائین و لوونوردفرین به‌جای اپی‌نفرین برای ایمنی بیشتر"
+            }
+          ]
+        },
+        {
+          "id": "21a1cf69213905fa256859e599cec131a75626c541b1a92e2bec571011a9c7a5",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کشیدن امروز با هر تعداد کارپول لازم، چون فشار هنوز زیر ۱۸۰/۱۱۰ است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن امروز با هر تعداد کارپول لازم، چون فشار هنوز زیر ۱۸۰/۱۱۰ است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "00f49ccb646cdc82d2533b6256389963f3dc68354b3963912588afb34500f400"
+        ],
+        "explanation": "زیر ۱۸۰/۱۱۰ هر درمان لازم مجاز است. پروپرانولول بتابلاکر غیرانتخابی است، پس اپی‌نفرین به ۰٫۰۳۶ میلی‌گرم، یعنی دو کارپول ۱:۱۰۰٬۰۰۰، محدود می‌شود و ادامه با بی‌حسی بدون تنگ‌کننده است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "زیر ۱۸۰/۱۱۰ هر درمان لازم مجاز است. پروپرانولول بتابلاکر غیرانتخابی است، پس اپی‌نفرین به ۰٫۰۳۶ میلی‌گرم، یعنی دو کارپول ۱:۱۰۰٬۰۰۰، محدود می‌شود و ادامه با بی‌حسی بدون تنگ‌کننده است."
+          }
+        ],
+        "observedAt": "2026-11-19T16:38:41.113Z"
+      }
+    },
+    {
+      "id": "question:39437",
+      "sourceId": "39437",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 13.3333%;",
+      "contentKey": "2b8a540e0ef7ab3eefcc8b8ebb789717e583e17eec1ca1cff4d97b22bef806ea",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "خانم ۶۶ ساله‌ای آملودیپین و آتورواستاتین می‌خورد و سال پیش با آموکسی‌سیلین کهیر زده است. برای عفونت دندانی آنتی‌بیوتیک لازم دارد. کدام انتخاب درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خانم ۶۶ ساله‌ای آملودیپین و آتورواستاتین می‌خورد و سال پیش با آموکسی‌سیلین کهیر زده است. برای عفونت دندانی آنتی‌بیوتیک لازم دارد. کدام انتخاب درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اریترومایسین، چون قدیمی‌ترین و آزموده‌ترین ماکرولید است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلاریترومایسین، چون از بقیه‌ی ماکرولیدها قوی‌تر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آزیترومایسین، چون تداخل مهمی با آملودیپین ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفالکسین، چون کهیر منعی برای سفالوسپورین نیست"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "ca49a2c767c5ad5136db9ac807cd1e6829ab9d3b364de0b004b191fbad42afca",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اریترومایسین، چون قدیمی‌ترین و آزموده‌ترین ماکرولید است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اریترومایسین، چون قدیمی‌ترین و آزموده‌ترین ماکرولید است"
+            }
+          ]
+        },
+        {
+          "id": "b39e9a72c3d88b3ef39492917b6ac01f53a85b7fb0168deca4e9b99666621ee5",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کلاریترومایسین، چون از بقیه‌ی ماکرولیدها قوی‌تر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلاریترومایسین، چون از بقیه‌ی ماکرولیدها قوی‌تر است"
+            }
+          ]
+        },
+        {
+          "id": "ebd9510eae31998e67449ac13a4b010842898f82dfb44e63caa60c8e05d25840",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آزیترومایسین، چون تداخل مهمی با آملودیپین ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آزیترومایسین، چون تداخل مهمی با آملودیپین ندارد"
+            }
+          ]
+        },
+        {
+          "id": "eb284543685b8793acc0bc5b2ead09fc428b740799ae2ef3980a22eb157fc3fe",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سفالکسین، چون کهیر منعی برای سفالوسپورین نیست",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفالکسین، چون کهیر منعی برای سفالوسپورین نیست"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ebd9510eae31998e67449ac13a4b010842898f82dfb44e63caa60c8e05d25840"
+        ],
+        "explanation": "آزیترومایسین تداخل کلاریترومایسین و اریترومایسین با مسدودکننده‌ی کانال کلسیم را ندارد؛ آن دو کنار آملودیپین افت فشار شدید و آسیب حاد کلیه می‌دهند و کنار استاتین خطر رابدومیولیز.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آزیترومایسین تداخل کلاریترومایسین و اریترومایسین با مسدودکننده‌ی کانال کلسیم را ندارد؛ آن دو کنار آملودیپین افت فشار شدید و آسیب حاد کلیه می‌دهند و کنار استاتین خطر رابدومیولیز."
+          }
+        ],
+        "observedAt": "2026-11-19T16:37:38.509Z"
+      }
+    },
+    {
+      "id": "question:39442",
+      "sourceId": "39442",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 20%;",
+      "contentKey": "f03a34957fc5fca1a4c48d69313636ec1cccdd732c4320f80fb506e9bb239806",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مردی دو ماه پیش سکته‌ی قلبی کرده و می‌گوید هنوز با بالا رفتن یک طبقه پله نفس‌تنگی و خستگی می‌گیرد. برای جرم‌گیری آمده است. کار درست کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مردی دو ماه پیش سکته‌ی قلبی کرده و می‌گوید هنوز با بالا رفتن یک طبقه پله نفس‌تنگی و خستگی می‌گیرد. برای جرم‌گیری آمده است. کار درست کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پیش از جرم‌گیری آسپرین ۳۲۵ جویدنی بده تا خطر لخته کم شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جرم‌گیری کم‌خطر است؛ بدون تغییر در برنامه امروز انجامش بده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "چون بیش از یک ماه گذشته، با پروتکل کاهش استرس کار را شروع کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خطر بالاست؛ درمان انتخابی را عقب بینداز و با پزشک مشورت کن"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "8474a2a75b555a2e48a4b283be48d0a233c89df1c4b485a7a83550076eb7a123",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "پیش از جرم‌گیری آسپرین ۳۲۵ جویدنی بده تا خطر لخته کم شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پیش از جرم‌گیری آسپرین ۳۲۵ جویدنی بده تا خطر لخته کم شود"
+            }
+          ]
+        },
+        {
+          "id": "7ef37cdb857df73d959afc61cb7cdc8c2b8616dde15668ba3532134f7d9d76ff",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "جرم‌گیری کم‌خطر است؛ بدون تغییر در برنامه امروز انجامش بده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جرم‌گیری کم‌خطر است؛ بدون تغییر در برنامه امروز انجامش بده"
+            }
+          ]
+        },
+        {
+          "id": "57628815fa8ab9adc562f60bcf32dbab95736068464fc6e00a8c79eb2c71033a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "چون بیش از یک ماه گذشته، با پروتکل کاهش استرس کار را شروع کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "چون بیش از یک ماه گذشته، با پروتکل کاهش استرس کار را شروع کن"
+            }
+          ]
+        },
+        {
+          "id": "1d41077e7ec5d8e24ff29ecc2f296cfd9c226a221d0813f5806dff27b2f30371",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "خطر بالاست؛ درمان انتخابی را عقب بینداز و با پزشک مشورت کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خطر بالاست؛ درمان انتخابی را عقب بینداز و با پزشک مشورت کن"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1d41077e7ec5d8e24ff29ecc2f296cfd9c226a221d0813f5806dff27b2f30371"
+        ],
+        "explanation": "اگر پس از MI هنوز تنگی نفس، درد سینه یا خستگی هست، بیمار حتی پس از یک ماه در گروه خطر بالا می‌ماند. ناتوانی در بالا رفتن یک طبقه پله هم یعنی ذخیره‌ی قلبی کم.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "اگر پس از MI هنوز تنگی نفس، درد سینه یا خستگی هست، بیمار حتی پس از یک ماه در گروه خطر بالا می‌ماند. ناتوانی در بالا رفتن یک طبقه پله هم یعنی ذخیره‌ی قلبی کم."
+          }
+        ],
+        "observedAt": "2026-11-19T16:37:43.902Z"
+      }
+    },
+    {
+      "id": "question:39444",
+      "sourceId": "39444",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 26.6667%;",
+      "contentKey": "848aa5fdeb48d5cb41c1eb593d30723617a036f1b99fd46930740530a8d51d6b",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "شمارش پلاکت طبیعی در بیماری که آسپرین می‌خورد نشان می‌دهد پلاکت‌هایش عملکرد طبیعی دارند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "شمارش پلاکت طبیعی در بیماری که آسپرین می‌خورد نشان می‌دهد پلاکت‌هایش عملکرد طبیعی دارند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "شمارش پلاکت فقط تعداد را نشان می‌دهد، نه عملکرد. آسپرین پلاکت را از کار می‌اندازد بی‌آنکه شمارش را کم کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "شمارش پلاکت فقط تعداد را نشان می‌دهد، نه عملکرد. آسپرین پلاکت را از کار می‌اندازد بی‌آنکه شمارش را کم کند."
+          }
+        ],
+        "observedAt": "2026-11-19T16:37:48.930Z"
+      }
+    },
+    {
+      "id": "question:39448",
+      "sourceId": "39448",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 33.3333%;",
+      "contentKey": "368a265fb4231036861cfe963a67ff11770b47a307e0611a190dc96478764093",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "خانم ۶۲ ساله‌ای با دریچه‌ی مکانیکی میترال برای کشیدن یک پرمولر آمده است. با آموکسی‌سیلین سابقه‌ی آنژیوادم دارد و قرص را راحت می‌خورد. کدام پروفیلاکسی درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خانم ۶۲ ساله‌ای با دریچه‌ی مکانیکی میترال برای کشیدن یک پرمولر آمده است. با آموکسی‌سیلین سابقه‌ی آنژیوادم دارد و قرص را راحت می‌خورد. کدام پروفیلاکسی درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلیندامایسین ۶۰۰ میلی‌گرم خوراکی، یک ساعت پیش از کار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفالکسین ۲ گرم خوراکی، ۳۰ تا ۶۰ دقیقه پیش از شروع کشیدن دندان"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آزیترومایسین ۵۰۰ میلی‌گرم خوراکی، ۳۰ تا ۶۰ دقیقه پیش از کار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پروفیلاکسی نده، چون هر آنتی‌بیوتیکی با وارفارین تداخل خطرناک دارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "07fa2726e4db77202cb197e358e4e5181c8a324fc7b04eb987a7a883e96dc952",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کلیندامایسین ۶۰۰ میلی‌گرم خوراکی، یک ساعت پیش از کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلیندامایسین ۶۰۰ میلی‌گرم خوراکی، یک ساعت پیش از کار"
+            }
+          ]
+        },
+        {
+          "id": "e3fe83d290318bae594ca3466c70d5564950ddd0d51da018ce63cb70934185f9",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سفالکسین ۲ گرم خوراکی، ۳۰ تا ۶۰ دقیقه پیش از شروع کشیدن دندان",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفالکسین ۲ گرم خوراکی، ۳۰ تا ۶۰ دقیقه پیش از شروع کشیدن دندان"
+            }
+          ]
+        },
+        {
+          "id": "c559ad6b8e32fdcad5e136f9c600e4bfcd63b9f9df18ac9412bf2eb6f284f138",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "آزیترومایسین ۵۰۰ میلی‌گرم خوراکی، ۳۰ تا ۶۰ دقیقه پیش از کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آزیترومایسین ۵۰۰ میلی‌گرم خوراکی، ۳۰ تا ۶۰ دقیقه پیش از کار"
+            }
+          ]
+        },
+        {
+          "id": "f0d932381d979b08944d362b22d05735d0ccd76d93ffdb0a35b7d2d224df46d1",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "پروفیلاکسی نده، چون هر آنتی‌بیوتیکی با وارفارین تداخل خطرناک دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پروفیلاکسی نده، چون هر آنتی‌بیوتیکی با وارفارین تداخل خطرناک دارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c559ad6b8e32fdcad5e136f9c600e4bfcd63b9f9df18ac9412bf2eb6f284f138"
+        ],
+        "explanation": "پس از آنژیوادم با پنی‌سیلین سفالوسپورین نده؛ آزیترومایسین، کلاریترومایسین یا داکسی‌سایکلین جایگزین‌اند. یک دوز پیش از کار اثر مهمی بر INR ندارد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پس از آنژیوادم با پنی‌سیلین سفالوسپورین نده؛ آزیترومایسین، کلاریترومایسین یا داکسی‌سایکلین جایگزین‌اند. یک دوز پیش از کار اثر مهمی بر INR ندارد."
+          }
+        ],
+        "observedAt": "2026-11-19T16:38:44.614Z"
+      }
+    },
+    {
+      "id": "question:39451",
+      "sourceId": "39451",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "7a5de492303cfdfe90cb6d21eaaba50e8df4e97a8d0ac22caa1d0ec70a21d79f",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مرد ۷۲ ساله‌ای با فیبریلاسیون دهلیزی که آپیکسابان می‌خورد، باید پنج دندان را با فلپ بکشد. کدام برنامه درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مرد ۷۲ ساله‌ای با فیبریلاسیون دهلیزی که آپیکسابان می‌خورد، باید پنج دندان را با فلپ بکشد. کدام برنامه درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تصمیم قطع با پزشک است؛ معمولاً ۱۲ تا ۴۸ ساعت پیش قطع و روز بعد از سر گرفته می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خودت دستور بده دارو یک هفته پیش از جراحی قطع شود تا خون‌ریزی جراحی تقریباً به صفر برسد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دارو را قطع کن و با انوکساپارین تا روز جراحی bridging انجام بده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "INR بگیر و اگر زیر ۳٫۵ بود، بدون قطع دارو و بدون هماهنگی کار کن"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "9f40528499bb754edd341c5b887c2252ac53d4afbca0e18167701e9ba6dd767d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "تصمیم قطع با پزشک است؛ معمولاً ۱۲ تا ۴۸ ساعت پیش قطع و روز بعد از سر گرفته می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تصمیم قطع با پزشک است؛ معمولاً ۱۲ تا ۴۸ ساعت پیش قطع و روز بعد از سر گرفته می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "0339bee304da591453f66a9a52236cbf16b25d6418c43a8f78e316be350ca863",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "خودت دستور بده دارو یک هفته پیش از جراحی قطع شود تا خون‌ریزی جراحی تقریباً به صفر برسد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خودت دستور بده دارو یک هفته پیش از جراحی قطع شود تا خون‌ریزی جراحی تقریباً به صفر برسد"
+            }
+          ]
+        },
+        {
+          "id": "6661565631c9e3985a3da3423fbd05e0f29d68f7bd8e7626aeae3faf811aa944",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دارو را قطع کن و با انوکساپارین تا روز جراحی bridging انجام بده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دارو را قطع کن و با انوکساپارین تا روز جراحی bridging انجام بده"
+            }
+          ]
+        },
+        {
+          "id": "cab281f8570154ff0a990983d7c051c0ec045d7291079bb2ac707f33a96c351f",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "INR بگیر و اگر زیر ۳٫۵ بود، بدون قطع دارو و بدون هماهنگی کار کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "INR بگیر و اگر زیر ۳٫۵ بود، بدون قطع دارو و بدون هماهنگی کار کن"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "9f40528499bb754edd341c5b887c2252ac53d4afbca0e18167701e9ba6dd767d"
+        ],
+        "explanation": "جراحی پرخطر در بیمار DOAC با پزشک هماهنگ می‌شود. اگر قطع لازم شد، کوتاه است: ۱۲ تا ۴۸ ساعت پیش و از سر گرفتن در روز بعد؛ bridging نمی‌خواهد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "جراحی پرخطر در بیمار DOAC با پزشک هماهنگ می‌شود. اگر قطع لازم شد، کوتاه است: ۱۲ تا ۴۸ ساعت پیش و از سر گرفتن در روز بعد؛ bridging نمی‌خواهد."
+          }
+        ],
+        "observedAt": "2026-11-19T16:38:47.998Z"
+      }
+    },
+    {
+      "id": "question:39452",
+      "sourceId": "39452",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 41.1765%;",
+      "contentKey": "5a4bb6922f7054348d365e8cf3381dbf164e33ff9d21169b95a60ea42bc93262",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "خانم ۷۲ ساله‌ای با نارسایی قلب جبران‌شده برای درمان ریشه آمده است. تا صندلی را می‌خوابانی سرفه می‌کند. کدام تنظیم درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خانم ۷۲ ساله‌ای با نارسایی قلب جبران‌شده برای درمان ریشه آمده است. تا صندلی را می‌خوابانی سرفه می‌کند. کدام تنظیم درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اکسید نیتروژن با ۲۰٪ اکسیژن برای آرام‌بخشی، و صندلی کاملاً خوابیده در طول کار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صندلی کاملاً خوابیده برای خون‌رسانی بهتر مغز، و اپی‌نفرین بدون هیچ محدودیتی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیهوشی عمومی سرپایی برای کوتاه‌تر شدن کار، و صندلی خوابیده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صندلی نیمه‌نشسته، حداکثر دو کارپول اپی‌نفرین، و پایش فشار پیش و حین کار"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "2027539849043e85ca5c2d00ee5b0802e321c7cd07b1974f3db631bc9c25a9b6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اکسید نیتروژن با ۲۰٪ اکسیژن برای آرام‌بخشی، و صندلی کاملاً خوابیده در طول کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اکسید نیتروژن با ۲۰٪ اکسیژن برای آرام‌بخشی، و صندلی کاملاً خوابیده در طول کار"
+            }
+          ]
+        },
+        {
+          "id": "79dd37d041c42d4a68000fdd9479be2f45a664111915e0d5380cdc57432bf260",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "صندلی کاملاً خوابیده برای خون‌رسانی بهتر مغز، و اپی‌نفرین بدون هیچ محدودیتی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صندلی کاملاً خوابیده برای خون‌رسانی بهتر مغز، و اپی‌نفرین بدون هیچ محدودیتی"
+            }
+          ]
+        },
+        {
+          "id": "f9d5d1f048bf619cfae904ce04c657036b80cf6fbff8509adf00f81eb0e70ea4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "بیهوشی عمومی سرپایی برای کوتاه‌تر شدن کار، و صندلی خوابیده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیهوشی عمومی سرپایی برای کوتاه‌تر شدن کار، و صندلی خوابیده"
+            }
+          ]
+        },
+        {
+          "id": "dc34031e3f54681ff6452d4dd2b44c5e3be03f984cc316ed398c64c139fac9b1",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "صندلی نیمه‌نشسته، حداکثر دو کارپول اپی‌نفرین، و پایش فشار پیش و حین کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صندلی نیمه‌نشسته، حداکثر دو کارپول اپی‌نفرین، و پایش فشار پیش و حین کار"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "dc34031e3f54681ff6452d4dd2b44c5e3be03f984cc316ed398c64c139fac9b1"
+        ],
+        "explanation": "سرفه در حالت خوابیده نشانه‌ی ارتوپنه است؛ صندلی نیمه‌نشسته، اپی‌نفرین حداکثر دو کارپول ۱:۱۰۰٬۰۰۰ و پایش فشار برنامه‌ی درست این بیمار است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "سرفه در حالت خوابیده نشانه‌ی ارتوپنه است؛ صندلی نیمه‌نشسته، اپی‌نفرین حداکثر دو کارپول ۱:۱۰۰٬۰۰۰ و پایش فشار برنامه‌ی درست این بیمار است."
+          }
+        ],
+        "observedAt": "2026-11-19T16:38:05.577Z"
+      }
+    },
+    {
+      "id": "question:39457",
+      "sourceId": "39457",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 47.0588%;",
+      "contentKey": "adee701b25c1cadb4b1be1da2ac193b7678ffc289a9d9ec667c162be7da810db",
+      "position": 9,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "آقای ۷۴ ساله‌ای که زیر ترقوه‌ی چپ ICD دارد، در اتاق انتظار بی‌پاسخ شده و نبض ندارد. CPR شروع شده و AED رسیده است. پد بالایی را کجا می‌چسبانی؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "آقای ۷۴ ساله‌ای که زیر ترقوه‌ی چپ ICD دارد، در اتاق انتظار بی‌پاسخ شده و نبض ندارد. CPR شروع شده و AED رسیده است. پد بالایی را کجا می‌چسبانی؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کمی دورتر از برجستگی دستگاه، نه مستقیم روی آن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مستقیم روی دستگاه، چون آنجا به قلب نزدیک‌تر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "AED را وصل نکن، چون ICD خودش شوک می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو پد را سمت راست سینه بچسبان تا از دستگاه دور باشند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "eed4ee6d884875c6cccfde755384cf41b6f35b6d98f8b5c2113933793dfe4dc6",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "کمی دورتر از برجستگی دستگاه، نه مستقیم روی آن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کمی دورتر از برجستگی دستگاه، نه مستقیم روی آن"
+            }
+          ]
+        },
+        {
+          "id": "4baf7c0f6034887e628fd826e681c65a66220af2fd4772e5b65b0ffb7470f986",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مستقیم روی دستگاه، چون آنجا به قلب نزدیک‌تر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مستقیم روی دستگاه، چون آنجا به قلب نزدیک‌تر است"
+            }
+          ]
+        },
+        {
+          "id": "2445f7b574f4e8c733c4d8d4e3b60a5e8ec29cb86f765c7ed4a329317df275a5",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "AED را وصل نکن، چون ICD خودش شوک می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "AED را وصل نکن، چون ICD خودش شوک می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "2549da95b5ed0011ef2d88503386adcbccac2033db1e09195f67b15c1343f29b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "هر دو پد را سمت راست سینه بچسبان تا از دستگاه دور باشند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو پد را سمت راست سینه بچسبان تا از دستگاه دور باشند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "eed4ee6d884875c6cccfde755384cf41b6f35b6d98f8b5c2113933793dfe4dc6"
+        ],
+        "explanation": "پد AED را مستقیم روی پیس‌میکر یا ICD نمی‌گذاری؛ کمی دورتر می‌چسبانی و بقیه‌ی کار همان روال همیشگی است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "پد AED را مستقیم روی پیس‌میکر یا ICD نمی‌گذاری؛ کمی دورتر می‌چسبانی و بقیه‌ی کار همان روال همیشگی است."
+          }
+        ],
+        "observedAt": "2026-11-19T16:38:51.543Z"
+      }
+    },
+    {
+      "id": "question:39460",
+      "sourceId": "39460",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "8d6cc9e9038fa38ff363f62f109a188395ce6b62d6b63e15f03ab32866113adf",
+      "position": 10,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "خانم ۶۸ ساله‌ای قرار است سه هفته‌ی دیگر زولدرونیک اسید تزریقی را برای متاستاز استخوانی شروع کند. یک مولرش پاکت ۷ میلی‌متری و لقی زیاد دارد. کار درست کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خانم ۶۸ ساله‌ای قرار است سه هفته‌ی دیگر زولدرونیک اسید تزریقی را برای متاستاز استخوانی شروع کند. یک مولرش پاکت ۷ میلی‌متری و لقی زیاد دارد. کار درست کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "خودت شروع داروی ضدجذب را شش ماه عقب بینداز تا همه‌ی درمان‌های دندانی تمام شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دندان را نگه دار و پس از شروع دارو، اگر درد گرفت، آن را بکش"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دندان را همین حالا بکش تا دست‌کم دو هفته پیش از شروع دارو ترمیم شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط جرم‌گیری کن، چون پاکت عمیق ربطی به خطر MRONJ ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "7ec6a75dc441dfe5c5ffa767e1c267bc557d88ae5f471762ddefe816a4d0e2d2",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "خودت شروع داروی ضدجذب را شش ماه عقب بینداز تا همه‌ی درمان‌های دندانی تمام شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "خودت شروع داروی ضدجذب را شش ماه عقب بینداز تا همه‌ی درمان‌های دندانی تمام شود"
+            }
+          ]
+        },
+        {
+          "id": "eb5db90da1e52f178f1ffbd9b6e714ca7e7e9a0db4004f311d633fb044bc224a",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "دندان را نگه دار و پس از شروع دارو، اگر درد گرفت، آن را بکش",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دندان را نگه دار و پس از شروع دارو، اگر درد گرفت، آن را بکش"
+            }
+          ]
+        },
+        {
+          "id": "5ad01e43de2bbe4d174b5090c49442652ef458d99b43534496fdc3170b6ff8d6",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دندان را همین حالا بکش تا دست‌کم دو هفته پیش از شروع دارو ترمیم شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دندان را همین حالا بکش تا دست‌کم دو هفته پیش از شروع دارو ترمیم شود"
+            }
+          ]
+        },
+        {
+          "id": "31d8131f59154b95e816abf63737e61659a1e5a6420310f5fe44734f881c649e",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "فقط جرم‌گیری کن، چون پاکت عمیق ربطی به خطر MRONJ ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط جرم‌گیری کن، چون پاکت عمیق ربطی به خطر MRONJ ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "5ad01e43de2bbe4d174b5090c49442652ef458d99b43534496fdc3170b6ff8d6"
+        ],
+        "explanation": "دندان با پیش‌آگهی بد باید پیش از شروع داروی ضدجذب کشیده شود؛ دست‌کم دو هفته پیش از شروع دارو.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دندان با پیش‌آگهی بد باید پیش از شروع داروی ضدجذب کشیده شود؛ دست‌کم دو هفته پیش از شروع دارو."
+          }
+        ],
+        "observedAt": "2026-11-19T16:38:55.051Z"
+      }
+    },
+    {
+      "id": "question:39461",
+      "sourceId": "39461",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 52.6316%;",
+      "contentKey": "3dc718c61edb2898f033ce848f4f27c91338936814bdca2ef8363f3a5d0751ae",
+      "position": 11,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیماری با سابقه‌ی اندوکاردیت عفونی از پنج روز پیش برای سینوزیت آموکسی‌سیلین می‌خورد و امروز باید درمان ریشه شود. پروفیلاکسی چیست؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری با سابقه‌ی اندوکاردیت عفونی از پنج روز پیش برای سینوزیت آموکسی‌سیلین می‌خورد و امروز باید درمان ریشه شود. پروفیلاکسی چیست؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آموکسی‌سیلین ۲ گرم اضافه بر دوز روزانه، یک ساعت پیش از کار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "همان آموکسی‌سیلین روزانه کافی است و دوز اضافه نمی‌خواهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفالکسین ۲ گرم، چون خانواده‌ی دارویی آن با آموکسی‌سیلین کاملاً فرق دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آزیترومایسین، کلاریترومایسین یا داکسی‌سایکلین، نه آموکسی‌سیلین دیگر"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "aa9f6a8cd40b6b3069f88455e5df2851b9fcc7974c6cd7d820295b0f655044d4",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "آموکسی‌سیلین ۲ گرم اضافه بر دوز روزانه، یک ساعت پیش از کار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آموکسی‌سیلین ۲ گرم اضافه بر دوز روزانه، یک ساعت پیش از کار"
+            }
+          ]
+        },
+        {
+          "id": "bcc48059574a05f0f43bd7820660f0bdebd46d5b567a2a43310aaf89815c40e0",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "همان آموکسی‌سیلین روزانه کافی است و دوز اضافه نمی‌خواهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "همان آموکسی‌سیلین روزانه کافی است و دوز اضافه نمی‌خواهد"
+            }
+          ]
+        },
+        {
+          "id": "d22752dd48f0b33f4e390d1aff82dc1be733d7626334e02211bf6488771f797c",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "سفالکسین ۲ گرم، چون خانواده‌ی دارویی آن با آموکسی‌سیلین کاملاً فرق دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفالکسین ۲ گرم، چون خانواده‌ی دارویی آن با آموکسی‌سیلین کاملاً فرق دارد"
+            }
+          ]
+        },
+        {
+          "id": "1609dadd63c7c7fe0458532f1d6f493dcc983b2f47495ba3e53212408b6daf6a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "آزیترومایسین، کلاریترومایسین یا داکسی‌سایکلین، نه آموکسی‌سیلین دیگر",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آزیترومایسین، کلاریترومایسین یا داکسی‌سایکلین، نه آموکسی‌سیلین دیگر"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1609dadd63c7c7fe0458532f1d6f493dcc983b2f47495ba3e53212408b6daf6a"
+        ],
+        "explanation": "استرپتوکوک‌های ویریدانس دهان بیماری که پنی‌سیلین می‌خورد احتمالاً به آن مقاوم شده‌اند؛ دارو را از خانواده‌ی دیگری انتخاب کن، نه سفالوسپورین.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "استرپتوکوک‌های ویریدانس دهان بیماری که پنی‌سیلین می‌خورد احتمالاً به آن مقاوم شده‌اند؛ دارو را از خانواده‌ی دیگری انتخاب کن، نه سفالوسپورین."
+          }
+        ],
+        "observedAt": "2026-11-19T16:38:21.863Z"
+      }
+    },
+    {
+      "id": "question:39466",
+      "sourceId": "39466",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.8947%;",
+      "contentKey": "071083bed80d656e2dffb2c558613d4dd547febacbe2ad0ea4b9e8604773f92c",
+      "position": 12,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "پس از کشیدن دندان پسر ۱۰ ساله‌ای با هموفیلی A، خون‌ریزی سر جلسه خوب بند آمد. پدرش می‌پرسد «دیگر خیالمان راحت است؟» پاسخ درست کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "پس از کشیدن دندان پسر ۱۰ ساله‌ای با هموفیلی A، خون‌ریزی سر جلسه خوب بند آمد. پدرش می‌پرسد «دیگر خیالمان راحت است؟» پاسخ درست کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بله؛ فاکتور تزریق‌شده تا یک هفته در خون می‌ماند و از او محافظت می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بله؛ اگر لخته در ۳۰ دقیقه‌ی اول سر جایش بماند، خطر خون‌ریزی گذشته است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نه؛ در هموفیلی خون‌ریزی جدی ممکن است ساعت‌ها تا روزها بعد شروع شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نه؛ چون خون‌ریزی هموفیلی همیشه همان لحظه و از محل بخیه‌ها شروع می‌شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "b4925510ee0e61a4679741fb1ca36ac527f11871186bb3e4550707d605247227",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بله؛ فاکتور تزریق‌شده تا یک هفته در خون می‌ماند و از او محافظت می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بله؛ فاکتور تزریق‌شده تا یک هفته در خون می‌ماند و از او محافظت می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "eb3ad17e00f1ee66c2b19540420a9cfa1906b1c59500ece32185cfe766f4ae61",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "بله؛ اگر لخته در ۳۰ دقیقه‌ی اول سر جایش بماند، خطر خون‌ریزی گذشته است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بله؛ اگر لخته در ۳۰ دقیقه‌ی اول سر جایش بماند، خطر خون‌ریزی گذشته است"
+            }
+          ]
+        },
+        {
+          "id": "bfff66ec412e9ae5797e7fab64f96a5c87032c9dbf19106130cd2899872906cc",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "نه؛ در هموفیلی خون‌ریزی جدی ممکن است ساعت‌ها تا روزها بعد شروع شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نه؛ در هموفیلی خون‌ریزی جدی ممکن است ساعت‌ها تا روزها بعد شروع شود"
+            }
+          ]
+        },
+        {
+          "id": "eca45feb738593596cf6693bc56c054585bb97f79d171941362f08fc57aa237b",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "نه؛ چون خون‌ریزی هموفیلی همیشه همان لحظه و از محل بخیه‌ها شروع می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نه؛ چون خون‌ریزی هموفیلی همیشه همان لحظه و از محل بخیه‌ها شروع می‌شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "bfff66ec412e9ae5797e7fab64f96a5c87032c9dbf19106130cd2899872906cc"
+        ],
+        "explanation": "نقص انعقادی هموستاز اولیه را خراب نمی‌کند؛ لخته‌ی اول تشکیل می‌شود ولی محکم نمی‌ماند و خون‌ریزی ساعت‌ها تا روزها بعد شروع می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "نقص انعقادی هموستاز اولیه را خراب نمی‌کند؛ لخته‌ی اول تشکیل می‌شود ولی محکم نمی‌ماند و خون‌ریزی ساعت‌ها تا روزها بعد شروع می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-19T16:38:27.263Z"
+      }
+    },
+    {
+      "id": "question:39469",
+      "sourceId": "39469",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 63.1579%;",
+      "contentKey": "cc11753f7d1c0db9bfc1ec79742589c7b314a550398601fc7e8c76da7904e8a0",
+      "position": 13,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مرد ۲۸ ساله‌ای با کم‌خونی داسی‌شکل پایدار باید دندان عقل نهفته‌اش با فلپ درآورده شود. بی‌حسی این جراحی را چطور انتخاب می‌کنی؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مرد ۲۸ ساله‌ای با کم‌خونی داسی‌شکل پایدار باید دندان عقل نهفته‌اش با فلپ درآورده شود. بی‌حسی این جراحی را چطور انتخاب می‌کنی؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بیهوشی عمومی به‌جای بی‌حسی، تا بیمار استرس نکشد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پریلوکائین ۴٪ ساده، چون اپی‌نفرین ندارد و امن‌تر است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لیدوکائین با اپی‌نفرین ۱:۵۰٬۰۰۰ برای کنترل بهتر خون‌ریزی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لیدوکائین با اپی‌نفرین ۱:۱۰۰٬۰۰۰، کمتر از سه کارپول"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3ee2e229e8a9fd88adda67b29111793662f8cc3760749fd58727e2750343ac42",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "بیهوشی عمومی به‌جای بی‌حسی، تا بیمار استرس نکشد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بیهوشی عمومی به‌جای بی‌حسی، تا بیمار استرس نکشد"
+            }
+          ]
+        },
+        {
+          "id": "359fb7c5cc57486b0ea877a54599ffbe9eb6dab7dbda3199cda470c0d24c4eca",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "پریلوکائین ۴٪ ساده، چون اپی‌نفرین ندارد و امن‌تر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پریلوکائین ۴٪ ساده، چون اپی‌نفرین ندارد و امن‌تر است"
+            }
+          ]
+        },
+        {
+          "id": "7e6a2277db86d49ae1453e20766c05c711f8d9725c7aeabdaeb005247e17a811",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "لیدوکائین با اپی‌نفرین ۱:۵۰٬۰۰۰ برای کنترل بهتر خون‌ریزی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "لیدوکائین با اپی‌نفرین ۱:۵۰٬۰۰۰ برای کنترل بهتر خون‌ریزی"
+            }
+          ]
+        },
+        {
+          "id": "0a52e007f937ca6d91d23d5c96227f5d2d91f06cf8f31dfbbdb338d96e0c3110",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "لیدوکائین با اپی‌نفرین ۱:۱۰۰٬۰۰۰، کمتر از سه کارپول",
+          "content": [
+            {
+              "tag": "text",
+              "text": "لیدوکائین با اپی‌نفرین ۱:۱۰۰٬۰۰۰، کمتر از سه کارپول"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "0a52e007f937ca6d91d23d5c96227f5d2d91f06cf8f31dfbbdb338d96e0c3110"
+        ],
+        "explanation": "برای جراحی در کم‌خونی داسی‌شکل، اپی‌نفرین ۱:۱۰۰٬۰۰۰ و کمتر از سه کارپول قابل‌قبول است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "برای جراحی در کم‌خونی داسی‌شکل، اپی‌نفرین ۱:۱۰۰٬۰۰۰ و کمتر از سه کارپول قابل‌قبول است."
+          }
+        ],
+        "observedAt": "2026-11-19T16:38:32.643Z"
+      }
+    },
+    {
+      "id": "question:39471",
+      "sourceId": "39471",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 68.4211%;",
+      "contentKey": "8d8de4c586b0047e0e0268f8116b235878411114628728a68b5b5577affd6f9e",
+      "position": 14,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در آقای ۷۰ ساله‌ای که برای نارسایی قلب و فیبریلاسیون دهلیزی دیگوکسین می‌خورد، ترشح زیاد بزاق همراه تهوع و دیدن اشیا به رنگ زرد یا سبز، نشانه‌ی مسمومیت با دیگوکسین است و بیمار باید فوراً به پزشک برود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در آقای ۷۰ ساله‌ای که برای نارسایی قلب و فیبریلاسیون دهلیزی دیگوکسین می‌خورد، ترشح زیاد بزاق همراه تهوع و دیدن اشیا به رنگ زرد یا سبز، نشانه‌ی مسمومیت با دیگوکسین است و بیمار باید فوراً به پزشک برود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "دیگوکسین محدوده‌ی درمانی باریکی دارد؛ ترشح زیاد بزاق، تهوع و تغییر دید رنگ‌ها نشانه‌های مسمومیت‌اند و ارجاع فوری می‌خواهند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "دیگوکسین محدوده‌ی درمانی باریکی دارد؛ ترشح زیاد بزاق، تهوع و تغییر دید رنگ‌ها نشانه‌های مسمومیت‌اند و ارجاع فوری می‌خواهند."
+          }
+        ],
+        "observedAt": "2026-11-19T16:38:37.757Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:2eb2be2a71b348f111fd5ba0855d375d59d2a82f2a1cdf8c0b4ef1873e13fc91",
+      "at": "2026-11-19T16:37:25.145Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "question:39434",
+      "at": "2026-11-19T16:37:26.760Z",
+      "progress": "width: 7.14286%;"
+    },
+    {
+      "stepId": "question:39437",
+      "at": "2026-11-19T16:37:34.813Z",
+      "progress": "width: 13.3333%;"
+    },
+    {
+      "stepId": "question:39442",
+      "at": "2026-11-19T16:37:40.156Z",
+      "progress": "width: 20%;"
+    },
+    {
+      "stepId": "question:39444",
+      "at": "2026-11-19T16:37:45.536Z",
+      "progress": "width: 26.6667%;"
+    },
+    {
+      "stepId": "question:39448",
+      "at": "2026-11-19T16:37:50.551Z",
+      "progress": "width: 33.3333%;"
+    },
+    {
+      "stepId": "question:39451",
+      "at": "2026-11-19T16:37:56.208Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:39452",
+      "at": "2026-11-19T16:38:01.608Z",
+      "progress": "width: 41.1765%;"
+    },
+    {
+      "stepId": "question:39457",
+      "at": "2026-11-19T16:38:07.211Z",
+      "progress": "width: 47.0588%;"
+    },
+    {
+      "stepId": "question:39460",
+      "at": "2026-11-19T16:38:12.516Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:39461",
+      "at": "2026-11-19T16:38:17.826Z",
+      "progress": "width: 52.6316%;"
+    },
+    {
+      "stepId": "question:39466",
+      "at": "2026-11-19T16:38:23.335Z",
+      "progress": "width: 57.8947%;"
+    },
+    {
+      "stepId": "question:39469",
+      "at": "2026-11-19T16:38:28.870Z",
+      "progress": "width: 63.1579%;"
+    },
+    {
+      "stepId": "question:39471",
+      "at": "2026-11-19T16:38:34.220Z",
+      "progress": "width: 68.4211%;"
+    },
+    {
+      "stepId": "question:39434",
+      "at": "2026-11-19T16:38:39.373Z",
+      "progress": "width: 73.6842%;"
+    },
+    {
+      "stepId": "question:39448",
+      "at": "2026-11-19T16:38:42.732Z",
+      "progress": "width: 78.9474%;"
+    },
+    {
+      "stepId": "question:39451",
+      "at": "2026-11-19T16:38:46.236Z",
+      "progress": "width: 84.2105%;"
+    },
+    {
+      "stepId": "question:39457",
+      "at": "2026-11-19T16:38:49.619Z",
+      "progress": "width: 89.4737%;"
+    },
+    {
+      "stepId": "question:39460",
+      "at": "2026-11-19T16:38:53.139Z",
+      "progress": "width: 94.7368%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

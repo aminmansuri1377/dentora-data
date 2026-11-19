@@ -1,0 +1,1387 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2074/lesson.json",
+  "id": "2074",
+  "title": "درس دوم: آزمایش‌های پاراکلینیک",
+  "specialtyKey": "d6dd39db909ba710",
+  "chapter": {
+    "id": "428",
+    "title": "ارزیابی بیمار و مشاوره‌ی پزشکی",
+    "position": 31
+  },
+  "position": 2,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:440e85998ff731ad683920dbbda0a27b0400b962b957760b5b0d9bd26d64f791",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "182bcc21c413906c052e7bb9a3ee6d8b0e62bbf92975f9c33ee8ba15f6699c4a",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "چه وقت آزمایش بخواهیم"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آقای ۶۴ ساله‌ای با سیروز الکلی برای کشیدن سه دندان آمده. دستیارت می‌پرسد: «برای همه‌ی بیمارهای کشیدنی یک سری آزمایش کامل بفرستیم؟» جوابت چیست؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آزمایش روتین برای هر بیمار لازم نیست. آزمایش را وقتی بخواه که جوابش تصمیم درمان را عوض کند. چهار کاربرد اصلی دارد:"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشف بیماری مشکوک: دیابت، عفونت، اختلال خون‌ریزی، بدخیمی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غربال بیمار پرخطر برای بیماری کشف‌نشده: دیابت، HIV، بیماری مزمن کلیه، هپاتیت B و C"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گرفتن عدد پایه پیش از درمان: وضع ضدانعقاد، گلبول سفید، پلاکت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سنجش خطر خون‌ریزی: شمارش پلاکت و INR"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بعضی آزمایش‌ها کنار یونیت انجام می‌شوند: قند خون با گلوکومتر، پالس‌اکسیمتری، کشت و نمونه‌ی بزاق."
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "کدام آزمایش برای کدام بیمار"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "CBC"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " با دیفرانسیل و پلاکت: کم‌خونی، لوسمی، شیمی‌درمانی، سیروز، بیماری کلیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "PT/INR"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": وارفارین و بیماری کبد، "
+                    },
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "aPTT"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": هپارین و همودیالیز"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قند ناشتا و HbA1c"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": دیابت"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "AST، ALT، بیلی‌روبین و آلبومین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": بیماری کبد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کراتینین، BUN و GFR"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": بیماری کلیه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباه رایج:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " معتبر دانستن جواب قدیمی. INR بیمار وارفارینی را ترجیحاً ظرف ۷۲ ساعت پیش از کار خون‌ریزی‌دار بگیر، نه از آزمایش ماه گذشته."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:38c3c922b86f8188ac1d8423afed7d0009f46d1fa3cf8613b7653ebaca2dd495",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "e341f6d759dd5dbe6fc7f1bcc83efb8be0148dc50983115ad6b18974d42dbc30",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خواندن عددها برای تصمیم درمان"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پلاکت"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (طبیعی ۱۵۰٬۰۰۰ تا ۴۵۰٬۰۰۰): کار غیرتهاجمی بالای ۳۰٬۰۰۰؛ کشیدن ساده بالای ۵۰٬۰۰۰؛ جراحی پیشرفته‌تر دست‌کم ۸۰٬۰۰۰ تا ۱۰۰٬۰۰۰. زیر ۲۰٬۰۰۰ خون‌ریزی خودبه‌خود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "گلبول سفید"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " (طبیعی ۴۵۰۰ تا ۱۱٬۰۰۰): اگر شمار مطلق نوتروفیل (ANC) زیر ۱۰۰۰ است، پیش از کار تهاجمی درباره‌ی آنتی‌بیوتیک پیشگیرانه با پزشک مشورت کن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "هموگلوبین"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": برای درمان روتین بالای ۱۱ g/dL و بیمار بی‌علامت. زیر ۱۰ g/dL بیهوشی عمومی نه."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "INR"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": در فرد سالم حدود ۱. بیمار وارفارینی با INR تا ۳٫۵ کار جزئی را با هموستاز موضعی انجام می‌دهد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "قند با گلوکومتر"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " پیش از درمان: زیر ۷۰ mg/dL اول کربوهیدرات؛ ۸۰ تا ۲۰۰ مناسب؛ بالای ۲۰۰ درمان انتخابی را عقب بینداز یا هماهنگ کن؛ بالای ۳۰۰ ارجاع."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "HbA1c"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": قند حدود ۳ ماه گذشته. طبیعی زیر ۵٫۷٪؛ هدف رایج در بیمار دیابتی زیر ۷٪."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کبد"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": اگر بیش از یکی از این‌ها باشد، متابولیسم دارو احتمالاً مختل است: آمینوترانسفرازها بیش از ۴ برابر طبیعی، بیلی‌روبین بالای ۲ mg/dL، آلبومین زیر ۳٫۵ g/dL."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "کلیه"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": ": GFR زیر ۵۰ mL/min یعنی دوز داروهایی که از کلیه دفع می‌شوند تنظیم شود؛ اگر GFR زیر ۵۰ است و کار کلیه رو به افت دارد، درمان انتخابی را تا مشورت با پزشک و پایدار شدن بیمار عقب بینداز."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نکته‌ی طلایی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " شمارش پلاکت فقط تعداد را نشان می‌دهد. اثر آسپرین یا کلوپیدوگرل را هیچ آزمایش روتینی نمی‌سنجد، و INR اثر DOAC را نشان نمی‌دهد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:39274",
+      "sourceId": "39274",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "647d4464203364807785376c5103e8cc909354027bf7d8b7d0ddccb2a9c562fa",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مرد ۵۲ ساله‌ی چاقی که پدرش دیابت داشته، پریودنتیت شدید دارد و هرگز قند خونش را آزمایش نکرده است. درخواست آزمایش قند برای او کدام کاربرد را دارد؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مرد ۵۲ ساله‌ی چاقی که پدرش دیابت داشته، پریودنتیت شدید دارد و هرگز قند خونش را آزمایش نکرده است. درخواست آزمایش قند برای او کدام کاربرد را دارد؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غربال بیمار پرخطر برای بیماری‌ای که هنوز کشف نشده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گرفتن عدد پایه‌ی انعقاد پیش از جرم‌گیری عمقی و جراحی لثه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پایش درمان دارویی بیماری‌ای که پزشکش قبلاً تشخیص داده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سنجش خطر خون‌ریزی، چون قند بالا شمار پلاکت را پایین می‌آورد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "3271959e0ca9149f154b28479dfd5cb1d7d6eb80d24e06dd7eb62278c1b350e7",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "غربال بیمار پرخطر برای بیماری‌ای که هنوز کشف نشده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غربال بیمار پرخطر برای بیماری‌ای که هنوز کشف نشده"
+            }
+          ]
+        },
+        {
+          "id": "ae399cf7f3859a01f18eee37e5e1e753348bcf78c5c8d35a3ff300291bd01060",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "گرفتن عدد پایه‌ی انعقاد پیش از جرم‌گیری عمقی و جراحی لثه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گرفتن عدد پایه‌ی انعقاد پیش از جرم‌گیری عمقی و جراحی لثه"
+            }
+          ]
+        },
+        {
+          "id": "ca4a851f47094210e758d5648d9cc1ca2914067185b5a16f0086fa0324777cae",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "پایش درمان دارویی بیماری‌ای که پزشکش قبلاً تشخیص داده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پایش درمان دارویی بیماری‌ای که پزشکش قبلاً تشخیص داده است"
+            }
+          ]
+        },
+        {
+          "id": "4d301c2a3d62f65ed862accd33918abce756d95453d92e96be1683fb65238560",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سنجش خطر خون‌ریزی، چون قند بالا شمار پلاکت را پایین می‌آورد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سنجش خطر خون‌ریزی، چون قند بالا شمار پلاکت را پایین می‌آورد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "3271959e0ca9149f154b28479dfd5cb1d7d6eb80d24e06dd7eb62278c1b350e7"
+        ],
+        "explanation": "چاقی، سابقه‌ی خانوادگی و پریودنتیت شدید این بیمار را در گروه پرخطر دیابت می‌گذارند؛ آزمایش در اینجا برای غربال بیماری کشف‌نشده است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "چاقی، سابقه‌ی خانوادگی و پریودنتیت شدید این بیمار را در گروه پرخطر دیابت می‌گذارند؛ آزمایش در اینجا برای غربال بیماری کشف‌نشده است."
+          }
+        ],
+        "observedAt": "2026-11-19T16:32:02.162Z"
+      }
+    },
+    {
+      "id": "question:39275",
+      "sourceId": "39275",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 37.5%;",
+      "contentKey": "299f885caf5bb762e1343b08c6bf02ec418892e03b05725362401e5280233f8e",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "برای بیمار سیروزی که قرار است چند دندانش کشیده شود، کدام مجموعه آزمایش مناسب‌تر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "برای بیمار سیروزی که قرار است چند دندانش کشیده شود، کدام مجموعه آزمایش مناسب‌تر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شمارش پلاکت به‌تنهایی، چون خون‌ریزی سیروز فقط پلاکتی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قند ناشتا، HbA1c و کراتینین برای بررسی دیابت و کلیه‌ی بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "aPTT به‌تنهایی، چون مسیر داخلی انعقاد را می‌سنجد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "CBC با شمارش پلاکت، AST و ALT، و PT/INR برای انعقاد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "826b6c141923c96d9e67f95b85097e2e04b5cb273fc4daef9c6afe5b6d2a030d",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "شمارش پلاکت به‌تنهایی، چون خون‌ریزی سیروز فقط پلاکتی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شمارش پلاکت به‌تنهایی، چون خون‌ریزی سیروز فقط پلاکتی است"
+            }
+          ]
+        },
+        {
+          "id": "23fef1b7bf30bb21aab97a97db3bd1b4481dfaf2156014e5dc6b308293186192",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "قند ناشتا، HbA1c و کراتینین برای بررسی دیابت و کلیه‌ی بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "قند ناشتا، HbA1c و کراتینین برای بررسی دیابت و کلیه‌ی بیمار"
+            }
+          ]
+        },
+        {
+          "id": "b40b102ea80d3a8f1aecb482563e6843326c6c40f16c21218f10e1d3c6ed2238",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "aPTT به‌تنهایی، چون مسیر داخلی انعقاد را می‌سنجد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "aPTT به‌تنهایی، چون مسیر داخلی انعقاد را می‌سنجد"
+            }
+          ]
+        },
+        {
+          "id": "437e252a9f35c67ccb06f1e5a9d510f6197ec39c14666ce73be55bee6d118fa9",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "CBC با شمارش پلاکت، AST و ALT، و PT/INR برای انعقاد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "CBC با شمارش پلاکت، AST و ALT، و PT/INR برای انعقاد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "437e252a9f35c67ccb06f1e5a9d510f6197ec39c14666ce73be55bee6d118fa9"
+        ],
+        "explanation": "در سیروز هم ساخت فاکتورهای انعقادی کم است و هم طحال بزرگ پلاکت را نگه می‌دارد؛ پس پلاکت، PT/INR و آنزیم‌های کبد را با هم می‌خواهی.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "در سیروز هم ساخت فاکتورهای انعقادی کم است و هم طحال بزرگ پلاکت را نگه می‌دارد؛ پس پلاکت، PT/INR و آنزیم‌های کبد را با هم می‌خواهی."
+          }
+        ],
+        "observedAt": "2026-11-19T16:32:05.689Z"
+      }
+    },
+    {
+      "id": "question:39279",
+      "sourceId": "39279",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 44.4444%;",
+      "contentKey": "d53f88b3a59c7cabf61580605f56a19f44ed87d88313a88b6fd39f5f17b50ce4",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بیمار ترومبوسیتوپنیک، برای کار غیرتهاجمی مثل ترمیم ساده، پلاکت بالای ۳۰٬۰۰۰ کافی است.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیمار ترومبوسیتوپنیک، برای کار غیرتهاجمی مثل ترمیم ساده، پلاکت بالای ۳۰٬۰۰۰ کافی است."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "مرزها پله‌پله‌اند: کار غیرتهاجمی بالای ۳۰٬۰۰۰، کشیدن ساده بالای ۵۰٬۰۰۰، و جراحی پیشرفته‌تر دست‌کم ۸۰٬۰۰۰ تا ۱۰۰٬۰۰۰.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مرزها پله‌پله‌اند: کار غیرتهاجمی بالای ۳۰٬۰۰۰، کشیدن ساده بالای ۵۰٬۰۰۰، و جراحی پیشرفته‌تر دست‌کم ۸۰٬۰۰۰ تا ۱۰۰٬۰۰۰."
+          }
+        ],
+        "observedAt": "2026-11-19T16:31:48.030Z"
+      }
+    },
+    {
+      "id": "question:39281",
+      "sourceId": "39281",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 55.5556%;",
+      "contentKey": "da243740670420ef3cdd39bd2fe21ca359d236a9c6e7b061795499400e017bd7",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "قند بیمار دیابتی پیش از کشیدن دندان با گلوکومتر ۲۴۰ mg/dL است و علامتی ندارد. کدام تصمیم درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "قند بیمار دیابتی پیش از کشیدن دندان با گلوکومتر ۲۴۰ mg/dL است و علامتی ندارد. کدام تصمیم درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از بیمار بخواه انسولین اضافه بزند و پس از افت قند شروع کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن را شروع کن، چون فقط قند بالای ۳۰۰ کار را متوقف می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "به بیمار کربوهیدرات بده و ده دقیقه بعد، پس از سنجش دوباره، کشیدن را شروع کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کشیدن انتخابی را عقب بینداز یا درباره‌اش با پزشک بیمار هماهنگ کن"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "d825664421511deac8281bc850a1a269bb9322a660241e447d870cd0971b5c77",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "از بیمار بخواه انسولین اضافه بزند و پس از افت قند شروع کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از بیمار بخواه انسولین اضافه بزند و پس از افت قند شروع کن"
+            }
+          ]
+        },
+        {
+          "id": "e12be1b20a5e5e206399cc404a80622c07b4575c71a6fef8f44f0fdc35154f55",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "کشیدن را شروع کن، چون فقط قند بالای ۳۰۰ کار را متوقف می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن را شروع کن، چون فقط قند بالای ۳۰۰ کار را متوقف می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "fe6f6891d2be21d2f498775577c3616d16e7274b640fa1c48110f4770c003fb0",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "به بیمار کربوهیدرات بده و ده دقیقه بعد، پس از سنجش دوباره، کشیدن را شروع کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "به بیمار کربوهیدرات بده و ده دقیقه بعد، پس از سنجش دوباره، کشیدن را شروع کن"
+            }
+          ]
+        },
+        {
+          "id": "0f8843f6c3b11e5acec1e5ccbbe756ddcf71392eb64b18201d70fba1ccf801c7",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "کشیدن انتخابی را عقب بینداز یا درباره‌اش با پزشک بیمار هماهنگ کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کشیدن انتخابی را عقب بینداز یا درباره‌اش با پزشک بیمار هماهنگ کن"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "0f8843f6c3b11e5acec1e5ccbbe756ddcf71392eb64b18201d70fba1ccf801c7"
+        ],
+        "explanation": "قند ۸۰ تا ۲۰۰ برای درمان مناسب است. بالای ۲۰۰ درمان انتخابی را عقب بینداز یا با پزشک هماهنگ کن؛ بالای ۳۰۰ ارجاع بده.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "قند ۸۰ تا ۲۰۰ برای درمان مناسب است. بالای ۲۰۰ درمان انتخابی را عقب بینداز یا با پزشک هماهنگ کن؛ بالای ۳۰۰ ارجاع بده."
+          }
+        ],
+        "observedAt": "2026-11-19T16:32:09.234Z"
+      }
+    },
+    {
+      "id": "question:39285",
+      "sourceId": "39285",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 60%;",
+      "contentKey": "5d0162ff3051ec79a6e254a4785d73a1ad3d5f47b4b80cd31f8bcc04db1b397c",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بیماری مزمن کلیه، تنظیم دوز داروهایی که از کلیه دفع می‌شوند از GFR زیر ۹۰ mL/min شروع می‌شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیماری مزمن کلیه، تنظیم دوز داروهایی که از کلیه دفع می‌شوند از GFR زیر ۹۰ mL/min شروع می‌شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "مرز تنظیم دوز GFR زیر ۵۰ mL/min است. از این عدد به پایین، داروهای کلیوی با نصف کارایی دفع می‌شوند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مرز تنظیم دوز GFR زیر ۵۰ mL/min است. از این عدد به پایین، داروهای کلیوی با نصف کارایی دفع می‌شوند."
+          }
+        ],
+        "observedAt": "2026-11-19T16:31:58.830Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:440e85998ff731ad683920dbbda0a27b0400b962b957760b5b0d9bd26d64f791",
+      "at": "2026-11-19T16:31:32.040Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:38c3c922b86f8188ac1d8423afed7d0009f46d1fa3cf8613b7653ebaca2dd495",
+      "at": "2026-11-19T16:31:33.645Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:39274",
+      "at": "2026-11-19T16:31:35.241Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:39275",
+      "at": "2026-11-19T16:31:39.271Z",
+      "progress": "width: 37.5%;"
+    },
+    {
+      "stepId": "question:39279",
+      "at": "2026-11-19T16:31:44.632Z",
+      "progress": "width: 44.4444%;"
+    },
+    {
+      "stepId": "question:39281",
+      "at": "2026-11-19T16:31:49.645Z",
+      "progress": "width: 55.5556%;"
+    },
+    {
+      "stepId": "question:39285",
+      "at": "2026-11-19T16:31:55.188Z",
+      "progress": "width: 60%;"
+    },
+    {
+      "stepId": "question:39274",
+      "at": "2026-11-19T16:32:00.434Z",
+      "progress": "width: 70%;"
+    },
+    {
+      "stepId": "question:39275",
+      "at": "2026-11-19T16:32:03.760Z",
+      "progress": "width: 80%;"
+    },
+    {
+      "stepId": "question:39281",
+      "at": "2026-11-19T16:32:07.310Z",
+      "progress": "width: 90%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

@@ -1,0 +1,2393 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2067/lesson.json",
+  "id": "2067",
+  "title": "درس پنجم: مرور بیماری‌های عصبی",
+  "specialtyKey": "d6dd39db909ba710",
+  "chapter": {
+    "id": "426",
+    "title": "بیماری‌های عصبی و روانی، و ارزیابی بیمار، بیماری‌های عصبی",
+    "position": 29
+  },
+  "position": 5,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:352762e5e6a37404a30180876901ada8ba75e89663b198f58ac9f09ed43a96ce",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "caf4dbfc59932cb1df0fa9c7964368e9edd498b7d1b5c9fc18b459dbbbd876cd",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "جمع‌بندی بیماری‌های عصبی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "در همه‌ی این بیماران سه پرسش ثابت است: بیماری چقدر کنترل شده؟ داروها با دهان و با نسخه‌ی من چه می‌کنند؟ و بیمار خودش چقدر از پس بهداشت دهانش برمی‌آید؟"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "صرع:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " نوبت چند ساعت پس از دارو، بایت بلاک از ابتدا. فنی‌توئین بزرگی لثه، والپروات اختلال پلاکت؛ اریترومایسین با کاربامازپین نه."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پس از سکته:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " نوبت کوتاه میانه‌ی صبح، حداکثر حدود دو کارپول اپی‌نفرین، استامینوفن به‌جای NSAID، و رو به بیمار با ماسک برداشته حرف زدن."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "پارکینسون:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " ۲ تا ۳ ساعت پس از دارو، برخاستن آهسته، سقف اپی‌نفرین با مهارکننده‌ی COMT، و خشکی دهان دارویی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "آلزایمر:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " کار پیچیده در مرحله‌ی خفیف، رضایت با خانواده، فراخوان ۳ ماهه و مراقب درگیر."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "ام‌اس:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " درمان در بهبود، نوبت صبح، و مشورت با پزشک در عود."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نکته‌های تکمیلی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " بیمار صرعی با محرک عصب واگ (VNS) و بیمار با شانت مایع مغزی‌ـ‌نخاعی (CSF) پیش از کار تهاجمی پروفیلاکسی آنتی‌بیوتیک نمی‌خواهند. در مصرف طولانی کاربامازپین، سطح خونی دارو پیش از درمان سنجیده شود: کم باشد، تشنج کنترل نمی‌شود؛ زیاد باشد، به کبد آسیب می‌زند. بیمار آلزایمری گاهی دندان مصنوعی بالا را روی فک پایین می‌گذارد یا آن را گم می‌کند. در ام‌اس، تکان‌های موجی عضلات دور چشم (میوکیمیا) هم دیده می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:39150",
+      "sourceId": "39150",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 7.14286%;",
+      "contentKey": "160f77cb41c0559fe52469acce4087a09d5e053bb72baf0aa589907a39d5b396",
+      "position": 2,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کم‌خوابی شب پیش از جلسه، در بیمار صرعی خطر تشنج روی یونیت را بالا می‌برد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کم‌خوابی شب پیش از جلسه، در بیمار صرعی خطر تشنج روی یونیت را بالا می‌برد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "کم‌خوابی آستانه‌ی تشنج را پایین می‌آورد؛ اگر بیمار صرعی شب پیش نخوابیده، کار انتخابی را به روز دیگری بینداز.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کم‌خوابی آستانه‌ی تشنج را پایین می‌آورد؛ اگر بیمار صرعی شب پیش نخوابیده، کار انتخابی را به روز دیگری بینداز."
+          }
+        ],
+        "observedAt": "2026-11-19T16:24:47.040Z"
+      }
+    },
+    {
+      "id": "question:39153",
+      "sourceId": "39153",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "10fcd994ec1925204b12f2b303c1ab16d05d5359fd2478c6c21942c616bc49be",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "سندرم استیونس‌ـ‌جانسون ناشی از داروهای ضدصرع معمولاً پس از سال‌ها مصرف بی‌مشکل دارو ظاهر می‌شود.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "سندرم استیونس‌ـ‌جانسون ناشی از داروهای ضدصرع معمولاً پس از سال‌ها مصرف بی‌مشکل دارو ظاهر می‌شود."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "این واکنش بیشتر در ۸ هفته‌ی نخست درمان رخ می‌دهد، نه پس از سال‌ها.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این واکنش بیشتر در ۸ هفته‌ی نخست درمان رخ می‌دهد، نه پس از سال‌ها."
+          }
+        ],
+        "observedAt": "2026-11-19T16:24:51.813Z"
+      }
+    },
+    {
+      "id": "question:39156",
+      "sourceId": "39156",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 21.4286%;",
+      "contentKey": "a578cebd88de85b141121fcb875d8cd4a91d61b437fc7b65c29e2c7f6c2e6d9e",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار با شانت مایع مغزی‌ـ‌نخاعی (CSF) پیش از کارهای تهاجمی دندانپزشکی به پروفیلاکسی آنتی‌بیوتیک نیاز ندارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار با شانت مایع مغزی‌ـ‌نخاعی (CSF) پیش از کارهای تهاجمی دندانپزشکی به پروفیلاکسی آنتی‌بیوتیک نیاز ندارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "شانت CSF خطر عفونت از راه باکتریمی دندانی را بالا نمی‌برد و پروفیلاکسی توصیه نمی‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "شانت CSF خطر عفونت از راه باکتریمی دندانی را بالا نمی‌برد و پروفیلاکسی توصیه نمی‌شود."
+          }
+        ],
+        "observedAt": "2026-11-19T16:25:52.360Z"
+      }
+    },
+    {
+      "id": "question:39160",
+      "sourceId": "39160",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 26.6667%;",
+      "contentKey": "a50e869e1917a5facf8c9ac09a069b2d58deb4b7b2be0cecd5dd28a2cf00545e",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مرد ۴۰ ساله‌ای که کاربامازپین می‌خورد، آبسه‌ی دندانی دارد و به پنی‌سیلین حساسیت ندارد. کدام انتخاب آنتی‌بیوتیک امن‌تر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مرد ۴۰ ساله‌ای که کاربامازپین می‌خورد، آبسه‌ی دندانی دارد و به پنی‌سیلین حساسیت ندارد. کدام انتخاب آنتی‌بیوتیک امن‌تر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "هر دو دارو به یک اندازه امن‌اند و انتخاب فقط به قیمت بستگی دارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اریترومایسین، چون ماکرولیدها بر داروهای ضدصرع اثری ندارند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اریترومایسین با دوز کم، چون فقط دوز بالای آن تداخل می‌دهد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آموکسی‌سیلین، چون با متابولیسم کاربامازپین تداخلی ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "6eb4b8cdf4cab9d0874bc0d810857ae59b1df0a9185df24e193b1dcca070b175",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "هر دو دارو به یک اندازه امن‌اند و انتخاب فقط به قیمت بستگی دارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "هر دو دارو به یک اندازه امن‌اند و انتخاب فقط به قیمت بستگی دارد"
+            }
+          ]
+        },
+        {
+          "id": "a3ddf92245fef0222331cef36675da45507b6c356b5de93baddeb6a247e8cf62",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اریترومایسین، چون ماکرولیدها بر داروهای ضدصرع اثری ندارند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اریترومایسین، چون ماکرولیدها بر داروهای ضدصرع اثری ندارند"
+            }
+          ]
+        },
+        {
+          "id": "b85ffe5e90952d68748da76f2620803daf353a3187e1aa589b248ca2ff8edd9a",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "اریترومایسین با دوز کم، چون فقط دوز بالای آن تداخل می‌دهد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اریترومایسین با دوز کم، چون فقط دوز بالای آن تداخل می‌دهد"
+            }
+          ]
+        },
+        {
+          "id": "ea6f9b8b5618c9eb9efa2c88624911a609c85cacffd29a3cb69de7a49e293772",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "آموکسی‌سیلین، چون با متابولیسم کاربامازپین تداخلی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آموکسی‌سیلین، چون با متابولیسم کاربامازپین تداخلی ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "ea6f9b8b5618c9eb9efa2c88624911a609c85cacffd29a3cb69de7a49e293772"
+        ],
+        "explanation": "اریترومایسین متابولیسم کاربامازپین را مهار می‌کند و سطح آن را سمی می‌کند؛ در بیمار بدون حساسیت به پنی‌سیلین، آموکسی‌سیلین انتخاب امن‌تر است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "اریترومایسین متابولیسم کاربامازپین را مهار می‌کند و سطح آن را سمی می‌کند؛ در بیمار بدون حساسیت به پنی‌سیلین، آموکسی‌سیلین انتخاب امن‌تر است."
+          }
+        ],
+        "observedAt": "2026-11-19T16:25:55.721Z"
+      }
+    },
+    {
+      "id": "question:39161",
+      "sourceId": "39161",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 31.25%;",
+      "contentKey": "2ef85ebfc05db0d943927020adb14c3bf7ea7e460d8cf1d9533b5be885aaea6e",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام دو آنتی‌بیوتیک متابولیسم وارفارین را کند می‌کنند و INR بیمار پس از سکته را بالا می‌برند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام دو آنتی‌بیوتیک متابولیسم وارفارین را کند می‌کنند و INR بیمار پس از سکته را بالا می‌برند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "پنی‌سیلین V و آموکسی‌سیلین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آموکسی‌سیلین و سفالکسین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مترونیدازول و تتراسایکلین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سفالکسین و پنی‌سیلین V"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "6a2d74ebbbcd39da682d88b0da482001a8303eb68142e920c9b3514c05d5b07b",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "پنی‌سیلین V و آموکسی‌سیلین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "پنی‌سیلین V و آموکسی‌سیلین"
+            }
+          ]
+        },
+        {
+          "id": "52ae7ae9c240af6e28a1280957d8a567124f4e1502cacec2330952cb67757549",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "آموکسی‌سیلین و سفالکسین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آموکسی‌سیلین و سفالکسین"
+            }
+          ]
+        },
+        {
+          "id": "d125ca1040c7a3c9d68756e03d59cb1390025457800508ed25c17daab6e5e684",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "مترونیدازول و تتراسایکلین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مترونیدازول و تتراسایکلین"
+            }
+          ]
+        },
+        {
+          "id": "61e90e407eca97eaf52de8480434e917df6600af68cb46d675e01537baffc076",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "سفالکسین و پنی‌سیلین V",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سفالکسین و پنی‌سیلین V"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d125ca1040c7a3c9d68756e03d59cb1390025457800508ed25c17daab6e5e684"
+        ],
+        "explanation": "مترونیدازول و تتراسایکلین متابولیسم وارفارین را مهار می‌کنند؛ INR بالا می‌رود و خطر خون‌ریزی بیشتر می‌شود.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مترونیدازول و تتراسایکلین متابولیسم وارفارین را مهار می‌کنند؛ INR بالا می‌رود و خطر خون‌ریزی بیشتر می‌شود."
+          }
+        ],
+        "observedAt": "2026-11-19T16:25:59.249Z"
+      }
+    },
+    {
+      "id": "question:39166",
+      "sourceId": "39166",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 35.2941%;",
+      "contentKey": "b9f050fa13b1dfb29607b1cdc3f3eeab35834b52c2b1c51fe461431c5c0cbb84",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "منشی برای بیمار پس از سکته یک نوبت سه‌ساعته در پایان روز گذاشته تا همه‌ی کارها یک‌جا انجام شود. اشکال این برنامه کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "منشی برای بیمار پس از سکته یک نوبت سه‌ساعته در پایان روز گذاشته تا همه‌ی کارها یک‌جا انجام شود. اشکال این برنامه کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط طول آن اشکال دارد؛ اگر دو ساعت شود، پایان روز برای این بیمار بهترین زمان است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشکالی ندارد؛ یک جلسه‌ی طولانی برای بیمار پس از سکته کم‌استرس‌تر از چند جلسه است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط ساعت آن اشکال دارد؛ اگر همان سه ساعت اول صبح باشد، برنامه کاملاً مناسب است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جلسه‌ی طولانی و دیروقت استرس و خستگی می‌آورد؛ نوبت کوتاه میانه‌ی صبح بهتر است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "4bee220aa268e768d43a7b02c7d411011a30e5f299eca11a6b1eccd4d5cc889a",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "فقط طول آن اشکال دارد؛ اگر دو ساعت شود، پایان روز برای این بیمار بهترین زمان است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط طول آن اشکال دارد؛ اگر دو ساعت شود، پایان روز برای این بیمار بهترین زمان است"
+            }
+          ]
+        },
+        {
+          "id": "a7d0a007d716782d900459118947ce21de82bca953a0653f2c45402cc32d3dae",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اشکالی ندارد؛ یک جلسه‌ی طولانی برای بیمار پس از سکته کم‌استرس‌تر از چند جلسه است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اشکالی ندارد؛ یک جلسه‌ی طولانی برای بیمار پس از سکته کم‌استرس‌تر از چند جلسه است"
+            }
+          ]
+        },
+        {
+          "id": "13c91ca6ca4112af3236b49b62f18a89fb9f09cdf320feeda8f4c923c45e9cc6",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "فقط ساعت آن اشکال دارد؛ اگر همان سه ساعت اول صبح باشد، برنامه کاملاً مناسب است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط ساعت آن اشکال دارد؛ اگر همان سه ساعت اول صبح باشد، برنامه کاملاً مناسب است"
+            }
+          ]
+        },
+        {
+          "id": "6f2bc9408805357018297ff8d9dfd1c6183508052fdf719f3f732c4529f6c039",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "جلسه‌ی طولانی و دیروقت استرس و خستگی می‌آورد؛ نوبت کوتاه میانه‌ی صبح بهتر است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "جلسه‌ی طولانی و دیروقت استرس و خستگی می‌آورد؛ نوبت کوتاه میانه‌ی صبح بهتر است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "6f2bc9408805357018297ff8d9dfd1c6183508052fdf719f3f732c4529f6c039"
+        ],
+        "explanation": "بیمار پس از سکته با جلسه‌های کوتاه و کم‌استرس در میانه‌ی صبح بهتر کنار می‌آید؛ هم طول و هم زمان جلسه مهم‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بیمار پس از سکته با جلسه‌های کوتاه و کم‌استرس در میانه‌ی صبح بهتر کنار می‌آید؛ هم طول و هم زمان جلسه مهم‌اند."
+          }
+        ],
+        "observedAt": "2026-11-19T16:26:02.789Z"
+      }
+    },
+    {
+      "id": "question:39167",
+      "sourceId": "39167",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 38.8889%;",
+      "contentKey": "c1fa3694ae4a61590fd71f35befbfa2ce90593da39c9ff8b1e1c0def980c67a4",
+      "position": 8,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیماری با فلج سمت راست بدن و اختلال گفتار پس از سکته، دستورهای پس از کشیدن را فراموش می‌کند. بهترین روش دادن دستور کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری با فلج سمت راست بدن و اختلال گفتار پس از سکته، دستورهای پس از کشیدن را فراموش می‌کند. بهترین روش دادن دستور کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دستورهای کوتاه و یکی‌یکی، با برگه‌ی نوشته و آموزش همراه"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "یک توضیح کامل و طولانی، تا همه‌ی جزئیات را یک‌جا بشنود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دستورها را فقط به خود بیمار بگو تا احساس استقلال کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "دستورها را با صدای بلند و تکرار سریع بگو تا در ذهنش بماند"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "07f04bd8f9059cd1d33b1b542d70b29edf8cd97f849c39a98a2cac0d7faf7282",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "دستورهای کوتاه و یکی‌یکی، با برگه‌ی نوشته و آموزش همراه",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دستورهای کوتاه و یکی‌یکی، با برگه‌ی نوشته و آموزش همراه"
+            }
+          ]
+        },
+        {
+          "id": "bcdb7e8e30138e06a82f91f7d77987645e10ff5a91d540de3bec1b0cea90a62e",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "یک توضیح کامل و طولانی، تا همه‌ی جزئیات را یک‌جا بشنود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "یک توضیح کامل و طولانی، تا همه‌ی جزئیات را یک‌جا بشنود"
+            }
+          ]
+        },
+        {
+          "id": "7f7af2a4e6b208f072e02987ed234ea259217dbde2c4ea43dbfe676a2074858f",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "دستورها را فقط به خود بیمار بگو تا احساس استقلال کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دستورها را فقط به خود بیمار بگو تا احساس استقلال کند"
+            }
+          ]
+        },
+        {
+          "id": "61843c595267a208c6e633d3c680ca7895721ec2bbbc61becd5872034c310938",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "دستورها را با صدای بلند و تکرار سریع بگو تا در ذهنش بماند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "دستورها را با صدای بلند و تکرار سریع بگو تا در ذهنش بماند"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "07f04bd8f9059cd1d33b1b542d70b29edf8cd97f849c39a98a2cac0d7faf7282"
+        ],
+        "explanation": "آسیب نیمکره‌ی چپ حافظه‌ی شنیداری را کم می‌کند و بیمار دستورهای طولانی را فراموش می‌کند؛ دستور کوتاه و یکی‌یکی، برگه‌ی نوشته و درگیر کردن همراه کمک می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آسیب نیمکره‌ی چپ حافظه‌ی شنیداری را کم می‌کند و بیمار دستورهای طولانی را فراموش می‌کند؛ دستور کوتاه و یکی‌یکی، برگه‌ی نوشته و درگیر کردن همراه کمک می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-19T16:25:18.129Z"
+      }
+    },
+    {
+      "id": "question:39171",
+      "sourceId": "39171",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 44.4444%;",
+      "contentKey": "5635849b7acb886d560728d7f95bb8f4fb7e0b869bc7cc399dbf3c7f4e271e2b",
+      "position": 9,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "حرکات غیرارادی تند سر و اندام‌ها در بیماری که سال‌ها لوودوپا خورده، همیشه نشانه‌ی پیشرفت خود بیماری است و ربطی به دارو ندارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "حرکات غیرارادی تند سر و اندام‌ها در بیماری که سال‌ها لوودوپا خورده، همیشه نشانه‌ی پیشرفت خود بیماری است و ربطی به دارو ندارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "این حرکات، دیسکینزی، از عوارض مصرف طولانی لوودوپا هستند و با تنظیم دوز دارو به دست پزشک مدیریت می‌شوند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "این حرکات، دیسکینزی، از عوارض مصرف طولانی لوودوپا هستند و با تنظیم دوز دارو به دست پزشک مدیریت می‌شوند."
+          }
+        ],
+        "observedAt": "2026-11-19T16:25:23.092Z"
+      }
+    },
+    {
+      "id": "question:39173",
+      "sourceId": "39173",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 50%;",
+      "contentKey": "d752e54573709927b092aecfe936a75278187b2e238efc22f51b21cd31eb5c6c",
+      "position": 10,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام مشکل دندان مصنوعی در بیمار آلزایمری شایع است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام مشکل دندان مصنوعی در بیمار آلزایمری شایع است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "حساسیت ناگهانی به آکریل پروتز قدیمی"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گم کردن آن یا گذاشتن پروتز بالا روی فک پایین"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "شکستن آن به خاطر فشار زیاد جویدن در مرحله‌ی پیشرفته"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تغییر رنگ سریع آن به خاطر داروهای مهارکننده‌ی کولین‌استراز"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "fb763d4730f89982105ad1eae99f58d5fb1402a47f706d2fffaa5abd1cb13d85",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "حساسیت ناگهانی به آکریل پروتز قدیمی",
+          "content": [
+            {
+              "tag": "text",
+              "text": "حساسیت ناگهانی به آکریل پروتز قدیمی"
+            }
+          ]
+        },
+        {
+          "id": "581f83ca2feec1c06ec5b899e4bf17ac73420b99bdc083949f711c9f448174dd",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "گم کردن آن یا گذاشتن پروتز بالا روی فک پایین",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گم کردن آن یا گذاشتن پروتز بالا روی فک پایین"
+            }
+          ]
+        },
+        {
+          "id": "de3b6ced7088df5b3ddffcd59dff68dd7505b8b02475be58c0052e4c2bb673f4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "شکستن آن به خاطر فشار زیاد جویدن در مرحله‌ی پیشرفته",
+          "content": [
+            {
+              "tag": "text",
+              "text": "شکستن آن به خاطر فشار زیاد جویدن در مرحله‌ی پیشرفته"
+            }
+          ]
+        },
+        {
+          "id": "e48eaa155343986fadebed910aca0c399c502adc03d18ab704f88f08a1a37fcb",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "تغییر رنگ سریع آن به خاطر داروهای مهارکننده‌ی کولین‌استراز",
+          "content": [
+            {
+              "tag": "text",
+              "text": "تغییر رنگ سریع آن به خاطر داروهای مهارکننده‌ی کولین‌استراز"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "581f83ca2feec1c06ec5b899e4bf17ac73420b99bdc083949f711c9f448174dd"
+        ],
+        "explanation": "بیمار آلزایمری گاهی پروتز را گم می‌کند یا بالا و پایین را جابه‌جا می‌گذارد؛ مراقب باید در گذاشتن و نگهداری آن کمک کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بیمار آلزایمری گاهی پروتز را گم می‌کند یا بالا و پایین را جابه‌جا می‌گذارد؛ مراقب باید در گذاشتن و نگهداری آن کمک کند."
+          }
+        ],
+        "observedAt": "2026-11-19T16:25:28.382Z"
+      }
+    },
+    {
+      "id": "question:39177",
+      "sourceId": "39177",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 55.5556%;",
+      "contentKey": "4dc6d9d0e0983b270af8d102e41d03ec12332c843e9a4de17810eed3b26f7447",
+      "position": 11,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بهداشت ضعیف دهان در بیمار آلزایمری فقط خطر پوسیدگی را زیاد می‌کند و ارتباطی با خطر پنومونی آسپیراسیون ندارد.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بهداشت ضعیف دهان در بیمار آلزایمری فقط خطر پوسیدگی را زیاد می‌کند و ارتباطی با خطر پنومونی آسپیراسیون ندارد."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "بیمار آلزایمری در خطر پنومونی آسپیراسیون است؛ کاستن پلاک و عفونت دهان بخشی از پیشگیری از آن است.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بیمار آلزایمری در خطر پنومونی آسپیراسیون است؛ کاستن پلاک و عفونت دهان بخشی از پیشگیری از آن است."
+          }
+        ],
+        "observedAt": "2026-11-19T16:25:33.100Z"
+      }
+    },
+    {
+      "id": "question:39179",
+      "sourceId": "39179",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 61.1111%;",
+      "contentKey": "40320aac3561fc335631e5b22af25e426991391e0dccbb1d34e2a3097c32722e",
+      "position": 12,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "کدام عامل علائم عصبی بیمار ام‌اس را بدتر می‌کند؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "کدام عامل علائم عصبی بیمار ام‌اس را بدتر می‌کند؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نوبت صبح زود، پیش از شروع خستگی روزانه‌ی بیمار"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سرما و ماندن طولانی در اتاق خنک و کم‌نور"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گرم شدن بدن، مثلاً با حمام داغ یا آفتاب"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بی‌حسی موضعی با اپی‌نفرین در حد معمول"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "0dcb7cafe9b6d28c20b262546618ba3e4c2a1fd1e277de19f2f835e326af52a0",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "نوبت صبح زود، پیش از شروع خستگی روزانه‌ی بیمار",
+          "content": [
+            {
+              "tag": "text",
+              "text": "نوبت صبح زود، پیش از شروع خستگی روزانه‌ی بیمار"
+            }
+          ]
+        },
+        {
+          "id": "e629f314c48791c2e58dae15198da4da80006e483dbd7f67f36949c47d214de9",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سرما و ماندن طولانی در اتاق خنک و کم‌نور",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سرما و ماندن طولانی در اتاق خنک و کم‌نور"
+            }
+          ]
+        },
+        {
+          "id": "d7e5aea36ef15d8822b567a5d54d1c5c3279d6cd48455c50624db2c92c180671",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "گرم شدن بدن، مثلاً با حمام داغ یا آفتاب",
+          "content": [
+            {
+              "tag": "text",
+              "text": "گرم شدن بدن، مثلاً با حمام داغ یا آفتاب"
+            }
+          ]
+        },
+        {
+          "id": "3ae73833db13f0ed71d8df1c30679f156c0e6f23855ce05a6376d8338e4db01a",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "بی‌حسی موضعی با اپی‌نفرین در حد معمول",
+          "content": [
+            {
+              "tag": "text",
+              "text": "بی‌حسی موضعی با اپی‌نفرین در حد معمول"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "d7e5aea36ef15d8822b567a5d54d1c5c3279d6cd48455c50624db2c92c180671"
+        ],
+        "explanation": "بالا رفتن دمای بدن علائم ام‌اس را موقتاً بدتر می‌کند؛ اتاق درمان را خنک نگه دار و بیمار را طولانی در گرما نگه ندار.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "بالا رفتن دمای بدن علائم ام‌اس را موقتاً بدتر می‌کند؛ اتاق درمان را خنک نگه دار و بیمار را طولانی در گرما نگه ندار."
+          }
+        ],
+        "observedAt": "2026-11-19T16:26:06.310Z"
+      }
+    },
+    {
+      "id": "question:39183",
+      "sourceId": "39183",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 63.1579%;",
+      "contentKey": "c11691a9442b45293c5f82edcfd85ca5342adcbdcad3d1937348623d902869d9",
+      "position": 13,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "در بیمار پارکینسونی که مهارکننده‌ی COMT می‌خورد، هیچ محدودیتی برای مقدار اپی‌نفرین بی‌حسی لازم نیست.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "در بیمار پارکینسونی که مهارکننده‌ی COMT می‌خورد، هیچ محدودیتی برای مقدار اپی‌نفرین بی‌حسی لازم نیست."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3"
+        ],
+        "explanation": "مهارکننده‌ی COMT ممکن است اثر اپی‌نفرین را بیشتر کند؛ برای احتیاط آن را به حدود دو کارپول ۱:۱۰۰٬۰۰۰ محدود کن.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مهارکننده‌ی COMT ممکن است اثر اپی‌نفرین را بیشتر کند؛ برای احتیاط آن را به حدود دو کارپول ۱:۱۰۰٬۰۰۰ محدود کن."
+          }
+        ],
+        "observedAt": "2026-11-19T16:25:43.533Z"
+      }
+    },
+    {
+      "id": "question:39187",
+      "sourceId": "39187",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 68.4211%;",
+      "contentKey": "5257ed165580038b82ecf6c359f097a401b751ccaeb48df72dd8522ba7aed5d7",
+      "position": 14,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مردی ۶۴ ساله پس از سکته، فلج سمت راست و اختلال گفتار دارد، گاهی تشنج می‌کند و همسرش مراقب اوست. پس از کشیدن دندان، کدام شیوه‌ی دادن دستورها کامل‌تر است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مردی ۶۴ ساله پس از سکته، فلج سمت راست و اختلال گفتار دارد، گاهی تشنج می‌کند و همسرش مراقب اوست. پس از کشیدن دندان، کدام شیوه‌ی دادن دستورها کامل‌تر است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "رو به او و بی‌ماسک، دستور کوتاه و یکی‌یکی، برگه‌ی نوشته، و آموزش همسرش"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "از پشت یونیت، توضیح کامل و یک‌باره، و فقط به خود بیمار تا استقلالش حفظ شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "فقط به همسرش، چون بیمار با اختلال گفتار چیزی از دستورها نمی‌فهمد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "با صدای بلند و تند، چون بیمار با فلج سمت راست شنوایی‌اش هم کم شده است"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "43370b72d7db3b116229a1baf178c1f4d7a79a6dc7fb3145edf0ebabebe3fe37",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "رو به او و بی‌ماسک، دستور کوتاه و یکی‌یکی، برگه‌ی نوشته، و آموزش همسرش",
+          "content": [
+            {
+              "tag": "text",
+              "text": "رو به او و بی‌ماسک، دستور کوتاه و یکی‌یکی، برگه‌ی نوشته، و آموزش همسرش"
+            }
+          ]
+        },
+        {
+          "id": "732d88dd9aa56a45758fe362409d7b3af161e307965a0d835c7ff4b009f89371",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "از پشت یونیت، توضیح کامل و یک‌باره، و فقط به خود بیمار تا استقلالش حفظ شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "از پشت یونیت، توضیح کامل و یک‌باره، و فقط به خود بیمار تا استقلالش حفظ شود"
+            }
+          ]
+        },
+        {
+          "id": "fa9abe7d4affaff2f7a7a1c401316b47f32ab141a8ba0a985db28a2e8fb541e7",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "فقط به همسرش، چون بیمار با اختلال گفتار چیزی از دستورها نمی‌فهمد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "فقط به همسرش، چون بیمار با اختلال گفتار چیزی از دستورها نمی‌فهمد"
+            }
+          ]
+        },
+        {
+          "id": "caec733e58c42d765a8e36c7dc0be1bf3348ec995c0ac8b2b9ee32a8c24a441d",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "با صدای بلند و تند، چون بیمار با فلج سمت راست شنوایی‌اش هم کم شده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "با صدای بلند و تند، چون بیمار با فلج سمت راست شنوایی‌اش هم کم شده است"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "43370b72d7db3b116229a1baf178c1f4d7a79a6dc7fb3145edf0ebabebe3fe37"
+        ],
+        "explanation": "آسیب نیمکره‌ی چپ گفتار و حافظه‌ی شنیداری را مختل می‌کند؛ رو به بیمار، بی‌ماسک، دستور کوتاه و نوشته، و آموزش مراقب هر چهار لازم‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "آسیب نیمکره‌ی چپ گفتار و حافظه‌ی شنیداری را مختل می‌کند؛ رو به بیمار، بی‌ماسک، دستور کوتاه و نوشته، و آموزش مراقب هر چهار لازم‌اند."
+          }
+        ],
+        "observedAt": "2026-11-19T16:25:49.057Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:352762e5e6a37404a30180876901ada8ba75e89663b198f58ac9f09ed43a96ce",
+      "at": "2026-11-19T16:24:40.523Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "question:39150",
+      "at": "2026-11-19T16:24:42.136Z",
+      "progress": "width: 7.14286%;"
+    },
+    {
+      "stepId": "question:39153",
+      "at": "2026-11-19T16:24:48.664Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:39156",
+      "at": "2026-11-19T16:24:53.370Z",
+      "progress": "width: 21.4286%;"
+    },
+    {
+      "stepId": "question:39160",
+      "at": "2026-11-19T16:24:58.596Z",
+      "progress": "width: 26.6667%;"
+    },
+    {
+      "stepId": "question:39161",
+      "at": "2026-11-19T16:25:04.084Z",
+      "progress": "width: 31.25%;"
+    },
+    {
+      "stepId": "question:39166",
+      "at": "2026-11-19T16:25:09.248Z",
+      "progress": "width: 35.2941%;"
+    },
+    {
+      "stepId": "question:39167",
+      "at": "2026-11-19T16:25:14.566Z",
+      "progress": "width: 38.8889%;"
+    },
+    {
+      "stepId": "question:39171",
+      "at": "2026-11-19T16:25:19.744Z",
+      "progress": "width: 44.4444%;"
+    },
+    {
+      "stepId": "question:39173",
+      "at": "2026-11-19T16:25:24.708Z",
+      "progress": "width: 50%;"
+    },
+    {
+      "stepId": "question:39177",
+      "at": "2026-11-19T16:25:29.995Z",
+      "progress": "width: 55.5556%;"
+    },
+    {
+      "stepId": "question:39179",
+      "at": "2026-11-19T16:25:34.712Z",
+      "progress": "width: 61.1111%;"
+    },
+    {
+      "stepId": "question:39183",
+      "at": "2026-11-19T16:25:39.981Z",
+      "progress": "width: 63.1579%;"
+    },
+    {
+      "stepId": "question:39187",
+      "at": "2026-11-19T16:25:45.153Z",
+      "progress": "width: 68.4211%;"
+    },
+    {
+      "stepId": "question:39156",
+      "at": "2026-11-19T16:25:50.647Z",
+      "progress": "width: 73.6842%;"
+    },
+    {
+      "stepId": "question:39160",
+      "at": "2026-11-19T16:25:53.955Z",
+      "progress": "width: 78.9474%;"
+    },
+    {
+      "stepId": "question:39161",
+      "at": "2026-11-19T16:25:57.325Z",
+      "progress": "width: 84.2105%;"
+    },
+    {
+      "stepId": "question:39166",
+      "at": "2026-11-19T16:26:00.873Z",
+      "progress": "width: 89.4737%;"
+    },
+    {
+      "stepId": "question:39179",
+      "at": "2026-11-19T16:26:04.407Z",
+      "progress": "width: 94.7368%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}

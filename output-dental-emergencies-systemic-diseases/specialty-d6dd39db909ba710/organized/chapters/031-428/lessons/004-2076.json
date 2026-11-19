@@ -1,0 +1,1375 @@
+{
+  "schemaVersion": 1,
+  "assetPathsRelativeTo": "specialty-root",
+  "sourceDataPath": "lessons/2076/lesson.json",
+  "id": "2076",
+  "title": "درس چهارم: تداخل‌های دارویی مهم",
+  "specialtyKey": "d6dd39db909ba710",
+  "chapter": {
+    "id": "428",
+    "title": "ارزیابی بیمار و مشاوره‌ی پزشکی",
+    "position": 31
+  },
+  "position": 4,
+  "importReady": true,
+  "countsComparedWithConfiguredExpectation": false,
+  "sourceSessionFinished": true,
+  "entireSourceQuestionBankProven": false,
+  "order": "first-encounter-with-remediation-visits-preserved",
+  "steps": [
+    {
+      "id": "theory:fd6c82dcb94f3d29e62d4d186cb5e6a00bea57a8719147fe944e4da7b2c145f4",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 0%;",
+      "contentKey": "6ce011c1fbe457a2ce4e7e5f0def99bd3b7dbc7385ab2cfaa3aa69eda4d621b3",
+      "position": 1,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "ماکرولیدها، آزول‌ها و CYP3A4"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "warning"
+              },
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "آقای ۶۶ ساله‌ای با آبسه‌ی دندانی آمده. سیمواستاتین، آملودیپین و وارفارین می‌خورد و به پنی‌سیلین آلرژی دارد. همکارت می‌خواهد کلاریترومایسین بنویسد. نگرانی‌ات چیست؟"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "بیشتر تداخل‌های مهم از آنزیم‌های کبدی سیتوکروم P450 می‌آیند، به‌ویژه "
+                },
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "CYP3A4"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "مهارکننده‌ها:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " اریترومایسین و کلاریترومایسین، ضدقارچ‌های آزولی (کتوکونازول، فلوکونازول، ایتراکونازول)، دیلتیازم، وراپامیل، ریتوناویر و آب گریپ‌فروت. داروی دیگر دیرتر تجزیه می‌شود و سطحش بالا می‌رود."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "text",
+                          "text": "القاکننده‌ها:"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "text",
+                      "text": " کاربامازپین، فنی‌توئین، فنوباربیتال و ریفامپین. داروی دیگر تندتر تجزیه می‌شود و اثرش کم می‌شود."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "ماکرولید یا آزول کنار این داروها"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استاتین‌ها: درد عضلانی، رابدومیولیز و نارسایی حاد کلیه"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مسدودکننده‌ی کانال کلسیم: افت فشار شدید"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "بنزودیازپین‌ها، به‌ویژه تریازولام و میدازولام خوراکی: آرام‌بخشی بیش از حد"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کاربامازپین، تئوفیلین و دیگوکسین: رسیدن به سطح سمی"
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "وارفارین: بالا رفتن INR"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "نکته‌ی طلایی:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " دارویی را که با همان آنزیم CYP تجزیه می‌شود کنار داروی دیگرِ همان آنزیم ننویس. در بیمار این کیس، آزیترومایسین تداخل افت فشار با آملودیپین را ندارد."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "theory:c224ea1196c7e62e0ab2d2b30884323908c86fb20980da3847723b2c16bd2c48",
+      "sourceId": null,
+      "identityOrigin": "local-step",
+      "sourceProgress": "width: 14.2857%;",
+      "contentKey": "ec86a94e34586b24fb915bd4d2f34867c78b321d45ba5134ecf0748c83addf7e",
+      "position": 2,
+      "kind": "theory",
+      "type": "unknown",
+      "prompt": "",
+      "sourceContent": [
+        {
+          "tag": "h1",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مسکن‌ها، آنتی‌بیوتیک‌های دیگر و داروهای گیاهی"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مسکن‌ها"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "NSAID با لیتیوم: مسمومیت با لیتیوم (تهوع، استفراغ، لکنت زبان، گیجی)؛ NSAID ننویس."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "NSAID با وارفارین یا ضدپلاکت: خون‌ریزی؛ با SSRI یا الکل: زخم و خون‌ریزی گوارشی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "NSAID با داروی فشار: اثر ضدفشار کم می‌شود؛ مصرف چندروزه مشکلی ندارد."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استامینوفن با الکل: آسیب کبد، به‌ویژه با ناشتایی یا ۴ گرم در روز و بیشتر. در بیمار وارفارینی، بیش از ۲ گرم در روز برای بیش از یک هفته INR را بالا می‌برد."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "مترونیدازول و تتراسایکلین"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مترونیدازول با الکل: واکنش شبه‌دی‌سولفیرام؛ تهوع، استفراغ و گرگرفتگی."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مترونیدازول و تتراسایکلین سطح لیتیوم را بالا می‌برند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "تتراسایکلین با آنتی‌اسید، لبنیات یا آهن کمتر جذب می‌شود؛ داکسی‌سایکلین کمتر از بقیه."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "h3",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "text",
+                  "text": "داروهای گیاهی"
+                }
+              ]
+            },
+            {
+              "tag": "ul",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "جینکو، سیر، جینسنگ و گلوکزامین اثر ضدانعقاد و ضدپلاکت را زیاد می‌کنند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "گل راعی (St. John’s wort) آنزیم CYP3A4 را القا می‌کند و اثر سیکلوسپورین و داروهای HIV را کم می‌کند."
+                    }
+                  ]
+                },
+                {
+                  "tag": "li",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "افدرا: فشار خون بالا، آریتمی و سکته، کاوا: هپاتیت، سنبل‌الطیب: اثر آرام‌بخش‌ها را زیاد می‌کند."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "tone": "note"
+              },
+              "children": [
+                {
+                  "tag": "strong",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اشتباه رایج:"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": " «گیاهی است، پس بی‌خطر است». به بیماری که مکمل گیاهی می‌خورد NSAID را با احتیاط بده؛ خطر خون‌ریزی بیشتر می‌شود."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": "question:39343",
+      "sourceId": "39343",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 28.5714%;",
+      "contentKey": "472a8cea7f9a30eaae5861ebcbc51fc9ed86b35cdbb9c16dae9fc725be6b814b",
+      "position": 3,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار صرعی که کاربامازپین می‌خورد، سه روز پس از شروع اریترومایسین با خواب‌آلودگی، سرگیجه، تهوع و تاری دید برگشته است. محتمل‌ترین توضیح کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار صرعی که کاربامازپین می‌خورد، سه روز پس از شروع اریترومایسین با خواب‌آلودگی، سرگیجه، تهوع و تاری دید برگشته است. محتمل‌ترین توضیح کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اریترومایسین تجزیه‌ی کاربامازپین را کند کرده و سطحش سمی شده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "اریترومایسین سطح کاربامازپین را پایین آورده و تشنج خفیف شروع شده است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "عفونت دندانی به مغز رسیده و این علائم نشانه‌ی آبسه‌ی مغزی است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این علائم عارضه‌ی شایع خود اریترومایسین است و به کاربامازپین ربطی ندارد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "c05857199a4b9bd025a764b82c18ac89750a2727ab2c78ba38f33a77465c70b2",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "اریترومایسین تجزیه‌ی کاربامازپین را کند کرده و سطحش سمی شده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اریترومایسین تجزیه‌ی کاربامازپین را کند کرده و سطحش سمی شده است"
+            }
+          ]
+        },
+        {
+          "id": "ca95e1b8a3332dcbd16b9ef947b0f2d23f1b3169f62dafaf94c7496854548430",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "اریترومایسین سطح کاربامازپین را پایین آورده و تشنج خفیف شروع شده است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "اریترومایسین سطح کاربامازپین را پایین آورده و تشنج خفیف شروع شده است"
+            }
+          ]
+        },
+        {
+          "id": "208cfc2171beb2f4aa557d61d3368ae45775db5bb47d78d8eed4860dcba138db",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "عفونت دندانی به مغز رسیده و این علائم نشانه‌ی آبسه‌ی مغزی است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "عفونت دندانی به مغز رسیده و این علائم نشانه‌ی آبسه‌ی مغزی است"
+            }
+          ]
+        },
+        {
+          "id": "e223ac83c60d1930411307b36e46375553ff0b347f5055f9b33ec87f90ea3a59",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "این علائم عارضه‌ی شایع خود اریترومایسین است و به کاربامازپین ربطی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این علائم عارضه‌ی شایع خود اریترومایسین است و به کاربامازپین ربطی ندارد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "c05857199a4b9bd025a764b82c18ac89750a2727ab2c78ba38f33a77465c70b2"
+        ],
+        "explanation": "اریترومایسین CYP3A4 را مهار می‌کند؛ کاربامازپین دیرتر تجزیه می‌شود و به سطح سمی می‌رسد. خواب‌آلودگی، سرگیجه، تهوع و تاری دید نشانه‌های همین مسمومیت‌اند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "اریترومایسین CYP3A4 را مهار می‌کند؛ کاربامازپین دیرتر تجزیه می‌شود و به سطح سمی می‌رسد. خواب‌آلودگی، سرگیجه، تهوع و تاری دید نشانه‌های همین مسمومیت‌اند."
+          }
+        ],
+        "observedAt": "2026-11-19T16:33:12.563Z"
+      }
+    },
+    {
+      "id": "question:39346",
+      "sourceId": "39346",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 42.8571%;",
+      "contentKey": "56b225dd819afaaa38951bd30b53e678f75f81e7d63a36fa2cf54eeae67870ad",
+      "position": 4,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیماری که سیمواستاتین می‌خورد، پنج روز پس از شروع کلاریترومایسین با درد و ضعف شدید عضلات هر دو ران تماس گرفته است. کدام برداشت درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیماری که سیمواستاتین می‌خورد، پنج روز پس از شروع کلاریترومایسین با درد و ضعف شدید عضلات هر دو ران تماس گرفته است. کدام برداشت درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "این درد از بی‌تحرکی پس از کشیدن است و با استراحت خوب می‌شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سطح استاتین بالا رفته و خطر رابدومیولیز هست؛ فوری به پزشک ارجاع بده"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "کلاریترومایسین سطح استاتین را کم کرده و چربی خون ناگهان بالا رفته است"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "آلرژی به کلاریترومایسین است و فقط باید آنتی‌هیستامین بخورد"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "cf2e0caeb176254cc4761ecbe56b5e56a7bf5f0f84bd6cef6d728b68ec5f50fd",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "این درد از بی‌تحرکی پس از کشیدن است و با استراحت خوب می‌شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "این درد از بی‌تحرکی پس از کشیدن است و با استراحت خوب می‌شود"
+            }
+          ]
+        },
+        {
+          "id": "823330b31c6595bdf2bbaea57b0a600b50540dd6731f4e891e54b3d3da008c02",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "سطح استاتین بالا رفته و خطر رابدومیولیز هست؛ فوری به پزشک ارجاع بده",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سطح استاتین بالا رفته و خطر رابدومیولیز هست؛ فوری به پزشک ارجاع بده"
+            }
+          ]
+        },
+        {
+          "id": "69923c9b4a0e18b7451ab00c33ff310b07809e814ffd65d97b7ca8bae4618956",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "کلاریترومایسین سطح استاتین را کم کرده و چربی خون ناگهان بالا رفته است",
+          "content": [
+            {
+              "tag": "text",
+              "text": "کلاریترومایسین سطح استاتین را کم کرده و چربی خون ناگهان بالا رفته است"
+            }
+          ]
+        },
+        {
+          "id": "0c17ebf888eb632a1b0c81dc69ce27f29f841125ec9970e22e62f8aad84b5eb7",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "آلرژی به کلاریترومایسین است و فقط باید آنتی‌هیستامین بخورد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "آلرژی به کلاریترومایسین است و فقط باید آنتی‌هیستامین بخورد"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "823330b31c6595bdf2bbaea57b0a600b50540dd6731f4e891e54b3d3da008c02"
+        ],
+        "explanation": "کلاریترومایسین CYP3A4 را مهار می‌کند و سطح سیمواستاتین را بالا می‌برد. درد و ضعف شدید عضلانی می‌تواند آغاز رابدومیولیز و نارسایی حاد کلیه باشد.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "کلاریترومایسین CYP3A4 را مهار می‌کند و سطح سیمواستاتین را بالا می‌برد. درد و ضعف شدید عضلانی می‌تواند آغاز رابدومیولیز و نارسایی حاد کلیه باشد."
+          }
+        ],
+        "observedAt": "2026-11-19T16:33:17.820Z"
+      }
+    },
+    {
+      "id": "question:39348",
+      "sourceId": "39348",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 57.1429%;",
+      "contentKey": "1e82ead1f3cccf808cc0bcf28992dd04df5fbf4f011ccd8ee82c732127d29c40",
+      "position": 5,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "مصرف چندروزه‌ی NSAID پس از کشیدن دندان در بیمار فشار خونی معمولاً مشکلی نمی‌سازد، ولی مصرف طولانی اثر داروی فشار را کم می‌کند.",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "مصرف چندروزه‌ی NSAID پس از کشیدن دندان در بیمار فشار خونی معمولاً مشکلی نمی‌سازد، ولی مصرف طولانی اثر داروی فشار را کم می‌کند."
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "صحیح"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "غلط"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a",
+          "sourceKey": "true",
+          "position": 1,
+          "text": "صحیح",
+          "content": [
+            {
+              "tag": "text",
+              "text": "صحیح"
+            }
+          ]
+        },
+        {
+          "id": "1daadb599f1c182f30f28db782535ef99dbd1068c33ee21b4a2e7eddb645fec3",
+          "sourceKey": "false",
+          "position": 2,
+          "text": "غلط",
+          "content": [
+            {
+              "tag": "text",
+              "text": "غلط"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "affe59d2e38b2ac86486fe5ad75271ae52dc06e0c8580e17b1f432780dca273a"
+        ],
+        "explanation": "NSAID اثر داروهای ضدفشار را کم می‌کند، ولی این اثر در مصرف کوتاه چندروزه ناچیز است. مصرف طولانی را کنار بگذار.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "NSAID اثر داروهای ضدفشار را کم می‌کند، ولی این اثر در مصرف کوتاه چندروزه ناچیز است. مصرف طولانی را کنار بگذار."
+          }
+        ],
+        "observedAt": "2026-11-19T16:33:22.754Z"
+      }
+    },
+    {
+      "id": "question:39352",
+      "sourceId": "39352",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 71.4286%;",
+      "contentKey": "5c985cb4186f9b1f93cf176840b6ecaf55745f08e71460af0fea43bcf6b364ae",
+      "position": 6,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "بیمار دوقطبی که لیتیوم می‌خورد، پریکورونیت دارد و دستیار پیشنهاد کرده مترونیدازول بنویسی. پاسخ درست کدام است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "بیمار دوقطبی که لیتیوم می‌خورد، پریکورونیت دارد و دستیار پیشنهاد کرده مترونیدازول بنویسی. پاسخ درست کدام است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مترونیدازول را همراه تتراسایکلین بنویس تا اثر لیتیوم خنثی شود"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "مترونیدازول بهترین انتخاب است، چون با لیتیوم هیچ تداخلی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "سطح لیتیوم را بالا می‌برد؛ آنتی‌بیوتیک دیگری انتخاب کن"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "لیتیوم را خودت سه روز قطع کن تا دوره‌ی آنتی‌بیوتیک تمام شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "5d62e68b9335605c8f779b55070fc3d5b58da0f9910259d6b388bd6cb8abd941",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "مترونیدازول را همراه تتراسایکلین بنویس تا اثر لیتیوم خنثی شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مترونیدازول را همراه تتراسایکلین بنویس تا اثر لیتیوم خنثی شود"
+            }
+          ]
+        },
+        {
+          "id": "da495f58f86f8efb44ac301737b4404a888cc4cc740443b999d6428c78477ae6",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "مترونیدازول بهترین انتخاب است، چون با لیتیوم هیچ تداخلی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "مترونیدازول بهترین انتخاب است، چون با لیتیوم هیچ تداخلی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "da4a22168b82881118466c6926ea1f27437acfdfaf0d3dd5d5142dab47b4a033",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "سطح لیتیوم را بالا می‌برد؛ آنتی‌بیوتیک دیگری انتخاب کن",
+          "content": [
+            {
+              "tag": "text",
+              "text": "سطح لیتیوم را بالا می‌برد؛ آنتی‌بیوتیک دیگری انتخاب کن"
+            }
+          ]
+        },
+        {
+          "id": "2d3ca715e63af2f0232f924708eb03716ddb48cef76139b41618b13396bb90d0",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "لیتیوم را خودت سه روز قطع کن تا دوره‌ی آنتی‌بیوتیک تمام شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "لیتیوم را خودت سه روز قطع کن تا دوره‌ی آنتی‌بیوتیک تمام شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "da4a22168b82881118466c6926ea1f27437acfdfaf0d3dd5d5142dab47b4a033"
+        ],
+        "explanation": "مترونیدازول و تتراسایکلین دفع کلیوی لیتیوم را کم می‌کنند و ممکن است مسمومیت بدهند. آنتی‌بیوتیک دیگری انتخاب کن.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "مترونیدازول و تتراسایکلین دفع کلیوی لیتیوم را کم می‌کنند و ممکن است مسمومیت بدهند. آنتی‌بیوتیک دیگری انتخاب کن."
+          }
+        ],
+        "observedAt": "2026-11-19T16:33:37.319Z"
+      }
+    },
+    {
+      "id": "question:39353",
+      "sourceId": "39353",
+      "identityOrigin": "source-question-id",
+      "sourceProgress": "width: 75%;",
+      "contentKey": "78ad4d3c5643f02086b2f70e5dcdd684d7f1823a1c604ba1dd3409a8494ba23e",
+      "position": 7,
+      "kind": "question",
+      "type": "single-choice",
+      "prompt": "خانم ۷۰ ساله‌ای وارفارین می‌خورد، هر روز جینکو برای حافظه مصرف می‌کند و پس از کشیدن یک دندان درد دارد. کدام برنامه درست است؟",
+      "sourceContent": [
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "text",
+              "text": "خانم ۷۰ ساله‌ای وارفارین می‌خورد، هر روز جینکو برای حافظه مصرف می‌کند و پس از کشیدن یک دندان درد دارد. کدام برنامه درست است؟"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۱"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "ایبوپروفن ۴۰۰ هر ۶ ساعت، چون جینکو گیاهی است و روی خون‌ریزی یا اثر وارفارین تأثیری ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۲"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استامینوفن محدود و کوتاه‌مدت، هموستاز موضعی دقیق، و توجه به اینکه جینکو اثر وارفارین را زیاد می‌کند"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۳"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "استامینوفن ۴ گرم در روز برای دو هفته، چون استامینوفن برخلاف NSAIDها در هیچ دوزی با وارفارین تداخلی ندارد"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "۰۴"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "text",
+                      "text": "قطع وارفارین به مدت سه روز به تصمیم خودت، تا خون‌ریزی جای کشیدن کاملاً کنترل شود"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "c993431dbfd9df74416a6bb3dd318ba021c3776723734d53d2ff012ffbab77b2",
+          "sourceKey": "0",
+          "position": 1,
+          "text": "ایبوپروفن ۴۰۰ هر ۶ ساعت، چون جینکو گیاهی است و روی خون‌ریزی یا اثر وارفارین تأثیری ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "ایبوپروفن ۴۰۰ هر ۶ ساعت، چون جینکو گیاهی است و روی خون‌ریزی یا اثر وارفارین تأثیری ندارد"
+            }
+          ]
+        },
+        {
+          "id": "932a31d9ebe8d1c8b76d5479a2f86f6038c33d39a9c1df18818ca356ac99fc6d",
+          "sourceKey": "1",
+          "position": 2,
+          "text": "استامینوفن محدود و کوتاه‌مدت، هموستاز موضعی دقیق، و توجه به اینکه جینکو اثر وارفارین را زیاد می‌کند",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استامینوفن محدود و کوتاه‌مدت، هموستاز موضعی دقیق، و توجه به اینکه جینکو اثر وارفارین را زیاد می‌کند"
+            }
+          ]
+        },
+        {
+          "id": "1679222e390f7291ca006b98d6c7349cf9ae71b0bd7f048633fc99d34d6ac4a4",
+          "sourceKey": "2",
+          "position": 3,
+          "text": "استامینوفن ۴ گرم در روز برای دو هفته، چون استامینوفن برخلاف NSAIDها در هیچ دوزی با وارفارین تداخلی ندارد",
+          "content": [
+            {
+              "tag": "text",
+              "text": "استامینوفن ۴ گرم در روز برای دو هفته، چون استامینوفن برخلاف NSAIDها در هیچ دوزی با وارفارین تداخلی ندارد"
+            }
+          ]
+        },
+        {
+          "id": "d250c2b165b53ab6ef9fedc46466ed550c6de73bb132ebf7825709f6362d0057",
+          "sourceKey": "3",
+          "position": 4,
+          "text": "قطع وارفارین به مدت سه روز به تصمیم خودت، تا خون‌ریزی جای کشیدن کاملاً کنترل شود",
+          "content": [
+            {
+              "tag": "text",
+              "text": "قطع وارفارین به مدت سه روز به تصمیم خودت، تا خون‌ریزی جای کشیدن کاملاً کنترل شود"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "verification": "observed-single-key",
+        "correctOptionIds": [
+          "932a31d9ebe8d1c8b76d5479a2f86f6038c33d39a9c1df18818ca356ac99fc6d"
+        ],
+        "explanation": "سه نکته کنار هم است: استامینوفن محدود جای NSAID، هموستاز موضعی، و دانستن اینکه جینکو اثر ضدانعقاد را زیاد می‌کند.",
+        "content": [
+          {
+            "tag": "text",
+            "text": "سه نکته کنار هم است: استامینوفن محدود جای NSAID، هموستاز موضعی، و دانستن اینکه جینکو اثر ضدانعقاد را زیاد می‌کند."
+          }
+        ],
+        "observedAt": "2026-11-19T16:33:33.970Z"
+      }
+    }
+  ],
+  "visits": [
+    {
+      "stepId": "theory:fd6c82dcb94f3d29e62d4d186cb5e6a00bea57a8719147fe944e4da7b2c145f4",
+      "at": "2026-11-19T16:33:02.074Z",
+      "progress": "width: 0%;"
+    },
+    {
+      "stepId": "theory:c224ea1196c7e62e0ab2d2b30884323908c86fb20980da3847723b2c16bd2c48",
+      "at": "2026-11-19T16:33:03.691Z",
+      "progress": "width: 14.2857%;"
+    },
+    {
+      "stepId": "question:39343",
+      "at": "2026-11-19T16:33:05.302Z",
+      "progress": "width: 28.5714%;"
+    },
+    {
+      "stepId": "question:39346",
+      "at": "2026-11-19T16:33:14.182Z",
+      "progress": "width: 42.8571%;"
+    },
+    {
+      "stepId": "question:39348",
+      "at": "2026-11-19T16:33:19.413Z",
+      "progress": "width: 57.1429%;"
+    },
+    {
+      "stepId": "question:39352",
+      "at": "2026-11-19T16:33:24.383Z",
+      "progress": "width: 71.4286%;"
+    },
+    {
+      "stepId": "question:39353",
+      "at": "2026-11-19T16:33:29.782Z",
+      "progress": "width: 75%;"
+    },
+    {
+      "stepId": "question:39352",
+      "at": "2026-11-19T16:33:35.566Z",
+      "progress": "width: 87.5%;"
+    }
+  ],
+  "extraVerifiedQuestions": []
+}
